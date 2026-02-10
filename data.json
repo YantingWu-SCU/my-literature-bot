@@ -1,0 +1,24 @@
+[
+  {
+    "id": "10.1002/mabi.202500581",
+    "title": "Development of Emodin Nanocrystal-Loaded Hydrogel Patch for Rapid Wound Repair.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Yenurkar, Shrivastava, Mandal",
+    "abstract": "Wound healing is a complex and dynamic biological process involving multiple phases, including inflammation, proliferation, and tissue remodeling. Despite significant advances in therapeutic approaches, conventional wound healing treatments often suffer from limitations such as poor bioavailability of drugs, inadequate moisture retention, uncontrolled release profiles, and delayed tissue regeneration. To overcome these challenges, drug-loaded nanocrystals were incorporated into an alginate-based hydrogel matrix to develop a biocompatible and sustained-release wound dressing. Emodin, a natural anthraquinone compound with potent anti-inflammatory, antioxidant, and antimicrobial properties, was used as the therapeutic agent. The combination of emodin nanocrystals with the alginate hydrogel resulted in a synergistic effect, providing enhanced drug stability, controlled release, and accelerated tissue regeneration. The developed NCs-hydrogel composite demonstrates significant potential as an advanced wound dressing material, offering an effective and biocompatible platform for promoting rapid wound healing.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41655269/",
+    "date": "2026-02-10",
+    "analysis": "{\n    \"chinese_summary\": \"伤口愈合是一个涉及炎症、增殖和组织重塑的多阶段复杂过程。传统疗法存在药物生物利用度低、保湿不足、释放不可控和组织再生延迟等局限。本研究将负载药物的纳米晶体嵌入海藻酸盐水凝胶基质，开发了一种生物相容性缓释伤口敷料。以具有抗炎、抗氧化和抗菌特性的天然蒽醌化合物大黄素为治疗剂，其纳米晶体与水凝胶结合产生协同效应，增强了药物稳定性、实现了可控释放并加速了组织再生。该纳米晶体-水凝胶复合材料展现出作为先进伤口敷料的潜力。\",\n    \"innovation\": \"将大黄素纳米晶体与海藻酸盐水凝胶结合，开发出具有协同效应、能增强药物稳定性、实现可控释放并加速组织再生的新型伤口敷料。\",\n    \"flaw\": \"研究未涉及该复合材料在临床实际应用中的长期安全性评估和大规模生产可行性验证。\"\n}"
+  },
+  {
+    "id": "10.1007/s10856-025-06931-1",
+    "title": "Exosome-loaded hydrogel systems for spinal cord injury repair: mechanisms, advancements, and future directions.",
+    "journal": "Journal of materials science. Materials in medicine",
+    "authors": "Wu, Zhu, Meng",
+    "abstract": "Despite ongoing research efforts, spinal cord injury (SCI) remains one of the most disabling neurological disorders where current therapies provide limited solutions that mostly address symptoms rather than true regeneration. The latest research indicates that exosome-loaded hydrogel systems could function as a dual-purpose treatment for spinal cord injury in regenerative medicine. Exosomes are tiny membrane-enclosed extracellular vesicles that carry multiple therapeutic biomolecules which help control inflammation while delivering neuroprotective and tissue regenerative properties. The structural support and controlled release capabilities of hydrogels allow them to encapsulate exosomes which leads to their stable and bioactive delivery to the injury site. This study evaluates recent progress in exosome-loaded hydrogel technology for spinal cord injury repair by examining SCI mechanisms and the advantages of combining exosomes with hydrogels to develop optimized delivery systems. Our discussion will cover both the challenges of standardizing exosome production and hydrogel formulation as well as the scalability of these systems for in vivo applications. The following review will provide a summary of this novel SCI treatment approach and set out research directions to develop a therapy that is efficient, scalable, and translatable to humans.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41636885/",
+    "date": "2026-02-10",
+    "analysis": "{\n    \"chinese_summary\": \"脊髓损伤（SCI）是一种致残性神经系统疾病，现有疗法主要缓解症状而非真正再生。最新研究表明，负载外泌体的水凝胶系统可作为双重用途的治疗方法。外泌体是携带多种治疗性生物分子的细胞外囊泡，具有抗炎、神经保护和促进组织再生的特性。水凝胶提供结构支撑和控释能力，能稳定递送外泌体至损伤部位。本文综述了该技术的最新进展、优势、挑战（如标准化和规模化生产）及未来研究方向。\",\n    \"innovation\": \"提出将外泌体与水凝胶结合，形成兼具生物活性递送和结构支撑的双功能系统，为脊髓损伤修复提供新策略。\",\n    \"flaw\": \"外泌体生产和水凝胶配方的标准化尚未解决，且系统规模化应用于体内仍面临挑战。\"\n}"
+  }
+]

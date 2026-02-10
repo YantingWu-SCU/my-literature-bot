@@ -1,0 +1,24 @@
+[
+  {
+    "id": "10.1002/mabi.202500581",
+    "title": "Development of Emodin Nanocrystal-Loaded Hydrogel Patch for Rapid Wound Repair.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Yenurkar, Shrivastava, Mandal",
+    "abstract": "Wound healing is a complex and dynamic biological process involving multiple phases, including inflammation, proliferation, and tissue remodeling. Despite significant advances in therapeutic approaches, conventional wound healing treatments often suffer from limitations such as poor bioavailability of drugs, inadequate moisture retention, uncontrolled release profiles, and delayed tissue regeneration. To overcome these challenges, drug-loaded nanocrystals were incorporated into an alginate-based hydrogel matrix to develop a biocompatible and sustained-release wound dressing. Emodin, a natural anthraquinone compound with potent anti-inflammatory, antioxidant, and antimicrobial properties, was used as the therapeutic agent. The combination of emodin nanocrystals with the alginate hydrogel resulted in a synergistic effect, providing enhanced drug stability, controlled release, and accelerated tissue regeneration. The developed NCs-hydrogel composite demonstrates significant potential as an advanced wound dressing material, offering an effective and biocompatible platform for promoting rapid wound healing.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41655269/",
+    "date": "2026-02-10",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 402 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1007/s10856-025-06931-1",
+    "title": "Exosome-loaded hydrogel systems for spinal cord injury repair: mechanisms, advancements, and future directions.",
+    "journal": "Journal of materials science. Materials in medicine",
+    "authors": "Wu, Zhu, Meng",
+    "abstract": "Despite ongoing research efforts, spinal cord injury (SCI) remains one of the most disabling neurological disorders where current therapies provide limited solutions that mostly address symptoms rather than true regeneration. The latest research indicates that exosome-loaded hydrogel systems could function as a dual-purpose treatment for spinal cord injury in regenerative medicine. Exosomes are tiny membrane-enclosed extracellular vesicles that carry multiple therapeutic biomolecules which help control inflammation while delivering neuroprotective and tissue regenerative properties. The structural support and controlled release capabilities of hydrogels allow them to encapsulate exosomes which leads to their stable and bioactive delivery to the injury site. This study evaluates recent progress in exosome-loaded hydrogel technology for spinal cord injury repair by examining SCI mechanisms and the advantages of combining exosomes with hydrogels to develop optimized delivery systems. Our discussion will cover both the challenges of standardizing exosome production and hydrogel formulation as well as the scalability of these systems for in vivo applications. The following review will provide a summary of this novel SCI treatment approach and set out research directions to develop a therapy that is efficient, scalable, and translatable to humans.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41636885/",
+    "date": "2026-02-10",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 402 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  }
+]

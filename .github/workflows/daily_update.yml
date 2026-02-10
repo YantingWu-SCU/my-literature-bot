@@ -1,0 +1,41 @@
+name: Update Literature
+
+on:
+  schedule:
+    # 北京时间每天早上 8 点运行 (UTC时间 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你手动点击按钮运行
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install libraries
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run script
+      env:
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        USER_EMAIL: ${{ secrets.USER_EMAIL }}
+      run: python run_daily.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add data.json
+        git commit -m "Auto update data" || echo "No changes to commit"
+        git push

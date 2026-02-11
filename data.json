@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/mabi.202500493",
+    "title": "Self-Assembled Peptide Hydrogels with Cell Attachment Motifs for 3D Lung Cancer Model: Evaluation of Cell-Matrix Interactions and Drug Response.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Sırma Tarım, Tamburacı, Top",
+    "abstract": "3D cancer models can mimic the tumor microenvironment, serving as a physiologically relevant platform to investigate the behavior of tumors and test anticancer therapeutics. Although bioactive peptide hydrogels have been widely evaluated for tissue engineering applications, their potential in 3D cancer models has been confirmed in only a few studies. In this study, self-assembling peptide hydrogels containing LDV (IBP1) and LDV and IKVAV cell attachment motifs (IBP2), and the control hydrogel without adhesion units (KLEI) were used for lung cancer modeling. The peptides self-assembled into hydrogels in a cell culture medium with storage moduli of ∼700-1500 Pa. The IBP1 and IBP2 hydrogels enhanced A549 cell proliferation and induced the formation of spheroids with average diameters between ∼70 and ∼150 µm. The cells in KLEI hydrogel with the highest stiffness exhibited mesenchymal-type migration, independent of the cell population, whereas transformation to mesenchymal migration necessitated a specific cell population in the IBP2 hydrogel. The cells in the IBP1 and IBP2 hydrogels with enhanced cell-cell interactions demonstrated higher resistance to docetaxel (DTX). Thus, our results indicate that these bioactive hydrogels can serve as a promising platform for in vitro assessment of cancer mechanisms and drug screening.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41663903/",
+    "date": "2026-02-11",
+    "analysis": "{\n    \"chinese_summary\": \"本研究利用含有LDV（IBP1）及LDV与IKVAV细胞黏附基序（IBP2）的自组装肽水凝胶构建肺癌三维模型，发现IBP1和IBP2水凝胶能促进A549细胞增殖并形成70-150微米球体，增强细胞间相互作用的细胞对多西他赛耐药性更高，表明该生物活性水凝胶可作为评估癌症机制和药物筛选的潜力平台。\",\n    \"innovation\": \"首次系统验证含特定细胞黏附基序的自组装肽水凝胶在肺癌三维模型中调控细胞行为（如增殖、迁移模式、药物耐药性）的能力。\",\n    \"flaw\": \"研究仅针对A549肺癌细胞系，未验证其他癌症类型或原代细胞，且水凝胶力学性能范围（700-1500 Pa）的生物学影响需进一步探索。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.202500541",
+    "title": "Experimental and Finite Element Analysis of a Residual Hair Keratin-based Hydrogel with Calcium for Atorvastatin Sequestration, Release, and In Vitro Activity.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Carroll, Tarabokija, Chaudhry",
+    "abstract": "Excessive fibrosis impairs tissue regeneration by promoting extracellular matrix deposition and fibroblast activation. This study introduces keratin-based hydrogels (KRT) derived from residual human hair as sustainable carriers for localized atorvastatin (Ator) delivery. Calcium incorporation (CKRT) enhanced electrostatic interactions with Ator, improving sequestration and modulating release kinetics. Comprehensive characterization of KRT included chemical composition (FTIR, DSC), charge properties (pI = 5.5; net negative charge = -15.43 µmol/g), porosity (89%), and rheology (shear-thinning, linear viscoelastic region up to 24.5% strain, thermal stability to 68°C). Ator release followed Korsmeyer-Peppas kinetics (r<sup>2</sup> > 95%), and finite element analysis validated experimental profiles (r<sup>2</sup> = 82%-95%) while estimating diffusivity reductions from 569 to 0.06 µm<sup>2</sup>/s within the gel matrix. In vitro assays confirmed CKRT biocompatibility (ISO 10993-5) and preserved Ator bioactivity, with EC<sub>50</sub> values of 208 µm for mesenchymal stem and 389 µm for fibroblast cell lines. These findings demonstrate that CKRT provides a robust platform for controlled anti-fibrotic drug delivery, supported by extensive physicochemical and mechanical characterization.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41663901/",
+    "date": "2026-02-11",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种源自人发残留物的角蛋白水凝胶（KRT），通过掺入钙（CKRT）增强静电相互作用，作为阿托伐他汀（Ator）的局部递送载体，用于抗纤维化治疗。CKRT具有优异的理化特性（如负电荷、高孔隙率、剪切稀化），能控制药物释放并保持生物活性，体外实验证实其生物相容性和有效性，为可控药物递送提供了可持续平台。\",\n    \"innovation\": \"首次利用人发角蛋白水凝胶结合钙修饰，实现阿托伐他汀的局部可控递送，为抗纤维化治疗提供了一种可持续且高效的载体系统。\",\n    \"flaw\": \"研究主要基于体外实验，缺乏体内或临床数据验证其在复杂生物环境中的实际疗效和安全性。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500581",
     "title": "Development of Emodin Nanocrystal-Loaded Hydrogel Patch for Rapid Wound Repair.",
     "journal": "Macromolecular bioscience",

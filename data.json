@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1007/s00441-026-04053-w",
+    "title": "Effects of antibiotics encapsulated in hyaluronic acid hydrogels on different osteogenic cells and bacteria.",
+    "journal": "Cell and tissue research",
+    "authors": "Argyrakis, Nawale, Varghese",
+    "abstract": "Topical application of antibiotics in the treatment of orthopaedic implant-related infections can be achieved by using hyaluronic acid (HA)-based hydrogels as carriers. Our aim was to investigate potential toxic effects of a novel antibiotic-loaded hydrogel on osteogenic cells and its antibacterial effect against staphylococci. A covalently cross-linked hyaluronic acid (HA)-based hydrogel was loaded with increasing concentrations of cefuroxime and vancomycin and their release was examined by UV spectrometry. Primary human (HoBs), mouse (MoBs) osteoblasts, or SaoS-2 cells were either exposed to the drug-loaded hydrogel or to antibiotics alone, followed by assessment of cell metabolism and proliferation. Antibacterial effects were evaluated against Staphylococcus aureus (S. aureus) and Staphylococcus epidermidis (S. epidermidis). Increasing concentrations of antibiotics did not affect cell metabolism in any osteogenic cell type, whereas cell proliferation remained unaltered in MoBs, was significantly reduced in SaoS-2, and was stimulated in HoBs. Cultures of MoBs and HoBs tolerated higher concentrations of vancomycin than SaoS-2. Antibiotic-loaded hydrogels did not exert toxic effects on HoBs. After 24 h, 16.8% of vancomycin and 70.8% of cefuroxime were released from the hydrogel. Cefuroxime-loaded hydrogels significantly inhibited growth of S. aureus but not of S. epidermidis, while vancomycin-loaded hydrogel had scarce effects on S. epidermidis. Loading HA-based hydrogel with antibiotics does not harm osteoblasts at clinically relevant concentrations but inhibits bacterial growth. Higher loading of vancomycin may be required due to its slow release while cefuroxime is released more rapidly. A resorbable, antibiotic-loaded hydrogel may be used for implant-related infections in orthopaedics.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41670756/",
+    "date": "2026-02-12",
+    "analysis": "{\n    \"chinese_summary\": \"本研究探讨了以透明质酸（HA）水凝胶为载体负载抗生素（头孢呋辛和万古霉素）治疗骨科植入物相关感染的效果。实验表明，在临床相关浓度下，抗生素负载水凝胶对成骨细胞无毒性，并能抑制金黄色葡萄球菌生长。万古霉素释放较慢，可能需要更高负载量，而头孢呋辛释放更快。该可吸收水凝胶有望用于骨科植入物感染治疗。\",\n    \"innovation\": \"开发了一种共价交联的透明质酸水凝胶作为抗生素载体，用于局部治疗骨科植入物感染，并评估了其对成骨细胞的生物相容性和抗菌效果。\",\n    \"flaw\": \"万古霉素负载水凝胶对表皮葡萄球菌的抗菌效果有限，且万古霉素释放缓慢，可能需要更高负载量才能达到理想疗效。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500493",
     "title": "Self-Assembled Peptide Hydrogels with Cell Attachment Motifs for 3D Lung Cancer Model: Evaluation of Cell-Matrix Interactions and Drug Response.",
     "journal": "Macromolecular bioscience",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1177/22808000261421276",
+    "title": "Graphene oxide-reinforced thermosensitive hydrogel co-delivering paclitaxel and dexamethasone for restenosis prevention.",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "authors": "Sheng, Jiang, Wang",
+    "abstract": "Restenosis remains a significant limitation of vascular intervention procedures, primarily driven by the proliferation and inflammation of human-derived vascular smooth muscle cells (hVSMCs). This study developed a thermosensitive chitosan/β-glycerophosphate (CS-β-GP) hydrogel reinforced with graphene oxide (GO) for the localized co-delivery of paclitaxel (PTX) and dexamethasone (DEX). The incorporation of GO increased the storage modulus from approximately 3.95 kPa to 6.96 kPa, enhancing mechanical strength and accelerating gelation near body temperature (~36°C-37°C). SEM analysis revealed a porous, interconnected structure that supports drug delivery, while swelling was moderate (~145% at 6 h) and degradation resistance was improved, with the hydrogel retaining 80% of its mass in PBS after 30 days. Drug loading favored PTX (70% at 60 μg/mL) over DEX (17%) with sustained release profiles. Biologically, the dual-drug hydrogel (CS-β-GP-GO@PTX-DEX) selectively reduced hVSMC viability, migration, proliferation (~30%, ~20%, and ~30%, respectively), while preserving endothelial cell viability (~60%) and lowering proinflammatory cytokines (IL-1β ~100 pg/mL, IL-6 ~110 pg/mL, TNF-α ~70 pg/mL). These findings establish the CS-β-GP-GO@PTX-DEX hydrogel as a mechanically robust, selective, and effective platform for preventing restenosis and enhancing vascular tissue regeneration.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41689645/",
+    "date": "2026-02-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于氧化石墨烯增强的温敏性壳聚糖/β-甘油磷酸酯水凝胶，用于局部共递送紫杉醇和地塞米松。该水凝胶机械强度提升，在体温附近快速凝胶化，具有多孔结构，能持续释放药物。生物实验表明，双药水凝胶能选择性抑制血管平滑肌细胞的活性、迁移和增殖，同时保护内皮细胞并降低促炎细胞因子水平，为预防血管再狭窄提供了有效平台。\",\n    \"innovation\": \"首次将氧化石墨烯增强的温敏性壳聚糖/β-甘油磷酸酯水凝胶与紫杉醇、地塞米松双药共递送系统结合，实现了对血管平滑肌细胞的选择性抑制和抗炎协同作用。\",\n    \"flaw\": \"研究未在动物模型中进行体内验证，缺乏长期安全性和临床转化潜力的评估。\"\n}"
+  },
+  {
+    "id": "10.1177/09636897251409464",
+    "title": "Collagen-hyaluronic acid hydrogel with embedded chondrocytes as a platform for modeling early stages of endochondral ossification <i>in vitro</i>.",
+    "journal": "Cell transplantation",
+    "authors": "Malić, Doubková, Pražák",
+    "abstract": "Tissue engineering strategies aim to create bone models to enhance our understanding of bone development and improve bone repair. Endochondral ossification (EO), where cartilage is replaced by bone, is difficult to replicate. We developed a collagen-hyaluronic acid (HA) hydrogel system for a three-dimensional (3D) co-cultivation of human chondrocytes, human mesenchymal stem cell (hMSCs), and human umbilical vein endothelial cells (HUVECs) to model the early stages of EO. To our knowledge, this specific tri-culture configuration within such a hydrogel composition has not been previously reported, providing a novel platform for studying EO-related cellular and matrix interactions <i>in vitro.</i> Differentiation and migration of hMSCs and HUVECs were studied in collagen I (Col I) hydrogels, with or without the addition of collagen II (Col II), HA, and chondrocytes. Col II and HA enhanced cell osteogenic differentiation, as documented by an increased <i>COL1A1</i> and <i>ALPL</i> gene expression and enhanced alkaline phosphatase activity. Chondrocytes further promoted osteogenic cell differentiation and temporarily enhanced hypertrophic and angiogenic signaling as evidenced by elevated <i>MMP13</i> and <i>VEGFA</i> expression. Furthermore, elevated <i>SOX9</i> expression and Alcian blue staining indicated a chondrogenic-supportive environment. These findings highlight the synergistic effects of osteogenic and chondrogenic signals, emphasizing the potential of combining Col I and Col II, HA, and essential cell types in hydrogels to optimize bone and cartilage tissue engineering.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41688374/",
+    "date": "2026-02-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种胶原-透明质酸水凝胶系统，用于三维共培养人软骨细胞、人间充质干细胞和人脐静脉内皮细胞，以模拟早期软骨内成骨过程。研究发现，胶原II和透明质酸能增强细胞成骨分化，软骨细胞进一步促进成骨分化并暂时增强肥大和血管生成信号，突出了成骨和软骨信号在优化骨软骨组织工程中的协同作用。\",\n    \"innovation\": \"首次报道了在胶原-透明质酸水凝胶中构建人软骨细胞、人间充质干细胞和人脐静脉内皮细胞的三维共培养体系，为体外研究软骨内成骨相关的细胞与基质相互作用提供了新平台。\",\n    \"flaw\": \"研究主要关注早期软骨内成骨阶段，未验证该体系在完整骨组织形成或体内修复应用中的长期效果。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500553",
     "title": "Recent Advances in Integrating Graphene into Polymeric Nanocomposite Hydrogels for Biomedical Applications.",
     "journal": "Macromolecular bioscience",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1038/s41467-025-68033-4",
+    "title": "Viscoelastic hydrogel primed CAR-macrophage for pulmonary fibrosis treatment.",
+    "journal": "Nature communications",
+    "authors": "Zhang, Liu, Kong",
+    "abstract": "CAR-macrophage (CAR-M) therapy holds promise for the treatment of tumor and fibrotic diseases, yet genetic engineering remains the main efficacy-enhancing approach. Here we develop a non-genetic strategy using viscoelastic hydrogel to mechanically prime CAR-Ms. CAR-Ms exhibit potent phagocytosis of activated fibroblasts and collagen-degradation capacity, and hydrogel priming further enhances their cytotoxicity. Mechanistically, viscoelastic hydrogel priming reduces CAR-M membrane tension, which triggers membrane CAR to disassemble from clusters into dispersed monomers and dimers, leading to enhanced downstream signaling. In pulmonary fibrosis models, hydrogel-primed CAR-Ms demonstrate superior therapeutic outcomes, showing fibrosis reduction and microenvironment improvement. This study highlights CAR-M therapy's potential for pulmonary fibrosis treatment and offers a distinct approach to improve CAR-M efficacy by physical stimuli.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41688427/",
+    "date": "2026-02-18",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种非遗传策略，利用粘弹性水凝胶对CAR-M细胞进行机械预处理。CAR-M细胞表现出对活化成纤维细胞的强大吞噬作用和胶原降解能力，水凝胶预处理进一步增强了其细胞毒性。机制上，水凝胶预处理降低了CAR-M细胞膜张力，触发膜上CAR从簇状解离为分散的单体和二聚体，从而增强下游信号传导。在肺纤维化模型中，水凝胶预处理的CAR-M细胞显示出更优的治疗效果，包括纤维化减少和微环境改善。\",\n    \"innovation\": \"首次采用非遗传的物理刺激方法（粘弹性水凝胶机械预处理）增强CAR-M细胞的治疗效果。\",\n    \"flaw\": \"研究未涉及长期安全性和潜在免疫反应评估，且仅针对肺纤维化模型验证，缺乏对其他疾病类型的适用性验证。\"\n}"
+  },
+  {
     "id": "10.1177/22808000261421276",
     "title": "Graphene oxide-reinforced thermosensitive hydrogel co-delivering paclitaxel and dexamethasone for restenosis prevention.",
     "journal": "Journal of applied biomaterials & functional materials",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1080/21691401.2026.2627111",
+    "title": "Preliminary genipin-crosslinked gelatin-asiaticoside injectable hydrogel for future biomaterials ink: physicochemical properties and cytocompatibility for wound repair.",
+    "journal": "Artificial cells, nanomedicine, and biotechnology",
+    "authors": "Razif, Zainuddin, Zawawi",
+    "abstract": "Chronic wounds remain a major healthcare concern due to delayed healing and high risk of infection. This study investigates the potential of genipin-crosslinked gelatin and asiaticoside (ASI) as innovative biomaterials ink for wound healing. Hydrogels were prepared using different concentrations of gelatin (9% w/v and 10% w/v) and asiaticoside at 0.05% w/v, with genipin employed as a natural crosslinker to improve mechanical strength. Their physicochemical characteristics, which includes swelling ratio, water vapour transmission rate (WVTR), contact angle, porosity, enzymatic degradation, and surface roughness were systematically evaluated, along with mechanical and cytotoxicity properties. Incorporation of asiaticoside enhanced hydrogel hydrophilicity, reduce porosity, and improved swelling behaviour, while preserving biodegradability and overall structural stability. The WVTR values remained within the optimal wound healing range (1500-2500 g/m<sup>2</sup>h). Furthermore, asiaticoside-loaded hydrogels demonstrated excellent cytocompatibility, supporting fibroblasts viability at lower concentrations including live/dead assay tests that were conducted. This study demonstrates that genipin-crosslinked gelatin-asiaticoside hydrogels are promising biomaterials ink for accelerated wound healing, with an initial characterization of an injectable formulation guiding their successful optimization to achieve the optimal injectability and printability for tissue engineering and three-dimenstional bioprinting (3D-bioprinting).",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41707037/",
+    "date": "2026-02-19",
+    "analysis": "{\n    \"chinese_summary\": \"本研究探讨了京尼平交联明胶与积雪草苷作为创新生物材料墨水用于伤口愈合的潜力。通过系统评估水凝胶的理化特性、机械性能和细胞毒性，发现积雪草苷的加入增强了水凝胶的亲水性、改善了溶胀行为，同时保持了生物降解性和结构稳定性。该水凝胶显示出优异的细胞相容性，为组织工程和三维生物打印提供了有前景的材料。\",\n    \"innovation\": \"首次将天然交联剂京尼平与积雪草苷结合于明胶水凝胶中，开发出兼具良好机械性能、生物相容性和可注射/打印性的新型伤口愈合生物材料墨水。\",\n    \"flaw\": \"研究仅进行了体外细胞实验，缺乏动物模型或临床数据验证其在实际伤口愈合环境中的有效性和安全性。\"\n}"
+  },
+  {
+    "id": "10.1177/09636897261417200",
+    "title": "Mechanistic studies of hydrogels in oral cancer treatment: Synergistic effects of drug delivery and immune modulation.",
+    "journal": "Cell transplantation",
+    "authors": "Dilixiati, He, Wu",
+    "abstract": "Oral cancer ranks among the most prevalent malignant tumors of the head and neck, comprising 1%-2% of all global malignancies. Despite advancements in surgery, radiotherapy, chemotherapy, and immunotherapy, challenges remain in oral cancer treatment, including high recurrence rates, severe side effects, and limited efficacy. Hydrogels, biocompatible materials with a three-dimensional network structure, have emerged as promising candidates in oral cancer therapy due to their dual roles in drug delivery and immune modulation. This review examines the contribution of hydrogels to oral cancer treatment through their synergistic control of drug release and localized immune activation. By enabling targeted, stimuli-responsive drug release, and enhancing local immune responses, hydrogels reduce systemic toxicity and improve treatment precision. When integrated with advanced approaches such as gene therapy and immune modulation, hydrogels hold potential to further amplify therapeutic efficacy. Although preclinical results are promising, clinical translation requires addressing scalability, quality control, and long-term safety concerns. With ongoing development, hydrogels are positioned to become vital tools in the treatment of oral cancer, periodontitis, and other oral diseases.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41705721/",
+    "date": "2026-02-19",
+    "analysis": "{\n    \"chinese_summary\": \"口腔癌是全球常见头颈部恶性肿瘤，占所有癌症的1%-2%。尽管治疗手段不断进步，但仍面临高复发率、严重副作用和疗效有限等挑战。水凝胶作为一种具有三维网络结构的生物相容性材料，在药物递送和免疫调节方面展现出双重优势，成为口腔癌治疗的有前景候选材料。本综述探讨了水凝胶通过协同控制药物释放和局部免疫激活对口腔癌治疗的贡献。通过实现靶向、刺激响应性药物释放并增强局部免疫反应，水凝胶能降低全身毒性并提高治疗精准度。结合基因治疗和免疫调节等先进方法，水凝胶有望进一步提升疗效。尽管临床前结果令人鼓舞，但临床转化仍需解决可扩展性、质量控制和长期安全性等问题。随着持续发展，水凝胶有望成为治疗口腔癌、牙周炎等口腔疾病的重要工具。\",\n    \"innovation\": \"水凝胶通过协同控制药物释放和局部免疫激活的双重机制，为口腔癌治疗提供了降低全身毒性、提高治疗精准度的创新策略。\",\n    \"flaw\": \"尽管临床前研究结果积极，但水凝胶在临床转化中仍面临可扩展性、质量控制和长期安全性等关键挑战。\"\n}"
+  },
+  {
     "id": "10.1038/s41467-025-68033-4",
     "title": "Viscoelastic hydrogel primed CAR-macrophage for pulmonary fibrosis treatment.",
     "journal": "Nature communications",

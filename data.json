@@ -1,5 +1,71 @@
 [
   {
+    "id": "10.1016/j.carbpol.2026.125018",
+    "title": "Multifunctional starch-based eutectogels with high mechanical properties, adhesion, self-healing, fatigue resistance and degradability for flexible wearable sensing.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Sun, Xu, Guo",
+    "abstract": "Flexible wearable sensors have developed rapidly due to the urgent demands for human motion monitoring. Eutectogel-based soft materials have exhibited great potential for wearable sensing applications. However, it is still a challenge to develop multifunctional eutectogels with excellent mechanical properties, adhesion, self-healing, fatigue resistance and degradability. In this work, a multifunctional starch-based eutectogel was developed by a one-pot and in-situ photo-polymerization method. The eutectogel had excellent stretchability (2710%), high strength (5.43 MPa), toughness (94.38 MJ/m<sup>3</sup>), Young's modulus (10.23 MPa), adhesion, fatigue resistance (1000 cycles), degradability and a certain degree of self-healing ability. These properties were closely correlated to the synergistic effect among the amylopectin, polyacrylic acid and choline chloride via hydrogen-bond and electrostatic interactions. The mechanical properties of eutectogel can be adjusted by changing the starch content. A wearable sensor based on the eutectogel was realized accurate and stable monitoring of human joint motions. This study addressed the limitations of the dehydration and single function of the traditional hydrogels, and provides a novel way for the development of the multifunctional bio-based gels for next-generation flexible wearable devices.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41713999/",
+    "date": "2026-02-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究通过一锅法原位光聚合开发了一种多功能淀粉基共晶凝胶，具有优异的拉伸性（2710%）、高强度（5.43 MPa）、韧性（94.38 MJ/m³）、杨氏模量（10.23 MPa）、粘附性、抗疲劳性（1000次循环）、可降解性和一定自愈能力。该凝胶基于支链淀粉、聚丙烯酸和氯化胆碱的氢键与静电协同作用，其机械性能可通过淀粉含量调节。基于此凝胶的柔性可穿戴传感器能准确稳定监测人体关节运动，解决了传统水凝胶易脱水、功能单一的问题，为下一代多功能生物基凝胶的开发提供了新途径。\",\n    \"innovation\": \"通过一锅法原位光聚合制备了兼具优异机械性能、粘附性、自愈性、抗疲劳性和可降解性的多功能淀粉基共晶凝胶，突破了传统水凝胶的局限性。\",\n    \"flaw\": \"该共晶凝胶的自愈能力仅被描述为“一定程度”，未明确量化其自愈效率或条件，可能在实际应用中存在限制。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125005",
+    "title": "Chitosan-based advanced biomaterials and stimuli-responsive systems for diabetic ulcer management: From principles to translational potential.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Kumar, Virmani, Sharma",
+    "abstract": "Diabetic ulcers remain a significant clinical concern because of their poor healing, persistent inflammation, and increased infection risk. Chitosan and its derivatives have emerged as promising biomaterials for ulcer management due to their biocompatibility, biodegradability, mucoadhesiveness, pH responsiveness, and intrinsic properties, including hemostatic effects, antibacterial activity, anti-inflammatory properties, antioxidant capabilities, and self-healing capabilities. This review provides a comprehensive and current overview of chitosan-based approaches for diabetic ulcer management, focusing on both conventional and advanced biomaterials, including nanoparticles, hydrogels, nanofibers, microneedles, sponges, and 3D scaffolds. Special attention is given to stimuli-responsive chitosan systems designed to adjust drug release in response to specific cues, such as pH, reactive oxygen species, temperature, enzymes, or glucose levels. To underscore the translation potential, the review compiles commercialized products, recent patents, and clinical trials related to the management of diabetic ulcers based on chitosan formulations. Finally, the integration of AI-driven design with smart chitosan systems is proposed as a future direction towards personalized and predictive diabetic ulcer management.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41713994/",
+    "date": "2026-02-21",
+    "analysis": "{\n    \"chinese_summary\": \"糖尿病溃疡因愈合不良、持续炎症和感染风险高而成为临床难题。壳聚糖及其衍生物因其生物相容性、生物降解性、粘附性、pH响应性以及止血、抗菌、抗炎、抗氧化和自愈等特性，成为有前景的溃疡管理生物材料。本文综述了壳聚糖基材料（如纳米颗粒、水凝胶、纳米纤维等）在糖尿病溃疡管理中的应用，特别关注刺激响应系统，并汇总了商业化产品、专利和临床试验。未来方向是结合AI设计实现个性化预测管理。\",\n    \"innovation\": \"提出将AI驱动设计与智能壳聚糖系统结合，作为实现个性化、预测性糖尿病溃疡管理的未来方向。\",\n    \"flaw\": \"文献为综述性文章，主要总结现有研究，缺乏原创性实验数据验证壳聚糖基材料的具体临床效果。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.124999",
+    "title": "Chemically modified bacterial cellulose-mediated fiber salting-out method for preparing tough hydrogels.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Zhang, Chen, Ge",
+    "abstract": "Bacterial cellulose (BC) is employed as a toughening agent in the preparation of composite hydrogels. However, achieving both high strength and toughness after incorporating BC into hydrogels remains challenging. Insufficient amounts of BC limit the enhancement of strength, whereas excessive BC results in reduced elongation of hydrogels. Herein, a fiber salting-out method was developed to fabricate BC/polyvinyl alcohol (PVA) hydrogels by modifying BC with Hofmeister series ions (-COO<sup>-</sup>, -PO<sub>3</sub><sup>2-</sup>, -SO<sub>3</sub><sup>-</sup>). Through the fiber salting-out effect of BC, PVA was induced to aggregate on the BC surface, forming more crystalline domains and thereby improving the mechanical properties of the hydrogels. Among them, the tensile strength and toughness of the SBCP hydrogel (BC modified with -SO<sub>3</sub><sup>-</sup>) reached the highest values, measuring 2.98 MPa and 27.48 MJ m<sup>-3</sup>, respectively-representing 9-fold and 36-fold increases over those of pure PVA hydrogels. Furthermore, this hydrogel exhibits high electrical conductivity and favorable biocompatibility. This study presents a new strategy for fabricating tough BC-based hydrogels and provides insight into new applications for BC fibers.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41713990/",
+    "date": "2026-02-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种纤维盐析方法，通过用霍夫迈斯特系列离子（-COO⁻、-PO₃²⁻、-SO₃⁻）修饰细菌纤维素（BC），制备了BC/聚乙烯醇（PVA）复合水凝胶。该方法利用BC的纤维盐析效应诱导PVA在BC表面聚集，形成更多结晶域，从而显著提升水凝胶的力学性能。其中，经-SO₃⁻修饰的SBCP水凝胶的拉伸强度和韧性最高，分别达到2.98 MPa和27.48 MJ·m⁻³，较纯PVA水凝胶提高了9倍和36倍。该水凝胶还表现出高导电性和良好的生物相容性，为制备高韧性BC基水凝胶提供了新策略。\",\n    \"innovation\": \"创新点在于开发了纤维盐析方法，通过霍夫迈斯特离子修饰BC诱导PVA聚集结晶，协同提升水凝胶的强度、韧性和导电性。\",\n    \"flaw\": \"不足在于未系统探讨不同离子修饰对水凝胶长期稳定性或体内降解性能的影响。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.124983",
+    "title": "N-acetylcysteine-functionalized biodegradable polysaccharide hydrogel patches for the repair of acute liver injury.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Li, Xia, Wang",
+    "abstract": "Acute liver injury (ALI) caused by acetaminophen (APAP) has a high incidence rate worldwide, and severe cases may cause liver failure or even death. N-acetylcysteine (NAC), as an effective treatment drug approved for clinical application in ALI, has limitations such as a short half-life and the requirement for high-dose injections. Consequently, it is imperative to optimize new administration method of NAC and promote alternative therapeutic strategies for ALI. Herein, hydrogel patches ONC composed of oxidized chondroitin sulfate (OCS) and NAC-grafted CMCS were developed, and their reparative effects on APAP-induced ALI were investigated. ONC hydrogels exhibited excellent biocompatibility and appropriate biodegradability, and favorable hemostatic effects in the liver. In vitro experiments demonstrated that ONC could promote the proliferation and migration of hepatocytes, as well as the angiogenesis of HUVECs. By establishing an APAP-induced ALI model in mice, liver enzymes after ONC hydrogel patches treatment recovered to near-normal levels. Moreover, histological examination, RT-qPCR, and transcriptome sequencing results demonstrated that ONC patches could reduce the expression of inflammatory factors and apoptosis in the liver, while simultaneously activating antioxidant-related signaling pathways, thereby promoting the regeneration and functional repair of damaged tissues. Therefore, ONC hydrogel patches may be a promising alternative strategy for treating ALI.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41713986/",
+    "date": "2026-02-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了由氧化硫酸软骨素和N-乙酰半胱氨酸接枝羧甲基壳聚糖组成的水凝胶贴片ONC，用于治疗对乙酰氨基酚引起的急性肝损伤。实验表明ONC具有良好的生物相容性、可降解性和止血效果，能促进肝细胞增殖迁移及血管生成，通过抗炎、抗凋亡和激活抗氧化通路促进肝脏修复，可能成为替代N-乙酰半胱氨酸治疗急性肝损伤的新策略。\",\n    \"innovation\": \"开发了新型ONC水凝胶贴片作为N-乙酰半胱氨酸的替代给药系统，通过局部贴敷方式克服了传统注射给药半衰期短、需高剂量的局限性。\",\n    \"flaw\": \"研究目前仅停留在小鼠模型实验阶段，尚未进行临床人体试验验证其安全性和有效性。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.124977",
+    "title": "Modular alginate-based hydrogels embedding multilayer nanofibers: A synergistic strategy for hemostasis, antibacterial, and immunomodulatory therapy.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Liu, Lv, Li",
+    "abstract": "Non-compressible hemorrhage remains a leading cause of trauma mortality, with ineffective management triggering infection, dysregulated inflammation, and multi-organ dysfunction. Herein, we report a multilayer nanofiber-reinforced alginate hydrogel (GT-F) combining rapid hemostasis, strong tissue adhesion, high mechanical resilience, and wound healing. The hydrogel matrix, composed of dopamine-modified methacrylate alginate (AMD) and gelatin methacryloyl (GelMA), was incorporated with tranexamic acid (TAX). The biomimetic multilayer nanofiber framework is constructed from hydrophobic polycaprolactone (PCL) and simultaneously encapsulates both the natural medicinal compound curcumin (Cur) and the quaternary ammonium antibacterial agent (HDEAB). Experimental results indicate that, within an optimal range, increasing AMD content enhances hydrogel crosslinking density, reducing pore size and equilibrium swelling. Compared to conventional GelMA hydrogel, compressive strength was nearly quadrupled, and tensile strength increased over threefold. In vitro and in vivo studies confirm that GT-F hydrogels exhibit excellent biocompatibility, degradability, rapid hemostasis (<30 s), and robust antimicrobial and antioxidant properties. In a rat liver puncture model, GT-F hydrogels markedly outperformed commercial gauze in hemostasis, reduced macrophage inflammatory infiltration, promoted proliferating cell nuclear antigen (PCNA) expression, accelerated wound repair, and exhibited anti-adhesion effects. Collectively, this study offers a promising hydrogel-based adhesive strategy for clinical management of non-compressible hemorrhage and tissue repair.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41713983/",
+    "date": "2026-02-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种多层纳米纤维增强海藻酸水凝胶（GT-F），用于治疗不可压迫性出血。该水凝胶结合了快速止血、强组织粘附、高机械韧性和促进伤口愈合的特性，通过体外和体内实验证实其具有良好的生物相容性、降解性、抗菌和抗氧化性能，在大鼠肝脏穿刺模型中显著优于商业纱布，展现出临床应用的潜力。\",\n    \"innovation\": \"创新点在于开发了一种结合快速止血、强组织粘附、高机械韧性和促进伤口愈合的多层纳米纤维增强海藻酸水凝胶，并通过实验验证了其在不可压迫性出血治疗中的优异性能。\",\n    \"flaw\": \"不足在于研究仅在大鼠模型中进行验证，尚未进行人体临床试验，其长期安全性和有效性有待进一步评估。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.124913",
+    "title": "RGD-Alginate beads as scaffolds for culturing primary human dermal and pulmonary fibroblasts.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Stahl, Bergendahl, Zaytseva-Zotova",
+    "abstract": "The use of hydrogel microparticles as granular hydrogels is an emerging approach in tissue engineering, where microparticles offer printability, injectability, and serve as scaffolds for cell culture. While culturing dermal fibroblasts for tissue engineering applications is well reported, there is limited research on culturing primary human pulmonary fibroblasts on granular hydrogels. In this study, we grafted RGD-peptides to alginate, formed microbeads, and investigated the ability of granular hydrogels to support the adhesion and growth of primary normal human dermal fibroblasts (NHDFs) and human pulmonary fibroblasts (HPFa). NHDFs adhered to linear RGD (linRGD)-alginate microbeads and spread on the bead surfaces with increased adhesion with increased peptide concentration (0.3-1.3 mM). In contrast, HPFa did not adhere to the linRGD-alginate microbeads. However, HPFa adhered and spread on flat linRGD-alginate gels, indicating that HPFa do respond to linRGD as an adhesion ligand. Supplementation of Mn<sup>2+</sup> resulted in cell adhesion to linRGD-alginate microbeads. Enhanced adhesion and spreading of HPFa to RGD-alginate microbeads were observed when using cyclic RGD. Hence, RGD-alginate microbeads is a promising material for structuring primary human dermal and pulmonary fibroblasts, showing the relevance of using alginate microbeads as scaffolds for 3D cultures with fibroblasts.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41713974/",
+    "date": "2026-02-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究将RGD肽接枝到海藻酸盐上形成微珠，探究了颗粒状水凝胶支持原代人真皮成纤维细胞（NHDFs）和人肺成纤维细胞（HPFa）粘附和生长的能力。NHDFs能粘附在线性RGD-海藻酸盐微珠上并随肽浓度增加而增强粘附，而HPFa仅粘附于平面线性RGD凝胶，不粘附微珠。补充Mn²⁺或使用环状RGD可促进HPFa对微珠的粘附，表明RGD-海藻酸盐微珠是构建成纤维细胞3D培养支架的有前景材料。\",\n    \"innovation\": \"首次系统研究了原代人肺成纤维细胞在颗粒状水凝胶上的培养行为，并发现通过Mn²⁺补充或使用环状RGD可解决其粘附难题。\",\n    \"flaw\": \"研究未深入探讨不同成纤维细胞对微珠粘附差异的分子机制，且实验仅聚焦于RGD修饰体系，未测试其他生物活性肽的效果。\"\n}"
+  },
+  {
     "id": "10.1080/21691401.2026.2627111",
     "title": "Preliminary genipin-crosslinked gelatin-asiaticoside injectable hydrogel for future biomaterials ink: physicochemical properties and cytocompatibility for wound repair.",
     "journal": "Artificial cells, nanomedicine, and biotechnology",

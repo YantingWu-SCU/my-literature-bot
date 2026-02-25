@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1002/mabi.202500460",
+    "title": "Biocompatibility of Hydrogels for Glomerular 3D Co-Culture: A Comparative Analysis.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Eichermüller, Faber, Ng",
+    "abstract": "Conventional 2D mono-cultures fall short in replicating the complex microenvironment of glomerular tissue, where cell-cell and cell-matrix interactions are critical. To better mimic in vivo conditions, the development of robust 3D co-culture systems is essential. Here, we systematically evaluate five hydrogel matrices-Matrigel, alginate dialdehyde-gelatin (ADA-GEL), fibrin, recombinantly produced spider silk protein eADF4(C16)-RGD, and allyl-modified gelatin (GelAGE)-for their suitability in supporting glomerular 3D co-culture. The hydrogels are assessed for handling properties, cell viability, and the support of physiological cell behavior using bright-field microscopy, live/dead assays, immunofluorescence, and multiphoton imaging. Among the tested hydrogels, GelAGE and eADF4(C16)-RGD demonstrate superior biocompatibility and structural support. Due to its ease of use and comparable biological performance, GelAGE and spider silk protein eADF(C16)-RGD are selected for further mechanical characterization, revealing favorable viscoelastic properties. These findings position both hydrogels as a promising candidate for engineering physiologically relevant 3D glomerular models and advancing kidney tissue research.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41734260/",
+    "date": "2026-02-25",
+    "analysis": "{\n    \"chinese_summary\": \"传统2D单细胞培养难以模拟肾小球组织的复杂微环境。本研究系统评估了五种水凝胶基质（Matrigel、ADA-GEL、纤维蛋白、重组蜘蛛丝蛋白eADF4(C16)-RGD、GelAGE）在肾小球3D共培养中的适用性。结果显示，GelAGE和eADF4(C16)-RGD具有优异的生物相容性和结构支持性，其良好的粘弹性特性使其成为构建生理相关3D肾小球模型的有前景材料。\",\n    \"innovation\": \"首次系统比较五种水凝胶基质在肾小球3D共培养中的性能，并筛选出GelAGE和重组蜘蛛丝蛋白eADF4(C16)-RGD作为最优材料。\",\n    \"flaw\": \"研究未在动物模型或临床样本中验证这些3D培养系统的生理相关性。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.202500627",
+    "title": "Thiol-Methylsulfone Crosslinked Hydrogels for Cell Encapsulation: Molecular Scale Modulation of Physiochemical Properties.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Farrukh, Farrukh, Hambardzumyan",
+    "abstract": "Hydrogels mimicking the mechanical and biochemical features of the cellular microenvironment allow cell encapsulation and facilitate in vitro 3D culture. In addition to biocompatibility and reactivity in physiological conditions, a key criterion for crosslinking chemistry is appropriate gelation kinetics to allow mixing and homogeneous distribution of cells with the hydrogel precursors. We have previously presented aryl methylsulfone/thiol (MS/SH) reaction as a thiol-reactive cross-linking system for cell encapsulation in star polyethylene glycol (PEG4) hydrogels with a gelation kinetics in minutes time scale. Remaining experimental challenges for this system are a finer modulation of gelation kinetics and streamlining the synthesis of the prepolymer. Here we present the possibility to tune the gelation kinetics by introducing an electron-withdrawing substituent at p-position of the aryl MS ring. This variant also presents synthetic advantages. We study the influence of the p-substituent on the physicochemical properties of MS/SH crosslinked hydrogels, and their performance for cell encapsulation. We compare these properties with the PEG-MS variant containing an electron-donating linker. The new star poly(ethylene glycol)-4-(5-(methylsulfonyl)-1H-tetrazol-1-yl)benzamide (PEG4-CONH-TzMS) shows superior properties as cell encapsulating hydrogel in terms of ease of mixing polymer precursors, faster gelation, homogenous cell distribution and high enzymatic stability.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41733188/",
+    "date": "2026-02-25",
+    "analysis": "{\n    \"chinese_summary\": \"本研究通过在水凝胶前驱体芳基甲基砜环的对位引入吸电子取代基，成功调控了基于芳基甲基砜/硫醇（MS/SH）反应的星形聚乙二醇（PEG4）水凝胶的凝胶动力学。新型PEG4-CONH-TzMS水凝胶在细胞封装应用中表现出更优的混合均匀性、更快凝胶速度、更均匀的细胞分布及更高的酶稳定性。\",\n    \"innovation\": \"通过引入对位吸电子取代基调控MS/SH交联水凝胶的凝胶动力学，并简化了预聚物合成。\",\n    \"flaw\": \"该系统仍需进一步优化凝胶动力学的精细调控和预聚物合成流程。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.202500613",
+    "title": "PLA/PCL Tubes Filled with Polysaccharide Hydrogels as Robust Hybrid Nerve Guidance Conduits with Controlled Swelling.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Hidalgo-Yerga, Resina, Casanovas",
+    "abstract": "Peripheral nerve injuries (PNIs) cause severe loss of motor and sensory functions, with limited recovery achievable through current surgical options. Nerve guidance conduits (NGCs) represent a promising alternative for bridging nerve gaps, particularly when integrating bioactive and mechanically stable components. In this study, a multi-component NGC is developed by combining rolled-up poly(lactic acid)/poly(caprolactone) (PLA/PCL) microfilms, providing mechanical reinforcement and shape-memory behavior, with polysaccharide-based hydrogels (alginate (ALG), hyaluronic acid (HA), or carboxymethyl cellulose (CMC)) that act as lumen fillers to mimic the extracellular matrix (ECM). The hydrogel formulations display appropriate viscosity, straightforward gelation, and enhanced mechanical properties while maintaining cytocompatibility. Although all three composite conduits exhibit non-toxic degradation by-products and mechanical performance comparable to that of native human nerves, the NGC containing the HA click-hydrogel displays a more porous structure, with an elastic modulus of 19.2 ± 2.9 kPa and ultimate compressive strength of 29.2 ± 8.2 kPa. Moreover, the HA hydrogel shows prolonged stability in physiological conditions, and a stable swelling ratio is achieved within 2 h and maintained for at least 20 days. Overall, our cost-effective fabrication strategy, which integrates polysaccharide-based hydrogels and biodegradable polymer microfilms, offers a promising platform for advancing nerve tissue engineering.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41733178/",
+    "date": "2026-02-25",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种多组分神经引导导管，通过结合具有机械增强和形状记忆功能的PLA/PCL微膜与模拟细胞外基质的多糖水凝胶（ALG、HA或CMC）作为管腔填充物。其中HA水凝胶导管表现出更佳的多孔结构、机械性能（弹性模量19.2±2.9kPa）和长期稳定性，为神经组织工程提供了经济有效的解决方案。\",\n    \"innovation\": \"通过整合可生物降解聚合物微膜与多糖水凝胶，开发出兼具机械稳定性、生物相容性和形状记忆功能的新型神经引导导管。\",\n    \"flaw\": \"研究未进行动物实验验证导管在体内的实际神经再生效果和长期生物相容性。\"\n}"
+  },
+  {
     "id": "10.1016/j.carbpol.2026.125018",
     "title": "Multifunctional starch-based eutectogels with high mechanical properties, adhesion, self-healing, fatigue resistance and degradability for flexible wearable sensing.",
     "journal": "Carbohydrate polymers",

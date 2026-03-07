@@ -1,5 +1,71 @@
 [
   {
+    "id": "10.1590/1678-7765-2025-0503",
+    "title": "Evaluation of bleaching efficacy and cytotoxicity of an experimental hydrogel containing MnO-Doped Biosilicate® activated by violet LED light.",
+    "journal": "Journal of applied oral science : revista FOB",
+    "authors": "Dascanio, Ribeiro, Souza",
+    "abstract": "Although hydrogen peroxide (HP) at 35% is effective in dental bleaching, the cytotoxicity associated with its use remains a significant concern. In this context, this study aimed to develop a bleaching hydrogel containing 6% HP, Biosilicate® (BioS) doped with manganese oxide (MnO_BioS), and irradiated with violet LED light (LED). Enamel/dentin discs were submitted to the following bleaching treatments (n=08): 35%HP (positive control), 6%HP gel containing BioS or MnO_BioS (0 and 10 wt%), with or without LED irradiation. The discs were adapted to artificial pulp chambers (APCs), with the enamel exposed for bleaching and the dentin facing the culture medium (DMEM). Bleaching was performed in three 30-minute sessions with 7-day intervals. After bleaching, the extracts (DMEM + bleaching gel components diffused through the discs) were collected and applied to the odontoblast-like MDPC-23 cells. Color change (ΔE00) and changes in the whiteness index (ΔWID) were determined before (T0) and after the last bleaching session (T2). Cell viability (MTT, %), HP diffusion (µg/mL), oxidative cell stress (OxS), and cell fluorescence (live/dead assay, by confocal microscopy) were assessed after the first session (T1). The data were analyzed using ANOVA and Tukey's test (p=0.05). The addition of 6%HP_MnO_BioS_LED exceeded ΔWID compared to 35%HP, showing statistical differences from the other groups, while ΔE00 was statistically similar to 35%HP. 6%HP_MnO_BioS_LED demonstrated higher cell viability, lower HP diffusion, and reduced oxidative stress (OxS) compared to the other groups (p<0.05). 6%HP_MnO_BioS_LED increased bleaching potential and presented lower cytotoxicity compared to 35%HP.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41779469/",
+    "date": "2026-03-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种含6%过氧化氢、掺杂氧化锰的生物硅酸盐凝胶，并结合紫光LED照射用于牙齿美白。与35%过氧化氢相比，该新配方在美白效果相当的同时，显著降低了细胞毒性、过氧化氢扩散和氧化应激，提高了细胞存活率。\",\n    \"innovation\": \"首次将掺杂氧化锰的生物硅酸盐与低浓度过氧化氢凝胶结合紫光LED照射，在保持美白效果的同时显著降低传统高浓度过氧化氢的细胞毒性。\",\n    \"flaw\": \"研究仅使用体外细胞模型（MDPC-23细胞）和人工牙髓腔，缺乏体内动物实验或临床试验验证其安全性和有效性。\"\n}"
+  },
+  {
+    "id": "10.1167/tvst.15.3.2",
+    "title": "Thermosensitive Chitosan-Hyaluronic Acid Hydrogel for Sustained Betamethasone and Levofloxacin Delivery in Corneal Wound Healing.",
+    "journal": "Translational vision science & technology",
+    "authors": "Aghamirsalim, Mobaraki, Jabbarvand",
+    "abstract": "This research designed a thermosensitive chitosan-hyaluronic acid (Ch-HA) hydrogel for the dual controlled release of betamethasone and levofloxacin to improve corneal wound healing and inhibit subsequent infections.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41769943/",
+    "date": "2026-03-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究设计了一种温敏性壳聚糖-透明质酸（Ch-HA）水凝胶，用于双重控制释放倍他米松和左氧氟沙星，以促进角膜伤口愈合并抑制后续感染。\",\n    \"innovation\": \"开发了一种温敏性Ch-HA水凝胶，实现了抗炎药（倍他米松）和抗生素（左氧氟沙星）的双重控制释放，针对角膜伤口愈合和感染预防的协同治疗。\",\n    \"flaw\": \"摘要未提及该水凝胶的生物相容性、体内实验数据或长期安全性评估，这些是临床应用前需要验证的关键方面。\"\n}"
+  },
+  {
+    "id": "10.1002/jev2.70249",
+    "title": "Nanomotor-Driven Extracellular Vesicles With Effective Tissue Penetration for Targeted Therapy of Primary Ovarian Insufficiency.",
+    "journal": "Journal of extracellular vesicles",
+    "authors": "Mu, Wu, Lv",
+    "abstract": "Stem cells and their derived extracellular vesicles (EVs) offer hope for functional reconstruction and fertility in premature ovarian insufficiency (POI) caused by gonadotoxic drugs. However, the clinical application of EVs is impeded by their instability, limited tissue penetration, and lack of targeted delivery to ovarian injury sites. Here, we introduce an injectable hydrogel loaded with nanomotor-driven EVs (LEVs-Gel) for targeted POI therapy. In the POI ovarian microenvironment, reactive oxygen species (ROS) and inducible nitric oxide synthase (iNOS) are highly expressed, acting as chemoattractants to promote the chemotactic behavior of nanomotors LEVs. The LEVs are loaded in a thermosensitive hydrogel to enhance the retention and stability of EVs at the ovary. Following local injection of LEVs-Gel into the ovaries of POI mice, the nanomotors LEVs effectively penetrated the epithelial layer and the tunica albuginea, significantly enhancing the permeability of the cortical and medullary regions. This intervention successfully restored ovarian endocrine and reserve functions, thereby improving reproductive fertility. Further mechanistic studies revealed that the therapeutic efficacy of LEVs-Gel is mediated through the maintenance of oxidative-antioxidative balance, inhibition of apoptosis, and promotion of ovarian angiogenesis. Overall, this integrated therapy presents a promising targeted strategy for patients with POI caused by chemotherapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41764599/",
+    "date": "2026-03-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种装载纳米马达驱动细胞外囊泡（LEVs）的可注射水凝胶（LEVs-Gel），用于靶向治疗化疗引起的早发性卵巢功能不全（POI）。该水凝胶利用卵巢微环境中高表达的ROS和iNOS作为化学引诱剂，驱动纳米马达LEVs穿透卵巢组织，恢复卵巢内分泌和储备功能，改善生育能力。其机制涉及维持氧化-抗氧化平衡、抑制细胞凋亡和促进卵巢血管生成。\",\n    \"innovation\": \"通过将纳米马达驱动的细胞外囊泡装载于温敏水凝胶中，利用卵巢损伤微环境的化学引诱特性实现靶向递送，解决了细胞外囊泡不稳定、组织穿透性差和缺乏靶向性的临床转化难题。\",\n    \"flaw\": \"该研究目前仅在POI小鼠模型中进行验证，尚未开展人体临床试验，其安全性和有效性在人类患者中的应用仍需进一步评估。\"\n}"
+  },
+  {
+    "id": "10.1111/1750-3841.70939",
+    "title": "High-Protein Hydrogels Composed of Pea-Collagen Protein and κ-Carrageenan for the Dysphagia Diet.",
+    "journal": "Journal of food science",
+    "authors": "Dagytė, Bartkuvienė, Keršienė",
+    "abstract": "In this study, pea-collagen proteins and κ-carrageenan were used to create hydrogels with high protein content (20%-27.5%) for dysphagia diets by varying the collagen concentration (7.5%-15%). The effects of collagen concentrations on physical, rheological, and textural properties; microstructure; suitability for a dysphagia diet; and the degree of proteolysis during in vitro digestion of hydrogels were explored. Temperature-sweep analysis indicated that collagen did not participate in network formation and behaved more like an inactive filler. For this reason, the amount of nonnetwork proteins increased with increasing collagen concentration. This caused high water-holding capacity (96.21%-99.75%), low hardness (1.58-1.82 N), and cohesiveness values. A higher collagen concentration in the hydrogel structure did not negatively affect the hydrogel's deformation, which was beneficial for the force required for food processing and swallowing, as well as for nutritional value. On the basis of the International Dysphagia Diet Standardization Initiative (IDDSI) framework, hydrogels were classified as Level 6, making them suitable for mild dysphagia. Collagen concentration only slightly altered the overall digestion pattern, whereas the degree of proteolysis at the end of the intestinal phase ranged from 55.08% to 65.67%. These findings provided new insights into the design and development of nutritious, palatable foods for people with swallowing difficulties. PRACTICAL APPLICATIONS: Hydrogels composed of pea-collagen protein and κ-carrageenan can be used in the diet of elderly people with dysphagia as a protein source, increasing food intake.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41755493/",
+    "date": "2026-03-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究使用豌豆胶原蛋白和κ-卡拉胶制备高蛋白含量（20%-27.5%）水凝胶用于吞咽障碍饮食。通过改变胶原浓度（7.5%-15%），探究其对水凝胶物理、流变、质构特性、微观结构、吞咽适用性及体外消化蛋白水解程度的影响。温度扫描分析表明胶原未参与网络形成，表现为惰性填充物，导致非网络蛋白增加，从而获得高持水性（96.21%-99.75%）、低硬度（1.58-1.82 N）和低内聚性。较高胶原浓度不影响水凝胶变形，有利于食物加工和吞咽所需力量及营养价值。根据国际吞咽障碍饮食标准化倡议框架，水凝胶被归类为6级，适用于轻度吞咽障碍。胶原浓度仅轻微改变整体消化模式，肠道阶段蛋白水解程度为55.08%-65.67%。这些发现为设计开发营养可口、适用于吞咽困难人群的食品提供了新思路。\",\n    \"innovation\": \"首次将豌豆胶原蛋白与κ-卡拉胶结合制备高蛋白水凝胶，并通过系统研究证实其作为吞咽障碍饮食的适用性，为开发新型营养食品提供了创新方案。\",\n    \"flaw\": \"研究仅通过体外消化模型评估蛋白水解程度，缺乏体内实验验证其实际消化吸收效果和生物利用度。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27042075",
+    "title": "A Study on the Treatment of Rheumatoid Arthritis Using a Novel GelMA-HAMA Dual-Network Hydrogel Microneedle Loaded with MTX-NCs in Combination with Adalimumab.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Tian, Shi, Liu",
+    "abstract": "This study developed a transdermal drug delivery system for Rheumatoid Arthritis (RA) using a dual-network hydrogel microneedle patch loaded with methotrexate nanocrystals (DHMN@MTX-NCs), and explored its synergistic therapy with Adalimumab (ADA) for a painless, long-acting, and targeted RA treatment. This study synthesized Methacrylated Hyaluronic Acid and Methacrylated Gelatin. MTX-NCs were prepared by solvent-antisolvent precipitation and incorporated into a dual-network hydrogel microneedle patch via centrifugal molding. Evaluations included pharmaceutical properties, mechanical strength, drug release, in vitro anti-inflammatory effects on RAW 264.7 cells, and therapeutic efficacy in a rat RA model. The experimental results show that the prepared MTX-NCs present a spherical shape, an average size of 325.72 nm, a PDI of 0.154, and a drug-loading capacity of 61.3%. The microneedle patch exhibited high puncture efficiency and suitable swelling. In vitro, DHMN@MTX-NCs combined with ADA most strongly inhibited macrophage migration, upregulated IL-10, and downregulated TNF-α, IL-1β, NO, iNOS, and COX-2. In vivo, both monotherapy and combination therapy reduced joint swelling, bone erosion, and histopathological damage. Ultimately, the study demonstrated the synergistic anti-inflammatory efficacy of DHMN@MTX-NCs combined with ADA, providing a novel, non-invasive, and targeted therapeutic strategy for RA.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41752211/",
+    "date": "2026-03-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种用于类风湿关节炎（RA）的经皮给药系统，采用负载甲氨蝶呤纳米晶体的双网络水凝胶微针贴片（DHMN@MTX-NCs），并探索其与阿达木单抗（ADA）的协同治疗，以实现无痛、长效和靶向的RA治疗。实验评估了药物特性、机械强度、药物释放、体外抗炎效果及大鼠RA模型的疗效。结果显示，MTX-NCs呈球形，平均尺寸325.72 nm，载药量61.3%；微针贴片穿刺效率高，体外和体内实验均显示DHMN@MTX-NCs与ADA结合能有效抑制炎症、减轻关节损伤，证明了协同抗炎效果，为RA提供了一种新型非侵入性靶向治疗策略。\",\n    \"innovation\": \"开发了负载甲氨蝶呤纳米晶体的双网络水凝胶微针贴片，并与阿达木单抗结合，首次实现了经皮协同治疗类风湿关节炎的无痛、长效和靶向给药系统。\",\n    \"flaw\": \"研究仅基于大鼠模型进行体内验证，缺乏临床数据支持，且未评估长期安全性和潜在免疫反应。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27041973",
+    "title": "Microenvironment Rheology Modulates the Effect of the Anticancer Peptide CIGB300 on 3D Head and Neck Tumoroids.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Buonvino, Paduano, Stefanizzi",
+    "abstract": "3D cell systems for in vitro experimental studies are able to mimic the in vivo efficacy of drugs before they are tested on animals. However, many studies are still needed in order to mimic the physiological environment with 3D cell-growth systems. The mechano-physical properties of the microenvironment are relevant for the invasiveness of cancer cells and for their drug resistance. In this study, 3D tumoroids of human oral squamous cell carcinoma (OSCC) CAL27 cells of different stiffnesses were produced using a tunable PEG-silk fibroin hydrogel (PSF), and the antitumor activity of the peptide CIGB300, an anticancer therapeutic peptide, with respect to these 3D tumoroid models was assessed. Furthermore, spectroscopic studies on the CIGB300 peptide are reported regarding its structure, stability, aggregation and diffusion properties. For the first time, the diffusion of the peptide CIGB300 in tunable silk fibroin hydrogels of different stiffnesses is investigated over time via fluorescence spectroscopy as a potential tool in drug-screening using hydrogel-based 3D tumoroids.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41752113/",
+    "date": "2026-03-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究使用可调节刚度的PEG-丝素蛋白水凝胶构建了不同硬度的人口腔鳞状细胞癌CAL27细胞3D肿瘤球模型，评估了抗癌肽CIGB300的抗肿瘤活性，并首次通过荧光光谱研究了该肽在不同硬度水凝胶中的扩散特性，为基于水凝胶3D肿瘤模型的药物筛选提供了新方法。\",\n    \"innovation\": \"首次通过荧光光谱技术研究了抗癌肽CIGB300在不同硬度丝素蛋白水凝胶中的时间依赖性扩散行为。\",\n    \"flaw\": \"研究仍需进一步优化3D细胞培养系统以更准确地模拟体内生理环境。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500460",
     "title": "Biocompatibility of Hydrogels for Glomerular 3D Co-Culture: A Comparative Analysis.",
     "journal": "Macromolecular bioscience",

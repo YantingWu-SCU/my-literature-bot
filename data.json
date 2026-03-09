@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70045",
+    "title": "Exosome-Infused Scaffolding Systems in Chronic Wound Healing: Advances, Challenges, and Future Perspectives.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Li, Lei",
+    "abstract": "Chronic wounds, such as diabetic foot ulcers (DFUs), venous leg ulcers, and pressure sores, are non-healing or poorly healing wounds that present a clinical and financial burden on the healthcare system. Conventional wound care modalities, including wound dressings, negative pressure therapy, and growth factor delivery, have demonstrated limited success, especially in the case of chronic or refractory wounds. Recently, exosome-containing scaffolds have emerged as a promising strategy for regenerative medicine in chronic wound healing. Exosomes are nano-sized extracellular vesicles containing various bioactive factors that can promote regeneration through their regenerative, anti-inflammatory, angiogenic, and proliferative properties, which are involved in the processes of wound healing. In particular, hydrogels have been identified as a favorable platform for exosome delivery due to their excellent biocompatibility, tunable physicochemical properties, and ECM-mimetic nature. This review will highlight the biology of exosomes, different strategies for the incorporation of exosomes with scaffolds, and advances in scaffold fabrication strategies with a focus on electrospinning and three-dimensional bioprinting. Challenges to clinical translation, such as standardization and regulation of exosomes, and future research perspectives will also be discussed.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41795645/",
+    "date": "2026-03-09",
+    "analysis": "{\n    \"chinese_summary\": \"慢性伤口（如糖尿病足溃疡、静脉性腿部溃疡和压疮）是难以愈合的伤口，给医疗系统带来临床和经济负担。传统疗法效果有限，而含外泌体的支架（特别是水凝胶）作为再生医学新策略，通过其再生、抗炎、促血管生成和增殖特性促进伤口愈合。本文综述了外泌体生物学、外泌体与支架结合策略、支架制造技术（如静电纺丝和3D生物打印），并讨论了临床转化挑战和未来研究方向。\",\n    \"innovation\": \"提出将外泌体与支架（尤其是水凝胶）结合作为慢性伤口治疗的新策略，利用外泌体的多效生物活性促进组织再生。\",\n    \"flaw\": \"临床转化面临外泌体标准化和监管等挑战，且具体应用效果需进一步验证。\"\n}"
+  },
+  {
     "id": "10.1590/1678-7765-2025-0503",
     "title": "Evaluation of bleaching efficacy and cytotoxicity of an experimental hydrogel containing MnO-Doped Biosilicate® activated by violet LED light.",
     "journal": "Journal of applied oral science : revista FOB",

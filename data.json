@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1111/1541-4337.70421",
+    "title": "Legume Protein-Based Hydrogel Intermolecular Forces: Measurement, Modification, and Food Applications.",
+    "journal": "Comprehensive reviews in food science and food safety",
+    "authors": "Zhu, Feng, Li",
+    "abstract": "Legume proteins have become essential materials for developing plant-based foods due to their excellent functional properties. Intermolecular forces in legume protein hydrogels include non-covalent bonds such as hydrogen bonds, hydrophobic interactions, and covalent bonds such as disulfide bonds. Changes in gel intermolecular forces directly affect the gel food quality. This paper describes the types and determination of legume protein hydrogel intermolecular forces, and deeply explores the influencing factors, including gel preparation methods, protein pre-treatment ways (physical treatment, chemical treatment, enzymatic hydrolysis, and fibrillation), and the introduction of other active ingredients (polyphenols, polysaccharides, exogenous amino acids, and proteins from other sources). The preparation methods determine the textural properties of legume protein hydrogels. Pre-treatment (especially ultrasonic treatment) is an effective method for improving legume protein hydrogels. The incorporation of polyphenols, polysaccharides, and other substances, as well as fibrillation of proteins, further promotes the application of legume protein hydrogels in food and biomedical fields. Adjustment of gel intermolecular forces is expected to control the release of bioactive components from gel carriers as well as facilitate the development of foodstuffs with different applications. Undoubtedly, mastering the mechanisms and strategies for regulating intermolecular forces in hydrogels will further enhance the quality of legume protein hydrogel products and facilitate the development of new products that meet consumer demands.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41804106/",
+    "date": "2026-03-11",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了豆类蛋白水凝胶中分子间作用力（氢键、疏水相互作用、二硫键等）的类型与测定方法，深入探讨了凝胶制备方法、蛋白质预处理（物理、化学、酶解、纤维化）及其他活性成分（多酚、多糖、外源氨基酸、异源蛋白）引入等因素对作用力的影响。通过调控分子间作用力，可改善凝胶质地、控制生物活性成分释放，促进豆类蛋白水凝胶在食品和生物医学领域的应用。\",\n    \"innovation\": \"系统整合了豆类蛋白水凝胶分子间作用力的调控策略，包括预处理方法和多组分协同作用，为开发功能性凝胶产品提供了新思路。\",\n    \"flaw\": \"未涉及具体调控参数（如浓度、pH、温度）的定量优化研究，实际应用中的工艺稳定性有待验证。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70045",
     "title": "Exosome-Infused Scaffolding Systems in Chronic Wound Healing: Advances, Challenges, and Future Perspectives.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

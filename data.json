@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1073/pnas.2533145123",
+    "title": "A soft electrode array with reconfigurable hydrogel interfaces for high-fidelity neurophysiological monitoring during craniotomy.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Yang, Pang, Gong",
+    "abstract": "Achieving accurate monitoring of electrophysiological activity from the brain cortex is critical for preventing postoperative neurological deficits during craniotomy. However, current technologies face profound challenges in enabling consistent high-quality neural signal acquisition due to complex intracranial environments (e.g., wet/fragile brain surfaces and surgical instrument interference). Here, we develop a soft electrode array with reconfigurable hydrogel interfaces for sustainable high-fidelity monitoring of electrophysiological states from the functional brain cortex throughout neurosurgical procedures. Specifically, we propose a solution-triggered reconfiguration strategy to implement the repeated disassembly/replacement of hydrogel interface layers on electrodes, ensuring consistently superior recording and stimulation properties. Furthermore, through modification with cationic hydrogel microspheres, the hydrogel interface demonstrates strengthened wet adhesion and antiswelling performances, creating robust hydrogel/brain coupling to minimize motion artifacts. In craniotomy of animal models, the electrode array maintains low impedance and high signal-to-noise ratio during repeated repositioning tests through hydrogel interface reconfiguration. In traumatic brain injury models, the electrode array can record consistent high-quality somatosensory evoked potential with dynamic tracking of potential amplitude and latency changes in sensory areas. Quantitative assessments in nerve block experiments verify that the soft electrode array can efficiently elicit motor evoked potentials in motor areas with low stimulation currents. The proposed soft electrode array represents a promising platform for sustainable high-fidelity electrophysiological monitoring. The hydrogel interface design strategy provides an effective approach for developing reconfigurable devices in biomedical applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41811440/",
+    "date": "2026-03-12",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种具有可重构水凝胶界面的柔性电极阵列，用于神经外科手术中大脑皮层电生理活动的高保真监测。该电极通过溶液触发策略实现水凝胶层的重复拆卸/更换，并利用阳离子水凝胶微球增强湿粘附与抗膨胀性能，在动物开颅和脑损伤模型中均表现出稳定的低阻抗、高信噪比记录能力及有效刺激功能。\",\n    \"innovation\": \"提出基于溶液触发的可重构水凝胶界面策略，实现电极界面的动态更换与性能维持，结合阳离子微球改性提升湿粘附与抗膨胀性，解决了复杂颅内环境下稳定电生理监测的难题。\",\n    \"flaw\": \"研究目前仅在动物模型中进行验证，尚未开展人体临床试验，其长期生物相容性及在更复杂病理脑组织中的适用性仍需进一步评估。\"\n}"
+  },
+  {
+    "id": "10.1590/1678-7765-2025-0607",
+    "title": "Hydrogel microarchitecture as a regulatory cue for in vitro odontogenic differentiation.",
+    "journal": "Journal of applied oral science : revista FOB",
+    "authors": "Carvalho, Stuani, Silva",
+    "abstract": "This study introduces an innovative, cost-effective, and easily reproducible strategy for engineering three-dimensional bioprinted GelMA-based scaffolds, designed with ordered macroporous and tubular architectures, and integrated microfluidic channels to advance structural and functional performance. Their geometric features were specifically designed to investigate how microarchitectural cues influence the mineralizing cell differentiation of human dental pulp cells (HDPCs).",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41810629/",
+    "date": "2026-03-12",
+    "analysis": "{\n    \"chinese_summary\": \"本研究提出了一种创新、经济、易复制的三维生物打印策略，用于构建基于GelMA的支架，该支架具有有序大孔和管状结构，并集成了微流控通道，以提升结构和功能性能。其几何特征专门设计用于研究微结构线索如何影响人牙髓细胞的矿化细胞分化。\",\n    \"innovation\": \"开发了一种结合有序大孔、管状结构和集成微流控通道的三维生物打印GelMA支架新策略。\",\n    \"flaw\": \"未提及该策略在长期稳定性、体内应用或与其他细胞类型的兼容性方面的验证。\"\n}"
+  },
+  {
     "id": "10.1111/1541-4337.70421",
     "title": "Legume Protein-Based Hydrogel Intermolecular Forces: Measurement, Modification, and Food Applications.",
     "journal": "Comprehensive reviews in food science and food safety",

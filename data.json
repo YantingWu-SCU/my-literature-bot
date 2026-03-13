@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1007/s10856-026-07024-3",
+    "title": "Development of biodegradable methacrylated guar gum 3D bioprinting bioinks for stem cell delivery and cartilage tissue engineering.",
+    "journal": "Journal of materials science. Materials in medicine",
+    "authors": "Shang, Jiang, Yang",
+    "abstract": "Three-dimensional (3D) bioprinting has revolutionized tissue engineering by precisely fabricating customized scaffolds that recapitulate native tissue architectures. This study introduces a photo-crosslinkable methacrylated guar gum (GG-MA) hydrogel as a tunable monophasic bioink for cartilage tissue engineering. By adjusting methacrylation degrees, GG-MA hydrogels achieved tailored mechanical strength (Young's modulus: GG-MA2 = 0.184 MPa vs. GG-MA1 = 0.069 MPa), controlled degradation (61.41% vs. 90.71% mass loss over 60 days), and shear-thinning behavior suitable for extrusion bioprinting. Encapsulated with bone marrow mesenchymal stem cells (BMSCs), GG-MA2 scaffolds exhibited favorable biocompatibility, and promoted cell proliferation, cell migration, and chondrogenic differentiation of BMSCs, evidenced by promoting the secretion of extracellular matrix and upregulating gene expression of Collagen Type II Alpha 1 Chain (COL2A1), Aggrecan (ACAN), and SRY-box transcription factor 9 (SOX9). The novel 3D bioprinting GG-MA hydrogel scaffolds demonstrated significant potential as a versatile platform balancing biocompatibility, mechanical stability, and chondrogenic capacity for cartilage tissue engineering.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41811532/",
+    "date": "2026-03-13",
+    "analysis": "{\n    \"chinese_summary\": \"本研究引入了一种光交联甲基丙烯酸化瓜尔胶（GG-MA）水凝胶作为可调节的单相生物墨水，用于软骨组织工程。通过调整甲基丙烯酸化程度，GG-MA水凝胶实现了定制的机械强度、可控降解和适用于挤出生物打印的剪切稀化行为。与骨髓间充质干细胞（BMSCs）封装后，GG-MA2支架表现出良好的生物相容性，促进细胞增殖、迁移和软骨分化，并通过促进细胞外基质分泌和上调COL2A1、ACAN和SOX9基因表达来证明。新型3D生物打印GG-MA水凝胶支架展示了作为平衡生物相容性、机械稳定性和软骨生成能力的多功能平台的巨大潜力。\",\n    \"innovation\": \"首次开发了基于光交联甲基丙烯酸化瓜尔胶（GG-MA）的可调节单相生物墨水，通过调整甲基丙烯酸化程度实现了机械性能、降解行为和打印适性的精准调控。\",\n    \"flaw\": \"研究未涉及长期体内实验验证支架的临床安全性和功能持久性，且未与其他成熟生物材料进行系统性对比以全面评估其优势。\"\n}"
+  },
+  {
     "id": "10.1073/pnas.2533145123",
     "title": "A soft electrode array with reconfigurable hydrogel interfaces for high-fidelity neurophysiological monitoring during craniotomy.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",

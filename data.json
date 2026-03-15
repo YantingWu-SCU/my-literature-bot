@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3390/ijms27052405",
+    "title": "Evaluation of an AD-MSC Supernatant-Loaded Thermosensitive Hydrogel for Cartilage Protection in Osteoarthritis.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Zhang, Zhang, Cheng",
+    "abstract": "Knee osteoarthritis (KOA) is a degenerative joint disorder characterized by chronic inflammation and progressive cartilage degradation. Mesenchymal stem cell (MSC)-based therapies have demonstrated therapeutic potential; however, increasing evidence suggests that their efficacy primarily arises from paracrine factors, highlighting the potential of cell free approaches. In this study, we developed an injectable, thermosensitive composite hydrogel incorporating adipose-derived MSC (AD-MSC) supernatant within a Pluronic F-127 (PF-127)/sodium hyaluronate (HA) matrix. The hydrogel exhibited a solution state at a low temperature and rapidly transitioned into a stable gel at a physiological temperature without chemical crosslinkers. Microstructural analysis revealed a porous, interconnected three-dimensional network favorable for the sustained release of bioactive factors. In a rat model of KOA, intra-articular administration of the AD-MSC supernatant-loaded hydrogel significantly improved joint architecture and locomotor performance, alleviated synovial inflammation, and preserved cartilage integrity. Radiographic and histological assessments demonstrated reduced cartilage degeneration and subchondral bone alterations. Moreover, the treatment markedly decreased intra-articular levels of proinflammatory cytokines (IL-1β and TNF-α) and the cartilage degradation marker CTX-II in a time-dependent manner. These findings indicated that the sustained local delivery of AD-MSC-derived supernatant effectively modulated joint inflammation and attenuated cartilage degeneration, with the hydrogel serving primarily as a delivery vehicle for these bioactive factors. This cell-free injectable biomaterial platform could offer a promising therapeutic strategy for the treatment of knee osteoarthritis.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41828622/",
+    "date": "2026-03-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种可注射温敏复合水凝胶，将脂肪来源间充质干细胞（AD-MSC）上清液负载于Pluronic F-127/透明质酸钠基质中。该水凝胶在低温呈溶液状态，在生理温度下快速转变为稳定凝胶。在大鼠膝骨关节炎模型中，关节内注射该水凝胶显著改善关节结构、运动功能，减轻滑膜炎症，保护软骨完整性，并降低促炎因子和软骨降解标志物水平。研究表明，该细胞无载体平台通过持续局部递送AD-MSC来源生物活性因子，有效调节关节炎症并延缓软骨退变，为膝骨关节炎治疗提供了新策略。\",\n    \"innovation\": \"开发了一种无需化学交联剂、可注射的温敏复合水凝胶，首次将AD-MSC上清液作为细胞无治疗成分负载于PF-127/HA基质中，实现生物活性因子的持续局部递送。\",\n    \"flaw\": \"研究仅基于大鼠动物模型，尚未进行临床前安全性评估或人体试验，且未明确水凝胶中具体哪些生物活性因子起主要治疗作用。\"\n}"
+  },
+  {
     "id": "10.1007/s10856-026-07024-3",
     "title": "Development of biodegradable methacrylated guar gum 3D bioprinting bioinks for stem cell delivery and cartilage tissue engineering.",
     "journal": "Journal of materials science. Materials in medicine",

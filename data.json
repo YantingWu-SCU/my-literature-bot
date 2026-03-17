@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3389/fcimb.2026.1769669",
+    "title": "Antibacterial hydrogels for skin infected wounds: frontier approaches as antibiotic alternatives therapy.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "authors": "Li, Fan, Li",
+    "abstract": "Skin wound infections are common and clinically challenging. Conventional antibiotic therapies are increasingly ineffective because of escalating bacterial resistance, highlighting the urgent need for alternative treatment strategies. Antibacterial hydrogels, multifunctional polymeric materials that integrate moisturizing, drug delivery, controlled release, and wound-healing properties, have emerged as highly promising candidates for managing infected wounds. Based on their underlying antimicrobial mechanisms, these systems can be broadly classified into three main categories: chemical, physical, and biological antibacterial hydrogels, which achieve bactericidal efficacy through drug release, physical disruption, or modulation of the host microenvironment and immune responses, respectively. Of tremendous significance is the advent of stimuli-responsive intelligent hydrogels, which provides new opportunities for achieving precise and efficient antibacterial therapy. This review systematically summarizes the material selection, design strategies, and representative advances in antibacterial hydrogels, with particular emphasis on their core mechanisms, strengths, and limitations, aiming to offer theoretical foundations and research perspectives for the rational optimization and clinical translation of next-generation antibacterial hydrogels.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835004/",
+    "date": "2026-03-17",
+    "analysis": "{\n    \"chinese_summary\": \"皮肤伤口感染常见且临床治疗困难。传统抗生素疗法因细菌耐药性增强而日益失效，迫切需要替代治疗策略。抗菌水凝胶作为多功能聚合物材料，集保湿、药物递送、控释和伤口愈合特性于一体，已成为治疗感染伤口极具前景的候选方案。根据抗菌机制，这些系统可分为化学、物理和生物抗菌水凝胶三类，分别通过药物释放、物理破坏或调节宿主微环境和免疫反应实现杀菌效果。刺激响应智能水凝胶的出现为精准高效抗菌治疗提供了新机遇。本文系统总结了抗菌水凝胶的材料选择、设计策略和代表性进展，重点分析其核心机制、优势和局限，旨在为下一代抗菌水凝胶的合理优化和临床转化提供理论基础和研究视角。\",\n    \"innovation\": \"刺激响应智能水凝胶的出现为精准高效抗菌治疗提供了新机遇。\",\n    \"flaw\": \"抗菌水凝胶在临床转化方面仍面临材料选择、设计策略优化和实际应用局限等挑战。\"\n}"
+  },
+  {
     "id": "10.1016/j.carbpol.2026.125138",
     "title": "Dynamic polysaccharide-based organic nanocomposite hydrogel precisely mediates oral targeted therapy for colorectal cancer.",
     "journal": "Carbohydrate polymers",

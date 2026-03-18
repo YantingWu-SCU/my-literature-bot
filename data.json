@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1177/22808000261431929",
+    "title": "Hydrogels for 3D-printed breast scaffolds on esthetic, functional, and oncological safety: A review.",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "authors": "Li, Wang, Tan",
+    "abstract": "Breast volume loss after cancer surgery severely affects patients' physical and psychological well-being, while traditional reconstruction methods such as prosthetic implantation and autologous tissue transfer are limited by complications, donor-site morbidity, and poor long-term stability. To address these issues, this review summarizes recent advances in hydrogel-based 3D-printed scaffolds for breast reconstruction. The review focuses on the use of different 3D bioprinting techniques in scaffold manufacture and compares natural and synthetic hydrogels in terms of biocompatibility, mechanical properties, and biodegradability. It also involves core design principles for scaffolds to meet the unique anatomical and functional requirements of the breast, including tunable softness, promotion of vascularization, and tissue integration. Furthermore, recent applications of hydrogel-based 3D printing in adipose tissue regeneration and nipple-areola complex reconstruction are discussed in detail. The findings indicate that natural hydrogels provide advantages in cell viability and differentiation due to their biocompatibility, while synthetic hydrogels offer tunability and structural stability for long-term support. Combining the two materials can enhance reconstruction outcomes. It further addresses challenges and prospective directions in 3D printing hydrogels in breast reconstruction, paving the way for innovative research to material selection and printing strategies, enhancing patient care, and improving quality of life.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41840808/",
+    "date": "2026-03-18",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了基于水凝胶的3D打印支架在乳房重建中的最新进展，重点比较了天然与合成水凝胶的生物相容性、机械性能和可降解性，探讨了支架设计原则及其在脂肪组织再生和乳头乳晕复合体重建中的应用，并指出结合两种材料可改善重建效果，同时分析了当前挑战与未来方向。\",\n    \"innovation\": \"该研究创新性地提出结合天然水凝胶的生物相容性与合成水凝胶的可调性/稳定性，以优化3D打印支架在乳房重建中的性能。\",\n    \"flaw\": \"文献未具体说明当前3D打印水凝胶技术在临床转化中面临的实际操作障碍或成本效益数据。\"\n}"
+  },
+  {
     "id": "10.3389/fcimb.2026.1769669",
     "title": "Antibacterial hydrogels for skin infected wounds: frontier approaches as antibiotic alternatives therapy.",
     "journal": "Frontiers in cellular and infection microbiology",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.adz0786",
+    "title": "Bacterial enzyme-responsive hydrogels for triggered delivery of antibiotics to infected wounds.",
+    "journal": "Science advances",
+    "authors": "Abbasi, McCall, Jiang",
+    "abstract": "Wound infections are becoming increasingly difficult to treat due to rising antibiotic-resistant bacteria. β-Lactamase-producing bacteria are among the most common pathogens implicated in these infections. Here, we report a bacterial enzyme-responsive hydrogel formulated with a cephalosporin-derived, β-lactamase-cleavable crosslinker that undergoes selective degradation in the presence of bacterial β-lactamases. This degradation triggers the on-demand release of encapsulated ciprofloxacin-loaded liposomes, ensuring that antibiotic delivery occurs only at the site of infection. This selective degradation and release was demonstrated in both ex vivo and in vivo models of <i>Pseudomonas aeruginosa</i> wound infections. In a murine skin abrasion infection model, a single application of the hydrogel led to complete bacterial eradication and enhanced wound healing, outperforming a commercial silver-based hydrogel wound dressing. These responsive hydrogels did not induce ciprofloxacin resistance in non-β-lactamase-producing bacteria. These findings demonstrate that β-lactamase-responsive hydrogels provide a precise, infection-triggered antibiotic delivery platform that can improve the treatment of wound infections and mitigate antimicrobial resistance.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41861006/",
+    "date": "2026-03-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种β-内酰胺酶响应性水凝胶，该水凝胶使用头孢菌素衍生的可被β-内酰胺酶切割的交联剂制成。在存在细菌β-内酰胺酶时，水凝胶选择性降解，触发包载环丙沙星脂质体的按需释放，实现仅在感染部位的抗生素递送。在铜绿假单胞菌伤口感染的离体和体内模型中验证了其选择性降解和释放效果。在小鼠皮肤擦伤感染模型中，单次应用该水凝胶可实现细菌完全清除并促进伤口愈合，效果优于商用银基水凝胶敷料。该响应性水凝胶未诱导非β-内酰胺酶产生菌产生环丙沙星耐药性。\",\n    \"innovation\": \"开发了首个β-内酰胺酶响应性水凝胶平台，通过细菌酶触发机制实现抗生素的精准按需释放。\",\n    \"flaw\": \"该技术仅对产生β-内酰胺酶的细菌有效，对不产生此酶的耐药菌或非细菌性感染无效。\"\n}"
+  },
+  {
     "id": "10.1177/22808000261431929",
     "title": "Hydrogels for 3D-printed breast scaffolds on esthetic, functional, and oncological safety: A review.",
     "journal": "Journal of applied biomaterials & functional materials",

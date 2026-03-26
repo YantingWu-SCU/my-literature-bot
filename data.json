@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1177/22808000261433066",
+    "title": "Artificial bile duct made of GelMA-SA hybrid hydrogel for bile duct repair.",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "authors": "Liu, Zhang, Li",
+    "abstract": "The management of critical-sized bile duct defects remains a significant clinical challenge, as current options like autologous grafts and synthetic stents provide mechanical support but lack the bioactivity needed for functional regeneration. To address this, we developed a novel tissue-engineered artificial bile duct using a photocrosslinkable gelatin methacryloyl-sodium alginate (GelMA-SA) hybrid hydrogel. This biomimetic artificial bile duct synergizes the superior cell-adhesion of GelMA with the mechanical robustness of SA. A systematically optimized GelMA-SA formulation demonstrated ideal physicochemical properties, including suitable mechanical strength, controlled degradation kinetics, and a conducive microarchitecture for cell growth. Comprehensive in vitro studies confirmed the excellent biocompatibility of artificial bile duct, promoting the proliferation of biliary epithelial cells. Our findings establish this GelMA-SA hybrid hydrogel-based artificial bile duct as a promising repair solution. It effectively bridges the gap between structural support and biological functionality, offering a versatile platform technology for biliary reconstruction and tubular tissue engineering.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41879648/",
+    "date": "2026-03-26",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于光交联明胶甲基丙烯酰-海藻酸钠（GelMA-SA）杂化水凝胶的新型组织工程人工胆管，以解决临界尺寸胆管缺损修复中现有方法缺乏生物活性的问题。该仿生人工胆管结合了GelMA的优异细胞粘附性和SA的机械强度，经系统优化后展现出理想的理化特性、可控降解动力学和促进细胞生长的微结构。体外实验证实其良好生物相容性，能促进胆管上皮细胞增殖，为胆道重建和管状组织工程提供了兼具结构支撑与生物功能性的有前景的修复平台。\",\n    \"innovation\": \"首次将光交联GelMA-SA杂化水凝胶应用于人工胆管构建，实现了机械强度与生物活性的协同优化。\",\n    \"flaw\": \"研究目前仅完成体外实验，缺乏体内动物模型或临床数据验证其长期安全性和功能再生效果。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70176",
+    "title": "Microenvironment-Driven Closed-Loop Wound Management Based on Glycyrrhizic Acid/Gelatin/Zinc Sulfide Hydrogel.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Wan, Zhao, Dai",
+    "abstract": "Wound healing is a complex physiological process with different demands at different stages. In this work, a pH-responsive GA/Gelatin/ZnS (Glycyrrhizic Acid/Gelatin/Zinc Sulfide) hydrogel that can automatically release drugs was constructed in a facile way. It was fabricated by amide bonds, hydrogen bonds, and metal ion coordination among ZnS nanoparticles, glycyrrhizic acid (GA), and gelatin, which was confirmed by the molecular dynamics (MD) simulations and characterization results. Taking advantage of the pathological microenvironments at the wound site, it can synergize with multi-substance therapies at different stages, thus promoting wound healing. The as-prepared hydrogel can not only exhibit excellent coagulation ability in the hemostatic phase, but also release zinc ion (Zn<sup>2+</sup>) and hydrogen sulfide (H<sub>2</sub>S) due to the weak acid microenvironment at the wound site, thus boosting inflammatory stage to proliferative phase. Meanwhile, benefit from its good re-epithelialization and angiogenesis properties in proliferative phase, the as-prepared hydrogel can increase collagen deposition during the remodeling phase, thereby accelerating wound healing. It would open a new perspective for effective wound management.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41877530/",
+    "date": "2026-03-26",
+    "analysis": "{\n    \"chinese_summary\": \"本研究构建了一种pH响应的GA/明胶/ZnS水凝胶，通过酰胺键、氢键和金属离子配位形成，能根据伤口微环境自动释放药物。该水凝胶在止血期具有优异凝血能力，在弱酸环境下释放Zn²⁺和H₂S促进炎症向增殖期转化，并通过促进上皮化和血管生成加速伤口愈合，为伤口管理提供了新策略。\",\n    \"innovation\": \"开发了一种能根据伤口pH变化自动释放Zn²⁺和H₂S的多阶段协同治疗智能水凝胶。\",\n    \"flaw\": \"研究未涉及长期生物安全性评估及临床转化可行性验证。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.adz0786",
     "title": "Bacterial enzyme-responsive hydrogels for triggered delivery of antibiotics to infected wounds.",
     "journal": "Science advances",

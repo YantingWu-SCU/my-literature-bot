@@ -1,5 +1,49 @@
 [
   {
+    "id": "10.3390/ijms27062889",
+    "title": "Chitosan- and Gelatin-Based Composite Granular Hydrogels for Cartilage Tissue Regeneration.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Khatami, Guerrero, de la Caba",
+    "abstract": "Cartilage regeneration remains an unmet clinical challenge. Despite the great advances in the production of hydrogels as support matrices for cartilage regeneration, the resulting mechanical properties remain low. Granular composite hydrogels appear as ideal candidates due to their injectability and modularity in design. Here, we report on the fabrication and characterization of heterogeneous composite granular hydrogels based on methacrylated chitosan (CHIMA) and gelatin (GelMA) microparticles supported by an interstitial methacrylated alginate (ALMA) matrix. Microparticles were prepared by an oil-emulsion method and their size and morphology optimized, resulting in CHIMA and GelMA microparticles of 10.8 µm (95% CI 9.2, 13.1) and 115.8 µm (95% CI 107.5, 137.6) in diameter, respectively. The microparticles were mixed with ALMA and crosslinked to form granular hydrogels that demonstrated reduced swelling and weight loss. The storage modulus increased from 33 to 66.4 kPa for CHIMA/ALMA hydrogels and from 11.5 to 19.5 kPa for GelMA/ALMA hydrogels when the particle concentration increased from 10 to 50%, and was higher than traditional ALMA hydrogels. Hydrogels of 50:50 CHIMA:GelMA permitted a 6.6-fold increase in cell number after 28 days of culture, and promoted the chondrogenic differentiation of embedded mouse mesenchymal stem cells with a glycosaminoglycan deposition of over 15 µg and the expression of chondrogenic markers.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41898749/",
+    "date": "2026-03-29",
+    "analysis": "{\n    \"chinese_summary\": \"软骨再生仍是临床未解决的难题。尽管水凝胶作为软骨再生支架材料已取得重大进展，但其力学性能仍较低。颗粒复合水凝胶因其可注射性和设计模块化成为理想候选材料。本研究报道了基于甲基丙烯酸化壳聚糖（CHIMA）和明胶（GelMA）微粒、以甲基丙烯酸化海藻酸盐（ALMA）为基质支撑的异质复合颗粒水凝胶的制备与表征。通过油包水乳化法制备微粒并优化尺寸形态，CHIMA和GelMA微粒直径分别为10.8µm和115.8µm。微粒与ALMA混合交联形成颗粒水凝胶，表现出更低的溶胀率和重量损失。当微粒浓度从10%增至50%时，CHIMA/ALMA水凝胶储能模量从33kPa升至66.4kPa，GelMA/ALMA从11.5kPa升至19.5kPa，均优于传统ALMA水凝胶。50:50 CHIMA:GelMA水凝胶使培养28天的细胞数量增加6.6倍，促进小鼠间充质干细胞的软骨分化，糖胺聚糖沉积超15µg并表达软骨标志物。\",\n    \"innovation\": \"开发了基于CHIMA和GelMA微粒与ALMA基质的新型异质复合颗粒水凝胶，通过优化微粒尺寸与浓度显著提升了力学性能和软骨再生能力。\",\n    \"flaw\": \"研究未涉及长期体内实验验证，且未明确说明该水凝胶在复杂生理环境中的降解速率与生物相容性。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27062885",
+    "title": "Silk-Fibroin-Based Strategies for Myocardial Infarction Repair: A Comprehensive Review.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Piao, Gao",
+    "abstract": "Myocardial infarction is a major cardiovascular event that leads to heart failure and death. Although current vascular regeneration and pharmacological therapies can salvage some myocardial tissue, they cannot effectively reverse established necrosis, fibrosis, or adverse ventricular remodeling, thus necessitating novel repair strategies. Silk fibroin (SF), a natural biomaterial, has emerged as an ideal substrate for cardiac tissue engineering owing to its excellent biocompatibility, tunable mechanical properties, and controllable biodegradability. This paper systematically reviews SF-based myocardial repair strategies: SF cardiac patches can be directly applied to infarct areas, providing mechanical support and delivering bioactive substances, while injectable SF hydrogels can be formed in situ via minimally invasive methods, serving as three-dimensional delivery vehicles for cells or drugs. These approaches synergistically promote cardiac repair through multiple mechanisms, including active regulation of inflammation, promotion of angiogenesis, and inhibition of fibrosis. Future development of SF-based therapies will focus on creating smart responsive materials, constructing biomimetic structures via advanced biomanufacturing techniques, and accelerating clinical translation, thereby providing comprehensive solutions for myocardial infarction repair.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41898744/",
+    "date": "2026-03-29",
+    "analysis": "{\n    \"chinese_summary\": \"心肌梗死是导致心力衰竭和死亡的主要心血管事件。丝素蛋白因其优异的生物相容性、可调节的机械性能和可控的生物降解性，成为心脏组织工程的理想基质。本文系统综述了基于丝素蛋白的心肌修复策略：丝素蛋白心脏贴片可直接应用于梗死区域，提供机械支撑并递送生物活性物质；而可注射丝素蛋白水凝胶可通过微创方法原位形成，作为细胞或药物的三维递送载体。这些方法通过主动调节炎症、促进血管生成和抑制纤维化等多重机制协同促进心脏修复。未来发展方向包括创建智能响应材料、通过先进生物制造技术构建仿生结构以及加速临床转化。\",\n    \"innovation\": \"系统阐述了丝素蛋白作为多功能生物材料在心肌修复中的应用，包括心脏贴片和可注射水凝胶两种创新递送策略，通过多重机制协同促进组织再生。\",\n    \"flaw\": \"文献主要基于实验室研究阶段的综述，缺乏大规模临床数据验证其长期安全性和实际疗效。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27062637",
+    "title": "Engineering Smart Biomaterial Interfaces for iPSC-CM Maturation: A Biophysical and Metabolic Reprogramming Approach to Regenerative Cardiac Medicine.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Shahannaz, Sugiura",
+    "abstract": "The maturation of induced pluripotent stem cell-derived cardiomyocytes (iPSC-CMs) remains a major translational bottleneck in regenerative cardiac medicine, as current differentiation platforms yield electrophysiologically and metabolically immature phenotypes. This review explores emerging strategies to engineer \"smart\" biomaterial interfaces that actively instruct iPSC-CM maturation through synergistic biophysical and metabolic reprogramming. By integrating nanotopographical patterning, mechanoelectric coupling, and tunable substrate stiffness with metabolic interventions such as mitochondrial substrate optimization and fatty acid oxidation induction, the literature reveals consistent links between cell-matrix crosstalk, sarcomeric organization, calcium handling, and oxidative metabolism. Recent advances in bioactive scaffolds and extracellular vesicle (EV)-functionalized hydrogels are highlighted as platforms capable of approximating key features of the myocardium's native electromechanical and bioenergetic environment. Across two- and three-dimensional culture systems, this review identifies recurring maturation patterns, persistent gaps in metric standardization and long-term phenotype stability, and ongoing limitations related to scalability and translational implementation. Collectively, the findings synthesized here indicate that convergence between biomaterial engineering and metabolic programming represents a critical design principle for advancing iPSC-CMs toward functionally mature, clinically relevant phenotypes. This integrated approach enhances the fidelity of iPSC-CMs for disease modeling, drug screening, and regenerative cardiac therapies.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41898500/",
+    "date": "2026-03-29",
+    "analysis": "{\n    \"chinese_summary\": \"诱导多能干细胞来源心肌细胞（iPSC-CMs）的成熟是心脏再生医学的主要瓶颈。本综述探讨了通过整合纳米拓扑图案、机电耦合、可调基质刚度与线粒体底物优化等代谢干预，设计“智能”生物材料界面以主动指导iPSC-CMs成熟的策略。生物活性支架和细胞外囊泡功能化水凝胶等平台能模拟心肌天然电机械和生物能量环境。综述指出了成熟模式、标准化不足、长期表型稳定性及规模化应用等局限，强调生物材料工程与代谢编程的融合是推动iPSC-CMs向临床相关表型发展的关键设计原则。\",\n    \"innovation\": \"提出通过整合生物物理与代谢编程的“智能”生物材料界面，主动指导iPSC-CMs成熟，融合了纳米拓扑、机电耦合、基质刚度调控与代谢干预（如线粒体优化和脂肪酸氧化诱导）等协同策略。\",\n    \"flaw\": \"存在成熟指标标准化不足、长期表型稳定性问题，以及在规模化生产和临床转化应用方面的持续局限性。\"\n}"
+  },
+  {
+    "id": "10.1002/jbm.b.70044",
+    "title": "Addressing Current Challenges in Hydrogel Wound Dressing Strategies for Chronic Wound Management: Advances and Future Directions.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Fadhilah, Su, Fang",
+    "abstract": "Given the market for chronic wound care, where wound dressings are the key product, it should go without saying that providing satisfactory wound dressings is critical. A wide variety of wound dressings have been developed. Hydrogel has drawn attention as a potential wound dressing for chronic wounds. Hydrogel may absorb large amounts of water and up to 90% of biological fluids because it is a hydrophilic polymer. Nevertheless, there are still a number of unresolved issues with hydrogel, including frequent changing, the absence of real-time wound monitoring, maceration risk, and limited patient mobility. Several studies have attempted to overcome the limitations of hydrogel wound dressings. However, it is also possible that some problems are still unsolved or practically unproven. This review will discuss the limitations of the developed hydrogel dressings. We will also try to discuss prospective future projects and the strategies and tactics that have been investigated to circumvent the existing limitations.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41896189/",
+    "date": "2026-03-29",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了水凝胶作为慢性伤口敷料的潜力与局限。水凝胶因其亲水性可吸收大量生物液体，但存在需频繁更换、缺乏实时监测、浸渍风险及限制患者活动等问题。文章探讨了现有水凝胶敷料的不足，并展望了未来克服这些局限的策略与研究方向。\",\n    \"innovation\": \"该文献创新性地系统梳理了水凝胶伤口敷料在慢性伤口护理中的综合局限性，并前瞻性地探讨了未来解决这些问题的潜在策略。\",\n    \"flaw\": \"文献承认部分水凝胶敷料问题可能仍未解决或缺乏实际验证，且作为综述性文章未提供原始实验数据支持。\"\n}"
+  },
+  {
     "id": "10.1177/22808000261433066",
     "title": "Artificial bile duct made of GelMA-SA hybrid hydrogel for bile duct repair.",
     "journal": "Journal of applied biomaterials & functional materials",

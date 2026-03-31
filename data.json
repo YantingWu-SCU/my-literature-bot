@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70066",
+    "title": "Electroactive Dual-Drug Hydrogel-PLA Conduit for Nerve Regeneration.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Li, Wu, Xiong",
+    "abstract": "Peripheral nerve injury (PNI) remains a major clinical challenge due to the limitations of autologous nerve grafting. Herein, a multifunctional composite nerve conduit was developed by integrating an oriented collagen-grafted polylactic acid (PLA) electrospun scaffold with a conductive and anti-inflammatory hydrogel to enhance peripheral nerve regeneration. The hydrogel was fabricated by chemically cross-linking carboxymethyl chitosan (CMCS) and sodium carboxymethyl cellulose (CMC-Na), incorporating polyaniline (PANI) to impart electrical conductivity and loading rhein (RH) for sustained anti-inflammatory release. The PLA conduit was further modified with collagen and loaded with nerve growth factor (NGF), forming a structurally guided dual-drug delivery system. The modified conduit exhibited improved hydrophilicity (water contact angle reduced from 107.7° to 68.9°) and enhanced mechanical properties (Young's modulus of 9.88 MPa). Sustained NGF and RH release reached 81.53% and 76.37% within 30 days, respectively, with stable degradation over 72 days. The conductive hydrogel displayed a uniform porous structure with high porosity (> 70%) and an electrical conductivity of 12.19 mS/cm. The electrical conductivity of the composite nerve conduit is 3.27 mS/cm. In vitro experiments demonstrated enhanced Schwann cell adhesion, neurite outgrowth, neuronal differentiation, anti-inflammatory activity, and responsiveness to electrical stimulation. In vivo studies using a rat sciatic nerve defect model confirmed significantly accelerated nerve regeneration. Overall, this electrically responsive, dual-drug-loaded hydrogel-filled nerve conduit represents a promising alternative to autologous nerve grafts for peripheral nerve repair.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41906918/",
+    "date": "2026-03-31",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种多功能复合神经导管，通过将取向胶原接枝的聚乳酸电纺支架与导电抗炎水凝胶结合，以增强周围神经再生。该导管具有改善的亲水性、机械性能和电导率，能持续释放神经生长因子和抗炎药物，体外和体内实验均证实其能促进神经细胞生长和神经再生，为周围神经修复提供了有前景的替代方案。\",\n    \"innovation\": \"创新点在于开发了一种集取向结构引导、电导性、抗炎和神经营养因子持续释放于一体的多功能复合神经导管，以替代自体神经移植。\",\n    \"flaw\": \"不足在于研究仅基于大鼠模型，缺乏长期安全性和临床转化验证，且未详细评估导管在复杂人体环境中的生物相容性和功能持久性。\"\n}"
+  },
+  {
     "id": "10.3390/ijms27062889",
     "title": "Chitosan- and Gelatin-Based Composite Granular Hydrogels for Cartilage Tissue Regeneration.",
     "journal": "International journal of molecular sciences",

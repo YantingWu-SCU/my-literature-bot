@@ -1,5 +1,49 @@
 [
   {
+    "id": "10.31083/FBE38592",
+    "title": "Progress in Bioengineering: An Extensive Examination of State-of-the-Art Innovations in the Development of Artificial Corneas.",
+    "journal": "Frontiers in bioscience (Elite edition)",
+    "authors": "Zeppieri, Gagliano, D'Esposito",
+    "abstract": "Artificial corneas represent a significant breakthrough in addressing global corneal blindness, impacting millions of individuals worldwide. The scarcity of donor tissue and the complications of immune rejection necessitate the development of synthetic alternatives. This review examines key innovations in biomaterials, scaffold design, and regenerative medicine that have informed the development of artificial corneas. Recent studies have demonstrated that polyethylene glycol (PEG)-based hydrogels exhibit 98% light transmittance and an elastic modulus of 1.5 MPa, whereas collagen scaffolds achieve 85% clinical success with <5% inflammatory response. Graphene oxide-based nanocomposites have increased mechanical strength by 25%. Therefore, by synthesizing clinical and preclinical evidence, this article outlines current achievements and unresolved challenges related to scalability, cost, immune compatibility, and regulatory constraints, providing a roadmap for future translational research in corneal tissue engineering.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41914167/",
+    "date": "2026-04-01",
+    "analysis": "{\n    \"chinese_summary\": \"人工角膜是解决全球角膜盲症的重要突破，针对供体组织稀缺和免疫排斥问题，本文综述了生物材料、支架设计和再生医学的关键创新。研究表明，PEG水凝胶透光率达98%，胶原支架临床成功率85%，氧化石墨烯纳米复合材料机械强度提升25%。文章总结了当前成就及在可扩展性、成本、免疫相容性和监管方面的挑战，为未来角膜组织工程转化研究提供路线图。\",\n    \"innovation\": \"通过整合PEG水凝胶的高透光性、胶原支架的低炎症反应和氧化石墨烯纳米复合材料的增强机械强度，为人工角膜开发提供了多材料协同优化的创新策略。\",\n    \"flaw\": \"当前人工角膜技术仍面临规模化生产困难、成本高昂、长期免疫相容性不确定以及监管审批流程复杂等转化应用瓶颈。\"\n}"
+  },
+  {
+    "id": "10.1002/jbm.b.70056",
+    "title": "Biogenic AuNP-Loaded Electroconductive Hydrogels: A Multifunctional Therapeutic Strategy for Isoproterenol-Induced Myocardial Infarction.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Zhao, Yang, Yang",
+    "abstract": "Myocardial infarction (MI), a leading global cause of death, triggers substantial cardiomyocyte loss and heart dysfunction. Current treatments, including guideline-directed cardioprotective drugs and revascularization, face limitations such as poor durability, donor shortages, and immune rejection. Injectable hydrogels and cardiac patches offer promising avenues for post-MI tissue regeneration, with electrical conductivity enhancing cardiac function. Curcumin-gold nanoparticles (AuNPs) further mitigate inflammation, oxidative stress, and infarct size. This study integrates curcumin-AuNPs with an electroconductive nanocomposite hydrogel via green chemistry, using curcumin as both a reducing and stabilizing agent. The resulting AuNPs exhibited a diameter of 32 ± 9 nm and zeta potential of -29.6 mV. Incorporation into the hydrogel yielded a porous nanocomposite (70%-80% porosity with interconnected pores, confirmed by SEM) that was biocompatible and multifunctional. In vitro antioxidant assays showed dose-dependent radical scavenging by AuNPs, peaking at 50 μg/mL. In isoproterenol-induced myocardial injury rats, hydrogel/AuNP administration significantly attenuated cardiac damage, reducing inflammation, oxidative stress, and infarct size while preserving function. These findings demonstrate that curcumin-mediated AuNPs enable multifunctional, porous, antioxidant, and cardioprotective hydrogels with strong preclinical potential for MI repair and cardiovascular therapies.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41913492/",
+    "date": "2026-04-01",
+    "analysis": "{\n    \"chinese_summary\": \"本研究通过绿色化学方法，将姜黄素-金纳米颗粒与导电纳米复合水凝胶结合，开发了一种多孔、抗氧化、具有心脏保护功能的水凝胶。该材料在体外表现出剂量依赖的抗氧化活性，并在大鼠心肌损伤模型中显著减轻炎症、氧化应激和梗死面积，展现出修复心肌梗死和心血管治疗的临床前潜力。\",\n    \"innovation\": \"创新点在于利用姜黄素同时作为还原剂和稳定剂，通过绿色化学方法制备金纳米颗粒，并将其整合到导电纳米复合水凝胶中，实现了材料的多功能性和生物相容性。\",\n    \"flaw\": \"不足在于研究目前仅停留在动物实验阶段，尚未进行人体临床试验，其长期安全性和有效性有待进一步验证。\"\n}"
+  },
+  {
+    "id": "10.1016/bs.mcb.2025.09.008",
+    "title": "Engineering microcavity arrays as a niche for high-throughput and high-content analysis of tumoroids: A detailed methodology.",
+    "journal": "Methods in cell biology",
+    "authors": "Ouni, Bigot, Sauvat",
+    "abstract": "Tumoroids, which replicate patient tumor genetics and drug responses, have revolutionized oncology by enabling personalized treatment development and reducing reliance on animal testing. Despite remarkable advances in reproducing ever more sophisticated biology in advanced organoid platforms, there remain foundational challenges in standardizing and scaling-up tumour organoid development. Moreover, recreating key aspects of the tumour niche, namely its biomechanical properties is still overlooked in drug screening. To address these shortcomings, we introduce a technology for high-throughput derivation and high-content screening of tumoroids. Our technology relies on biofabrication of microengineered cell culture devices, which are scalable and tailored for standard automated lab-setups and real-time analysis of thousands of individual tumoroids trapped in microcavity arrays, within a polymer-hydrogel substrate. We validated our system using patient-derived urothelial cancer tumoroids, as they represent a good example of one of the most frequent cancer types with a debilitating clinical entity and a high financial burden related to the disease recurrency. Our scalable-culture technology should open new avenues toward more patient-tailored treatments or even new drugs targeting the extracellular matrix. Ultimately, the economic burden of the disease can be decreased by increasing treatment efficiency through larger, faster and more reliable screening.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41912314/",
+    "date": "2026-04-01",
+    "analysis": "{\n    \"chinese_summary\": \"肿瘤类器官能复制患者肿瘤遗传特征和药物反应，通过实现个性化治疗开发和减少动物实验依赖，革新了肿瘤学。尽管先进类器官平台在重现复杂生物学方面取得显著进展，但肿瘤类器官开发的标准化和规模化仍存在基础挑战，且药物筛选中常忽视肿瘤微环境的生物力学特性。为此，我们引入了一种高通量衍生和高内涵筛选肿瘤类器官的技术，该技术基于可扩展的微工程细胞培养装置，适用于标准自动化实验室设置，可实时分析数千个捕获在聚合物-水凝胶基质微腔阵列中的个体肿瘤类器官。我们使用患者来源的尿路上皮癌肿瘤类器官验证了该系统，该癌症类型常见、临床负担重且复发相关经济成本高。我们的可扩展培养技术有望为更个性化的治疗或靶向细胞外基质的新药开发开辟新途径，最终通过更大规模、更快速、更可靠的筛选提高治疗效率，降低疾病经济负担。\",\n    \"innovation\": \"开发了一种基于微工程细胞培养装置的高通量、高内涵肿瘤类器官筛选技术，可实时分析数千个个体肿瘤类器官，适用于标准自动化实验室设置。\",\n    \"flaw\": \"该技术虽解决了标准化和规模化挑战，但未明确说明如何完全重现肿瘤微环境的生物力学特性，这可能限制其在模拟真实肿瘤环境方面的应用。\"\n}"
+  },
+  {
+    "id": "10.1016/bs.mcb.2025.09.010",
+    "title": "Using vascularized organoids-on-chip for assessing systemic drug delivery.",
+    "journal": "Methods in cell biology",
+    "authors": "Tubbs, Navarro, Fouillet",
+    "abstract": "Vascularized organoids-on-chip aim at assessing systemic drug delivery, but also drug screening, toxicity testing, pharmacokinetics and dynamics, and disease modeling. Here, we provide a detailed experiment protocol to vascularize organoids-on-chip, in regards to pancreatic islet spheroids and hydrogel preparation towards the modelisation of autoimmune diseases, inflammation, immunotherapies.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41912310/",
+    "date": "2026-04-01",
+    "analysis": "{\n    \"chinese_summary\": \"本文提供了一种在芯片上血管化类器官的详细实验方案，重点关注胰岛球状体和凝胶制备，用于模拟自身免疫疾病、炎症和免疫疗法，旨在评估系统性药物递送、药物筛选、毒性测试、药代动力学和疾病建模。\",\n    \"innovation\": \"该研究创新性地开发了一种在芯片上血管化类器官的详细实验方案，特别针对胰岛球状体和凝胶制备，以模拟自身免疫疾病、炎症和免疫疗法。\",\n    \"flaw\": \"该方案可能受限于类器官的复杂性和芯片平台的规模，难以完全模拟体内环境的动态变化和长期稳定性。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70066",
     "title": "Electroactive Dual-Drug Hydrogel-PLA Conduit for Nerve Regeneration.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

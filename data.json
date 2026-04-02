@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/sciadv.aed4981",
+    "title": "Self-regulating hydrogel for diabetic wound healing: From animal models to a pilot clinical study.",
+    "journal": "Science advances",
+    "authors": "Zhao, Chen, Chen",
+    "abstract": "Chronic diabetic wounds affect millions and often fail to heal due to infection, inflammation, and poor angiogenesis, leading to high rates of amputation. Current treatments offer limited control over the wound microenvironment. Here, this work develops GPP@ZnBG hydrogels that can respond to elevated glucose and oxidative stress in diabetic wounds to release therapeutic ions in a self-pH-regulated and sequential manner. At an early stage, this hydrogel initiates a release of zinc ions under alkaline conditions, providing antibacterial activity while avoiding toxicity from excessive dosing. During the late stage, the hydrogel degrades, and it steadily releases zinc, calcium, and silicate ions that support angiogenesis, reduce inflammation, and promote tissue repair. In diabetic mice, GPP@ZnBG hydrogels improve neovascularization and enhance collagen deposition, leading to enhanced wound closure. Single-cell RNA sequencing results indicate that the hydrogel modulates fibroblast behavior, specifically fine-tuning NF-κB signaling to reduce detrimental inflammation and promote wound repair. A pilot clinical study demonstrates that topical GPP@ZnBG application showed a 94.57% relative reduction in a wound surface area within 4 weeks, with no adverse events reported. These findings establish a self-pH-driven ion delivery strategy that targets both infection and tissue regeneration, offering a promising therapeutic platform for chronic diabetic wound care.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41920988/",
+    "date": "2026-04-02",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了GPP@ZnBG水凝胶，可响应糖尿病伤口的高血糖和氧化应激，以自pH调节的序贯方式释放治疗性离子。早期在碱性条件下释放锌离子发挥抗菌作用，避免过量毒性；晚期降解后持续释放锌、钙、硅酸盐离子，促进血管生成、减轻炎症并修复组织。动物实验显示该水凝胶能改善新生血管和胶原沉积，单细胞测序表明其通过调节成纤维细胞NF-κB信号通路促进修复。初步临床研究显示4周内伤口面积相对减少94.57%且无不良反应。\",\n    \"innovation\": \"开发了能响应伤口微环境（高血糖/氧化应激）并基于pH值自主调控离子序贯释放的智能水凝胶，同时靶向抗感染和组织再生。\",\n    \"flaw\": \"初步临床研究样本量有限，需更大规模试验验证长期安全性和普适性。\"\n}"
+  },
+  {
+    "id": "10.1007/s10856-026-07023-4",
+    "title": "Harnessing biopolymeric double network hydrogels for cartilage repair: a review of current strategies.",
+    "journal": "Journal of materials science. Materials in medicine",
+    "authors": "Rahimkhoei, Akinay, Akbari",
+    "abstract": "Hydrogels with a double network (DN) structure that are based on carbohydrates have shown potential as scaffolds for the regeneration of cartilage. We postulate that these hydrogels can aid in the repair of cartilage and sustain the regeneration of tissue because of their ability to hold large quantities of water and large amounts of bioactive molecules. Some recent preclinical studieswith DN hydrogels that have been modified with growth factors, other biological molecules, and or therapeutic agents have shown enhanced growth of the cartilage tissue, hydration, and structural integrity of the tissue. In this review, we detail these advancements as potential carbohydrate-based double network hydrogels for the treatment of cartilage defects and osteoarthritis. Optimized DN hydrogels are tissue engineering scaffolds for cartilage regeneration, with the potential to translate to clinical practice.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41902979/",
+    "date": "2026-04-02",
+    "analysis": "{\n    \"chinese_summary\": \"基于碳水化合物的双网络水凝胶因其高含水量和生物活性分子负载能力，在软骨再生中展现出潜力。近期研究表明，经生长因子等修饰的双网络水凝胶能促进软骨组织生长、水合及结构完整性，有望成为治疗软骨缺损和骨关节炎的组织工程支架。\",\n    \"innovation\": \"将碳水化合物基双网络水凝胶与生物活性分子（如生长因子）结合，显著提升了软骨组织的再生效果。\",\n    \"flaw\": \"目前研究主要停留在临床前阶段，尚未验证其在人体临床应用中的安全性和长期疗效。\"\n}"
+  },
+  {
     "id": "10.31083/FBE38592",
     "title": "Progress in Bioengineering: An Extensive Examination of State-of-the-Art Innovations in the Development of Artificial Corneas.",
     "journal": "Frontiers in bioscience (Elite edition)",

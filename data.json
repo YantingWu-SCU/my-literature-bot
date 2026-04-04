@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1177/22808000261431513",
+    "title": "Molecular modulation of cell migration via chitosan-based hydrogels: Toward smart biomaterial for wound regeneration.",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "authors": "Hosseinkhani, Molaei, Roosta",
+    "abstract": "Chitosan-derived hydrogels offer a highly tunable scaffold for orchestrating the multifaceted process of wound repair, yet their full potential hinges on an integrated understanding of biochemical and biophysical cues. Here, we provide a concise yet comprehensive analysis of design parameters that govern cell-matrix interactions, focusing on polymer backbone modification, crosslinking density, and incorporation of bioactive ligands. We demonstrate how precise control of viscoelastic properties viscoelastic properties, including stiffness and stress relaxation, achieved through reversible covalent bonds and supramolecular assemblies regulates YAP/TAZ nuclear localization and downstream PI3K/Akt and MAPK/ERK signaling to differentially promote coordinated keratinocyte migration, fibroblast proliferation, and endothelial angiogenesis. Functionalization with RGD peptides and heparin-binding motifs further amplifies receptor-mediated adhesion and growth factor sequestration, creating a pro-regenerative microenvironment. We critically appraise the kinetic profiles of growth factor release and immunomodulatory payloads, underscoring the necessity of spatiotemporal precision in smart hydrogel systems and summarize preclinical and clinical evidence demonstrating accelerated wound closure in diabetic and burn models. Finally, we identify pivotal challenges including the quantitative decoupling of mechanical versus molecular influences in vivo, long-term biocompatibility of modified chitosan derivatives, and translation of high-throughput screening data into clinical contexts and propose a roadmap leveraging single-cell transcriptomics and advanced imaging, and AI-driven modeling to overcome translational challenges. This synthesis delivers actionable guidelines for the development of next-generation, personalized wound therapies.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41930473/",
+    "date": "2026-04-04",
+    "analysis": "{\n    \"chinese_summary\": \"壳聚糖水凝胶作为可调控的伤口修复支架，通过聚合物修饰、交联密度和生物活性配体控制细胞-基质相互作用，精确调控粘弹性以影响YAP/TAZ信号通路，促进细胞迁移、增殖和血管生成。功能化修饰增强受体介导的粘附和生长因子捕获，加速糖尿病和烧伤模型的伤口愈合。研究指出需解决机械与分子影响的定量分离、长期生物相容性及临床转化等挑战，并提出利用单细胞转录组学、先进成像和AI建模的发展路线。\",\n    \"innovation\": \"通过可逆共价键和超分子组装精确调控水凝胶粘弹性，靶向YAP/TAZ信号通路协调多种细胞行为促进伤口修复。\",\n    \"flaw\": \"需在体内定量分离机械与分子影响，并解决修饰壳聚糖衍生物的长期生物相容性及高通量筛选数据的临床转化难题。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aed4981",
     "title": "Self-regulating hydrogel for diabetic wound healing: From animal models to a pilot clinical study.",
     "journal": "Science advances",

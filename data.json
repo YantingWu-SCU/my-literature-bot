@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1016/j.scijus.2025.101378",
+    "title": "Encapsulation of degraded DNA in alginate hydrogels: Rheological characterization and applicability to forensic science.",
+    "journal": "Science & justice : journal of the Forensic Science Society",
+    "authors": "Elliott, Stotesbury",
+    "abstract": "Forensic biomaterials are on the rise, with efforts focused on developing realistic tissue and blood mimetics. The incorporation of small and degraded DNA into these materials enhances their realism and functionality, which has implications for research and training across forensic science. It is therefore important to understand the physicochemical and conformational changes that DNA undergoes during ex vivo degradation. Large fragments of highly concentrated genomic and phage DNA in solution have been characterized using rheology; however, this amount and size of DNA are atypical in DNA extracted from forensic evidence. In this work, we investigated how the addition of synthetic DNA oligos and genomic DNA extracted from bloodstains deposited for up to 19 months influenced the rheological properties of polymer systems intended for forensic biomaterial synthesis. We used FTIR spectroscopy to probe interactions between DNA and the encapsulating matrix and automated gel electrophoresis to record DNA quality/quantity metrics, both of which supported our rheological findings. Encapsulating DNA within an alginate-based, ionically crosslinked hydrogel produced the greatest differentiation in rheological profiles among DNA with varying physical properties. The distinct conformations and sizes of encapsulated DNA oligos exhibited significantly different responses during strain amplitude sweeps (p < 0.05). We also observed moderate correlations between the rheological responses of DNA extracts and the time since deposition of corresponding bloodstains (r = -0.57 to r = 0.62). This indicates that dilute, polydisperse and degraded genomic DNA extracts can modulate the rheological properties of the encapsulating hydrogel, highlighting the need to consider the type of DNA included in forensic biomaterials. Our results demonstrate the potential for rheology to serve as a complementary technique when analyzing encapsulated dilute DNA oligos and degraded DNA.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41932790/",
+    "date": "2026-04-05",
+    "analysis": "{\n    \"chinese_summary\": \"本研究探讨了在法医生物材料合成中，添加合成DNA寡核苷酸和从长达19个月的血迹中提取的基因组DNA对聚合物体系流变特性的影响。通过FTIR光谱和自动凝胶电泳分析DNA与封装基质的相互作用及DNA质量/数量，发现DNA的物理性质差异在藻酸盐基离子交联水凝胶中导致流变曲线显著区分，且DNA提取物的流变响应与血迹沉积时间呈中度相关。结果表明，稀、多分散和降解的基因组DNA可调节水凝胶流变特性，流变学可作为分析封装DNA的补充技术。\",\n    \"innovation\": \"首次将流变学应用于分析封装在法医生物材料中的稀、多分散和降解DNA，揭示了DNA物理性质对水凝胶流变特性的可调影响。\",\n    \"flaw\": \"研究仅基于实验室控制的DNA样本和血迹，未涵盖实际法医场景中更复杂的DNA降解因素和环境变量。\"\n}"
+  },
+  {
     "id": "10.1177/22808000261431513",
     "title": "Molecular modulation of cell migration via chitosan-based hydrogels: Toward smart biomaterial for wound regeneration.",
     "journal": "Journal of applied biomaterials & functional materials",

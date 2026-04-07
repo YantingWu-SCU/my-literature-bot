@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1073/pnas.2528666123",
+    "title": "Extracellular matrix chemistry tunes bacterial biofilm metabolism and optimizes fitness.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Li, Squyres, Duong",
+    "abstract": "Chemically complex extracellular matrices define cellular microenvironments and shape cell behavior across all domains of life. But how has evolution optimized these materials to ensure the success of multicellular communities? Inspired by the well-established composition-properties-function relationships in engineered materials, we hypothesized that analogous relationships exist in extracellular matrices, where the composition and interactions among various matrix components govern material properties and cellular physiology. Here, we examine <i>Pseudomonas aeruginosa</i> biofilms-representative of ubiquitous multicellular microbial assemblies in nature and disease. We show that electrostatic interactions between the cationic polysaccharide Pel and extracellular DNA (eDNA) compete with eDNA binding to pyocyanin (PYO), a diffusible redox-active metabolite that supports anaerobic metabolism via extracellular electron transfer (EET). From a materials perspective, biofilm-mimetic hydrogels and natural biofilms revealed that altering Pel's charge via pH adjustment or chemical acetylation, or tuning the Pel:eDNA ratio, directly and predictably modulates PYO retention and EET efficiency. Biologically, a lower Pel:eDNA ratio enhances biofilm metabolism under oxygen limitation, whereas a higher ratio promotes survival under antibiotic stress. Notably, these perturbations (pH, Pel structure, and abundance) can be achieved directly or indirectly through biological activities. Together, these findings highlight how biologically regulated matrix chemistry encodes tunable material properties that, in turn, affect cellular responses that confer biofilm fitness advantages. They further suggest cells might actively fine-tune the surrounding matrix chemistry to maximize survival across diverse environments. More broadly, our work establishes a materials-based framework for a mechanistic understanding of the biological functions of extracellular matrix components in multicellular communities.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41941620/",
+    "date": "2026-04-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究以铜绿假单胞菌生物膜为模型，揭示了胞外基质中阳离子多糖Pel与胞外DNA（eDNA）之间的静电相互作用，通过竞争性结合影响电子传递代谢物PYO的保留和胞外电子传递效率。从材料学角度，调控Pel电荷或Pel:eDNA比例可预测性地改变生物膜代谢和抗生素耐受性，表明生物调控的基质化学编码了可调材料特性，进而赋予生物膜适应性优势。\",\n    \"innovation\": \"首次建立了胞外基质成分（Pel、eDNA、PYO）的组成-性质-功能关系框架，揭示了生物通过主动调控基质化学来优化多细胞群落适应性的新机制。\",\n    \"flaw\": \"研究主要基于体外生物膜模拟系统和单一微生物模型，尚未在复杂体内环境或多物种群落中验证其普适性。\"\n}"
+  },
+  {
     "id": "10.1016/j.scijus.2025.101378",
     "title": "Encapsulation of degraded DNA in alginate hydrogels: Rheological characterization and applicability to forensic science.",
     "journal": "Science & justice : journal of the Forensic Science Society",

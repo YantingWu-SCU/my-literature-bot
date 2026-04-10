@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.202500653",
+    "title": "In Vitro Evaluation of an Adhesive Hydrogel-Based Chondrocyte Carrier for Enhanced Therapeutic Delivery.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Karami, Laurent, Philippe",
+    "abstract": "Large knee chondral defects remain a major challenge in orthopaedic surgery and may lead to osteoarthritis. Autologous chondrocyte implantation (ACI) is a widely used regenerative therapy; current techniques have inherent limitations related to cell delivery, retention, and integration. This study investigates a novel adhesive hydrogel as a cell carrier for enhanced therapeutic delivery in cartilage repair. This injectable hydrogel can lead to a paradigm shift in ACI through removing the need for membranes entirely and enabling direct in situ fixation of cell-laden constructs while preserving the chondrocytic phenotype. In this work, we report in vitro encapsulation of human autologous chondrocytes (HACs) using cells from five orthopedic patients within this hydrogel with subsequent in vitro evaluation of functional outcomes, including cell viability, glycosaminoglycan production, histological and immunohistological outcomes, and evolution of mechanical properties of the cell constructs. Moreover, by analyzing the hydrogel polymer content (PC), we identified an optimal formulation balancing biological activity and mechanical integrity.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41954839/",
+    "date": "2026-04-10",
+    "analysis": "{\n    \"chinese_summary\": \"本研究针对膝关节大软骨缺损修复难题，开发了一种新型粘性水凝胶作为自体软骨细胞移植的细胞载体。该可注射水凝胶无需使用膜，能直接原位固定细胞构建体并保持软骨细胞表型。通过体外实验评估了五名患者软骨细胞在水凝胶中的活性、糖胺聚糖产量、组织学及力学性能，并确定了生物活性与机械完整性平衡的最佳配方。\",\n    \"innovation\": \"该研究创新性地开发了一种无需膜、可原位固定细胞并保持软骨细胞表型的可注射粘性水凝胶，有望改变自体软骨细胞移植的现有技术范式。\",\n    \"flaw\": \"研究目前仅进行了体外实验，缺乏体内或临床数据验证其实际修复效果和长期安全性。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500319",
     "title": "Sulfonated Hyaluronic Acid-Based Polymers and Hydrogels Using Thiol-Ene and Thiol-Michael Reactions.",
     "journal": "Macromolecular bioscience",

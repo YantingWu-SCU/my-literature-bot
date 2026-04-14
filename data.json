@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3390/cells15070641",
+    "title": "Human Nasal Cells in Nanofibrillar Cellulose Hydrogel: Viability, Function, and Implications for Bone Tissue Regeneration.",
+    "journal": "Cells",
+    "authors": "Sekulic, Korah, Negoias",
+    "abstract": "Endoscopic sinus surgery (ESS) is commonly performed to treat chronic rhinosinusitis and selected sinonasal tumors, yet postoperative complications such as neo-osteogenesis and restenosis remain frequent, largely due to impaired mucosal regeneration after extensive epithelial and bony tissue loss. Successful nasal epithelial repair requires a microenvironment that preserves cell viability, phenotype, and barrier integrity. Conventional culture substrates often lack physiological relevance or rely on animal-derived components, limiting translational applicability. In this study, we evaluated nanofibrillar cellulose (NFC) hydrogel (GrowDex<sup>®</sup>) as a xeno-free scaffold for primary human nasal epithelial cells (NECs). NECs isolated from healthy donor tissue were characterized by immunofluorescence and qPCR for basal, goblet, and ciliated cell markers. Cells embedded in NFC were assessed for viability, cytotoxicity, epithelial morphology, and barrier function. Transepithelial electrical resistance (TEER) and FITC-dextran permeability assays were used to quantify barrier integrity and compared with collagen- and polylysine-based controls. NECs cultured in NFC maintained high viability, stable epithelial morphology, and preserved subtype-specific marker expression without detectable cytotoxicity. NFC-supported cultures demonstrated enhanced barrier formation, indicated by higher TEER values and reduced paracellular permeability relative to controls, and sustained structural integrity during extended culture. These findings identify NFC hydrogel as a biocompatible, non-animal scaffold that supports functional human nasal epithelium regeneration and may contribute to advanced tissue engineering strategies for craniofacial bone repair.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41972729/",
+    "date": "2026-04-14",
+    "analysis": "{\n    \"chinese_summary\": \"本研究评估了纳米纤维纤维素（NFC）水凝胶作为无动物源支架用于原代人鼻上皮细胞（NECs）培养的效果。结果显示，NFC支架能维持细胞高活力、稳定上皮形态和亚型特异性标志物表达，并增强屏障功能（表现为更高的跨上皮电阻和更低的通透性），表明其是一种生物相容性良好的支架，有望用于鼻上皮再生和组织工程策略。\",\n    \"innovation\": \"首次将无动物源的纳米纤维纤维素水凝胶作为支架应用于原代人鼻上皮细胞培养，并证明其能有效支持功能性上皮再生。\",\n    \"flaw\": \"研究未在动物模型或临床环境中验证NFC支架在促进术后黏膜再生和预防并发症方面的实际效果。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500653",
     "title": "In Vitro Evaluation of an Adhesive Hydrogel-Based Chondrocyte Carrier for Enhanced Therapeutic Delivery.",
     "journal": "Macromolecular bioscience",

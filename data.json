@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3390/ijms27072932",
+    "title": "Mechanically Soft Phase-Separated Gelatin/Hyaluronic Acid Hydrogels Support Long-Term Expansion of Human Mesenchymal Stem Cells While Preserving Multipotency.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Yamashita, Yongvongsoontorn, Chung",
+    "abstract": "Large-scale expansion of human mesenchymal stem cells (hMSCs) remains a major challenge due to the intrinsic trade-off between cell proliferation and the maintenance of multipotency in conventional culture systems. Stiff substrates, such as tissue culture polystyrene or rigid hydrogels, promote rapid proliferation but induce progressive loss of stemness, whereas very soft matrices preserve multipotency at the expense of cell growth. To overcome this limitation, we developed mechanically soft, phase-separated gelatin-phenol/hyaluronic acid-phenol (Gtn-Ph/HA-Ph) hydrogels with precisely controlled microstructures via enzyme-mediated crosslinking. These hydrogels consist of HA-rich, dot-like domains embedded within a continuous Gtn-rich network, allowing for independent tuning of stiffness and domain architecture. On single-component Gtn-Ph hydrogels, hMSC proliferation increased with substrate stiffness, whereas soft hydrogels with a storage modulus (<i>G</i>') of approximately 0.6 kPa markedly suppressed proliferation while preserving stemness marker expression, confirming the stiffness-dependent trade-off. In contrast, phase-separated Gtn-Ph/HA-Ph hydrogels supported robust hMSC proliferation even under soft mechanical conditions while maintaining high expression of stemness-associated markers. During long-term culture, hMSCs achieved a 68- to 195-fold increase in cumulative cell yield on soft Gtn-Ph/HA-Ph hydrogels (<i>G</i>' = 0.5 kPa) compared with tissue culture polystyrene. Expression of α-smooth muscle actin (α-SMA) mRNA, encoded by the <i>ACTA2</i> gene and associated with cellular senescence and fibrotic activation, was completely suppressed, while hMSCs retained robust adipogenic, osteogenic, and chondrogenic differentiation capacities. These results demonstrate that phase-separated Gtn-Ph/HA-Ph hydrogels effectively resolve the proliferation-multipotency dilemma in hMSC expansion and provide a promising platform for scalable manufacturing of therapeutic stem cells.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41977122/",
+    "date": "2026-04-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了相分离的明胶-苯酚/透明质酸-苯酚水凝胶，通过精确调控微观结构，在保持柔软机械性能的同时，有效解决了人间充质干细胞扩增中增殖与多能性维持的矛盾，实现了细胞产量显著提升并抑制了衰老相关基因表达。\",\n    \"innovation\": \"通过酶介导交联构建相分离水凝胶，首次在柔软基质上同时实现人间充质干细胞的高增殖率与多能性保持。\",\n    \"flaw\": \"研究未涉及该水凝胶系统的长期生物相容性及在动物模型中的实际治疗效果验证。\"\n}"
+  },
+  {
     "id": "10.3390/cells15070641",
     "title": "Human Nasal Cells in Nanofibrillar Cellulose Hydrogel: Viability, Function, and Implications for Bone Tissue Regeneration.",
     "journal": "Cells",

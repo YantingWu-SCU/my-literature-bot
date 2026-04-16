@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aec6857",
+    "title": "Bioresorbable acoustic patch for simultaneous sealing and early detection of gastric leakage.",
+    "journal": "Science advances",
+    "authors": "Hu, Xu, Meng",
+    "abstract": "Gastric anastomotic leakage is a life-threatening postoperative complication that necessitates early detection and timely intervention. Implantable electronics offer direct access to deep tissue and enable accurate recognition of homeostatic imbalances yet are constrained by miniaturization, biodegradability, and power sustainability. Here, we propose an implantable-wearable integrated strategy for early detection of gastric anastomotic leakage. Specifically, a bioresorbable hydrogel patch serves as the sole implant, responding to gastric acid to modulate ultrasound echo signals in both time and frequency domains. This enables early leakage detection (within 1 hour) and millimeter-level spatial localization via a wearable ultrasound array. Meanwhile, the hydrogel patch exhibits acid-enhanced leak sealing capability and degrades naturally after the healing period, thereby eliminating the need for surgical removal. We confirmed its capabilities in spatiotemporal monitoring, anastomotic repair, and bioabsorbability in a rat gastric perforation model. Our system operates without complex electronic implants, highlighting its clinical potential for postoperative monitoring and management of gastric anastomotic leaks.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41984962/",
+    "date": "2026-04-16",
+    "analysis": "{\n    \"chinese_summary\": \"本研究提出一种植入-穿戴集成策略，用于早期检测胃吻合口漏。通过生物可吸收水凝胶贴片响应胃酸调节超声信号，实现1小时内早期检测和毫米级定位，同时具备酸增强密封能力，愈合后自然降解，无需手术取出。在大鼠胃穿孔模型中验证了其时空监测、修复和生物吸收能力。\",\n    \"innovation\": \"采用无复杂电子植入的生物可吸收水凝胶贴片，通过酸响应机制实现早期胃吻合口漏的超声检测与自密封修复。\",\n    \"flaw\": \"研究目前仅在大鼠模型中进行验证，尚未开展人体临床试验，临床转化效果和安全性有待进一步评估。\"\n}"
+  },
+  {
     "id": "10.3390/ijms27072932",
     "title": "Mechanically Soft Phase-Separated Gelatin/Hyaluronic Acid Hydrogels Support Long-Term Expansion of Human Mesenchymal Stem Cells While Preserving Multipotency.",
     "journal": "International journal of molecular sciences",

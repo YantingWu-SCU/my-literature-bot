@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70070",
+    "title": "The Efficacy of Hydrogel Dressings in Management and Prevention of Radiation Dermatitis: A Comparative Review.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Mbese, Okoh",
+    "abstract": "Radiation dermatitis (RD) is one of the most common adverse effects of radiotherapy and significantly impacts patient comfort, quality of life, and treatment adherence. Effective supportive care strategies are therefore essential to preserve skin integrity and prevent treatment interruption. Among available wound care options, hydrogel dressings have emerged as promising biomaterials due to their ability to maintain a moist environment, reduce transepidermal water loss, provide cooling relief, and enable atraumatic removal. This review aims to critically evaluate the role of hydrogel dressings in the management of RD by integrating current understanding of RD pathophysiology with advances in hydrogel design. The manuscript adopts a stage-oriented approach, aligning natural, synthetic, and hybrid hydrogel systems with the evolving biological characteristics of irradiated skin. Comparative performance with conventional wound care materials and emerging innovations including bioactive, stimuli-responsive, and multifunctional hydrogel platforms are also discussed. Although hydrogels demonstrate significant short-term benefits in symptom control and wound healing, limitations such as mechanical constraints, cost considerations, and limited long-term clinical evidence remain. Future research should prioritize well-designed randomized trials, standardized outcome measures, and personalized guideline-aligned application strategies to optimize their clinical integration. Hydrogel dressings represent a promising therapeutic platform in RD management, with potential to advance precision supportive oncology care.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41988808/",
+    "date": "2026-04-17",
+    "analysis": "{\n    \"chinese_summary\": \"放射性皮炎是放疗常见不良反应，严重影响患者舒适度、生活质量和治疗依从性。水凝胶敷料因其保湿、减少水分流失、冷却和无创移除等特性，成为有前景的RD管理生物材料。本文综述了水凝胶在RD治疗中的作用，结合病理生理学和水凝胶设计进展，采用分期方法评估天然、合成及混合水凝胶系统，并与传统材料及新型生物活性、刺激响应等多功能水凝胶进行比较。尽管水凝胶在症状控制和伤口愈合方面具有短期优势，但仍存在机械限制、成本高和长期临床证据不足等局限。未来需加强随机试验、标准化评估和个性化应用策略研究，以优化临床整合，推动精准支持性肿瘤护理。\",\n    \"innovation\": \"该综述创新性地采用分期导向方法，将天然、合成及混合水凝胶系统与放射性皮炎皮肤的动态生物学特征相匹配，并整合了生物活性、刺激响应等多功能水凝胶平台的最新进展。\",\n    \"flaw\": \"水凝胶敷料在放射性皮炎管理中的主要局限包括机械性能限制、成本考虑以及缺乏长期临床证据支持。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aec6857",
     "title": "Bioresorbable acoustic patch for simultaneous sealing and early detection of gastric leakage.",
     "journal": "Science advances",

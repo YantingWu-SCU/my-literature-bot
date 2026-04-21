@@ -1,5 +1,71 @@
 [
   {
+    "id": "10.1002/mabi.70186",
+    "title": "Progress in the Application of Hydrogel Materials for the Treatment of Intestinal Fistula.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Li, Jing, Liu",
+    "abstract": "Intestinal fistula refers to an abnormal anatomical channel between the intestines or between the intestine and another organ, commonly resulting from factors such as intestinal incision leakage, anastomotic leak, inflammatory bowel disease, and radiation enteropathy. Following its occurrence, various complications may arise, including abdominal infection, sepsis, intra-abdominal hypertension, massive abdominal hemorrhage, necrotizing fasciitis of the abdominal wall, chronic critical illness, and multiple organ dysfunction syndrome. In most cases, surgical resection of the intestinal fistula combined with thorough irrigation and drainage is required, though healing remains challenging. Hydrogels, as cross-linked polymer materials, are widely used in pharmaceuticals, biomedical implants, tissue engineering, regenerative medicine, and bioadhesive barriers. Based on these characteristics and functions, hydrogel materials also play a significant role in the treatment of intestinal fistulas. This review will systematically outline the design strategies, application mechanisms, and research progress of hydrogel materials for treating intestinal fistulas, and discuss current challenges as well as future development trends.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42003765/",
+    "date": "2026-04-21",
+    "analysis": "{\n    \"chinese_summary\": \"肠瘘是肠道之间或肠道与其他器官之间的异常通道，常由肠切口漏、吻合口漏、炎症性肠病和放射性肠病等因素引起，可导致腹腔感染、脓毒症、腹腔内高压、大出血、腹壁坏死性筋膜炎、慢性危重病和多器官功能障碍综合征等并发症。治疗通常需要手术切除瘘管并彻底冲洗引流，但愈合困难。水凝胶作为交联聚合物材料，在药物、生物医学植入物、组织工程、再生医学和生物粘附屏障中广泛应用，在肠瘘治疗中也发挥重要作用。本文综述了水凝胶材料治疗肠瘘的设计策略、应用机制、研究进展，并讨论了当前挑战和未来发展趋势。\",\n    \"innovation\": \"系统综述了水凝胶材料在肠瘘治疗中的设计策略、应用机制和研究进展，为这一难治性疾病提供了新的材料学治疗视角。\",\n    \"flaw\": \"作为综述性文献，缺乏原创性实验数据支持水凝胶在肠瘘治疗中的具体疗效和安全性验证。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125286",
+    "title": "Epigallocatechin gallate-loaded alginate-peanut protein hydrogel beads: Influence of pectin-based crosslinking and chitosan-based coating strategies.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Wang, Wang, Zhu",
+    "abstract": "Epigallocatechin gallate (EGCG) exhibits potent antioxidant capacity along with multiple health-promoting bioactivities; however, its low bioavailability has limited its practical application. In this study, composite hydrogel beads were fabricated using sodium alginate (SA) and peanut protein isolate (PPI) as the primary matrix materials, and EGCG was encapsulated via two distinct strategies: blending low-methoxy pectin (LMP) with SA for calcium ion-induced multiple cross-linking, and combining quaternized chitosan (QC) with SA through interfacial layer-by-layer self-assembly to create an electrostatic coating. Both aimed to improve EGCG stability during digestion and enhance its functionality. The results demonstrated that the incorporation of LMP and QC both enhanced the mechanical properties of the hydrogel beads (P < 0.05), with hydrogen bonding and electrostatic interactions serving as the primary forces driving gel formation. LMP addition reduced encapsulation efficiency (EE), whereas QC enhanced it; the highest EE (74.23%) was achieved at 0.5% QC. Under simulated gastrointestinal conditions, the beads demonstrated pH-responsive behavior: EGCG release was slow in gastric fluid (25.1%-44.3%) but increased sharply in intestinal fluid. Overall, QC-modified SA-PPI composite hydrogel beads represent a promising carrier platform with significant potential for targeted intestinal delivery of hydrophilic bioactives such as EGCG.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42002352/",
+    "date": "2026-04-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究采用海藻酸钠和花生分离蛋白制备复合水凝胶珠，通过两种策略封装表没食子儿茶素没食子酸酯（EGCG）：低甲氧基果胶与海藻酸钠钙离子交联，以及季铵化壳聚糖与海藻酸钠静电自组装涂层。结果表明，季铵化壳聚糖修饰的复合水凝胶珠显著提高了EGCG的包封率（最高达74.23%），并在模拟胃肠环境中表现出pH响应性释放特性，为EGCG等亲水性生物活性物质的肠道靶向递送提供了有前景的载体平台。\",\n    \"innovation\": \"通过季铵化壳聚糖与海藻酸钠的静电自组装涂层策略，显著提高了EGCG在复合水凝胶珠中的包封率，并实现了pH响应性的肠道靶向释放。\",\n    \"flaw\": \"低甲氧基果胶的加入降低了EGCG的包封效率，且研究未涉及体内生物利用度的实际验证。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125271",
+    "title": "Structural characterization of a fructan from Kalimeris indica and its efficacy in accelerating wound healing.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Zhu, Hou, Lingling",
+    "abstract": "Polysaccharides have demonstrated potential as wound dressings. Kalimeris indica (KI) is a traditional Chinese medicinal known for its multiple pharmacological effects, with polysaccharide being one of its main bioactive components. However, the wound-healing effects and mechanisms of KI-derived polysaccharides in wound healing remain unexplored. Here, we isolated and purified a homogeneous polysaccharide (KIP-W) from the plant, and hypothesized that KI-derived polysaccharides exert therapeutic effects on wound healing. Structural characterization indicated that KIP-W is a fructan with a main chain of →1)-β-D-Fruf-(2→. A composite hydrogel (KIP-W/CBM/CMC) was developed using KIP-W, carboxymethyl 940 (CBM), and carboxymethyl cellulose (CMC). The hydrogel exhibited favorable physicochemical properties, including optimal porosity, controlled degradability, and sustained release behavior. In vitro studies indicated that KIP-W promoted the proliferation and migration of HUVECs, and induced macrophage polarization from M1 to M2 phenotype. In vivo evaluation using a full-thickness skin wound model in mice demonstrated that the KIP-W/CBM/CMC hydrogels accelerated wound closure and enhanced re-epithelialization. Furthermore, the hydrogels promoted collagen deposition-stimulated angiogenesis, enabling complete regeneration of thick dermal and epidermal tissues, with partial restoration of hair follicles. Overall, these findings indicate that KIP-W/CBM/CMC hydrogels represent are promising, and cost-effective, wound dressings strategy, expand the potential applications of the fructan KIP-W.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42002349/",
+    "date": "2026-04-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究从传统中药Kalimeris indica中分离纯化出均一多糖KIP-W（一种果聚糖），并开发了KIP-W/CBM/CMC复合水凝胶。该水凝胶具有优良的理化特性，能促进血管内皮细胞增殖迁移、诱导巨噬细胞向M2表型极化，在小鼠全层皮肤缺损模型中加速伤口愈合、促进胶原沉积和血管生成，实现皮肤组织再生，是一种有前景的伤口敷料。\",\n    \"innovation\": \"首次系统研究了Kalimeris indica来源多糖KIP-W的伤口愈合作用机制，并成功开发出具有促进组织再生功能的多糖复合水凝胶敷料。\",\n    \"flaw\": \"研究缺乏对KIP-W具体分子作用靶点的深入机制探讨，且未进行长期安全性和大规模动物模型验证。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125257",
+    "title": "Repurposing tumor-derived extracellular vesicles with an adhesive carboxymethyl chitosan-based hydrogel for spinal cord injury repair.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Wang, Hsiao, Pan",
+    "abstract": "Spinal cord injury (SCI) triggers a cascade of pathological events, including persistent neuroinflammation and glial scar formation, which severely hinder axonal regeneration and motor functional recovery. Inspired by the immunosuppressive and regenerative features of the tumor microenvironment, this study introduces a high-reward strategy that repurposes tumor-derived extracellular vesicles (TDEVs) for SCI repair. To ensure localized delivery and enhance safety, TDEVs are incorporated into an injectable adhesive hydrogel composed of carboxymethyl chitosan (CMC) and polydopamine (PDA), crosslinked through Schiff-base chemistry. The resulting TDEVs@CMC-PDA hydrogel adheres firmly to the injured spinal cord and enables sustained release of TDEVs, allowing targeted modulation of the injury microenvironment. In a mouse SCI model, TDEVs@CMC-PDA effectively attenuates neuroinflammation, suppresses glial scar formation, and promotes axonal regrowth and remyelination, ultimately improving motor function. Importantly, biosafety assessments reveal no evidence of systemic toxicity or transcriptional activation of oncogenic pathways. These findings highlight the therapeutic promise and safety of repurposing TDEVs with the adhesive CMC-PDA hydrogel, positioning this strategy as a compelling platform for neural regeneration and beyond.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42002341/",
+    "date": "2026-04-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究提出一种创新策略，利用肿瘤来源的细胞外囊泡（TDEVs）修复脊髓损伤。通过将TDEVs封装在羧甲基壳聚糖-聚多巴胺（CMC-PDA）可注射粘附水凝胶中，实现局部缓释递送。在小鼠脊髓损伤模型中，该TDEVs@CMC-PDA水凝胶能有效减轻神经炎症、抑制胶质瘢痕形成、促进轴突再生和髓鞘修复，并改善运动功能，且未发现系统性毒性或致癌风险。\",\n    \"innovation\": \"首次将肿瘤微环境的免疫抑制和再生特性应用于脊髓损伤修复，通过肿瘤来源细胞外囊泡（TDEVs）与可注射粘附水凝胶结合，实现靶向调控损伤微环境。\",\n    \"flaw\": \"研究仅在小鼠模型中进行验证，尚未开展临床前大动物实验或人体安全性评估，其长期疗效和潜在风险仍需进一步探究。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125230",
+    "title": "Laponite-reinforced marine bioinspired injectable self-healing adhesive chitosan-based hydrogel for infected wounds.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Guan, Su, Li",
+    "abstract": "Standard dressings struggle to conform to irregular wounds, which can easily lead to bacterial infection and impair the healing process. In this study, an injectable, self-healing hydrogel inspired by mussel and oyster adhesion was developed from dihydrocaffeic acid-modified chitosan, oxidized sodium alginate, and Laponite nanosheets. Benefiting from the synergistic reinforcement of dynamic imine bonds and the physical filling of the nanosheets, along with other physical interactions, the hydrogel can be extruded through a syringe and form filaments approximately 0.5 mm in diameter. By enabling slow catechol oxidation while limiting oxygen diffusion in the confined nanospace, Laponite nanoplatelets conferred the hydrogel a wet adhesion strength of 520.2 kPa on porcine skin at 24 h. The hydrogel with Laponite is shown to reduce the survival rates of S. aureus to below 0.98% indicating effective bactericidal efficacy. In vitro experiments demonstrated that the hydrogel significantly promotes the proliferation, migration, and angiogenesis of HUVECs. Animal experiments confirmed that the hydrogel accelerates epidermal regeneration and collagen deposition, reduces the inflammatory factor TNF-α, and upregulates the expression of angiogenesis-related genes. More importantly, the hydrogel achieved a 96.7% closure rate for S. aureus-infected wounds by day 13.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42002318/",
+    "date": "2026-04-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于二氢咖啡酸改性壳聚糖、氧化海藻酸钠和Laponite纳米片的可注射自愈合水凝胶，灵感来源于贻贝和牡蛎的粘附机制。该水凝胶具有约0.5毫米直径的丝状挤出特性，在猪皮上24小时湿粘附强度达520.2千帕，对金黄色葡萄球菌杀菌率超过99%，并能显著促进血管内皮细胞增殖、迁移和血管生成。动物实验证实其可加速表皮再生、胶原沉积，降低炎症因子TNF-α，上调血管生成相关基因表达，对金黄色葡萄球菌感染伤口在第13天实现96.7%闭合率。\",\n    \"innovation\": \"通过仿生贻贝/牡蛎粘附机制，结合动态亚胺键与纳米片物理填充的协同增强效应，首次实现了兼具高强度湿粘附（520.2 kPa）、高效抗菌（>99%杀菌率）和促血管生成功能的可注射自愈合水凝胶。\",\n    \"flaw\": \"研究未评估水凝胶在深层组织感染或慢性糖尿病溃疡等复杂伤口模型中的长期疗效与生物安全性。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125188",
+    "title": "Sodium alginate modified by dopamine multifunctional injectable hydrogel with photothermal, antibacterial, and hemostatic properties for accelerating infected wound repair.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Ma, Huang, Zhang",
+    "abstract": "Sodium alginate (SA)-based wound dressings have attracted increasing attention for wound management. In this study, a multifunctional injectable alginate hydrogel was developed via a dopamine modification strategy. Dopamine-grafted sodium alginate (SA-DA) was synthesized and combined with polydopamine nanoparticles (PDA) to obtain an SA-DA/PDA hydrogel with strong tissue adhesion and photothermal functionality. In situ crosslinking was achieved using a calcium carbonate (CaCO₃)/glucono-δ-lactone (GL) system, enabling rapid gelation and conformal coverage of irregular wounds. Benefiting from the hydrophilic SA backbone and PDA incorporation, the hydrogel exhibited favorable swelling behavior, structural stability, and enhanced photothermal responsiveness. Upon 808 nm near-infrared (NIR) irradiation (1.5 W cm<sup>-2</sup>) for 10 min, the hydrogel temperature increased to approximately 46 °C, generating an effective mild photothermal effect. This response resulted in efficient antibacterial activity, eliminating about 97% of Escherichia coli and Staphylococcus aureus in vitro, along with rapid pro-coagulant performance. In a rat model of infected full-thickness skin defects, a single injection followed by NIR irradiation significantly accelerated wound closure, reducing the residual wound area to 1% by day 9 without observable systemic toxicity. Overall, the SA-DA/PDA hydrogel integrates injectability, photothermal antibacterial activity, and biocompatibility, demonstrating strong potential as a multifunctional dressing for accelerated healing of infected wounds.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42002312/",
+    "date": "2026-04-21",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于多巴胺修饰策略的多功能可注射海藻酸钠水凝胶（SA-DA/PDA），通过原位交联实现快速凝胶化，具备强组织粘附性和光热功能。在808 nm近红外照射下产生温和光热效应，体外抗菌率达97%，并能促进凝血。在大鼠感染性全层皮肤缺损模型中，单次注射结合近红外照射显著加速伤口愈合，第9天残余伤口面积降至1%，且无系统毒性，展现出作为感染伤口多功能敷料的潜力。\",\n    \"innovation\": \"通过多巴胺修饰海藻酸钠并结合聚多巴胺纳米颗粒，首次开发出兼具可注射性、强组织粘附、光热抗菌和促凝血功能的一体化水凝胶敷料。\",\n    \"flaw\": \"研究仅在大鼠模型中进行验证，尚未开展临床人体试验，其长期安全性和在复杂人体环境中的疗效仍需进一步评估。\"\n}"
+  },
+  {
     "id": "10.7150/thno.130240",
     "title": "Photothermal-driven multifunctional injectable hydrogel platform for promoting diabetic bone defect repair through synergistic immunomodulation and bone homeostasis.",
     "journal": "Theranostics",

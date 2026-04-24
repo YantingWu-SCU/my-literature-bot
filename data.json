@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3389/fcimb.2026.1774370",
+    "title": "Essential oil-based hydrogels for oral candidiasis: preliminary formulation development, antifungal efficacy, and computational analysis via Monte Carlo simulation.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "authors": "Kola-Mustapha, John, Bello",
+    "abstract": "This study aimed to evaluate the inhibitory activity of the essential oils (EOs) of <i>Syzygium aromaticum</i> (formerly <i>Eugenia caryophyllata</i>) (clove) and <i>Cymbopogon flexuosus</i> (lemongrass) on <i>Candida albicans</i> (individually, and in combination) and incorporate them into hydrogels for the management of oral candidiasis.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42022799/",
+    "date": "2026-04-24",
+    "analysis": "{\n    \"chinese_summary\": \"本研究评估了丁香和柠檬草精油单独及联合使用对白色念珠菌的抑制活性，并将其制成水凝胶用于治疗口腔念珠菌病。\",\n    \"innovation\": \"首次将丁香和柠檬草精油联合制成水凝胶，用于口腔念珠菌病的局部治疗。\",\n    \"flaw\": \"缺乏体内实验和临床验证，仅进行了体外抑菌活性测试。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70186",
     "title": "Progress in the Application of Hydrogel Materials for the Treatment of Intestinal Fistula.",
     "journal": "Macromolecular bioscience",

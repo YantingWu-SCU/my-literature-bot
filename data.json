@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1073/pnas.2532840123",
+    "title": "An exceptionally conductive hydrogel for all-organic, ultraflexible, and chronic neural interfaces.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Zhu, Hu, Lou",
+    "abstract": "Chronic neural interfaces are essential for advancing brain-computer interfaces, neuroprosthetics, and neuromodulation technologies. However, a long-standing trade-off between performance and longevity persists due to the scarcity of materials that simultaneously achieve superior electrical performance, mechanical compliance, and biocompatibility. Here, we overcome this limitation with an all-organic, ultraflexible electrocorticography (ECoG) design that features a thickness of only 9 µm, achieving low electrode-tissue impedance and durability in vivo. Central to this design is a conductive hydrogel featuring an interfacial percolation (CHIP) microstructure, with tunable hydration levels and softness, achieving a highest in-plane electrical conductivity of 2,512 S cm<sup>-1</sup>. We further developed an in-plane swelling control with a dry, soft-protective etching strategy that preserves the structural integrity during hydrogel processing. The resulting all-organic ECoG array conforms to the cortical surface, minimizing foreign body response and providing exceptional signal quality, with the longest record up to 550 d.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42048458/",
+    "date": "2026-04-29",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种全有机超柔性皮层电图（ECoG）设计，厚度仅9微米，利用具有界面渗流微结构的导电水凝胶（CHIP），实现了高导电性（2512 S/cm）和体内耐久性，记录时间长达550天。\",\n    \"innovation\": \"通过导电水凝胶的界面渗流微结构，同时实现了高导电性、机械柔顺性和生物相容性，突破了长期存在的性能与寿命权衡。\",\n    \"flaw\": \"该研究未提及长期植入后水凝胶的稳定性及可能的降解问题。\"\n}"
+  },
+  {
     "id": "10.1073/pnas.2536344123",
     "title": "Improving photosynthesis by scattering hydrogel fiber-enabled volumetric illumination.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",

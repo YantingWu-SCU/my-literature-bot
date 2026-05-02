@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1002/mabi.70190",
+    "title": "A Multicellular 3D GelMA-Based Colorectal Cancer Model for Chemotherapeutic Responses.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Adıgüzel, Altuntaş, Çelikten",
+    "abstract": "Advanced biomaterials-based in vitro platforms are increasingly required to overcome the limited predictive power of conventional 2D cell cultures in colorectal cancer (CRC) drug screening. Herein, we report the development of a biomimetic, multicellular 3D CRC model based on gelatin methacrylate (GelMA) hydrogels, designed to recapitulate key structural and biological features of the tumor microenvironment. The platform integrates a vascularized hydrogel compartment with human endothelial cells, combined with cancer-associated fibroblasts and macrophages, enabling controlled tumor-stroma-vessel interactions within a physiologically relevant architecture. The GelMA hydrogels were comprehensively characterized, and their role in regulating endothelial viability, migration, and angiogenic marker expression was systematically evaluated. The drug screening capability of the platform was assessed using 5-fluorouracil (5-FU). Comparative analyses revealed that 3D cultures exhibited attenuated cytotoxicity, oxidative stress, and apoptotic responses relative to 2D monolayers, particularly at lower drug concentrations and prolonged exposure times. These findings demonstrate that GelMA-based microenvironment actively modulates cellular drug responses through multicellular interactions and diffusion-mediated effects, rather than acting as a passive scaffold. Overall, this study establishes a functional 3D in vitro platform that provides improved physiological relevance and predictive capability for preclinical CRC drug screening, while offering a human-relevant alternative aligned with the principles of the 3Rs.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42066109/",
+    "date": "2026-05-02",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种基于明胶甲基丙烯酰（GelMA）水凝胶的仿生多细胞3D结直肠癌模型，整合了血管化水凝胶、内皮细胞、癌症相关成纤维细胞和巨噬细胞，模拟肿瘤微环境。与2D培养相比，3D模型在药物筛选中表现出减弱的细胞毒性、氧化应激和凋亡反应，表明GelMA水凝胶通过多细胞相互作用和扩散效应主动调节药物响应，为结直肠癌药物筛选提供了更具生理相关性和预测能力的平台。\",\n  \"innovation\": \"构建了整合血管、成纤维细胞和巨噬细胞的多细胞3D结直肠癌模型，揭示了GelMA水凝胶主动调节药物响应的机制。\",\n  \"flaw\": \"未评估长期培养中模型的稳定性和可重复性，且仅测试了一种药物（5-氟尿嘧啶），缺乏对多种药物的验证。\"\n}"
+  },
+  {
+    "id": "10.1126/sciadv.aec3209",
+    "title": "Augmenting ultrasound for continuous glucose monitoring via a wearable acoustically readable microneedle patch.",
+    "journal": "Science advances",
+    "authors": "Zhang, Xu, Li",
+    "abstract": "Continuous glucose monitoring (CGM) represents substantial advancement, yet poses a challenge in wearable health care development. Current enzymatic CGM faces limitations in stability, cost, and durability. We introduce an enzyme-free, wearable acoustically readable microneedle patch (ARMPatch) composed of glucose-responsive hydrogel. Positioned between a standard ultrasound probe and the skin, ARMPatch acts as an acoustic interface enabling CGM using conventional ultrasound. Its hydrogel microneedles minimally penetrate the epidermis, allowing interstitial fluid to trigger variable swelling of the microneedles in response to glucose fluctuations. ARMPatch delivers stable and selective glucose readings for up to 56 days. Glucose variations with millimolar resolution are obtained via ultrasound within a response time of 30 to 60 minutes. In vivo CGM in animal models for 7 days reveals a reversible correlation between microneedle swelling and glucose variations. Acting as \"accessory\" for standard ultrasound probes, this approach offers a minimally invasive, cost-effective, and long-lasting solution to non-enzymatic CGM, expanding the utility of ultrasound in wearable biosensing.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42066084/",
+    "date": "2026-05-02",
+    "analysis": "{\n    \"chinese_summary\": \"本文介绍了一种无酶、可穿戴的声学可读微针贴片（ARMPatch），用于连续血糖监测。该贴片由葡萄糖响应性水凝胶制成，置于标准超声探头与皮肤之间，通过超声读取微针的膨胀程度来监测血糖变化，具有长达56天的稳定性和选择性，响应时间为30-60分钟。动物实验验证了其有效性。\",\n    \"innovation\": \"首次将葡萄糖响应性水凝胶微针与标准超声探头结合，实现无酶、低成本、长寿命的连续血糖监测。\",\n    \"flaw\": \"响应时间较长（30-60分钟），可能无法满足需要实时监测的临床需求。\"\n}"
+  },
+  {
+    "id": "10.1111/1541-4337.70494",
+    "title": "Carbohydrate-Protein Hydrogels as Fat Replacers: Design Criteria and Benchmarking Against Full-Fat Systems.",
+    "journal": "Comprehensive reviews in food science and food safety",
+    "authors": "Amiri, McClements, Maggo",
+    "abstract": "Reducing saturated fat while preserving the sensory quality of full-fat foods remains a major formulation challenge because fat contributes simultaneously to body, lubrication, flavor delivery, and thermal transitions. Carbohydrate-protein (CP) hydrogels are increasingly explored as oil-free fat replacers, but many systems are developed and evaluated in isolation, with limited benchmarking against the full-fat references they are intended to replace. This review considers the literature from two benchmarking prospectives: (i) bulk-fat analog benchmarking, in which self-standing gels are compared with bulk fats; and, (ii) product-level benchmarking, in which CP hydrogels are assessed within specific food matrices against full-fat controls. Across both paradigms, the evidence indicates that successful fat replacement cannot be predicted by a single instrumental match. Instead, performance depends on convergence across rheology, tribology, microstructure, water distribution, breakdown behavior, and thermal response. In practical terms, the most transferable design criteria are rheological compatibility within the relevant processing and consumption ranges, lubrication behavior that supports creaminess and mouthcoating, microstructural length scales that avoid graininess or chalkiness, and category-specific thermal and breakdown behavior that reproduces full-fat transitions such as meltability, softening, or juiciness. Viewing the literature through these two benchmarking logics helps distinguish when bulk similarity is informative, when in-product benchmarking is essential, and why apparently promising CP hydrogels often fail in real food application.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42062821/",
+    "date": "2026-05-02",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了碳水化合物-蛋白质水凝胶作为无脂脂肪替代品的研究，从块状脂肪类比和产品级基准测试两个角度评估其替代全脂食品的效果，指出成功替代需综合考虑流变学、摩擦学、微观结构等多方面性能。\",\n    \"innovation\": \"提出了从块状脂肪类比和产品级基准测试两个视角系统评估脂肪替代品的框架，强调多维度性能匹配的重要性。\",\n    \"flaw\": \"未提供具体的实验数据或定量比较，缺乏对实际应用失败原因的深入分析。\"\n}"
+  },
+  {
     "id": "10.1073/pnas.2532840123",
     "title": "An exceptionally conductive hydrogel for all-organic, ultraflexible, and chronic neural interfaces.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",

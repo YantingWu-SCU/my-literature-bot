@@ -1,5 +1,49 @@
 [
   {
+    "id": "10.1016/j.carbpol.2026.125336",
+    "title": "A bilayer carbohydrate hydrogel spatiotemporally modulates the leucine-mTORC1 axis in macrophages to orchestrate wound immunity and regeneration.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Niu, Gong, Xia",
+    "abstract": "The healing of infected wounds remains a significant clinical challenge, primarily due to persistent bacterial infections and dysregulated inflammation. In this work, we engineered an injectable bilayer hydrogel system (GHL//PCB) from carbohydrate polymers to spatiotemporally modulate macrophage metabolism and polarization via the leucine-mTORC1-HIF-1α axis. The lower layer, comprising methacrylated gelatin and dopamine-modified hyaluronic acid (GelMA/HA-DA), is loaded with leucine. This formulation activates mTORC1, stabilizes HIF-1α, and drives M1-like polarization, thereby conferring potent bactericidal efficacy against both Staphylococcus aureus and Escherichia coli. The upper layer, composed of aldehyde-modified Pluronic® F127 and carboxymethyl chitosan (PF127-CHO/CMCS), delivers the leucyl-tRNA synthetase inhibitor BC-LI-0186 to suppress mTORC1-HIF-1α signaling. This suppression promotes a metabolic shift toward oxidative phosphorylation and facilitates M2-like repolarization. Using a rat model featuring complete-thickness contaminated injuries, the GHL//PCB hydrogel sequentially eliminated bacteria, attenuated inflammation, enhanced collagen deposition, and accelerated re-epithelialization within 14 days. The hydrogel also demonstrated excellent injectability, tissue adhesion, biocompatibility, and hemocompatibility. Collectively, this work presents a carbohydrate-based biomaterial strategy that actively orchestrates the wound immune microenvironment through metabolic reprogramming, offering a promising and clinically translatable platform for the management of infected and chronic wounds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42067358/",
+    "date": "2026-05-03",
+    "analysis": "{\n    \"chinese_summary\": \"本研究构建了一种可注射的双层水凝胶系统（GHL//PCB），通过亮氨酸-mTORC1-HIF-1α轴时空调控巨噬细胞代谢和极化，下层负载亮氨酸促进M1极化杀菌，上层递送BC-LI-0186抑制mTORC1-HIF-1α信号促进M2极化，在大鼠全层污染伤口模型中14天内依次清除细菌、减轻炎症、促进胶原沉积和再上皮化。\",\n    \"innovation\": \"首次利用碳水化合物聚合物双层水凝胶通过代谢重编程时空调控巨噬细胞极化，实现感染伤口的高效愈合。\",\n    \"flaw\": \"研究仅在动物模型验证，缺乏临床数据支持，且双层水凝胶的长期稳定性和降解行为未充分评估。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125305",
+    "title": "In-situ heterojunction on high-aspect-ratio cellulose nanocrystals for long-range charge transport in e-skin.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Shen, Chen, Guo",
+    "abstract": "Long-range piezoelectric transduction in flexible hydrogels is limited by the \"trade-off\" of conductive pathways between accelerating charge dissipation and suppressing dipole formation. Here, we introduce a surface-heterojunction strategy converting cellulose nanocrystals (CNCs) into conductive dipolar nanorods by deprotonation of poly(aminophenylboronic acid) (PABA) coating. Boronated ester bonding and hydrogen-bonds at CNCs/PABA interface collectively strengthen dipole moments while inducing n-type doping in PABA and thus enabling charge transport for 18.9-fold conductivity. Integrating molecular-level interfacial alignment of conjugated moieties, CNCs with higher aspect-ratio further promote percolation and reduce threshold by ∼14%. The charge transport range in hydrogel is then elongated, which improves its conductivity by 7.0 times and yields robust piezo-electric/resistive dual-mode responsiveness. The hydrogen-bond network also improves adhesion, and imparts intrinsic sensitivity to temperature, salinity, and pH, for distinguishing complex motions and physiological events. This heterojunction-driven co-engineering of dipoles and conductivity offers a generalizable materials concept for advancing high-fidelity soft bioelectronic sensing.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42067341/",
+    "date": "2026-05-03",
+    "analysis": "{\n    \"chinese_summary\": \"本研究提出一种表面异质结策略，将纤维素纳米晶体转化为导电偶极纳米棒，通过增强偶极矩和诱导n型掺杂，同时提高水凝胶的导电性和压电/电阻双模响应，并赋予其对温度、盐度和pH的敏感性。\",\n    \"innovation\": \"通过表面异质结协同调控偶极和导电性，打破了柔性水凝胶中压电换能与电荷传输的权衡限制。\",\n    \"flaw\": \"该策略的长期稳定性和在复杂生物环境中的实际应用效果尚未验证。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125293",
+    "title": "A pH/heating-driven curdlan-based complementary hydrogel for promoting full-thickness skin wound healing.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Cui, Yu, Miao",
+    "abstract": "Curdlan (CUR)-based hydrogels have shown promise for wound healing but suffer from poor flexibility, high brittleness, and limited drug-loading capacity. To overcome these limitations, a curdlan-based complementary hydrogel (CM Gel) was developed by integrating CUR with mangiferin (MF), a polyphenol capable of self-assembly. Non-covalent interactions between CUR and MF led to a stable and flexible network with improved mechanical properties and gelation under mildly acidic pH conditions (pH ∼6.5), which aligns with skin wound conditions. Furthermore, the hydrogel was loaded with dihydromyricetin (DMY), a natural antibacterial agent, using a solvent-free one-pot pH/heating-driven process to fabricate the enhanced comprehensive hydrogel properties D@CM Gel. Multispectral analysis suggested that MF, CUR, and DMY were transformed from the crystalline state to the amorphous state. In vitro studies confirmed its potent antibacterial activity against S. aureus and E. coli, strong antioxidant capacity, and effective biofilm inhibition capacity. In an S. aureus-infected full-thickness wound model, D@CM Gel significantly accelerated wound closure, reduced inflammation (TNF-α, IL-6), promoted collagen deposition and angiogenesis (VEGF, CD31, α-SMA), and outperformed commercial hydrogel dressings with excellent biocompatibility. These findings suggest that D@CM Gel is a promising and easily fabricated wound dressing with synergistic therapeutic functions for treating infected skin wounds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42067331/",
+    "date": "2026-05-03",
+    "analysis": "{\n  \"chinese_summary\": \"基于凝胶多糖（CUR）和芒果苷（MF）自组装形成互补水凝胶（CM Gel），负载二氢杨梅素（DMY）制备D@CM Gel，具有柔性、抗菌、抗氧化和促愈合性能，在感染伤口模型中效果优于商用敷料。\",\n  \"innovation\": \"利用CUR与MF的非共价相互作用构建柔性互补水凝胶，并通过无溶剂一锅法负载DMY，实现多功能协同治疗。\",\n  \"flaw\": \"未评估长期稳定性和体内降解行为，且缺乏与更多商用敷料的对比及大规模动物实验验证。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125281",
+    "title": "A chitosan-based multifunctional hydrogel patch improves cardiac health and function by repairing the post-myocardial infarction microenvironment.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Wang, Li, Wu",
+    "abstract": "Myocardial infarction (MI) induced ischemia and hypoxia trigger a complex pathological microenvironment characterized by oxidative stress, inflammation, and fibrosis. However, the existing surgical and pharmacological treatments, as well as some tissue engineering techniques, fail to adequately therapy these symptoms, ultimately leading to cardiac dysfunction and poor prognosis. In this study, a multifunctional hydrogel patch composed of chitosan (CS), intrinsically hierarchical silk fibroin (SF) fibers, and reactive oxygen species (ROS) scavenging tannic acid (TA) for cardiac implantation was developed for treating the intricate post-MI microenvironment. This hydrogel not only provides favorable mechanical compliance but also enables sustained release of TA for over 30 days, ensuring long-term ROS scavenging while promoting cardiomyocyte adhesion and survival. In vitro experiments, the hydrogel demonstrates favorable biocompatibility and achieves an effective ROS clearance rate of approximately 80%. In a rat MI model, implantation of the patch reduces inflammatory factor secretion, decreases the myocardial fibrosis area by approximately 25%, and improves the ejection fraction (EF%) by approximately 20% for over 28 days post-MI. Mechanistically, the hydrogel patch synergistically regulates PI3K/Akt, Wnt5a/β-catenin, and TGF-β/Smad5 signaling pathways. In summary, this hydrogel patch offers a promising target strategy for repairing the complex post-MI microenvironment.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42067327/",
+    "date": "2026-05-03",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种由壳聚糖、丝素纤维和单宁酸组成的多功能水凝胶贴片，用于心肌梗死后修复。该贴片具有良好机械顺应性，可持续释放单宁酸超过30天，有效清除活性氧（清除率约80%），减少炎症和纤维化（纤维化面积减少约25%），并改善心功能（射血分数提高约20%），通过调节PI3K/Akt、Wnt5a/β-catenin和TGF-β/Smad5信号通路发挥作用。\",\n    \"innovation\": \"首次将具有层次结构的丝素纤维与单宁酸结合，构建了兼具机械顺应性和长期活性氧清除能力的水凝胶贴片，协同调控多条信号通路。\",\n    \"flaw\": \"仅在动物模型（大鼠）中验证，缺乏大型动物及临床试验数据，且长期安全性和降解行为未充分评估。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70190",
     "title": "A Multicellular 3D GelMA-Based Colorectal Cancer Model for Chemotherapeutic Responses.",
     "journal": "Macromolecular bioscience",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/psc.70101",
+    "title": "Self-Assembly of Peptides and Biomolecular Systems Into Functional Nanomaterials.",
+    "journal": "Journal of peptide science : an official publication of the European Peptide Society",
+    "authors": "Fares, Al Musaimi",
+    "abstract": "Peptide self-assembly represents a versatile and programmable strategy for generating functional nanomaterials with broad biomedical relevance. This review outlines the physicochemical principles governing assembly, highlighting cooperative noncovalent interactions, hydrogen bonding, π-π stacking, electrostatics and hydrophobic forces that drive hierarchical organisation into supramolecular structures. Key analytical techniques for characterising peptide assemblies and nanostructures are also summarised. The contribution of secondary structural motifs, particularly α-helices and β-sheets, is explored in relation to morphology, stability and biological function. α-Helical coiled-coil peptides form well-defined nanotubular architectures suitable for cargo encapsulation, whereas β-sheet peptides assemble into nanofibrillar networks and hydrogels with tuneable mechanical properties and sustained release profiles, as illustrated by systems such as RQDL10. Beyond peptides, protein and DNA self-assembly further expand the biomolecular design space. Protein-based systems leverage hydrophobic and Debye-Hückel electrostatic interactions to build hierarchical, functional architectures. DNA platforms enable programmable, stimulus-responsive assembly, including enzyme- and logic-controlled activation and hybridisation-driven formation of reversible higher-order nanostructures. Applications in drug delivery, tissue engineering and regenerative medicine are discussed alongside challenges such as limited in vivo stability, proteolytic degradation and scalability. Emerging approaches-including rational design, sequence engineering and advanced fabrication-aim to improve predictability and reproducibility, positioning biomolecular self-assembly as a unified platform for next-generation biomaterials.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42089187/",
+    "date": "2026-05-07",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了肽自组装形成功能纳米材料的物理化学原理，包括非共价相互作用、氢键、π-π堆积、静电和疏水力，以及α-螺旋和β-折叠等二级结构对形态和功能的影响。还讨论了蛋白质和DNA自组装在药物递送、组织工程中的应用及面临的挑战。\",\n    \"innovation\": \"系统整合了肽、蛋白质和DNA自组装策略，提出其作为统一平台用于下一代生物材料的设计。\",\n    \"flaw\": \"体内稳定性差、易被蛋白酶降解以及规模化生产困难是当前主要局限。\"\n}"
+  },
+  {
     "id": "10.1016/j.carbpol.2026.125336",
     "title": "A bilayer carbohydrate hydrogel spatiotemporally modulates the leucine-mTORC1 axis in macrophages to orchestrate wound immunity and regeneration.",
     "journal": "Carbohydrate polymers",

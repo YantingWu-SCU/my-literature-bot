@@ -1,5 +1,71 @@
 [
   {
+    "id": "10.1126/sciadv.adz9453",
+    "title": "DLP-bioprinted ultrabiomimetic trachea with spatiotemporal angiogenesis regulation for segmental airway reconstruction.",
+    "journal": "Science advances",
+    "authors": "Gao, Li, Ci",
+    "abstract": "Segmental airway reconstruction requires tracheal grafts that emulate the hierarchical structure and biochemical functions of native trachea. However, achieving both biomimetic fidelity and efficient vascularization remains challenging. Here, we present a digitally light-processed tissue-engineered trachea featuring anatomically biomimetic C-shaped cartilage rings, alternating fibrous rings, and dorsal fibrous bands, precisely replicating the structural hierarchy of native trachea. To promote rapid neovascularization, we develop a stress-relaxing and degradable alginate-based hydrogel capable of dynamic vascular endothelial growth factor loading and sustained release, thereby facilitating endothelial cell migration and angiogenesis. Within the fibrous regions, pre-engineered vascular channels are incorporated to guide host vascular ingrowth, resulting in a 2.6-fold increase in neovascular density compared to no-channel scaffolds. This platform integrates spatial control through precise structural design with temporal bioactive signal modulation, enabling synchronized vascularization. When transplanted via end-to-end anastomosis with native tracheae, the vascularized grafts exhibit enhanced survival and functional integration, offering a robust strategy for tracheal tissue engineering and segmental airway reconstruction.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102210/",
+    "date": "2026-05-09",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种数字光处理技术构建的组织工程气管，精确复制了天然气管的C形软骨环、交替纤维环和背侧纤维带结构，并通过应力松弛可降解海藻酸盐水凝胶实现VEGF的持续释放，促进血管化。预制的血管通道引导宿主血管长入，使新生血管密度提高2.6倍。移植后血管化移植物存活和功能整合增强。\",\n    \"innovation\": \"通过精确结构设计与时空生物活性信号调控的整合，实现了同步血管化，显著提高了气管移植物的血管密度和功能整合。\",\n    \"flaw\": \"研究未评估长期移植效果及免疫排斥反应，且动物模型与人体临床应用的差异可能影响转化潜力。\"\n}"
+  },
+  {
+    "id": "10.7150/ntno.132646",
+    "title": "A Glucose-Responsive CeO₂@GOx Nanozyme Embedded in Chitosan/PVA Hydrogel for Accelerated Diabetic Wound Healing: from Molecular Simulations to <i>In Vivo</i> Validation.",
+    "journal": "Nanotheranostics",
+    "authors": "Naomi, Putra, Prastika",
+    "abstract": "Diabetes prevalence in Indonesia reached 19.465 million patients in 2021 and is predicted to increase to 40.7 million cases by 2045, with 15-25% of diabetic patients at risk of diabetic wounds and 15-30% threatened with amputation. This study aims to determine the optimal concentration of cerium oxide nanoparticles functionalized with glucose oxidase (CeO<sub>2</sub>@GOx) nanozymes for the treatment of diabetic wounds. CeO<sub>2</sub>@GOx was incorporated into chitosan/poly(vinyl alcohol) (CS/PVA) hydrogel composites via a freeze-thawing method and systematically evaluated through physicochemical characterization, enzymatic assays, <i>in silico</i> analysis, antibacterial <i>in vitro</i> and <i>in vivo</i> wound healing studies. Molecular dynamics simulations (200 ns) were employed to investigate the dynamic stability of the flavin adenine dinucleotide cofactor within the GOx active site (FAD@GOx), particularly its structural persistence in the presence of Ce atom, CS, and PVA. Complementary density functional theory (DFT) calculations were independently performed on Ce₄O₈ clusters, chitosan, and poly(vinyl alcohol) (PVA) to examine their electronic properties and noncovalent interaction characteristics. UV-Vis analysis revealed increased absorbance at 298 nm with increasing CeO<sub>2</sub>@GOx concentrations, while functional group analysis confirmed the presence of hydroxyl, amine, carbonyl, and cerium-related features. The hydrogel exhibited a uniform particle size distribution (PDI = 0.1703) and a degradation rate of 90.334%. Among the tested formulations, the CeO<sub>2</sub>@GOx 4:1 (<sup>w</sup>/<sub>w</sub>) hydrogel exhibited the highest TMB oxidation rate and catalase-like activity and demonstrated optimal diabetic wound-healing performance <i>in vivo</i> within 7 days.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42099967/",
+    "date": "2026-05-09",
+    "analysis": "{\n    \"chinese_summary\": \"本研究将葡萄糖氧化酶功能化的氧化铈纳米颗粒（CeO2@GOx）掺入壳聚糖/聚乙烯醇水凝胶中，通过冻融法制备复合材料，用于治疗糖尿病伤口。实验表明，CeO2@GOx 4:1（w/w）水凝胶具有最高的TMB氧化速率和过氧化氢酶样活性，并在7天内展现出最佳的体内糖尿病伤口愈合性能。\",\n    \"innovation\": \"首次将CeO2@GOx纳米酶与CS/PVA水凝胶结合，利用其双重酶活性（葡萄糖氧化酶和过氧化氢酶样活性）协同促进糖尿病伤口愈合。\",\n    \"flaw\": \"研究未评估水凝胶的长期稳定性和生物降解产物对机体的潜在毒性，且缺乏与现有临床治疗方法的直接比较。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125350",
+    "title": "Alginate-based composite hydrogel derived from Azotobacter vinelandii Av1: Preparation, properties, and wound-healing efficacy.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Yang, Chen, Peng",
+    "abstract": "Mannuronic acid-enriched alginate has demonstrated significant potential for wound healing. However, the M/G ratio of alginate derived from seaweed exhibits considerable variability, whereas alginate obtained from bacterial sources shows greater consistency in quality. In addition, conventional alginate dressings often fail to satisfy the stringent requirements of medical applications in terms of water absorption and stability. In this study, a high mannuronic acid-content alginate (Av) was extracted from Azotobacter vinelandii Av1 and characterized. Av possesses a molecular weight of 2100 kDa and consists of 10.6% guluronic acid (G) and 89.4% mannuronic acid (M). Composite hydrogels of gelatin‑sodium alginate (GE-SA) and gelatin-Av (GE-Av) were subsequently prepared to evaluate their wound healing properties. GE-Av exhibited enhanced water absorption and stability compared to GE-SA. Moreover, GE+3%Av significantly promoted human skin fibroblast migration by upregulating epidermal growth factor (EGF) expression, achieving a 75.3% wound closure rate at 24 h. In full-thickness mouse wound models, GE+3%Av accelerated wound healing relative to both the native control and GE-SA groups. Histological analysis further revealed that GE+3%Av facilitated skin epithelialization and collagen deposition. Collectively, these findings indicate that the GE+3%Av composite hydrogel represents a promising candidate for wound healing and skin regeneration.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42097779/",
+    "date": "2026-05-09",
+    "analysis": "{\n    \"chinese_summary\": \"本研究从棕色固氮菌Av1中提取高甘露糖醛酸含量的海藻酸盐（Av），其分子量为2100 kDa，含89.4%甘露糖醛酸和10.6%古罗糖醛酸。制备的明胶-Av（GE-Av）复合水凝胶相比明胶-海藻酸钠（GE-SA）具有更好的吸水性和稳定性。GE+3%Av通过上调表皮生长因子表达促进人皮肤成纤维细胞迁移，24小时伤口闭合率达75.3%，并在小鼠全层伤口模型中加速愈合，促进上皮化和胶原沉积。\",\n    \"innovation\": \"利用细菌来源的高甘露糖醛酸海藻酸盐制备复合水凝胶，解决了传统海藻酸盐水凝胶吸水性和稳定性不足的问题，并显著促进伤口愈合。\",\n    \"flaw\": \"研究仅评估了单一浓度（3%Av）的效果，未探讨不同Av浓度对伤口愈合的影响，且缺乏长期稳定性和体内降解行为的评估。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125346",
+    "title": "A composite conductive hydrogel loaded with alginate/gelatin microspheres with micro-environmentally induced smart temporal regulation for acute myocardial infarction treatment.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Mu, Li, Qiao",
+    "abstract": "Designing a temporal regulation system for responsive stem cell delivery that simultaneously addresses micro-environmental improvement in the infarcted area and electromechanical coupling compensation through synergistic stem cell therapy continues to pose substantial research challenges. We present a micro-environmentally induced smart temporal regulation composite conductive hydrogel for myocardial infarction therapy. Adipose derived stem cells (ADSC) were seeded on alginate (Alg)/gelatin (GT) composite microspheres (Alg/GT), which were encapsulated into reactive oxygen species (ROS) responsive conductive hydrogels (HGB) based on hyaluronic acid functionalized with phenylboronic acid (HA-PBA), dopamine-modified GT (GT-DA), and borate-functionalized polyaniline (BPA). Alg/GT microspheres exhibit excellent carrying capacity for ADSC and promoting ADSC paracrine effects. Besides the smart controlled release properties, the optimised hydrogel (HGB3) possesses a variety of functional properties including injectability, appropriate mechanical strength and electrical conductivity, anti-inflammatory and antioxidant properties. Together, these properties contribute to micro-environmental enhancement and electromechanical coupling restoration in the infarcted myocardial region. When the composite system was injected into the infarcted myocardifm, it achieved benign remodeling of the infarcted myocardium through regulation of inflammation, inhibition of fibrosis and promotion of vascular regeneration. This micro-environmentally induced smart temporal regulation composite conductive hydrogel system offers a novel therapeutic strategy for the management of acute myocardial infarction.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42097778/",
+    "date": "2026-05-09",
+    "analysis": "{\n    \"chinese_summary\": \"本研究设计了一种微环境诱导的智能时序调控复合导电水凝胶，用于心肌梗死治疗。该水凝胶由负载脂肪干细胞的海藻酸钠/明胶微球和基于透明质酸、多巴胺改性明胶及硼酸功能化聚苯胺的活性氧响应导电水凝胶组成，具有可注射性、适当机械强度、导电性、抗炎和抗氧化性能，能改善梗死区域微环境并恢复电机械耦合，通过调节炎症、抑制纤维化和促进血管再生实现良性重塑。\",\n    \"innovation\": \"首次将脂肪干细胞负载微球与活性氧响应导电水凝胶结合，实现微环境改善和电机械耦合补偿的协同时序调控。\",\n    \"flaw\": \"该复合系统在体内长期稳定性和安全性尚未充分验证，且缺乏大规模动物模型及临床试验数据支持。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125334",
+    "title": "Dynamic injectable and multifunctional hydrogel incorporating dihydroquercetin (DHQ)-loaded chitosan nanoparticles for sustained DHQ release and accelerated burn wound healing.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Huo, Zheng, Tian",
+    "abstract": "Burn wound healing is hindered by persistent inflammation, bacterial infection, and delayed tissue regeneration. Here, we developed DCNPs-Gel, an injectable, self-healing hydrogel incorporating dihydroquercetin (DHQ)-loaded chitosan nanoparticles (DCNPs; ~320 nm, PDI = 0.21, encapsulation efficiency 87.6%, drug loading 7.3%) into a dual-dynamic crosslinked oxidized sodium alginate (DO ~38%)/carboxymethyl chitosan network via Schiff-base and boronate ester bonds. DCNPs-Gel exhibited rapid self-healing (~96% modulus recovery within seconds), shear-thinning injectability (viscosity decreased ~3 orders of magnitude from 0.1 to 100 s<sup>-1</sup>), storage modulus ~830 Pa, high swelling ratio (1803%), and sustained DHQ release (~65% at 72 h). Bacteriostasis rates exceeded 90% against both E. coli (90.93%) and S. aureus (91.33%). Hemostatic evaluation demonstrated DCNPs-Gel reduced blood loss to ~200 mg versus ~580 mg (control) in the liver perforation model. In vitro, DCNPs-Gel maintained >90% HUVEC viability, reduced intracellular ROS by ~72%, and promoted scratch closure. In vivo, DCNPs-Gel accelerated deep second-degree scald wound closure to ~95.2% by day 18, enhanced collagen deposition and neovascularization. Mechanistically, DCNPs-Gel downregulated TLR4/NF-κB/IL-6/COX-2, upregulated VEGFA, rebalanced IL-6/IL-10 cytokine levels, and restored skin microbiota homeostasis. DCNPs-Gel uniquely integrates nanoparticle-mediated sustained release with dual-dynamic crosslinking, synergistically addressing oxidative stress, infection, hemostasis, and microbiota dysbiosis for comprehensive burn wound management.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42097773/",
+    "date": "2026-05-09",
+    "analysis": "{\n    \"chinese_summary\": \"开发了一种可注射、自愈合的水凝胶DCNPs-Gel，通过将二氢槲皮素负载的壳聚糖纳米颗粒整合到双动态交联的氧化海藻酸钠/羧甲基壳聚糖网络中，用于烧伤创面治疗。该水凝胶具有快速自愈合、剪切稀化注射性、高溶胀比和持续药物释放特性，抗菌率超90%，止血效果显著，能促进血管生成和胶原沉积，下调TLR4/NF-κB通路，上调VEGFA，平衡细胞因子并恢复皮肤微生物群稳态。\",\n    \"innovation\": \"创新性地将纳米颗粒介导的持续释放与双动态交联网络结合，协同解决氧化应激、感染、止血和微生物群失调问题，实现烧伤创面的综合管理。\",\n    \"flaw\": \"研究仅在动物模型和体外实验中验证，缺乏人体临床试验数据，且未评估长期生物降解性和安全性。\"\n}"
+  },
+  {
+    "id": "10.7150/thno.127711",
+    "title": "Dual ROS modulation by MnO<sub>2</sub>-integrated collagen hydrogel enhances hiPSC-derived endothelial progenitor cell therapy for critical limb ischemia.",
+    "journal": "Theranostics",
+    "authors": "Zhang, Huang, Gai",
+    "abstract": "Cell therapy shows significant potential in treating ischemic diseases, such as critical limb ischemia. Endothelial progenitor cells (EPCs) are considered ideal candidates, but their clinical efficacy is often limited due to the scarcity of suitable sources and poor post-transplant survival. Human-induced pluripotent stem cell-derived EPCs (hiPSC-EPCs) offer a scalable and promising alternative. Additionally, injectable hybrid hydrogels can enhance cell retention and eliminate harmful components in the microenvironment, such as reactive oxygen species (ROS). However, conventional biomaterials are insufficient in mitigating intracellular oxidative stress induced by ischemia.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42094610/",
+    "date": "2026-05-09",
+    "analysis": "{\n    \"chinese_summary\": \"细胞疗法在治疗缺血性疾病如严重肢体缺血中具有潜力，但内皮祖细胞来源有限且移植后存活率低。人诱导多能干细胞来源的内皮祖细胞（hiPSC-EPCs）提供了可扩展的替代方案。可注射混合水凝胶可增强细胞滞留并清除活性氧，但传统生物材料不足以减轻缺血引起的细胞内氧化应激。\",\n    \"innovation\": \"结合hiPSC-EPCs与可注射混合水凝胶，旨在解决细胞来源不足和移植后存活率低的问题，并清除微环境中的活性氧。\",\n    \"flaw\": \"传统生物材料无法有效缓解缺血引起的细胞内氧化应激，限制了治疗效果。\"\n}"
+  },
+  {
     "id": "10.1002/psc.70101",
     "title": "Self-Assembly of Peptides and Biomolecular Systems Into Functional Nanomaterials.",
     "journal": "Journal of peptide science : an official publication of the European Peptide Society",

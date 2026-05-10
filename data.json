@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1038/s41413-026-00530-8",
+    "title": "Mineralized DNA tetrahedron-structured hydrogels: a dual-functional Scaffold for immunomodulation and bone regeneration.",
+    "journal": "Bone research",
+    "authors": "Yao, Sun, Liu",
+    "abstract": "Clinical limitations of autografts and allografts have driven advances in bone tissue engineering. Emerging biomaterials offer tunable mechanical and bio-regenerative properties for bone reconstruction. DNA hydrogels have attracted increasing attention due to their extracellular matrix-like architecture and excellent cargo-loading capacity. However, their rapid degradation and limited immunomodulatory activity have hindered their long-term efficacy in bone regeneration. To address these limitations, a mineralized tetrahedral framework nucleic acids (tFNAs) hydrogel (Cap-gel) was engineered to integrate early immunoregulation with sustained osteogenic activity. The stable and programmable spatial structure of tFNAs not only promotes macrophage polarization toward the M2 phenotype by presenting immunomodulatory ligands but also serves as a nucleation template for calcium phosphate crystallization, leading to the formation of nano-mineralized structures with controlled morphology. In vitro, Cap-gel promoted osteogenic differentiation via both immune-dependent and independent pathways, while in vivo, it modulated early immune responses and accelerated bone regeneration in a calvarial defect model. In summary, this study introduces a novel tFNA-based mineralized DNA hydrogel system that integrates immunomodulation and osteogenesis, providing a promising strategy for enhanced bone repair in tissue engineering applications. A mineralized DNA hydrogel is constructed by sticky-end self-assembly of tetrahedral framework nucleic acids followed by calcium-phosphate deposition. The hydrogel exhibits antioxidant, immunomodulatory, and osteoinductive properties, enabling sequential regulation of the bone healing microenvironment and effectively promoting cranial defect regeneration.",
+    "score": 45,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42103718/",
+    "date": "2026-05-10",
+    "analysis": "{\n    \"chinese_summary\": \"本研究构建了一种基于四面体框架核酸（tFNAs）的矿化DNA水凝胶（Cap-gel），通过整合早期免疫调节和持续成骨活性，克服了传统DNA水凝胶降解快、免疫调节活性有限的缺点，在体外促进成骨分化，在体内加速颅骨缺损修复。\",\n    \"innovation\": \"利用tFNAs的可编程空间结构同时实现免疫调节（诱导M2型巨噬细胞极化）和矿化模板功能，构建了具有抗氧化、免疫调节和骨诱导特性的矿化DNA水凝胶。\",\n    \"flaw\": \"该研究未评估水凝胶在大型动物模型或长期体内的降解与安全性，且缺乏与现有临床骨移植材料的直接比较。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.adz9453",
     "title": "DLP-bioprinted ultrabiomimetic trachea with spatiotemporal angiogenesis regulation for segmental airway reconstruction.",
     "journal": "Science advances",

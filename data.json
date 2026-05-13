@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1073/pnas.2537655123",
+    "title": "Bioinspired ultrasound-driven ultrafast soft microgripper.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Zhong, Winderoll, Kshetri",
+    "abstract": "Understanding how acoustic waves interact with soft matter is critical for developing new strategies for dynamic control, actuation, sensors, and manipulation at small scales. A major challenge in soft matter and microrobotics is how to achieve fast, precise, and remotely controlled actuation at the microscale without sacrificing compliance or biocompatibility. Here, we introduce wireless artificial microcilia based on acoustically activated soft hydrogel microstructures inspired by Venus flytrap and <i>vorticella</i>. The structures, termed SonoGrippers, consist of dual microcilia (≤120 µm length) with outward-facing sharp tips. Upon acoustic excitation, SonoGrippers deliver ultrafast (~2 ms), reversible, and controllable actuation, enabling remote attraction, gripping, and release of objects. By tuning structural designs and acoustic parameters, SonoGrippers exhibit diverse deformation modes and tunable response dynamics, allowing adaptable gripping performance across various application scenarios. Proof-of-concept demonstrations with stationary and mobile biological samples confirm their robust functionality. Combining simple fabrication, additive-free operation, wireless rapid control, and biocompatibility, SonoGrippers provide a promising platform toward next-generation biomedical manipulation, soft microrobotics, and bioengineering applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42118841/",
+    "date": "2026-05-13",
+    "analysis": "{\n    \"chinese_summary\": \"本文介绍了一种基于声波激活的软水凝胶微结构SonoGrippers，其灵感来自捕蝇草和钟虫，由双微纤毛（≤120微米）组成，可实现超快（约2毫秒）、可逆、可控的远程抓取和释放物体，适用于生物医学操作和软体微机器人。\",\n    \"innovation\": \"首次将声波激活与仿生微纤毛结构结合，实现了超快、可逆、远程可控的微尺度抓取和释放。\",\n    \"flaw\": \"目前仅在静止和移动的生物样本中验证，缺乏在复杂体内环境中的长期稳定性和生物相容性评估。\"\n}"
+  },
+  {
+    "id": "10.1002/psc.70102",
+    "title": "Organogelation to Hydrogelation: Effect of C-Terminal Functionalization of Peptides.",
+    "journal": "Journal of peptide science : an official publication of the European Peptide Society",
+    "authors": "Gupta, Jain, Ramapanicker",
+    "abstract": "Peptide-based self-assembled gels are promising soft materials and have applications in biomedicine and material science. While the effect of the substituents on the N-terminal protecting group on the gelation behavior of peptides is often discussed, the role of the C-terminal substitution is seldom addressed. We report a tetrapeptide, P1 (Boc-Ala-Ala-Val-Phe-OMe) with a methyl ester at the C-terminus that forms organogels in various organic solvents. However, hydrolysis of the ester group in P1 to get a carboxylic acid (P2), or preparing a methyl (P3) or an isopropyl (P4) amide converted the peptide into hydrogelators, whereas the dimethyl amide (P5) derivative resulted in the loss of gelation. FE-SEM and AFM studies showed entangled fibrillar networks, driven by the formation of β-sheets, which was confirmed by spectroscopic studies. Rheological measurements demonstrated predominantly elastic behavior for the hydrogels, with P4 exhibiting the highest mechanical strength. To establish the observed effect and to understand the role of aromatic and hydrophobic sidechains, four other peptides were prepared and their gelation behavior was analyzed. These results show how modifications of the C-terminal carboxyl group of a given peptide sequence can affect its gelation and may provide an easier solution in tuning the properties of peptide-based gels.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42117670/",
+    "date": "2026-05-13",
+    "analysis": "{\n    \"chinese_summary\": \"本文报道了一种四肽P1（Boc-Ala-Ala-Val-Phe-OMe），其C端为甲酯，能在有机溶剂中形成有机凝胶。将酯基水解为羧酸（P2）或制备甲酰胺（P3）、异丙酰胺（P4）后，肽转变为水凝胶剂，而二甲酰胺（P5）则失去凝胶能力。研究表明，β-折叠驱动的纤维网络是凝胶形成的基础，其中P4水凝胶机械强度最高。通过改变C端基团可调控肽的凝胶行为。\",\n    \"innovation\": \"揭示了C端羧基修饰对肽凝胶行为的关键调控作用，为通过简单化学修饰调控肽基凝胶性质提供了新策略。\",\n    \"flaw\": \"仅基于单一四肽序列，缺乏对序列多样性和普适性的系统验证。\"\n}"
+  },
+  {
+    "id": "10.1038/s41368-026-00438-3",
+    "title": "Machine learning-driven discovery of therapeutic nucleoside hydrogels for periodontitis.",
+    "journal": "International journal of oral science",
+    "authors": "Li, Wen, Huang",
+    "abstract": "Supramolecular hydrogels hold significant potential in drug delivery and tissue engineering, with standing out for their unique properties. Despite their promise, predicting nucleoside bioactivity remains challenging. This study aims to predict the biological activity of nucleosides to guide the rational synthesis of hydrogels. Specifically, nine predictive models and databases for various biological activities were built with feature-selected machine learning methods including decision trees, logistic regression, random forest, and extreme gradient boosting. Then, the Molecular Bioactivity Specificity Index (MBSI) was introduced to gauge the primary bioactivity of nucleoside derivatives, and the Composite Molecular Attribute Score (CMAS) was devised to measure the overall performance of nucleoside derivatives. Subsequently, screening strategies for bioactive nucleoside hydrogels were established, and two candidate hydrogels (GMP and dGMP) with high hydrogel-forming ability, biocompatibility, and antibacterial activity were identified. Finally, two hydrogels were validated for antibacterial treatment of periodontitis. This study highlights the feasibility of ML-based strategies and MBSI/CMAS in rationally designing bioactive nucleoside hydrogels for biomedical applications. The discovery of GMP and dGMP hydrogels and their successful validation in periodontitis models highlight the potential of this strategy for developing targeted therapies for oral diseases.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42115209/",
+    "date": "2026-05-13",
+    "analysis": "{\n    \"chinese_summary\": \"本研究利用机器学习方法构建预测模型，引入MBSI和CMAS指标筛选出具有高成胶能力、生物相容性和抗菌活性的核苷水凝胶（GMP和dGMP），并在牙周炎模型中验证其疗效。\",\n    \"innovation\": \"首次将机器学习与MBSI/CMAS指标结合，用于理性设计具有特定生物活性的核苷超分子水凝胶。\",\n    \"flaw\": \"研究仅验证了两种水凝胶在牙周炎模型中的效果，未探索其他疾病模型或长期安全性。\"\n}"
+  },
+  {
     "id": "10.1038/s41413-026-00530-8",
     "title": "Mineralized DNA tetrahedron-structured hydrogels: a dual-functional Scaffold for immunomodulation and bone regeneration.",
     "journal": "Bone research",

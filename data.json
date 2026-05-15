@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/science.aeh1690",
+    "title": "Scaffolds toughen bacteria-based therapy.",
+    "journal": "Science (New York, N.Y.)",
+    "authors": "Chen, Hu",
+    "abstract": "Stiff, tough hydrogel layers that host bacteria enable sustained release of therapeutic molecules.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42133786/",
+    "date": "2026-05-15",
+    "analysis": "{\n    \"chinese_summary\": \"该研究开发了一种坚硬且坚韧的水凝胶层，能够容纳细菌并实现治疗分子的持续释放。\",\n    \"innovation\": \"利用细菌作为活体工厂，在水凝胶中持续生产并释放治疗分子。\",\n    \"flaw\": \"细菌的长期存活和安全性控制可能面临挑战。\"\n}"
+  },
+  {
+    "id": "10.1126/science.aec2071",
+    "title": "Implantable living materials autonomously deliver therapeutics using contained engineered bacteria.",
+    "journal": "Science (New York, N.Y.)",
+    "authors": "Harimoto, Herrero Quevedo, Zillig",
+    "abstract": "Microbes are increasingly used as living therapeutics, yet their uncontrolled dissemination in the body has remained a clinical roadblock. Physical containment remains largely unattainable owing to eventual bacteria escape. In this work, we present an implantable material that encapsulates and confines bacteria, wherein synthetically engineered microbes produce therapeutic payloads from within. We developed a hydrogel scaffold with dual mechanical features: high stiffness to regulate bacterial proliferation and high toughness to resist material fracture under physiological stress. This design achieved complete bacterial containment for 6 months and withstood multiple forms of mechanical loading that otherwise caused catastrophic material failure. By genetically engineering embedded bacteria, we endowed the material with environmental sensing and on-demand therapeutic release capabilities and demonstrated autonomous treatment in a murine prosthetic joint infection model.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42133778/",
+    "date": "2026-05-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种植入式水凝胶支架，通过高刚度和高韧性双重机械特性，在体内完全封装并限制工程细菌长达6个月，同时实现环境感知和按需治疗释放，并在小鼠假体关节感染模型中展示了自主治疗能力。\",\n    \"innovation\": \"首次通过水凝胶的机械设计实现细菌的长期物理封装，同时保持细菌活性并赋予其治疗功能。\",\n    \"flaw\": \"研究仅在动物模型中验证，未评估人体免疫反应或长期安全性。\"\n}"
+  },
+  {
     "id": "10.3390/ijms27094150",
     "title": "Novel Superabsorbent Hydrogels Based on Polyacrylamide and White Angico Gum Enhanced with Kaolinitic Clay and Soapstone for Potential Agricultural Applications.",
     "journal": "International journal of molecular sciences",

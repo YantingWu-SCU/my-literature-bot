@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1126/sciadv.aeb9792",
+    "title": "Microswarm bridging effect for dual-surface biofilm eradication in submillimeter infection pockets.",
+    "journal": "Science advances",
+    "authors": "Du, Yang, Guo",
+    "abstract": "Biofilm infections in submillimeter interstices at soft tissue-implant/hard tissue interfaces (infection pockets) pose substantial health risks. Traditional surgical and microrobotic strategies struggle to address biofilms in these multicurvature spaces. Here, we report the bridging effect of microswarm self-assembled from magnetic hydrogel particles to eradicate biofilms in infection pockets. The microswarm dynamically bridges dual surfaces within infection pockets, enabling continuous, stable contact and force delivery across concave, plane, and convex surfaces through optimized thickness and shear force. The synergy of enzymatic degradation and mechanical disruption enhances biofilm eradication efficiency by eightfold compared to mechanical disruption alone. A multifunctional hydrogel filler is further used to remove biofilm debris and inhibit microbial recolonization, eventually achieving >99% biofilm elimination in ex vivo and in vivo models. This strategy uses the bridging effect, shape reconfigurability, and enzymatic-mechanical synergy of microswarm, offering a minimally invasive, site-specific solution for deep-tissue infections and persistent biofilms, with reduced reliance on antibiotics.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42139334/",
+    "date": "2026-05-16",
+    "analysis": "{\n    \"chinese_summary\": \"本研究利用磁性水凝胶微粒自组装形成的微群，通过桥接效应在软组织-植入物/硬组织界面的亚毫米间隙中清除生物膜。微群动态桥接双表面，通过优化厚度和剪切力实现连续稳定接触，结合酶解和机械破坏的协同作用，使生物膜清除效率提高八倍，并在离体和体内模型中实现>99%的清除效果。\",\n    \"innovation\": \"提出微群的桥接效应与酶-机械协同作用，为多曲率间隙中的生物膜感染提供微创、位点特异性解决方案。\",\n    \"flaw\": \"研究未评估长期体内稳定性和潜在免疫反应，且磁性微粒的体内降解和安全性需进一步验证。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70193",
+    "title": "Extracellular Vesicle-Functionalized DNA Hydrogels as Next-Generation Intelligent Platforms for Wound Healing and Management.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Yao, Ning, Leng",
+    "abstract": "Extracellular vesicles (EVs) have emerged as promising therapeutic agents for tissue repair due to their intrinsic abilities in intercellular communication, immunomodulation, and regeneration promotion. However, the clinical translation of EV-based therapies for wound healing remains limited by challenges such as rapid clearance, poor retention at the wound site, and uncontrolled bioactivity. Recently, DNA hydrogels have attracted increasing attention as programmable biomaterials with excellent biocompatibility, structural tunability, and stimuli-responsive properties. Integrating EVs with DNA hydrogels offers a novel strategy to construct intelligent therapeutic platforms that enhance EV stability, enable sustained release, and provide spatiotemporal control of therapeutic signaling. In this review, we summarize recent advances in extracellular vesicle-functionalized DNA hydrogels as next-generation platforms for wound healing and management. We discuss the design principles of DNA hydrogels, strategies for EV incorporation and functionalization, and the synergistic mechanisms by which these hybrid systems regulate inflammation, promote angiogenesis, and accelerate tissue regeneration. In addition, emerging intelligent features such as stimuli-responsive release, biosensing capability, and programmable therapeutic delivery are highlighted. Finally, we address current challenges, including large-scale manufacturing, standardization, and translational barriers, and outline future perspectives for the clinical application of EV-functionalized DNA hydrogel systems in regenerative medicine.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42138016/",
+    "date": "2026-05-16",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了细胞外囊泡功能化DNA水凝胶作为下一代伤口愈合平台的最新进展，讨论了设计原理、囊泡整合策略、协同机制（抗炎、促血管生成、组织再生）以及智能特性（刺激响应释放、生物传感、程序化递送），并指出了大规模制造、标准化和临床转化等挑战。\",\n    \"innovation\": \"将DNA水凝胶的可编程性与细胞外囊泡的治疗活性相结合，构建智能响应性杂化系统，实现时空可控的伤口修复。\",\n    \"flaw\": \"目前缺乏大规模制造和标准化方法，且临床转化面临生物安全性、长期稳定性和监管障碍。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70194",
+    "title": "Recent Advances in Natural Polymers-based Hydrogels for Periodontal Regeneration.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Gomes Neto, Lima, Brand",
+    "abstract": "Conventional therapies still provide only limited true tissue regeneration for periodontal diseases, particularly periodontitis, which are highly prevalent chronic inflammatory conditions associated with irreversible loss of tooth-supporting tissues and relevant systemic consequences. In this context, hydrogels based on natural polymers have been widely explored in periodontal tissue engineering as biomimetic matrices capable of modulating the inflammatory response, enabling localized delivery of bioactive agents, and offering temporary structural support. This review summarizes recent advances in hydrogels composed of alginate, collagen, chitosan, and other natural or semi-synthetic polymers applied to periodontal regeneration. The influence of polymer origin, crosslinking strategies, physicochemical and rheological properties, and processing approaches, including injectable formulations, self-healing systems, and bioinks for three-dimensional bioprinting, is discussed in relation to cell adhesion, angiogenesis, osteogenesis, and functional restoration of periodontal tissues. Hybrid platforms such as interpenetrating polymer networks, ceramic-reinforced composites, and systems designed for controlled delivery of drugs, growth factors, exosomes, and stem cells are also examined, with emphasis on immunomodulatory and stimuli-responsive designs tailored to the periodontal microenvironment. Despite robust preclinical evidence demonstrating coordinated regeneration of cementum, periodontal ligament, and alveolar bone, major challenges remain. These include the scarcity of well-controlled clinical trials, limitations in standardization, and regulatory barriers to translation.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42138011/",
+    "date": "2026-05-16",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了基于天然聚合物的水凝胶在牙周组织再生中的应用，包括海藻酸盐、胶原、壳聚糖等材料，讨论了其交联策略、理化性质、注射型、自愈合及3D生物打印等加工方法，以及杂化平台如互穿网络、陶瓷增强复合物和控释系统。尽管临床前证据充分，但缺乏高质量临床试验、标准化不足和监管障碍仍是主要挑战。\",\n    \"innovation\": \"系统总结了免疫调节和刺激响应性水凝胶设计，以及杂化平台在牙周微环境中的协同再生作用。\",\n    \"flaw\": \"缺乏充分控制的临床试验，标准化不足，且转化面临监管障碍。\"\n}"
+  },
+  {
     "id": "10.1126/science.aeh1690",
     "title": "Scaffolds toughen bacteria-based therapy.",
     "journal": "Science (New York, N.Y.)",

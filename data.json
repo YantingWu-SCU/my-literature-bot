@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.202500601",
+    "title": "Multifunctional Hyaluronic Acid Releasing Hydrogel Film With Nano/Micro Wrinkles: Thin Acne Patch for Localized Therapeutics.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Chowdhury, Babu, Bhadauria",
+    "abstract": "Hyaluronic acid (HA) is effective in reducing skin inflammation and sebum production in acne vulgaris. Localized treatment with HA involves rapid dissolving microneedle-based formulations to penetrate and release active ingredients. These causes discomfort and secondary wounds, which eventually aggravate inflammatory responses, thereby increasing the risk of scaring and pathogenesis. This study introduces HA hydrogel film-based thin acne patches made by crosslinking HA with hydrocolloid. These patches exhibit nano to micro scale wrinkle-like morphology, offering uniform adhesion to the skin without additional adhesives or microneedles. The transparent, adhesive, and pliable nature of the patches facilitates seamless integration with the skin. The moisture-retention, stability, breathability, and flexibility parameters ensure the skin mimicking properties enhancing patient compliance. The biphasic HA release facilitates prolonged antioxidant activity and superior bactericidal effects, proving its therapeutic efficacy. Further, the cytocompatibility studies ensure the safety, manifesting the usage in acne therapy. Moreover, the study also demonstrates the incorporation of active ingredients for providing a synergistic effect. This prototype paves the way for a promising localized treatment strategy in several dermatological diseases, indicating a potential future market.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145230/",
+    "date": "2026-05-19",
+    "analysis": "{\n    \"chinese_summary\": \"本研究介绍了一种基于透明质酸水凝胶薄膜的痤疮贴片，通过交联透明质酸与水胶体制成，具有纳米至微米级褶皱形态，无需额外粘合剂或微针即可均匀贴合皮肤。该贴片透明、粘附、柔韧，具备保湿、稳定、透气、灵活等特性，模拟皮肤特性，提高患者依从性。双相透明质酸释放实现长效抗氧化和杀菌效果，细胞相容性研究确保安全性，并支持活性成分的协同作用，为皮肤病局部治疗提供了新策略。\",\n    \"innovation\": \"创新点在于开发了一种无需微针或额外粘合剂的透明质酸水凝胶薄膜痤疮贴片，通过其独特的褶皱形态实现均匀贴合，并具有双相释放、长效抗氧化和杀菌效果。\",\n    \"flaw\": \"不足在于该研究仅提供了体外实验数据，缺乏体内临床验证，其实际疗效和安全性尚需进一步评估。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aeb9792",
     "title": "Microswarm bridging effect for dual-surface biofilm eradication in submillimeter infection pockets.",
     "journal": "Science advances",

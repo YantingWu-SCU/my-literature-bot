@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1073/pnas.2531588123",
+    "title": "A BCG hydrogel enables localized NOD2/STING activation to overcome resistance to immune checkpoint blockade.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Xiao, Xu, Ma",
+    "abstract": "Resistance to immune checkpoint blockade (ICB) often arises from immunologically cold tumors enriched in suppressive myeloid cells. Previous studies have implicated NOD2 signaling in antitumor immunity and in modulation of ICB responses, but approaches to engage this pathway effectively and durably within tumors remain limited. Here, single-cell transcriptomic analysis of colorectal cancer identified a <i>NOD2</i><sup>high</sup> tumor-associated macrophage (TAM) subset enriched for inflammatory and immune-activating programs. To therapeutically harness this state, we engineered an injectable manganese-containing alginate hydrogel encapsulating polyarginine-functionalized <i><i>Bacillus</i> Calmette-Guérin</i> (MHY@PBCG) for sustained intratumoral delivery and localized coactivation of NOD2 and STING signaling in TAMs. Polyarginine enhanced BCG uptake by macrophages, whereas Mn<sup>2+</sup> stabilized the hydrogel and amplified STING activation. Local administration of MHY@PBCG reprogrammed TAMs toward an M1-like phenotype, increased inflammatory cytokine and interferon programs, converted cold tumors into immune-inflamed lesions, and restored responsiveness to anti-PD1 therapy in multiple models. Mechanistically, coordinated NOD2/STING activation established a self-reinforcing inflammatory circuit linking macrophage reprogramming to downstream T cell-mediated antitumor immunity. These findings establish a localized biomaterial strategy for overcoming checkpoint resistance through macrophage-centered remodeling of the tumor microenvironment.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42154546/",
+    "date": "2026-05-20",
+    "analysis": "{\n    \"chinese_summary\": \"该研究通过单细胞转录组分析发现结直肠癌中NOD2高表达的肿瘤相关巨噬细胞亚群，并设计了一种含锰的海藻酸盐水凝胶包裹聚精氨酸功能化的卡介苗（MHY@PBCG），用于瘤内持续递送并局部共激活NOD2和STING信号，将冷肿瘤转化为免疫炎症性肿瘤，恢复抗PD1治疗敏感性。\",\n    \"innovation\": \"首次利用可注射水凝胶实现瘤内NOD2和STING信号的持续共激活，通过重编程肿瘤相关巨噬细胞克服免疫检查点阻断耐药。\",\n    \"flaw\": \"研究仅在动物模型中进行，缺乏临床验证，且水凝胶的长期生物相容性和降解特性需进一步评估。\"\n}"
+  },
+  {
+    "id": "10.1177/22808000261447657",
+    "title": "Antibiotic eluting collagen-based hydrogel improves wound healing in a biofilm challenged murine stented wound model.",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "authors": "Smith, Jarman, Francis",
+    "abstract": "Biofilm-colonized chronic wounds are difficult to treat due to a constantly evolving microbiome. In this study, a cHG augmented with antibiotics was examined for the topical treatment of biofilm-challenged wounds in vivo. Two studies were performed in series using a murine stented wound model. Mice were divided into four groups: control (wound only), infection only (IO), infection + cHG (IcHG), and infection + cHG + antibiotics (IcHG + Abx). We first examined <i>Pseudomonas aeruginosa</i> biofilms treated with gentamicin, and then MRSA biofilms treated with clindamycin. Wound healing was assessed using photography, immunohistochemistry, and histology. Systemic symptoms were monitored with hematological laboratory tests. <i>Pseudomonas aeruginosa</i> infected wounds treated with cHG + Abx healed faster and were protected from bacteremia. In the MRSA infected mice, wound treatment significantly affected the outcome, explaining 5.56% of total variance (ANOVA: <i>F</i>(3, 366) = 17.38, <i>p</i> < 0.0001). Additionally, infected wounds treated with cHG + Abx demonstrated less inflammatory tissue and accelerated closure rate on day 8 (76.53% ± 7.43% vs 48.40% ± 4.95%, <i>p</i> < 0.0001) and day 14 (96.00% ± 3.07% vs 82.38% ± 8.24%, <i>p</i> = 0.003), as compared to the infection only wounds. cHG offers a biocompatible, topical option with dual functionality: antibiotic augmentation to target biofilm pathogens, and a collagen-rich dressing to accelerate wound healing.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152808/",
+    "date": "2026-05-20",
+    "analysis": "{\n    \"chinese_summary\": \"本研究使用抗生素增强的胶原水凝胶（cHG）局部治疗生物膜感染的慢性伤口，在小鼠模型中显示对铜绿假单胞菌和MRSA生物膜有效，能加速伤口愈合、减少炎症并防止菌血症。\",\n    \"innovation\": \"将抗生素与胶原水凝胶结合，实现局部抗菌与促愈合双重功能。\",\n    \"flaw\": \"仅在动物模型中验证，缺乏人体临床试验数据。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500601",
     "title": "Multifunctional Hyaluronic Acid Releasing Hydrogel Film With Nano/Micro Wrinkles: Thin Acne Patch for Localized Therapeutics.",
     "journal": "Macromolecular bioscience",

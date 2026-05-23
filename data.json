@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/sciadv.aee2233",
+    "title": "On-demand formation of ultrathin liquid metal hydrogel tattoos for conformal and low-impedance bioelectronics.",
+    "journal": "Science advances",
+    "authors": "Ding, Chen, Jiang",
+    "abstract": "Ultrathin conductive hydrogels provide conformal and stable contact for flexible bioelectronics, which is critical for achieving the low impedance necessary for high-quality electrophysiological signal acquisition. However, their low modulus has made these hydrogel devices difficult to fabricate and handle. To overcome this, we present an on-demand formation strategy for creating ready-to-use, ultrathin (down to 1 micrometer) hydrogel-based bioelectronics that combine tissue-like softness with ready-to-use functionality. By using cross-linked electrospun polyvinyl alcohol (PVA) fiber mats, we produce liquid metal-patterned hydrogel tattoos (LMHTs). These devices transform from easy-to-handle dry films into adhesive, conformal hydrogel interfaces upon hydration. The resulting LMHTs are ultralight (0.9 milligrams per square centimeter), exhibit ultralow skin contact impedance (1.2 kilohms at 1 kilohertz), and show outstanding biocompatibility. We demonstrate their utility in diverse on-skin and implantable applications, including electrocardiogram recording, multichannel electromyogram mapping, neuromuscular electrical stimulation, and in vivo cardiac monitoring on a beating rat heart. This work offers a scalable and practical approach for generating high-performance, ultrathin hydrogel bioelectronics.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42172340/",
+    "date": "2026-05-23",
+    "analysis": "{\n    \"chinese_summary\": \"提出一种按需形成策略，利用交联电纺PVA纤维垫制备超薄（1微米）液态金属图案水凝胶纹身（LMHT），兼具组织柔软性和即用功能，在干态下易处理，水合后形成粘附性共形水凝胶界面，用于高质量电生理信号采集。\",\n    \"innovation\": \"通过干态易处理、水合后形成共形界面的按需形成策略，解决了超薄水凝胶器件难以制备和操作的问题。\",\n    \"flaw\": \"水凝胶的长期稳定性和耐久性未在文中充分评估，可能限制其在长期植入或反复使用场景中的应用。\"\n}"
+  },
+  {
+    "id": "10.1126/sciadv.aee4419",
+    "title": "Bandgap-enabled ultrasound tissue marking by a biodegradable metastructured hydrogel implant.",
+    "journal": "Science advances",
+    "authors": "Pan, Qin, Gao",
+    "abstract": "Implantation of tissue markers within lesions is standard practice in breast cancer diagnosis and treatment, which provides critical guidance for regular follow-up and precise surgical localization. However, the identification of existing markers is limited by nonspecificity and low resolution of conventional ultrasound imaging. The use of rigid materials to compensate for this constraint has resulted in inadequate biodegradability and biocompatibility. Here, we propose a biodegradable metastructured hydrogel tissue marker with acoustic bandgaps enabling specific ultrasonic reflection spectra. Through frequency-to-color mapping on B-mode images, visualization is achieved, with scalable designs allowing multiple marker distinction. Deliverable via an 18-gauge puncture needle and featuring tissue-mimicking softness, the metagel marker mitigates displacement risks, tissue damage, and inflammation. Live pig experiments demonstrate clear identification and dynamic stability. Six-week rat studies confirm long-term marking ability and biocompatibility. These results support the metagel marker's clinical potential for breast cancer management and precise therapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42172334/",
+    "date": "2026-05-23",
+    "analysis": "{\n    \"chinese_summary\": \"提出一种可生物降解的亚稳态水凝胶组织标记物，利用声子带隙产生特异性超声反射光谱，通过频率-颜色映射实现B超可视化，兼具软组织匹配性、可注射性和生物相容性，在猪和大鼠实验中验证了长期标记能力与稳定性。\",\n    \"innovation\": \"首次将亚稳态水凝胶声子带隙设计用于超声特异性标记，实现多标记区分且无需刚性材料。\",\n    \"flaw\": \"未在人体临床试验中验证其长期安全性与标记稳定性，且声谱特异性可能受组织异质性干扰。\"\n}"
+  },
+  {
     "id": "10.1073/pnas.2531588123",
     "title": "A BCG hydrogel enables localized NOD2/STING activation to overcome resistance to immune checkpoint blockade.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",

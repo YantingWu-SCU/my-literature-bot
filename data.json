@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/sciadv.aed2483",
+    "title": "Active protein-capturing hydrogel for broad-spectrum pathogen defense.",
+    "journal": "Science advances",
+    "authors": "Liu, Hu, Liu",
+    "abstract": "Proteinaceous agents, including viral particles and allergenic proteins, play central roles in infection, inflammation, and immune dysregulation, yet few materials can broadly neutralize them through direct protein capture. Here, we present an inhalable protein trap (IPT), an active hydrogel that rapidly immobilizes diverse amine-containing biomolecules via NHS-amine chemistry. Structural optimization enables IPT to stably incorporate a high density of reactive NHS esters that remain functional under physiological conditions, allowing efficient protein capture at mucosal surfaces. Upon hydration, powdery IPT rapidly forms an active barrier that covalently traps proteins and proteinaceous particles within minutes. This nonselective capture mechanism allows IPT to bind viral particles, allergens released from pollen or fungi, and soluble immune mediators such as histamine. Across multiple animal models, including allergic rhinitis, pollen-induced allergy, and viral infection, IPT consistently outperformed commercial barrier sprays in blocking pathogenic proteins and mitigating disease progression. These results establish IPT as a versatile platform for broad-spectrum protection at biological interfaces.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202009/",
+    "date": "2026-05-28",
+    "analysis": "{\n    \"chinese_summary\": \"本文介绍了一种可吸入的蛋白质捕获剂（IPT），这是一种活性水凝胶，通过NHS-胺化学快速固定含胺生物分子。优化结构后，IPT能稳定负载高密度活性NHS酯，在生理条件下保持功能，实现黏膜表面高效捕获蛋白质。水化后，IPT粉末迅速形成活性屏障，几分钟内共价捕获蛋白质和蛋白质颗粒。这种非选择性捕获机制使IPT能结合病毒颗粒、花粉或真菌释放的过敏原以及组胺等可溶性免疫介质。在过敏性鼻炎、花粉过敏和病毒感染等多种动物模型中，IPT在阻断致病蛋白和缓解疾病进展方面始终优于商业屏障喷雾。这些结果确立了IPT作为生物界面广谱保护的多功能平台。\",\n    \"innovation\": \"提出了一种基于NHS-胺化学的可吸入活性水凝胶，通过非选择性共价捕获机制实现黏膜表面广谱蛋白质中和。\",\n    \"flaw\": \"非选择性捕获可能同时结合有益蛋白质，且长期安全性及人体有效性尚未验证。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27104600",
+    "title": "Adhesive Hydrogels as Fixation and Regeneration Platforms in Cartilage Surgery: Rethinking Scaffold-Tissue Integration from a Clinical Perspective.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Jo, Lee",
+    "abstract": "Articular cartilage defects affect millions of patients annually and pose one of the most persistent challenges in orthopedic surgery, owing to the tissue's inherent avascular and alymphatic nature. Current surgical approaches, microfracture, autologous chondrocyte implantation (ACI/MACI), and osteochondral grafting, share a common failure mode: inadequate adhesion between repair constructs and surrounding native cartilage, contributing to deterioration rates of 15-75% at five-year follow-up across all techniques. This review repositions adhesion not as a supplementary material property but as the central determinant of clinical success in cartilage repair. We systematically evaluate the biomechanical demands imposed by the joint environment and define clinically relevant adhesion thresholds. Adhesive hydrogel strategies are categorized by surgical context: microfracture augmentation, ACI/MACI enhancement, osteochondral graft integration, and standalone repair platforms. Material platforms are analyzed across catechol/dopamine systems, NHS ester chemistry, photocrosslinkable hydrogels, supramolecular approaches, and multi-mechanism hybrids. Injectable formulations for arthroscopic delivery are critically examined alongside key translational barriers, including fatigue durability, biocompatibility-adhesion trade-offs, sterilization compatibility, batch variability, and regulatory classification ambiguity. Future directions encompass 4D bioprinting, AI-guided formulation optimization, and stimuli-responsive reversible adhesion systems. Adhesive hydrogels represent the missing link that current cartilage repair paradigms require.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42196578/",
+    "date": "2026-05-28",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了关节软骨修复中粘附性水凝胶的关键作用，指出当前手术方法（如微骨折、自体软骨细胞移植和骨软骨移植）因修复体与天然软骨粘附不足导致失败率高达15-75%。文章系统评估了关节环境的生物力学需求，定义了临床相关的粘附阈值，并按手术场景分类讨论了粘附性水凝胶策略，包括儿茶酚/多巴胺系统、NHS酯化学、光交联水凝胶、超分子方法和多机制杂化材料。同时分析了注射制剂、疲劳耐久性、生物相容性-粘附性权衡、灭菌兼容性、批次变异性和监管分类模糊性等转化障碍，并展望了4D生物打印、AI引导配方优化和刺激响应可逆粘附系统等未来方向。\",\n    \"innovation\": \"将粘附性从辅助材料属性重新定位为软骨修复临床成功的核心决定因素，并系统定义了临床相关的粘附阈值。\",\n    \"flaw\": \"综述主要基于现有文献，缺乏大规模临床验证数据，且未深入讨论粘附性水凝胶在体内长期降解和免疫反应的具体机制。\"\n}"
+  },
+  {
     "id": "10.1016/j.carbpol.2025.124884",
     "title": "Photo-crosslinkable quaternized chitosan-based hydrogel for immunomodulation and functional recovery in spinal cord injury.",
     "journal": "Carbohydrate polymers",

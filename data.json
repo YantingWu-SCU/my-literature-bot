@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/sciadv.aef3388",
+    "title": "An antiswelling biodegradable hydrogel reshapes electro-microenvironment to drive endogenous neuroregeneration after brain defect.",
+    "journal": "Science advances",
+    "authors": "Luo, Xiao, Huang",
+    "abstract": "Bioactive matrix filling is a promising strategy for treating acute traumatic brain injury (TBI)-related substantial brain defects, requiring a dual-functional matrix that resists swelling and remodels microenvironments for endogenous regeneration. Herein, we design an antiswelling, biodegradable adhesive hydrogel through supramolecular self-assembly of two Food and Drug Administration-approved drugs (lipoic acid and metformin) via multi-hydrogen bonding with precise regulation of solution pH. This hydrogel matrix recapitulates critical native brain tissue characteristics, including mechanical and electrical compatibility. During degradation, released lipoic acid remodels the injury site into a proregenerative niche, while metformin promotes spontaneous recruitment of endogenous neural stem cells (NSCs) to defect area. Integrated with a flexible cortical electrode and exogenous electrical stimulation, this system further directs NSC differentiation into functional neurons. In a substantial brain defect rat model, this strategy achieves a 14.8-fold increase in NSC recruitment and an 11.3-fold enhancement in neuronal differentiation, leading to a 78% reduction in tissue defect volume and notable functional recovery. This work establishes a therapeutic paradigm for endogenous repair after TBI.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42213827/",
+    "date": "2026-05-30",
+    "analysis": "{\n    \"chinese_summary\": \"本研究设计了一种抗溶胀、可降解的粘性水凝胶，通过两种FDA批准药物（硫辛酸和二甲双胍）的超分子自组装形成，用于治疗创伤性脑损伤引起的脑组织缺损。该水凝胶模拟天然脑组织的机械和电学特性，降解时释放硫辛酸重塑促再生微环境，二甲双胍招募内源性神经干细胞，结合柔性电极和电刺激促进神经元分化，在大鼠模型中显著减少缺损体积并恢复功能。\",\n    \"innovation\": \"首次将两种FDA批准药物通过超分子自组装构建抗溶胀水凝胶，同时实现微环境重塑和电刺激引导的神经再生。\",\n    \"flaw\": \"研究仅在动物模型验证，缺乏长期安全性和有效性数据，且未探讨个体差异对治疗效果的影响。\"\n}"
+  },
+  {
+    "id": "10.1073/pnas.2605176123",
+    "title": "Growth in confinement promotes <i>Pseudomonas aeruginosa</i> tolerance to antibiotics.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Monnappa, Al-Mayyah, Sakar",
+    "abstract": "Bacteria often proliferate within confined spaces imposed by host tissues, extracellular matrices, or their own biofilms where cells press against surrounding materials and experience elevated mechanical stress. Whether these forces influence pathogen physiology and fitness remains unresolved. We show that <i><i>Pseudomonas aeruginosa</i></i> adapts to mechanical confinement by increasing resilience to antibiotics. Using synthetic hydrogels of tunable stiffness that restrict expansion without limiting nutrient access, we demonstrate that growth in elastic materials reduces <i><i>P. aeruginosa</i></i> sensitivity to antibiotics in a stiffness-dependent manner. Although slower growth contributes to tolerance, Tn-seq under colistin and tobramycin treatment identified key regulators of mechanically induced tolerance. We found that active efflux mediated by sodium-proton <i>Sha</i> antiporters, together with protective remodeling of the bacterial membrane, enhances the resilience of confined populations without impacting growth. These findings reveal that <i><i>P. aeruginosa</i></i> adapts to mechanical stress in ways that may promote treatment failure even in the absence of intrinsic resistance.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42213750/",
+    "date": "2026-05-30",
+    "analysis": "{\n    \"chinese_summary\": \"铜绿假单胞菌在机械限制环境下通过钠质子Sha逆向转运蛋白介导的主动外排和膜重塑增强对抗生素的耐受性，且不依赖生长速度变化。\",\n    \"innovation\": \"首次揭示机械应力可直接诱导细菌抗生素耐受性，并鉴定出Sha逆向转运蛋白和膜重塑为关键调控机制。\",\n    \"flaw\": \"研究仅使用合成水凝胶模拟限制环境，未在宿主组织或生物膜等天然受限条件下验证该机制。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aed2483",
     "title": "Active protein-capturing hydrogel for broad-spectrum pathogen defense.",
     "journal": "Science advances",

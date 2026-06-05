@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1016/j.carbpol.2026.125443",
+    "title": "Carboxymethyl chitosan/sodium alginate-based dynamic organic nanocomposite hydrogel for local tumoral targeted therapy.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Cheng, Song, Zhou",
+    "abstract": "The nanocomposite hydrogels fail to achieve clinical transformation due to their unsatisfactory nanomedicine escapement from hydrogel and suboptimal tumor selectivity. Herein, this work highlights a successful development of a polysaccharide-based dynamic organic nanocomposite hydrogel, in which crosslinked nano-prodrugs (NPs) are dispersed within liquid hydrophobic orthoester (OE) and subsequently encapsulated in polysaccharide-based hydrogels crosslinked via dynamic imine bonds. These dynamic imine linkages endow the hydrogel with injectability, self-adaptability, and tumor extracellular pH-responsive biodegradability. OE enables efficient NPs release from the hydrogel, enhances their deep penetration into tumor tissues, and undergoes further degradation to restore NPs to their original particle size. The NPs enhance selective drug accumulation through tumoral intracellular pH-triggered aggregation and enable targeted drug release in response to specific intracellular pH/glutathione conditions, ultimately promoting apoptosis and cytotoxicity through a synergistic interaction between cisplatin and demethylcantharidin. These superior attributes allow for complete tumor suppression without adverse effects. Consequently, this polysaccharide-based dynamic organic nanocomposite hydrogel demonstrates substantial potential for localized tumor-targeted therapy, greatly improving its clinical applicability.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42230041/",
+    "date": "2026-06-05",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于多糖的动态有机纳米复合水凝胶，通过动态亚胺键交联，包裹含液体疏水原酸酯和交联纳米前药，实现肿瘤微环境响应性释放、深层渗透和靶向药物递送，协同顺铂和去甲斑蝥素诱导凋亡，完全抑制肿瘤且无副作用。\",\n    \"innovation\": \"利用动态亚胺键和液体疏水原酸酯实现水凝胶的可注射性、自适应性、肿瘤pH响应降解及纳米药物高效释放与深层渗透。\",\n    \"flaw\": \"未提及长期稳定性、大规模制备可行性及在复杂体内环境中的具体降解产物安全性。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aef3388",
     "title": "An antiswelling biodegradable hydrogel reshapes electro-microenvironment to drive endogenous neuroregeneration after brain defect.",
     "journal": "Science advances",

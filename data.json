@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/jbm.b.70105",
+    "title": "Smart Bioresponsive Hydrogels for Chronic Wound Healing: Design, Therapeutic Functionalization, and Emerging Digital Health Integration.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Redkar, Nalkar, Nitalikar",
+    "abstract": "Smart bioresponsive hydrogels have emerged as a transformative solution for the management of chronic wounds, such as diabetic foot ulcers, venous leg ulcers, and pressure sores, which are often complicated by persistent inflammation, infection, and biochemical dysregulation. Unlike traditional dressings, these advanced materials are engineered to respond to intrinsic wound stimuli such as pH, reactive oxygen species (ROS), glucose, and enzymatic activity, enabling spatially and temporally controlled drug release. This review comprehensively examines the design principles, biochemical triggers, and functionalization strategies behind stimuli responsive hydrogels. We explore diverse hydrogel classes, including single and multi-stimuli systems, and in-depth functional augmentations, such as antibacterial agents, angiogenic growth factors, and self-healing adhesion mechanisms. A major emphasis is placed on emerging integration with digital health platforms such as wearable biosensors, implantable systems, and AI driven wound analytics, which enable real time monitoring and closed loop drug delivery. Comparative analyses between academic prototypes and existing commercial products are discussed alongside translational barriers related to clinical trials, regulatory challenges, and manufacturing scalability. The review concludes by outlining a prospective roadmap for AI personalized, multifunctional all-in-one hydrogel systems that integrate biomaterials with biosensing and telemedicine capabilities. This manuscript provides a detailed and timely resource for researchers, clinicians, and bioengineers seeking to bridge the gap between hydrogel innovation and clinical impact.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42231760/",
+    "date": "2026-06-07",
+    "analysis": "{\n    \"chinese_summary\": \"智能生物响应水凝胶通过响应伤口微环境（如pH、活性氧、葡萄糖和酶活性）实现时空可控药物释放，综述了其设计原理、功能化策略及与数字健康平台（可穿戴传感器、AI分析）的整合，并讨论了临床转化挑战。\",\n    \"innovation\": \"首次系统整合了多刺激响应水凝胶与数字健康技术（如AI驱动分析和闭环给药），提出个性化多功能一体化系统。\",\n    \"flaw\": \"缺乏对长期生物相容性和体内降解行为的详细评估，且临床转化中规模化生产和监管路径的讨论不够深入。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125434",
+    "title": "Self-healing chitosan-catechol hydrogel with tailored self-assembled fibrillar or micellar structures for biomedical applications.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Chen, Zhang, Hsu",
+    "abstract": "Mussel-inspired chitosan-catechol hydrogels have garnered attention due to wet adhesion and radical scavenging ability. However, correlation between gel forming conditions and mesoscale self-assembled structures of chitosan derivatives remains to be elucidated. Herein, homogeneous (CC) and fibrillar (CC') chitosan-catechol hydrogels were selectively fabricated via two different processes, controllable rotary concentration vs. lyophilization-redissolvation. Small-angle X-ray scattering analyses revealed distinct self-assembled structures, nanoclusters (∼4.4 nm) for CC hydrogel and nanofibrils (L ∼ 13 nm) for CC' hydrogel. The fibrillar architectures reinforced CC' with modulus up to ∼2.8 kPa, exceeding that of CC by ≥50-fold. Both CC and CC' can be further reinforced by dynamic long-chain crosslinker, forming chemical network. Micellar crosslinker dampened the strain-hardening of the host network from 98% to 17%, while the linear variant preserved higher energy storage capacity. These self-assembled and crosslinked hydrogels universally possessed injectability, adhesiveness, antioxidation, and self-healing capabilities. Meanwhile, the fibrillar assemblies can guide the alignment and differentiation of neural stem cells. The micellar hydrogel sustains the release of chondrogenic small molecular drug (Y27632) and induces the chondrogenesis of mesenchymal stem cells in the hydrogel. This study establishes a combinatorial chitosan-catechol platform where processing and crosslinking strategies yield various hydrogels with tailored architectures for different biomedical applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42230037/",
+    "date": "2026-06-07",
+    "analysis": "{\n    \"chinese_summary\": \"本研究通过可控旋转浓缩和冻干-再溶解两种方法，分别制备了均质（CC）和纤维状（CC'）壳聚糖-儿茶酚水凝胶，揭示了其自组装结构（纳米簇 vs 纳米纤维）与力学性能的关系，并引入动态交联剂增强网络，所得水凝胶兼具可注射、粘附、抗氧化、自修复及引导神经干细胞分化、促进软骨形成等特性。\",\n    \"innovation\": \"首次通过调控加工条件实现壳聚糖-儿茶酚水凝胶从纳米簇到纳米纤维的介观结构转变，并阐明结构与性能的关联。\",\n    \"flaw\": \"未评估水凝胶在体内的长期降解行为及生物相容性，且缺乏与现有材料的直接性能对比。\"\n}"
+  },
+  {
     "id": "10.1016/j.carbpol.2026.125443",
     "title": "Carboxymethyl chitosan/sodium alginate-based dynamic organic nanocomposite hydrogel for local tumoral targeted therapy.",
     "journal": "Carbohydrate polymers",

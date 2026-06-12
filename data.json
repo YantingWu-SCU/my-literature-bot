@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1126/sciadv.adz0017",
+    "title": "Light-based 3D printing of mechanoluminescent living gels loaded with dinoflagellates.",
+    "journal": "Science advances",
+    "authors": "Boons, Steinacher, Galinski",
+    "abstract": "Dinoflagellates, a group of marine unicellular algae, are known for the fascinating glowing effects in coastal waters. While this natural mechanoluminescent phenomenon has been explored in pressure sensors and optical transducers, technologies to shape dinoflagellate-containing materials into more complex, engineering-relevant geometries remain limited. Here, we report a three-dimensional printing strategy to manufacture complex-shaped mechanoluminescent objects using dinoflagellates embedded in biocompatible hydrogels. The growth and mechanoluminescence of the entrapped dinoflagellates were investigated by optical microscopy, emission spectroscopy, and mechanical testing of cell-laden gels. Dinoflagellate-laden gels showed strong bioluminescence when compressed at sufficiently high strain and strain rates. By incorporating the dinoflagellates into a photo-curable hydrogel, we shaped such living material into complex geometries using a widely available light-based printing technique. The ability to print dinoflagellate-laden gels into intricate shapes broadens the design space available for the creation of mechanoluminescent living objects for applications in soft robotics, self-powered sensing, and optical transduction.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247516/",
+    "date": "2026-06-12",
+    "analysis": "{\n    \"chinese_summary\": \"本研究利用三维打印技术将甲藻嵌入生物相容性水凝胶中，制造出复杂形状的机械发光物体，并研究了其生长和发光特性。\",\n    \"innovation\": \"首次将甲藻与光固化水凝胶结合，通过光基打印技术制造复杂几何形状的机械发光活体材料。\",\n    \"flaw\": \"甲藻的机械发光需要足够高的应变和应变率，可能限制其在低应力环境下的应用。\"\n}"
+  },
+  {
+    "id": "10.7150/thno.128115",
+    "title": "Localized and sustained release of Botulinum Toxin A from supramolecular peptide hydrogel for strabismus treatment.",
+    "journal": "Theranostics",
+    "authors": "Guo, Zhu, Yao",
+    "abstract": "Botulinum toxin type A (BTXA) is an injectable neurotoxin widely used for the nonsurgical treatment of strabismus. However, its unintended diffusion into non-target extraocular muscles often causes complications such as ptosis and reduces its therapeutic duration. Therefore, suitable delivery platforms to improve both safety and efficacy of BTXA in strabismus treatment are urgently required.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42244991/",
+    "date": "2026-06-12",
+    "analysis": "{\n    \"chinese_summary\": \"肉毒杆菌毒素A（BTXA）是一种用于非手术治疗斜视的注射性神经毒素，但其非靶向扩散常导致并发症如眼睑下垂并缩短疗效持续时间，因此亟需合适的递送平台以提高其安全性和有效性。\",\n    \"innovation\": \"提出需要开发新型递送平台以改善BTXA在斜视治疗中的安全性和疗效。\",\n    \"flaw\": \"未具体说明递送平台的设计或实验验证，仅指出需求。\"\n}"
+  },
+  {
+    "id": "10.7150/thno.133095",
+    "title": "Stimuli-responsive nanomaterials for wound healing: advances and emerging directions.",
+    "journal": "Theranostics",
+    "authors": "Dong, Zhang, Wu",
+    "abstract": "In wound healing applications, conventional nanomaterials fail to precisely regulate the wound healing process because of the lack of dynamic adaptation to the wound microenvironment. Conversely, stimuli-responsive nanomaterials can respond to endogenous stimuli such as pH, enzymes, reactive oxygen species (ROS), and glucose, as well as exogenous stimuli such as light, electricity, and magnetism. Thus, stimuli-responsive nanomaterials can facilitate precise drug delivery and effectively treat wounds, and some of these materials can even achieve integrated diagnosis and treatment. Previous reviews have focused mainly on hydrogel carriers with stimuli-responsive properties. This review focuses on stimuli-responsive nanomaterials, classifies these materials on the basis of their stimulus sources, and systematically summarizes the response mechanisms, application outcomes, and design strategies of endogenous, exogenous, and dual stimuli-responsive nanomaterials applied in wound healing. Furthermore, this review explores the research gaps and future developments of stimuli-responsive nanomaterials for wound healing.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42244990/",
+    "date": "2026-06-12",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了刺激响应性纳米材料在伤口愈合中的应用，根据刺激源分类（内源性、外源性、双重刺激），系统总结了其响应机制、应用效果和设计策略，并探讨了研究空白和未来发展方向。\",\n    \"innovation\": \"首次系统性地根据刺激源分类综述了刺激响应性纳米材料在伤口愈合中的应用，并总结了其响应机制和设计策略。\",\n    \"flaw\": \"未深入讨论刺激响应性纳米材料的生物安全性和长期稳定性问题。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70105",
     "title": "Smart Bioresponsive Hydrogels for Chronic Wound Healing: Design, Therapeutic Functionalization, and Emerging Digital Health Integration.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

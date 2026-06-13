@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.3390/ijms27114726",
+    "title": "MOF-Integrated Self-Healing Schiff Base Hydrogel for Antibacterial and Antioxidant Wound Treatment.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Zhao, Zhu, Wang",
+    "abstract": "Chronic wound healing disorders are closely associated with microenvironmental imbalance, while traditional dressings fail to meet dynamic therapeutic demands due to limited functionality, poor responsiveness, and lack of controlled drug release. In this study, a smart hydrogel dressing was developed by integrating curcumin/Cu<sup>2+</sup> co-loaded UiO-66-NH<sub>2</sub> metal-organic frameworks into a dynamically cross-linked oxidized hyaluronic acid/carboxymethyl chitosan (OHA-CMCS) network via Schiff base bonding. The MOFs served as a \"one-carrier-dual-function\" platform, enabling simultaneous delivery of Cu<sup>2+</sup> and curcumin. The resulting Cur/Cu-MOF@OHA-CMCS hydrogel exhibited a porous structure, excellent self-healing ability, injectability, and favorable rheological and mechanical properties. Additionally, it showed pH-responsive degradation behavior and sustained drug release (~71% within 7 days). The hydrogel demonstrated effective anti-bacterial activity against both <i>Escherichia coli</i> and <i>Staphylococcus aureus</i>, along with good cytocompatibility (>70% cell viability). These results highlight its potential as a multifunctional and responsive dressing for chronic wound management.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42278257/",
+    "date": "2026-06-13",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种智能水凝胶敷料，通过将姜黄素/Cu²⁺共载的UiO-66-NH₂金属有机框架整合到氧化透明质酸/羧甲基壳聚糖动态交联网络中，实现了pH响应性降解和持续药物释放，具有自愈合、可注射、抗菌和良好细胞相容性，适用于慢性伤口管理。\",\n    \"innovation\": \"利用MOF作为“一载体双功能”平台，同时递送Cu²⁺和姜黄素，并整合到动态交联水凝胶中，实现多功能协同和响应性释放。\",\n    \"flaw\": \"缺乏体内动物实验验证其实际疗效和长期安全性。\"\n}"
+  },
+  {
+    "id": "10.36721/PJPS.2026.39.8.230.1",
+    "title": "Formulation and in-vitro characterization of okra mucilage-based controlled release hydrogels.",
+    "journal": "Pakistan journal of pharmaceutical sciences",
+    "authors": "Khaliq, Irfan Siddique, Soomro",
+    "abstract": "Certain drugs at therapeutic doses can cause gastrointestinal toxicity, which controlled-release formulations help to address. Natural polymers are widely used in drug delivery due to their non-toxic, biodegradable, and biocompatible properties. Okra mucilage powder (OMP) is especially promising because of its strong gelling ability and pH-sensitive behavior.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42262204/",
+    "date": "2026-06-13",
+    "analysis": "{\n    \"chinese_summary\": \"治疗剂量的某些药物会引起胃肠道毒性，控释制剂有助于解决这一问题。天然聚合物因其无毒、可生物降解和生物相容性而被广泛用于药物递送。秋葵黏液粉（OMP）因其强凝胶能力和pH敏感行为而特别有前景。\",\n    \"innovation\": \"利用秋葵黏液粉的强凝胶能力和pH敏感性开发控释制剂，以减少药物胃肠道毒性。\",\n    \"flaw\": \"摘要未提及秋葵黏液粉在体内环境中的稳定性和长期安全性数据。\"\n}"
+  },
+  {
+    "id": "10.1073/pnas.2602147123",
+    "title": "Programmable DNA hydrogels for dual-mode PD-L1 suppression via polyvalent LYTAC mimics and transcriptional silencing.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Zhang, Wang, Wu",
+    "abstract": "Immune checkpoint blockade has revolutionized oncology, yet low response rates and acquired resistance-often driven by inadequate Programmed death-ligand 1 (PD-L1) suppression-remain significant barriers. While degradation-based proteolysis-targeting chimeras offer a promising alternative to traditional antibodies, targeting the intracellular and transcriptional drivers of checkpoint expression remains a challenge. We report a programmable, tumor-responsive DNA hydrogel platform, synthesized via rolling circle amplification, designed for the comprehensive, dual-mode modulation of PD-L1. This modular nucleic acid framework codelivers polyvalent aptamer-based lysosome-targeting chimeras (LYTAC mimics) to induce extracellular PD-L1 degradation and siSMARCAL1 to silence the chromatin-remodeling-driven transcriptional activation of PD-L1. By integrating localized, sequential release within the tumor microenvironment, this system achieves a synergistic \"degrade-and-silence\" effect that effectively dismantles PD-1/PD-L1-mediated immunosuppression while concurrently triggering immunogenic cell death. In murine melanoma models, the hydrogel significantly suppressed primary tumor growth and prevented postoperative recurrence, eliciting a robust and durable systemic antitumor immune response. Our findings establish a versatile, DNA-based materials strategy for programmable protein degradation and multilevel checkpoint modulation, offering a generalizable approach for enhancing the efficacy of cancer immunotherapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258718/",
+    "date": "2026-06-13",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种可编程、肿瘤响应的DNA水凝胶平台，通过滚环扩增合成，共递送多价适配体溶酶体靶向嵌合体（LYTAC模拟物）诱导细胞外PD-L1降解，以及siSMARCAL1沉默染色质重塑驱动的PD-L1转录激活，实现“降解-沉默”协同效应，有效解除PD-1/PD-L1介导的免疫抑制并触发免疫原性细胞死亡。在小鼠黑色素瘤模型中，该水凝胶显著抑制原发肿瘤生长并预防术后复发，引发强效持久的系统性抗肿瘤免疫反应。\",\n    \"innovation\": \"首次将DNA水凝胶平台用于同时实现PD-L1的细胞外降解和转录沉默，通过“降解-沉默”双模式协同调控增强免疫治疗效果。\",\n    \"flaw\": \"该研究仅在动物模型中进行验证，缺乏人体临床试验数据，其安全性和有效性在人类患者中尚不明确。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.adz0017",
     "title": "Light-based 3D printing of mechanoluminescent living gels loaded with dinoflagellates.",
     "journal": "Science advances",

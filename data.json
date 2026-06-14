@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1038/s41467-026-73922-3",
+    "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt.",
+    "journal": "Nature communications",
+    "authors": "Xiang, Chen, Tian",
+    "abstract": "Ralstonia solanacearum is a major plant pathogen causing bacterial wilt, whose unpredictable onset hinders timely detection and effective control. Here, we report the design, preparation and field use of a dual pH-responsive multifunctional double network (DN) hydrogel for the efficient and sustainable control of bacterial wilt. The primary network of carboxylated agarose chelates Zn<sup>2+</sup> and loosens under acidic conditions (pH ≤ 5) to release a pesticide (zhongshengmycin) and Zn<sup>2+</sup>, while the secondary L-phenylalanine (Phe)/ Zn<sup>2+</sup> network disassembles to provide additional bioactive components (Phe and Zn<sup>2+</sup>). This dual-triggered release achieves a combined antibacterial effect, enhances plant growth, and activates plant disease resistance pathways. A simple root application protects plants for up to 14 days, and field experiments demonstrate disease control for up to 30 days, significantly preserving tomato yield. Here, we present a sustainable, effective system for managing bacterial wilt and highlight the potential of smart hydrogels in crop protection.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42285939/",
+    "date": "2026-06-14",
+    "analysis": "{\n    \"chinese_summary\": \"本研究设计了一种双pH响应多功能双网络水凝胶，用于高效可持续防控青枯病。该水凝胶通过羧化琼脂糖和L-苯丙氨酸/Zn²⁺双网络结构，在酸性条件下依次释放农药、Zn²⁺和苯丙氨酸，实现抗菌、促生和激活植物抗病性。田间试验表明，一次根部施用可保护作物长达30天，显著提高番茄产量。\",\n    \"innovation\": \"首次构建了双pH响应双网络水凝胶，实现农药、金属离子和氨基酸的时序释放，协同防控青枯病并促进植物生长。\",\n    \"flaw\": \"研究未评估水凝胶在不同土壤类型和气候条件下的长期稳定性及对非靶标生物的影响。\"\n}"
+  },
+  {
     "id": "10.3390/ijms27114726",
     "title": "MOF-Integrated Self-Healing Schiff Base Hydrogel for Antibacterial and Antioxidant Wound Treatment.",
     "journal": "International journal of molecular sciences",

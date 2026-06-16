@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/mabi.70207",
+    "title": "Photopolymerization Strategies for Macromolecular Network Engineering in Biomaterials.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Alves, Cernadas, Ferreira",
+    "abstract": "UV-induced polymerization and photocrosslinking have become versatile tools for engineering advanced biomaterials, providing rapid reaction kinetics, spatial-temporal control, and compatibility with sensitive biological environments. This review integrates the fundamental mechanisms of photopolymerization, cationic photopolymerization, and thiol-mediated photopolymerization with the design principles of key UV-responsive material classes, including hydrogels, smart stimuli-responsive systems, elastomers and thermosets, polymeric networks, and composite or hybrid matrices. Their expanding roles in biomedical technologies are highlighted through applications in drug delivery, bioactive coatings, scaffolds, and photoactivated bioadhesives, as well as in photopolymerization-based additive manufacturing strategies such as digital light processing (DLP) and stereolithography (SLA). The unique advantages of UV-activated systems, such as mild processing conditions, on-demand curing, and compatibility with in situ and minimally invasive procedures, are discussed alongside current constraints, including limited light penetration, oxygen inhibition, cytotoxicity, and application-specific barriers. By linking photochemical fundamentals with application-driven design, this review underscores the growing potential of UV-engineered polymer networks to enable next-generation solutions in tissue engineering, regenerative medicine, and targeted therapeutic delivery.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42289784/",
+    "date": "2026-06-16",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了紫外光诱导聚合和光交联在先进生物材料工程中的应用，包括水凝胶、智能响应系统、弹性体、热固性材料、聚合物网络及复合基质等，并探讨了其在药物递送、生物活性涂层、支架、光活化生物粘合剂及增材制造（如DLP和SLA）中的生物医学应用，同时讨论了光穿透限制、氧抑制、细胞毒性等局限性。\",\n    \"innovation\": \"将紫外光聚合的多种机制（自由基、阳离子、硫醇介导）与材料设计原则系统整合，并突出其在组织工程和再生医学中的下一代解决方案潜力。\",\n    \"flaw\": \"紫外光穿透深度有限、氧抑制效应及潜在细胞毒性限制了其在深层组织和体内环境中的应用。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125441",
+    "title": "Pullulan-based biomaterials: Bridging structural chemistry and modification strategies with clinical translation.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Rathi, Bhotiya, Mittal",
+    "abstract": "Pullulan, a linear microbial α-glucan composed of maltotriose units linked by alternating α-(1 → 4) and α-(1 → 6) glycosidic bonds, has evolved from a food-grade excipient into a versatile platform for nanomedicine and regenerative biomaterials. This review synthesizes the structure-activity relationships (SAR) of pullulan and its derivatives, linking molecular design with macroscopic material performance and clinical potential across diverse biomedical applications. The presence of three hydroxyl groups per glucose unit (nine per maltotriose) enables diverse and site-specific chemical modifications, transforming an otherwise biologically inert backbone into highly functional and tunable biomaterials. Key strategies include cholesteryl grafting for self-assembling nanogels in cancer immunotherapy, periodate oxidation and methacrylation for dynamically crosslinked and 3D-printable hydrogels, and regioselective sulfation for heparin-mimetic anticoagulants. We also examine pullulan's intrinsic hepatotropism via the asialoglycoprotein receptor, enabling liver-targeted drug and gene delivery. Despite progress, including early-phase clinical evaluation of nanogel-based vaccines, broader pharmaceutical translation remains limited. Major challenges include poor mechanical strength of native networks (typically exhibiting a storage modulus (G') < 1 kPa), rapid enzymatic degradation, batch variability in molecular weight, and the lack of parenteral-grade regulatory standards. This review outlines future directions in precision modification, stimuli-responsive design, and standardization for clinical advancement and scalable biomedical applications.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42285651/",
+    "date": "2026-06-16",
+    "analysis": "{\n    \"chinese_summary\": \"普鲁兰是一种由麦芽三糖单元通过α-(1→4)和α-(1→6)糖苷键交替连接而成的线性微生物α-葡聚糖，已从食品级辅料发展为纳米医学和再生生物材料的多功能平台。本文综述了普鲁兰及其衍生物的结构-活性关系，将分子设计与宏观材料性能和临床潜力联系起来。每个葡萄糖单元上的三个羟基（每个麦芽三糖九个）可实现多样化的位点特异性化学修饰，将原本生物惰性的骨架转化为高度功能化和可调的生物材料。关键策略包括胆固醇接枝用于癌症免疫治疗的自组装纳米凝胶、高碘酸氧化和甲基丙烯酸化用于动态交联和3D打印水凝胶，以及区域选择性硫酸化用于肝素模拟抗凝剂。文章还探讨了普鲁兰通过去唾液酸糖蛋白受体的内在肝趋向性，用于肝脏靶向药物和基因递送。尽管取得了进展，包括纳米凝胶疫苗的早期临床评估，但更广泛的制药转化仍然有限。主要挑战包括天然网络机械强度差（储能模量通常<1 kPa）、快速酶降解、分子量的批次变异以及缺乏注射级监管标准。本文概述了精准修饰、刺激响应设计和标准化方面的未来方向，以促进临床进展和可扩展的生物医学应用。\",\n    \"innovation\": \"系统总结了普鲁兰及其衍生物的结构-活性关系，并提出了多种化学修饰策略（如胆固醇接枝、高碘酸氧化、甲基丙烯酸化、区域选择性硫酸化）以实现自组装纳米凝胶、3D打印水凝胶和肝素模拟抗凝剂等新型生物材料。\",\n    \"flaw\": \"普鲁兰天然网络机械强度差（储能模量<1 kPa）、快速酶降解、分子量批次变异以及缺乏注射级监管标准，限制了其临床转化和规模化应用。\"\n}"
+  },
+  {
     "id": "10.1038/s41467-026-73922-3",
     "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt.",
     "journal": "Nature communications",

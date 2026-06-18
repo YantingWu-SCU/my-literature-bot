@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/sciadv.aec1031",
+    "title": "Aptamer-functionalized apoptotic vesicles ameliorate osteoarthritis via resuming mitochondria OXPHOS of chondrocytes.",
+    "journal": "Science advances",
+    "authors": "Wang, Jiang, Xu",
+    "abstract": "Emerging evidence suggests that osteoarthritis (OA) progression is critically associated with disruptions of cartilage matrix homeostasis caused by mitochondrial impairment in chondrocytes. Apoptotic vesicles (apoVs) derived from mesenchymal stem cells (MSCs) have exhibited great therapeutic promising for tissue regeneration and osteoarticular diseases. However, their poor ability targeting chondrocytes and short-time retention in joint cavity hinder further clinical translation. As a chemically synthesized nucleic acid, aptamer tgg2 demonstrated a robust specificity binding with chondrocytes. In this study, our team successfully functionalized apoVs with tgg2 (tgg2@apoVs) via Schiff base reaction with high conjugation efficiency and fabricated an injectable sustained-release system based on hyaluronic acid methacryloyl (HAMA) hydrogels. tgg2@apoVs significantly promoted chondrocyte extracellular matrix synthesis and improved mitochondrial oxidative phosphorylation (OXPHOS) in vitro. The HAMA injectable hydrogels compounded with tgg2@apoVs remarkedly alleviated OA symptoms in vivo. The potential molecular mechanism of apoVs' improvement in mitochondrial energy metabolism of chondrocytes is preliminarily investigated. Specifically, apoVs activate transcriptional factor Yin Yang 1 (YY1) to up-regulate the expression of Cox7c, a key subunit of complex IV in electron transport chain, thereby augmenting mitochondrial OXPHOS. In conclusion, the tgg2@apoVs' sustained-release system provides a cost-effective solution for OA treatment, and the elucidation of the molecular mechanism underlying apoVs' enhancement of chondrocyte OXPHOS offers insights for broader applications in energy metabolism-related diseases.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42308286/",
+    "date": "2026-06-18",
+    "analysis": "{\n    \"chinese_summary\": \"本研究通过席夫碱反应将软骨细胞靶向适配体tgg2功能化到间充质干细胞凋亡囊泡上，并封装于透明质酸甲基丙烯酰水凝胶中，构建了可注射缓释系统。该系统促进软骨细胞外基质合成和线粒体氧化磷酸化，通过激活YY1上调Cox7c表达，有效缓解骨关节炎症状。\",\n    \"innovation\": \"首次将适配体tgg2功能化凋亡囊泡与HAMA水凝胶结合，实现软骨细胞靶向和关节腔缓释，并揭示了YY1/Cox7c通路增强线粒体氧化磷酸化的分子机制。\",\n    \"flaw\": \"研究仅初步探讨了分子机制，缺乏对YY1上游信号及长期体内安全性和有效性的评估。\"\n}"
+  },
+  {
+    "id": "10.1073/pnas.2600204123",
+    "title": "<i>Pyrodictium abyssi</i> AbpX reveals a calcium-responsive family of microbial biomatrix proteins that form thermostable hydrogels.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Sleutel, Sogues, Gonzalez Socorro",
+    "abstract": "Evolutionary pressure on microbial communities propagating under extreme environmental conditions often results in unique structural adaptations to promote cell survival. Here, we report an investigation of AbpX, a biomatrix protein identified in cultures of the hyperthermophilic archaeon <i>Pyrodictium abyssi</i>. Under ex vivo and in vitro conditions, AbpX assembles into a paracrystalline lattice composed of semiflexible fibrils. CryoEM analysis of recombinant AbpX fibrils reveals that the precursor protein polymerizes through donor strand complementation (DSC), a process previously reported for chaperone-usher fimbriae in Gram-negative bacteria. Unlike the latter DSC protein polymers, AbpX undergoes chaperone-free polymerization in the presence of calcium ions, which are sequestered at the donor strand-acceptor groove interface between protomers in the fibril. Using a combination of cryoEM and crystallographic information, a structural model is proposed for the AbpX lattice that provides insight into its potential role in biofilm formation. These findings suggest that calcium ion coordination may contribute to fibril assembly and preorganize fibrils for incorporation into the protein lattice. Bioinformatic analysis indicates that AbpX exemplifies a distinct and broadly distributed clade of calcium ion responsive biomatrix proteins within the TasA superfamily that can be fabricated into hydrogel biomaterials in vitro under environmentally benign conditions.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42308048/",
+    "date": "2026-06-18",
+    "analysis": "{\n    \"chinese_summary\": \"研究报道了超嗜热古菌Pyrodictium abyssi中的生物基质蛋白AbpX，其在钙离子存在下通过供体链互补机制自组装成半柔性纤维构成的副晶格，冷冻电镜和晶体学分析揭示了其结构模型，表明钙离子协调促进纤维组装并预组织纤维整合入蛋白晶格，生物信息学分析显示AbpX属于TasA超家族中广泛分布的钙离子响应生物基质蛋白分支，可在体外温和条件下制备水凝胶生物材料。\",\n    \"innovation\": \"首次发现古菌中通过供体链互补机制进行无伴侣蛋白聚合的蛋白，并揭示钙离子在纤维组装和晶格形成中的关键作用。\",\n    \"flaw\": \"研究主要基于体外和离体实验，缺乏体内功能验证，且对AbpX在生物膜形成中的具体作用机制阐述尚不充分。\"\n}"
+  },
+  {
     "id": "10.1039/d5bm01552a",
     "title": "Bridging mechanobiology and engineering: recent advances in nano-based materials and devices for therapeutics and tissue regeneration.",
     "journal": "Biomaterials science",

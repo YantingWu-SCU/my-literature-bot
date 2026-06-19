@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.202600003",
+    "title": "Dual-Responsive Chitosan-Grafted PNIPAAm Hydrogel Eye Drop Incorporating Insulin-Imprinted Microgels for Dry Eye Syndrome Treatment.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Hosseini, Khademi, Shokri",
+    "abstract": "Dry eye syndrome (DES) happens as a result of inadequate tear secretion or excessive evaporation, which leads to ocular surface irritation and damage. A major therapeutic challenge is maintaining effective drug concentrations, as topical formulations are rapidly cleared by blinking and tear turnover. To address this limitation, we developed a dual pH- and temperature-responsive composite hydrogel composed of chitosan (Cs)-grafted poly-N-isopropylacrylamide (PNIPAAm)- CPN integrated with alginate-based insulin-imprinted microgels (IMIP). Incorporation of IMIP particles allowed tuning of rheology, swelling behavior, wettability, and biodegradation while preserving proper topical administration. Microgel addition increased viscosity from 3.1 mPa·s (CPN-IMIP10) to 37.3 mPa·s (CPN-IMIP35), and the sol-gel transition between 25 and 37°C enabled flowability at room temperature followed by rapid gelation on the ocular surface. All CPN-IMIP hydrogels exhibited elastic-dominant behavior (G' > G″), confirming formation of a stable, shear-resistant network. Insulin release was tunable: at pH 6.4 and 25°C, diffusion governed delivery (29.8 ± 3.6% at 48 h), whereas at pH 7.4 and 37°C, swelling-controlled release predominated (54.4 ± 4.8%). The composite hydrogels supported human corneal epithelial cell viability and enhanced tear secretion, preserved corneal integrity, and reduced inflammation in a rat DES model. This system provides a minimally invasive, long-acting therapeutic platform for DES.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42313981/",
+    "date": "2026-06-19",
+    "analysis": "{\n    \"chinese_summary\": \"开发了一种双pH和温度响应的复合水凝胶，由壳聚糖接枝聚N-异丙基丙烯酰胺与海藻酸盐基胰岛素印迹微凝胶组成，用于干眼症治疗。该水凝胶在眼部表面快速凝胶化，控制胰岛素释放，在大鼠模型中促进泪液分泌、保护角膜并减轻炎症。\",\n    \"innovation\": \"首次将胰岛素印迹微凝胶整合到双响应水凝胶中，实现胰岛素的可控释放和眼部局部长效治疗。\",\n    \"flaw\": \"研究仅在大鼠模型中进行，缺乏人体临床试验数据，且长期安全性和有效性需进一步验证。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aec1031",
     "title": "Aptamer-functionalized apoptotic vesicles ameliorate osteoarthritis via resuming mitochondria OXPHOS of chondrocytes.",
     "journal": "Science advances",

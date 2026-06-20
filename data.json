@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.202500343",
+    "title": "Electroconductive Soft Microcarriers for Suspension Culture of Skeletal Muscle Cells.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Balgouri, Askari, Razzaghi",
+    "abstract": "The advancement of conductive biomaterials is essential for engineering electrically responsive tissues, such as skeletal muscle, cardiac, and neural tissues. Traditional hydrogel-based microcarriers (MCs) lack inherent conductivity, limiting their potential for cell signaling and differentiation. In this study, we present a soft conductive MC system composed of gelatin methacryloyl (GelMA) and poly(3,4-ethylenedioxythiophene):poly(styrene sulfonate) (PEDOT:PSS), fabricated using microfluidic flow-focusing technology. Material characterization confirms that increasing PEDOT:PSS content significantly improves electrical conductivity and elasticity while maintaining structural integrity. In vitro biocompatibility studies reveal strong C2C12 myoblast attachment and viability, with no significant cytotoxic effects. Furthermore, immunofluorescence and flow cytometry analyses indicate that PEDOT:PSS-containing MCs enhance myogenic early differentiation, as evidenced by increased myosin heavy chain (MyHC) expression, nuclear elongation, and MyHC IF staining. These findings establish GelMA-PEDOT:PSS MCs as a promising bioelectronic platform for tissue engineering applications, with potential implications for skeletal muscle regeneration. Future studies should explore dynamic electrical stimulation strategies to further optimize bio-functionality and cell-specific responses.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42316509/",
+    "date": "2026-06-20",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种由GelMA和PEDOT:PSS组成的导电微载体，通过微流控技术制备，具有高导电性和弹性，能促进C2C12成肌细胞的早期分化，为组织工程提供新型生物电子平台。\",\n    \"innovation\": \"首次将PEDOT:PSS与GelMA结合制备导电微载体，实现导电性和弹性的协同提升，并验证其促进肌源性分化的能力。\",\n    \"flaw\": \"缺乏动态电刺激实验，未深入探讨导电微载体对细胞特异性响应的优化机制。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202600003",
     "title": "Dual-Responsive Chitosan-Grafted PNIPAAm Hydrogel Eye Drop Incorporating Insulin-Imprinted Microgels for Dry Eye Syndrome Treatment.",
     "journal": "Macromolecular bioscience",

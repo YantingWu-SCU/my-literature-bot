@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70121",
+    "title": "Injectable Thermosensitive Placental ECM-Copper Hydrogel With Endothelial Progenitor Cells for Pressure Ulcer Repair.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Rajabi Fomeshi, Gholipourmalekabadi, Eskandari",
+    "abstract": "Pressure ulcers remain challenging to treat because ischemia, extracellular matrix disruption, and impaired angiogenesis create a wound microenvironment that limits effective regeneration. Here, an injectable thermosensitive hydrogel has been developed based on human placenta-derived soluble extracellular matrix (sECM) and low-dose copper sulfate (CuSO<sub>4</sub>), combined with endothelial progenitor cells (EPCs), to address multiple aspects of this pathology. Hydrogels were formulated using methylcellulose and characterized for rheological properties, swelling, degradation, and microstructure. EPC phenotype, viability, and proliferative activity were assessed by flow cytometry, live/dead staining, and MTT assay. Therapeutic performance was evaluated in a magnet-induced ischemic pressure ulcer model using macroscopic and histological analyses. Incorporation of sECM and CuSO<sub>4</sub> modified gelation behavior, improved mechanical properties, and increased pore size. Low-dose CuSO<sub>4</sub> (0.1% w/v) supported EPC viability and proliferation, whereas higher concentrations were cytotoxic. In vivo, hydrogels containing EPCs markedly accelerated wound closure, reducing wound area to 32.72% ± 1.04% at day 7, 11.33% ± 1.46% at day 14, and 1.24% ± 0.66% at day 21, compared with 17.35% ± 0.68% residual wound area in controls at day 21. Histological analysis further demonstrated enhanced tissue regeneration, with increased hair follicle density (up to 10 ± 0.63 vs. 1 ± 0.6 in controls) and greater collagen deposition (up to 85.26% ± 0.75% vs. 74.32% ± 0.75% in controls). These findings indicate that a placental ECM-copper hydrogel incorporating EPCs provides a promising biomaterial approach for pressure ulcer repair by combining structural support with pro-angiogenic and cellular contributions.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42324778/",
+    "date": "2026-06-23",
+    "analysis": "{\n    \"chinese_summary\": \"开发了一种基于人胎盘可溶性细胞外基质和低剂量硫酸铜的可注射温敏水凝胶，联合内皮祖细胞，通过改善机械性能、促进血管生成和细胞增殖，显著加速了缺血性压力性溃疡的愈合，减少了创面面积，增加了毛囊密度和胶原沉积。\",\n    \"innovation\": \"首次将胎盘来源的细胞外基质与低剂量铜离子结合，构建兼具结构支持和促血管生成功能的水凝胶，并联合内皮祖细胞实现多靶点协同修复。\",\n    \"flaw\": \"研究仅在动物模型中进行，缺乏临床试验数据，且未评估长期安全性和免疫原性。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.202500343",
     "title": "Electroconductive Soft Microcarriers for Suspension Culture of Skeletal Muscle Cells.",
     "journal": "Macromolecular bioscience",

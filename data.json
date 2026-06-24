@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1002/jssc.70473",
+    "title": "Efficient Extraction of Nicotine From Tobacco Absolute Oil by Ionic Liquid-Decorated Boron Nitride/Poly(N-isopropylacrylamide) Composite Hydrogel.",
+    "journal": "Journal of separation science",
+    "authors": "Long, Zhang, Chen",
+    "abstract": "Nicotine, a tobacco alkaloid with biological activity and unique pharmacological characteristics, holds significant value across pharmaceutical, agricultural, and industrial applications. Given these attributes, there is a growing demand for efficient nicotine extraction from tobacco and its by-products. In this study, a novel ionic liquid (IL)-decorated boron nitride/poly(N-isopropylacrylamide) composite hydrogel (IL-BNNs@P) was synthesized for the effective extraction of nicotine from tobacco absolute oil. Scanning electron microscopy and Fourier-transform infrared analyses confirmed the successful integration of IL-functionalized BNNs within the gel's network structure. This hydrogel revealed an adsorption capacity of 81.49 mg·g<sup>-1</sup> with 93.5% extraction efficiency. Furthermore, this hydrogel exhibited exceptional selectivity, with distribution coefficients (K<sub>d</sub>) for nicotine (6.27 L·g<sup>-1</sup>) being 1-2 orders of magnitude higher than those for co-existing impurities, yielding selectivity coefficients (α) of 62.6-174.9. Additionally, after five consecutive adsorption-desorption cycles, the extraction efficiency showed a slight decrease from 93.5% to 90.0%, demonstrating excellent reusability. Notably, rapid nicotine desorption was achieved at 40°C within 15 min. This strategy streamlines the nicotine extraction process while providing a promising pathway for advancing green chemistry techniques in the tobacco industry and related fields.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42333950/",
+    "date": "2026-06-24",
+    "analysis": "{\n    \"chinese_summary\": \"本研究合成了一种新型离子液体修饰的氮化硼/聚(N-异丙基丙烯酰胺)复合水凝胶，用于从烟草精油中高效提取尼古丁，吸附容量达81.49 mg·g⁻¹，提取效率93.5%，且选择性高、可重复使用。\",\n    \"innovation\": \"首次将离子液体功能化的氮化硼纳米片引入温敏性水凝胶中，实现了对尼古丁的高效、选择性提取及快速脱附。\",\n    \"flaw\": \"研究仅基于实验室条件下的烟草精油提取，未涉及实际烟草废料或工业规模应用的验证。\"\n}"
+  },
+  {
+    "id": "10.1002/jbm.b.70122",
+    "title": "Double-Crosslinked SIS-Derived Collagen/Alginate Hydrogel With Antibacterial and Pro-Regenerative Activities for Soft Tissue Repair.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Yue, Xu, Li",
+    "abstract": "A double-crosslinked antibacterial hydrogel (CS-Zn) was developed using small intestinal submucosa-derived collagen (SIS-Col), sodium alginate (SA), and zinc ions (Zn<sup>2+</sup>), and its potential for soft-tissue repair was systematically investigated. Through physical blending and ionic crosslinking, the hydrogel formed a dual-network structure with a tunable three-dimensional porous architecture, favorable mechanical properties, and good biocompatibility. In vitro studies demonstrated low cytotoxicity toward L929 cells and effective antibacterial activity against E. coli and S. aureus. In animal models, the hydrogel significantly promoted wound closure, angiogenesis, and organized collagen deposition in full-thickness skin wounds. In addition, preliminary evaluation of the myocardial ischemic injury model suggested that it had potential to improve tissue remodeling. In general, these findings indicate that CS Zn hydrogel is a promising multifunctional biomaterial and can be used for soft tissue repair.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332383/",
+    "date": "2026-06-24",
+    "analysis": "{\n    \"chinese_summary\": \"开发了一种基于小肠黏膜下层胶原、海藻酸钠和锌离子的双交联抗菌水凝胶（CS-Zn），具有双网络结构、良好力学性能和生物相容性，能促进伤口愈合、血管生成和胶原沉积，并在心肌缺血模型中显示组织修复潜力。\",\n    \"innovation\": \"利用小肠黏膜下层胶原与锌离子构建双交联网络，实现抗菌与促软组织修复的双重功能。\",\n    \"flaw\": \"心肌缺血模型仅初步评估，缺乏长期修复效果和体内降解行为的深入研究。\"\n}"
+  },
+  {
+    "id": "10.1080/21691401.2026.2678704",
+    "title": "Characterization of genipin-crosslinked gelatin/PVA hydrogels and the chondroprotective influence of hydroxytyrosol: an In vitro study.",
+    "journal": "Artificial cells, nanomedicine, and biotechnology",
+    "authors": "Batarfi, Mohd Yunus, Hamid",
+    "abstract": "Osteoarthritis (OA) presents a significant therapeutic challenge, necessitating innovative biomaterial strategies to reduce chronic inflammation and promote cartilage regeneration. This study developed a hybrid gelatine (GE)/polyvinyl alcohol (PVA) hydrogel crosslinked with genipin (GNP) to effectively deliver Hydroxytyrosol (HT). A 6% GE was incorporated with 3% and 5% PVA concentrations, followed by 0.1% (w/v) GNP. The physicochemical and biocompatibility properties were further evaluated. Physicochemical analysis identified the GPVA5%-GNP formulation as optimal, featuring an interconnected porous structure, optimal swelling ratio (640.43 ± 22.28%), improved hydrophilicity (44.50 ± 1.81°), controlled biodegradation, and enhanced compressive strength (96.88 ± 0.72%). Chemical tests confirmed thermal and structural stability, while biocompatibility assays showed over 95% cell viability. The therapeutic potential was evaluated using an IL-1β-induced inflammatory model in human chondrocytes. MTT assays revealed that HT at 12.5, 25, and 50 μM restored metabolic activity in a dose-dependent manner over 14 days, outperforming the 9 μM Glucosamine Sulphate positive control. The 50 μM HT dose yielded the best metabolic recovery, supported by Live/Dead imaging that showed increased viable cell density from Day 1 to Day 7. Overall, the GPVA5%-GNP hydrogel loaded with 50 μM HT offers a robust protective environment that reduces catabolic stress and promotes cell proliferation, making it a promising localized therapy for cartilage regeneration in OA.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331338/",
+    "date": "2026-06-24",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种交联京尼平的明胶/聚乙烯醇水凝胶，用于递送羟基酪醇。优化后的GPVA5%-GNP水凝胶具有多孔结构、高溶胀率、亲水性、可控降解和增强的压缩强度。在IL-1β诱导的软骨细胞炎症模型中，50 μM羟基酪醇显著恢复代谢活性并促进细胞增殖，为骨关节炎的软骨再生提供了有前景的局部治疗策略。\",\n    \"innovation\": \"首次将羟基酪醇负载于京尼平交联的明胶/聚乙烯醇水凝胶中，实现抗炎与促软骨再生的双重功能。\",\n    \"flaw\": \"仅进行了体外细胞实验，缺乏体内动物模型验证其长期疗效和安全性。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70121",
     "title": "Injectable Thermosensitive Placental ECM-Copper Hydrogel With Endothelial Progenitor Cells for Pressure Ulcer Repair.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

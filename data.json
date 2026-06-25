@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aee3894",
+    "title": "A modular hydrogel system with independent control of bioadhesion, fibrosis, and stiffness.",
+    "journal": "Science advances",
+    "authors": "Yang, Zhao, Jeang",
+    "abstract": "Hydrogels that adhere to biological tissues and resist fibrosis are required to provide both optimal functionality and appropriate stiffness on diverse soft tissues to achieve therapeutic efficacy and biocompatibility. However, their performance is often limited by an intrinsic trade-off between functionality and stiffness. Through the incorporation of polymer brush coatings, we develop a modular hydrogel system to enable independent control of functionality and stiffness. By tailoring coating chemistry, coating thickness, and hydrogel network topology, we obtain consistent bioadhesion (~100 joules per square meter) and fibrosis suppression across the full stiffness range of soft tissues (1 kilopascal to 1 megapascal). Using this approach, we design a hydrogel that can maintain stable adhesion in vivo on a beating mouse heart and a hydrogel with no fibrotic capsule in immunocompetent mice over 40 days. This modular system offers a customizable approach for designing functional implants with tailored mechanical properties.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42341113/",
+    "date": "2026-06-25",
+    "analysis": "{\n    \"chinese_summary\": \"通过引入聚合物刷涂层，开发了一种模块化水凝胶系统，可独立控制功能性和刚度，在软组织的全刚度范围内实现一致的生物粘附（~100 J/m²）和抗纤维化，并在小鼠心脏和免疫小鼠中验证了长期稳定性。\",\n    \"innovation\": \"利用聚合物刷涂层解耦水凝胶的功能性与刚度，突破了传统水凝胶中两者相互制约的局限。\",\n    \"flaw\": \"未提及该模块化系统在人体中的长期安全性和有效性，且聚合物刷涂层的长期稳定性有待进一步验证。\"\n}"
+  },
+  {
     "id": "10.1002/jssc.70473",
     "title": "Efficient Extraction of Nicotine From Tobacco Absolute Oil by Ionic Liquid-Decorated Boron Nitride/Poly(N-isopropylacrylamide) Composite Hydrogel.",
     "journal": "Journal of separation science",

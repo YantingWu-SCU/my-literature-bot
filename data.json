@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3390/cells15121054",
+    "title": "Smart Hydrogels for Craniofacial Regeneration.",
+    "journal": "Cells",
+    "authors": "Omidian, Gill, Kandalam",
+    "abstract": "Hydrogel scaffolds have emerged as instructive microenvironments for craniofacial tissue regeneration, moving beyond passive cell carriers toward platforms that regulate cell fate, vascularization, immune remodeling, and tissue-specific architecture. This review synthesizes hydrogel-associated strategies across dental pulp, periodontal ligament, gingival, bone marrow, jawbone, endothelial, oral mucosal, induced pluripotent stem cell (iPSC), extracellular vesicle (EV), exosome, secretome, and acellular systems. The evidence indicates that craniofacial hydrogel performance is governed by reciprocal interactions among biological source, scaffold composition, matrix mechanics, spatial architecture, mineral or ionic signaling, growth factor delivery, vesicle-mediated communication, and inflammatory niche modulation. Mineralized and ion-releasing hydrogels most consistently supported osteogenesis and bone repair, whereas extracellular matrix (ECM)-mimetic, peptide, collagen, fibrin, gelatin methacryloyl (GelMA), alginate, hyaluronic acid (HA), and chitosan-based systems enabled pulp-dentin, periodontal, peri-implant, oral mucosal, and soft-tissue reconstruction. Responsive, antimicrobial, antioxidant, conductive, and immunomodulatory hydrogels further expanded the field by targeting diseased microenvironments rather than regeneration alone. Despite strong preclinical evidence, translation remains limited by heterogeneity in scaffold formulations, biological sources, analytical endpoints, defect models, and long-term functional validation. Future progress will require standardized characterization, tissue-specific design criteria, clinically relevant large-animal models, scalable cell-free technologies, and integrated assessment of regeneration, immunity, vascularization, innervation, mechanics, and safety.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42346082/",
+    "date": "2026-06-26",
+    "analysis": "{\n    \"chinese_summary\": \"水凝胶支架已成为颅面组织再生的指导性微环境，通过调控细胞命运、血管化、免疫重塑和组织特异性结构，超越了被动细胞载体的角色。本文综述了水凝胶在牙髓、牙周、牙龈、骨髓、颌骨、内皮、口腔黏膜、iPSC、细胞外囊泡、外泌体、分泌组和无细胞系统中的应用。证据表明，颅面水凝胶的性能受生物来源、支架组成、基质力学、空间结构、矿物或离子信号、生长因子递送、囊泡介导通讯和炎症微环境调节的相互作用影响。矿化和离子释放水凝胶最稳定地支持成骨和骨修复，而ECM模拟、肽、胶原、纤维蛋白、GelMA、海藻酸盐、HA和壳聚糖基系统实现了牙髓-牙本质、牙周、种植体周、口腔黏膜和软组织重建。响应性、抗菌、抗氧化、导电和免疫调节水凝胶进一步扩展了领域，靶向病变微环境而非仅再生。尽管临床前证据充分，但转化仍受限于支架配方、生物来源、分析终点、缺损模型和长期功能验证的异质性。未来进展需要标准化表征、组织特异性设计标准、临床相关大动物模型、可扩展的无细胞技术，以及再生、免疫、血管化、神经支配、力学和安全性的综合评估。\",\n    \"innovation\": \"本文系统总结了水凝胶在颅面组织再生中的多功能策略，特别是矿化和离子释放水凝胶对成骨的稳定支持，以及响应性、免疫调节等新型水凝胶对病变微环境的靶向作用。\",\n    \"flaw\": \"临床转化受限于支架配方、生物来源、分析终点和缺损模型的异质性，缺乏标准化表征和长期功能验证。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aee3894",
     "title": "A modular hydrogel system with independent control of bioadhesion, fibrosis, and stiffness.",
     "journal": "Science advances",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3390/ijms27125221",
+    "title": "Hydrogel-Based Controlled Release of Phytohormones: Improving Bioavailability and Early Plant Development Outcomes.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Torres-Figueroa, Ochoa-Meza, Lewis-Lujan",
+    "abstract": "The application of hydrogels in agriculture has gained increasing attention for its potential to support early plant development, a stage highly sensitive to environmental and biochemical fluctuations. This review examines the role of hydrogel-mediated delivery of plant-derived bioactives, particularly phytohormones, in regulating their availability during seed germination and seedling establishment. Evidence from recent studies shows that hydrogels function as three-dimensional polymeric matrices that enhance water retention and provide controlled delivery of encapsulated phytohormones. These properties are consistently associated with improved germination, root development, stress tolerance, and early plant establishment. Importantly, hydrogel-based systems regulate the timing, localization, and duration of phytohormone exposure, contributing to improved developmental responses while reducing losses and phytotoxic effects associated with conventional applications. Overall, this work highlights the need for further field-scale studies to determine how controlled release strategies can be leveraged to optimize plant development under realistic agricultural conditions.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42352944/",
+    "date": "2026-06-28",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了水凝胶在农业中递送植物源生物活性物质（特别是植物激素）的应用，强调其通过三维聚合物基质增强保水性和控制释放，从而改善种子萌发、根系发育、胁迫耐受性和早期植株建立，并减少传统应用的损失和植物毒性。\",\n    \"innovation\": \"系统揭示了水凝胶通过调控植物激素释放的时间、位置和持续时间来优化早期植物发育的机制。\",\n    \"flaw\": \"缺乏大规模田间研究来验证控制释放策略在实际农业条件下的效果。\"\n}"
+  },
+  {
     "id": "10.3390/cells15121054",
     "title": "Smart Hydrogels for Craniofacial Regeneration.",
     "journal": "Cells",

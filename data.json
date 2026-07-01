@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1002/cbf.70250",
+    "title": "Integration of Three-Dimensional Cell Culture Techniques and Photobiomodulation for Supportive Differentiation of Adipose-Derived Stem Cells into Smooth Muscle.",
+    "journal": "Cell biochemistry and function",
+    "authors": "Mbuyu, Abrahamse, Crous",
+    "abstract": "Photobiomodulation (PBM) has gained recognition as a promising, non-invasive strategy to enhance the differentiation of adipose-derived stem cells (ADSCs) into smooth muscle cells (SMCs), particularly when used together with a three-dimensional (3D) hydrogel culture system. This review explores the key mechanisms by which PBM modulates cellular behavior, along with its role in the promotion of SMCs lineage commitment in ADSCs. We investigate the influence of various light parameters including wavelength, intensity, energy density, exposure time and duration on cell responses such as proliferation, metabolic activity, gene expression and functional maturation. Moreover, we scrutinize the different hydrogel scaffolds, their compositions and the respective effects on PBM efficacy and consequential cellular outcomes. We also highlight the importance of scaffold design in mimicking the native extracellular matrix and how along with certain mechanical cues, they play a vital role in supporting stem cell behavior. By identifying current challenges, gaps in the literature and proposing future recommendations; this review aims to provide insights into the optimization of PBM protocols to improve SMCs differentiation of ADSCs, ultimately with the intention of integrating PBM to optimize regenerative therapies for use in regenerative medicine and tissue engineering (TE) strategies for vascular conditions and other smooth muscle-related diseases.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42378379/",
+    "date": "2026-07-01",
+    "analysis": "{\n    \"chinese_summary\": \"光生物调节（PBM）联合三维水凝胶培养系统可促进脂肪干细胞向平滑肌细胞分化，本文综述了其机制、光参数影响及水凝胶支架设计的作用，并指出当前挑战与未来方向。\",\n    \"innovation\": \"系统探讨了PBM参数与3D水凝胶支架协同调控ADSCs向SMCs分化的机制及优化策略。\",\n    \"flaw\": \"缺乏体内实验验证及临床转化可行性的直接证据。\"\n}"
+  },
+  {
+    "id": "10.1007/s10561-026-10234-2",
+    "title": "Hydrogel-based strategies for dentin-pulp complex regeneration: a comprehensive review.",
+    "journal": "Cell and tissue banking",
+    "authors": "Amani, Rafiee, Karatas",
+    "abstract": "The clinical management of dental caries encompasses a spectrum of therapeutic approaches, ranging from conservative restorative procedures to complex endodontic interventions. In cases involving pulp exposure or reversible pulpal injury, vital pulp therapy procedures are considered essential strategies for preserving pulp vitality and maintaining tooth function. This explains the focus of some recent works on developing tissue engineering (TE) approaches, particularly those involving dental stem or progenitor cells, to produce functional dental tissues. Hydrogel-based scaffolds, highly biocompatible three-dimensional (3D) bio/polymeric networks, are particularly attractive because of their ability to mimic the native extracellular matrix and thus serve as suitable scaffolds for tissue engineering, especially for dental pulp regeneration. Their versatility makes them a good candidate for a range of tissue engineering models, and hydrogel-based scaffolds are proving particularly valuable in regenerative medicine. This work reviews both natural and synthetic polymers, focusing on their structures and emerging uses in the regeneration of the dentin-pulp complex.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42377641/",
+    "date": "2026-07-01",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了水凝胶支架在牙髓-牙本质复合体再生中的应用，重点讨论了天然和合成聚合物的结构及其新兴用途。\",\n    \"innovation\": \"系统总结了水凝胶支架模拟天然细胞外基质的能力及其在牙髓再生中的潜力。\",\n    \"flaw\": \"未提及水凝胶支架在临床转化中的具体挑战，如机械强度不足或降解速率控制问题。\"\n}"
+  },
+  {
+    "id": "10.1002/jbm.b.70120",
+    "title": "Synthesis, Characterization, and Implantation of Ferulic Acid-Loaded Chitosan/Aloe vera Hydrogels in Rat Full-Thickness Wound Model.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Goodarzi, Bazmandeh, Tavassoli",
+    "abstract": "Chronic wounds are clinical challenges characterized by delayed healing and persistent inflammation. Tissue engineering offers novel strategies to enhance skin regeneration and restore tissue homeostasis. In the present study, we fabricated FA-loaded Cs/Av hydrogel scaffolds and evaluated their effect on wound healing in a full-thickness wound model in rats. A temperature-sensitive chitosan/Aloe vera (Av, 1%, 2%, 4% w/v) hydrogel was prepared and loaded with ferulic acid (FA, 50 μM). The physicochemical characteristics of hydrogels were evaluated using scanning electron microscope (SEM), Fourier transform infrared spectroscopy (FTIR), water absorption, degradation, and antibacterial activity assessments. Wound closure and histopathological demonstrations were assessed in a rat full-thickness wound model on Days 5, 10, and 14. SEM analysis revealed that scaffolds were highly porous with interconnected pores ranging from 110 to 180 μm. FTIR data confirmed the incorporation of FA and Av. Water uptake, degradation rate, and antibacterial activity increased proportionally to Av concentration, reaching 519%, 48%, and 30.66 mm, respectively, in FA-Cs/Av 4% scaffolds. Wound closure was accelerated by 67% and 91% on Days 10 and 14 in FA-Cs/Av 4% hydrogel. Histological assessments showed that implanted scaffolds improved skin regeneration by reducing inflammation and enhancing angiogenesis, collagen deposition, and re-epithelialization in treated groups. FA-Cs/Av scaffolds provide a multifunctional platform for repairing chronic wounds, with excellent antioxidant, anti-inflammatory, and antibacterial effects, and controlled hydration and degradation, which could be considered for therapeutic purposes in the future.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376901/",
+    "date": "2026-07-01",
+    "analysis": "{\n    \"chinese_summary\": \"本研究制备了负载阿魏酸的壳聚糖/芦荟水凝胶支架，该支架具有多孔结构、高吸水性和抗菌活性，在大鼠全层伤口模型中加速了伤口闭合，促进了皮肤再生，减少了炎症，增强了血管生成、胶原沉积和再上皮化。\",\n    \"innovation\": \"将阿魏酸与壳聚糖/芦荟水凝胶结合，构建了具有抗氧化、抗炎和抗菌功能的多功能平台，用于慢性伤口修复。\",\n    \"flaw\": \"研究仅在大鼠模型中进行，缺乏人体临床试验数据，且未评估支架的长期生物相容性和降解产物安全性。\"\n}"
+  },
+  {
     "id": "10.3390/ijms27125221",
     "title": "Hydrogel-Based Controlled Release of Phytohormones: Improving Bioavailability and Early Plant Development Outcomes.",
     "journal": "International journal of molecular sciences",

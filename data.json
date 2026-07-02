@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1073/pnas.2606761123",
+    "title": "Pressure-induced softening of locust bean gum hydrogels: A counterintuitive alternative to freeze-thaw stiffening.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Fu, Qiao, Bai",
+    "abstract": "Hydrogels have been widely used in biomedical and environmental applications, yet precise control of mechanical properties (quantified by elastic modulus, G') over a broad range remains essential for expanding their functionality. While pressure treatment typically enhances hydrogel strength through pressure-induced crosslinking, we report a counterintuitive phenomenon in locust bean gum (LBG) hydrogels: High-pressure processing induces softening rather than stiffening. Under repeated compression-decompression cycles up to 1.2 GPa, LBG hydrogels undergo progressive softening, with elastic modulus decreasing to approximately 31% of the initial value. Conversely, repeated freeze-thaw cycles enhance the modulus by approximately 2.3-fold. Scanning electron microscopy reveals a structural transition from a porous network to a flocculent morphology, corresponding to substantial alterations in elastic modulus and viscoelastic behavior. Mechanistic analysis suggests that pressure-induced disruption of hydrogen bonding, water redistribution, and structural rearrangement drive these changes. These findings demonstrate that pressure modulation can serve as a complementary method to conventional freeze-thaw treatment, offering precise control over hydrogel mechanical properties across a wide range.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384688/",
+    "date": "2026-07-02",
+    "analysis": "{\n    \"chinese_summary\": \"研究发现，刺槐豆胶水凝胶在高压处理下会软化而非硬化，弹性模量降至初始值的31%，而冻融循环则使其模量提升2.3倍。微观结构从多孔网络转变为絮状形态，机制涉及氢键破坏、水重新分布和结构重排。\",\n    \"innovation\": \"首次报道高压处理导致水凝胶软化的反直觉现象，为调控力学性能提供了新方法。\",\n    \"flaw\": \"仅研究了刺槐豆胶一种水凝胶，未验证其他类型水凝胶的普适性。\"\n}"
+  },
+  {
     "id": "10.1002/cbf.70250",
     "title": "Integration of Three-Dimensional Cell Culture Techniques and Photobiomodulation for Supportive Differentiation of Adipose-Derived Stem Cells into Smooth Muscle.",
     "journal": "Cell biochemistry and function",

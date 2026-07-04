@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1111/1750-3841.71247",
+    "title": "Postbiotics and the Future of Functional Foods: Delivery Innovations for Targeted Health Benefits.",
+    "journal": "Journal of food science",
+    "authors": "Beltrán-Cotta, Ribeiro, Bürck",
+    "abstract": "Postbiotics, inactivated microorganisms or their components, offer significant health-promoting benefits, in addition to greater stability and a longer shelf life compared to probiotics. However, maximizing their therapeutic efficacy requires preserving their bioaccessibility under rigorous food-processing conditions and during harsh gastrointestinal transit. Typical delivery methods include emulsions, hydrogels, and nanostructures, each offering distinct benefits regarding biocompatibility and food product enhancement. This review aims to investigate innovative approaches and advancements in postbiotic delivery to optimize the therapeutic potential of postbiotics in improving gut health and overall well-being. Furthermore, it evaluates enhancements in bioavailability and functionality by analyzing advancements in emulsions, hydrogels, and nanotechnology-based systems. The findings are expected to identify technological gaps and propose innovations to drive the development of next-generation delivery platforms, ultimately improving postbiotic applications across sectors. The potential of postbiotics to overcome the limitations of probiotics lies in integrating cutting-edge delivery technologies that can notably enhance postbiotic stability and targeted action, thereby overcoming the traditional limitations of viable probiotics. This review highlights the role of emulsions, hydrogels, and nanotechnology in maximizing the therapeutic benefits of postbiotics, positioning them as promising tools for improving gut health and for broader applications in food science and nutrition, and underscoring their potential to enhance consumer health and well-being.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42394311/",
+    "date": "2026-07-04",
+    "analysis": "{\n    \"chinese_summary\": \"后生元（灭活微生物或其成分）相比益生菌具有更好的稳定性和保质期，但需保护其生物可及性。本文综述了乳液、水凝胶和纳米技术等递送系统在提高后生元稳定性、靶向性和治疗效果方面的进展，旨在推动下一代递送平台的发展，以改善肠道健康和整体健康。\",\n    \"innovation\": \"系统分析了乳液、水凝胶和纳米技术等递送系统在优化后生元稳定性和靶向作用中的整合应用，为克服益生菌局限性提供了新思路。\",\n    \"flaw\": \"综述未提供具体的实验数据或临床验证，缺乏对递送系统实际效果和安全性比较的定量分析。\"\n}"
+  },
+  {
     "id": "10.1073/pnas.2606761123",
     "title": "Pressure-induced softening of locust bean gum hydrogels: A counterintuitive alternative to freeze-thaw stiffening.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",

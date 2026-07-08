@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.31083/FBL51339",
+    "title": "Comparative Analysis of Ultra-Low Versus Hydrogel Growing Conditions for Patient-Derived Glioma Organoids.",
+    "journal": "Frontiers in bioscience (Landmark edition)",
+    "authors": "Dudău, Radoi, Popescu",
+    "abstract": "Most data related to high-grade glioma and glioblastoma (GBM) 3D models refer to ultra-low/suspension cultivation systems, for several reasons: easy to initiate, high penetrability of treatments, ease of harvesting for downstream analysis. However, the major limitation of these models is the absence of the extracellular matrix, which enables the specific, local invasiveness of these aggressive brain tumors.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42411488/",
+    "date": "2026-07-08",
+    "analysis": "{\n    \"chinese_summary\": \"高级别胶质瘤和胶质母细胞瘤的3D模型多采用超低/悬浮培养系统，因其易启动、药物渗透性好、便于下游分析，但缺乏细胞外基质，无法模拟肿瘤的局部侵袭性。\",\n    \"innovation\": \"指出悬浮培养系统在3D胶质瘤模型中的优势，并明确其缺乏细胞外基质的关键局限。\",\n    \"flaw\": \"悬浮培养模型缺少细胞外基质，无法再现胶质瘤的局部侵袭特性。\"\n}"
+  },
+  {
     "id": "10.1111/1750-3841.71247",
     "title": "Postbiotics and the Future of Functional Foods: Delivery Innovations for Targeted Health Benefits.",
     "journal": "Journal of food science",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1002/mabi.70213",
+    "title": "Oxygen-Delivering Antimicrobial Janus Hydrogels for Wound Healing Applications.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Tepeli, Kehr",
+    "abstract": "The extended hypoxic microenvironment and ongoing infection in chronic wounds are two interrelated factors that significantly impede the healing process. The presented study develops a multifunctional bilayer hydrogel wound dressing that addresses these issues by combining oxygen production, oxygen transport, and antibacterial properties within a 3D printed bilayer hydrogel system. The bilayer hydrogel system is constructed with an upper layer of alginate loaded with oxygen-releasing CaO<sub>2</sub> and a lower layer of antibacterial polymer integrated with perfluorocarbon-based oxygen-adsorbing and transporting nanoparticles (PMOF). In addition, the resultant scaffold demonstrates 3D printability and enhanced mechanical and degradation properties. Under hypoxic conditions, continuous oxygen release (5.5 mg/L O<sub>2</sub> over 5 days) is achieved. Correspondingly, the bilayer system shows strong antibacterial activity against Gram Positive S. aureus and modest antibacterial activity against Gram negative E. coli bacteria. Furthermore, in vitro cell experiments show enhanced healthy cell viability after 7 days of incubation under hypoxic conditions. Lipid peroxidation results suggested that the bilayer system may provide antibacterial efficacy while maintaining oxidative cellular compatibility. Consistent with these findings, results from the in vitro scratch assay indicate that the Ge-PMOF/Alg-CaO<sub>2</sub> scaffold promotes wound closure, achieving around 90% and 95% closure under normoxic and hypoxic conditions, respectively.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42421215/",
+    "date": "2026-07-10",
+    "analysis": "{\n    \"chinese_summary\": \"该研究开发了一种3D打印双层水凝胶敷料，上层含CaO₂释放氧气，下层含PMOF纳米颗粒吸附和运输氧气并具有抗菌性，在缺氧条件下可持续释放氧气5天，对金黄色葡萄球菌有强抗菌活性，促进伤口愈合。\",\n    \"innovation\": \"将氧气生成、氧气运输和抗菌功能集成于3D打印双层水凝胶系统中，实现持续供氧和抗菌协同作用。\",\n    \"flaw\": \"仅对革兰氏阳性菌有强抗菌活性，对革兰氏阴性菌效果有限，且缺乏体内实验验证。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.202300481",
+    "title": "Antioxidant Ascorbic Acid Influences Cell-mediated Alterations in Localized Hydrogel Crosslinking and Affects Neo-Cartilage Connectivity in Hydrolytically Degradable Hydrogels.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Maples, Chang, Day",
+    "abstract": "Photopolymerizable and degradable poly(ethylene glycol) (PEG) hydrogels are a promising platform to deliver chondrocytes for cartilage tissue engineering. Previous studies reported that cells are exposed to and react with free-radicals produced during encapsulation, creating a pericellular region of reduced crosslink density measured by the distance R<sub>d</sub>. This study tests the hypothesis that increasing R<sub>d</sub> improves spatial elaboration of deposited extracellular matrix (ECM) (i.e., micro-tissue) in a degrading hydrogel. Chondrocytes pre-treated or not with the antioxidant ascorbic acid atlow (1 nM) and high (1000 nM) concentrations prior to encapsulation resulted in increasingly larger R<sub>d</sub>'s: 3.3 (0 nM), 6.7 (1 nM), and 10 (1000 nM) µm. Encapsulated chondrocytes when cultured up to ten weeks, produced micro-tissues within the hydrogels. The median micro-tissue area increased by 29% (1 nM) and 570% (1000 nM) compared to 0 nM condition. This work shows that bolstering antioxidant defense mechanisms enhances chondrocyte inhibition of the polymerization immediately around the cell, resulting in larger regions of reduced crosslinking. This local variation in network structure, which degrades more quickly, led to improved neotissue assembly and larger micro-tissues, comprised primarily of sulfated glycosaminoglycans and collagen type II. This approach offers a novel way to improve ECM elaboration and interconnectivity in free-radical polymerized hydrogels for tissue engineering.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42421179/",
+    "date": "2026-07-10",
+    "analysis": "{\n    \"chinese_summary\": \"本研究通过抗氧化剂预处理软骨细胞，增大其周围光聚合水凝胶的低交联区域（Rd），从而促进细胞外基质沉积和微组织形成，最终形成富含硫酸化糖胺聚糖和II型胶原的较大微组织。\",\n    \"innovation\": \"首次证明增强细胞抗氧化防御机制可扩大局部低交联区域，从而改善自由基聚合水凝胶中的新组织组装。\",\n    \"flaw\": \"研究仅使用单一细胞类型（软骨细胞）和特定水凝胶体系，未评估其他细胞类型或材料中的普适性。\"\n}"
+  },
+  {
+    "id": "10.1038/s41586-026-10712-3",
+    "title": "Air-permeable hydrogels through viscoelastic phase separation of aerogels.",
+    "journal": "Nature",
+    "authors": "Yan, Li, Song",
+    "abstract": "Hydrogels are widely used in biomedical interfaces, in which effective gas exchange (for example, O<sub>2</sub>, CO<sub>2</sub>) within a water-rich environment is essential. However, hydrogels show intrinsically limited air exchange efficiency, owing to the low solubility (C) and diffusivity (D) of non-polar gases in the polar water medium<sup>1</sup>. This limitation poses a substantial bottleneck in long-term applications, such as wearable health monitors<sup>2-7</sup> and tissue engineering<sup>8-12</sup>. Existing methods<sup>13-16</sup> to enhance air permeability suffer from poor robustness and/or an inherent trade-off between permeability and water content (for example, <50 vol%). Here we introduce a viscoelastic phase separation<sup>17</sup> (VPS)-enabled strategy to create a non-collapsible, air-rich network in high-water-content hydrogels, achieving a record-high oxygen permeability of 185 barrer with 70 vol% water-a tenfold increase compared with pristine hydrogels. VPS, a ubiquitous phenomenon in soft matter, is used to drive hydrophobic, dry gas particles within a hydrophilic, wet medium into a thin, stable three-dimensional network. This approach allows the facile and scalable fabrication of air-permeable hydrogels across diverse chemistries and form factors. Physiological tests over a 10-day continuous wear condition confirmed their effectiveness in preventing fluid accumulation and maintaining skin health. This strategy paves the way for hydrogels in long-term biomedical applications in which efficient and sustained air exchange becomes critical.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42420483/",
+    "date": "2026-07-10",
+    "analysis": "{\n  \"chinese_summary\": \"本研究通过粘弹性相分离策略，在高含水量水凝胶中构建不可塌陷的富气网络，实现了创纪录的185 barrer氧气渗透率（含水量70 vol%），比原始水凝胶提高十倍，解决了水凝胶气体交换效率低的瓶颈，并在10天连续穿戴测试中证实其能防止液体积聚、维护皮肤健康。\",\n  \"innovation\": \"利用粘弹性相分离在亲水水凝胶中构建稳定的疏水气体网络，打破了气体渗透性与高含水量之间的固有矛盾。\",\n  \"flaw\": \"该策略可能仅适用于特定气体（如氧气、二氧化碳），且长期稳定性及生物相容性仍需进一步验证。\"\n}"
+  },
+  {
     "id": "10.31083/FBL51339",
     "title": "Comparative Analysis of Ultra-Low Versus Hydrogel Growing Conditions for Patient-Derived Glioma Organoids.",
     "journal": "Frontiers in bioscience (Landmark edition)",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1111/1750-3841.71254",
+    "title": "Rechargeable N-Halamine Hydrogel Paint Coating Based on Upcycled Sesame Meal Protein for Preventing Cross-Contamination on Food-Contact Surfaces.",
+    "journal": "Journal of food science",
+    "authors": "Kim, Nitin, Doh",
+    "abstract": "Sesame meal protein isolate (SPI) derived from sesame meal was utilized as an upcycled plant protein source to develop N-halamine structure-based antimicrobial coating system to prevent cross-contamination for fresh food produce. The coating matrix was formulated using SPI, tannic acid (TA), cellulose nanocrystal (CNC), and sodium hypochlorite (NaOCl). The N-halamine structure maintained a stable active chlorine content of approximately 5 µmol/cm<sup>2</sup> and enabled repeated recharging to the initial level on the coated model food-contact surface, stainless steel (SS). The stability of the coated surface was evaluated under various harsh conditions, including different pH levels (2, 4, 7, and 9), temperatures (4°C, 23°C, and 35°C), chemical oxygen demand (COD) levels (0-20,000 mg/L), and physical damage. Antimicrobial test against Escherichia coli O6 and Listeria innocua showed a 5 log CFU/mL reduction within 5 min under at 22 ± 2°C and 45 ± 5% relative humidity. Furthermore, the SPI-based coating inhibited the transfer of bacteria to leafy fresh food produce about 4 log CFU/mL reduction in simulated cross-contamination tests. These findings suggest that the developed coating system in this study offers a stable and effective solution for cross-contamination of fresh food produce, addressing limitations of conventional biopolymer-based coatings.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439291/",
+    "date": "2026-07-14",
+    "analysis": "{\n    \"chinese_summary\": \"利用芝麻粕蛋白分离物（SPI）与单宁酸、纤维素纳米晶和次氯酸钠构建N-卤胺结构抗菌涂层，可稳定释放活性氯（约5 µmol/cm²），在多种严苛条件下保持稳定性，5分钟内对大肠杆菌和李斯特菌实现5 log CFU/mL的灭活，并在模拟交叉污染测试中减少约4 log CFU/mL的细菌转移。\",\n    \"innovation\": \"首次将芝麻粕蛋白作为升级循环植物蛋白源，结合N-卤胺结构开发可重复充电的抗菌涂层，用于新鲜农产品防交叉污染。\",\n    \"flaw\": \"研究未评估涂层对食品感官品质（如风味、外观）的影响，且实际应用中的长期稳定性和安全性需进一步验证。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70218",
+    "title": "Synergistic Application of Mesenchymal Stem Cells and Anti-Inflammatory Therapeutics Within Hydrogel Matrices For Enhanced Treatment of Osteoarthritis and Promotion of Cartilage Regeneration.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Huang, Xiang, Shang",
+    "abstract": "Osteoarthritis (OA) is the most prevalent degenerative joint disorder, characterized by chronic joint pain, stiffness, and progressive loss of articular cartilage. To address this, the project developed an inflammatory-targeting drug delivery system to mitigate underlying inflammation. The polyvinyl alcohol (PVA) hydrogel, a crosslinked polymer network with excellent water absorption and retention capabilities, was utilized as the drug carrier platform. The polydopamine (PDA) particles were leveraged to effectively eliminate reactive oxygen species and reduce oxidative stress. Furthermore, R-7050, a cell-permeable triazoline compound, was encapsulated as a TNF-α inhibitor for targeted anti-inflammatory therapy. To enhance therapeutic efficacy, bone marrow mesenchymal stem cells (MSCs) were incorporated into the drug delivery system, which can secrete neurotrophic factors, promote vascular regeneration, and exert superior anti-inflammatory effects. Results have demonstrated that the developed drug delivery system (SC@PDA/PVA-R7050 Gel) could sustain the release of therapeutic agents in the affected joint area, thereby improving the treatment efficacy. The synergistic integration of the PVA hydrogel, PDA, R-7050, and MSCs provides a novel and promising solution for the targeted therapy of osteoarthritis, with significant clinical application potential. (177 words in total).",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42438993/",
+    "date": "2026-07-14",
+    "analysis": "{\n    \"chinese_summary\": \"该研究开发了一种炎症靶向药物递送系统（SC@PDA/PVA-R7050 Gel），结合PVA水凝胶、聚多巴胺（PDA）颗粒、TNF-α抑制剂R-7050和骨髓间充质干细胞（MSCs），用于骨关节炎治疗，实现持续药物释放和协同抗炎效果。\",\n    \"innovation\": \"首次将PVA水凝胶、PDA、R-7050和MSCs整合为一个协同递送系统，同时实现活性氧清除、TNF-α抑制和干细胞治疗。\",\n    \"flaw\": \"缺乏体内动物实验和长期安全性评估，临床转化潜力尚未验证。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70213",
     "title": "Oxygen-Delivering Antimicrobial Janus Hydrogels for Wound Healing Applications.",
     "journal": "Macromolecular bioscience",

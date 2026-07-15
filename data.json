@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1073/pnas.2533029123",
+    "title": "Spatiotemporally controlled matrix softening facilitates deterministic crypt formation in human intestinal organoids.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "authors": "Blatchley, Bera, Petrich",
+    "abstract": "Spatially controlling morphogenesis is a challenge for many organoid systems that manifests as a limited understanding of self-organization of differentiating cells and leads to a high degree of heterogeneity in organoid morphometrics. Current methods to grow organoids rely on temporal presentation of soluble cues that are not controllably delivered, and little is known about the role of the extracellular microenvironment in this process. Here, we present a material-based strategy to spatiotemporally control morphogenesis of human intestinal organoids (HIOs) with predictable crypt morphometrics and cell composition that match their in vivo tissue counterparts. We first optimize culture conditions to generate more reproducible HIOs with predictable growth in phototunable poly (ethylene glycol)-based hydrogels, and then systematically investigate the role of light-mediated matrix softening in guiding crypt formation. The light dose delivered to crypt-sized regions adjacent to growing organoids is a key factor in maintaining organoid cell viability, as well as crypt budding and elongation. With optimized light doses, predictable epithelial shape changes result in programmable crypt formation, confirmed by the presence of proliferative (Ki67+) and niche-defining Paneth (Lyz+) cells. This methodology could be readily adopted for other budding and branching organoids to facilitate controllable changes in morphogenesis or cell migration. Sequential patterning approaches and more complex pattern designs could further open the parameter space to facilitate modeling of a wide array of engineered tissues for applications ranging from fundamental biology to disease modeling and translational medicine.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446987/",
+    "date": "2026-07-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究提出一种基于光可调水凝胶的材料策略，通过时空控制基质软化来引导人肠道类器官的隐窝形成，实现可预测的形态发生和细胞组成。\",\n    \"innovation\": \"首次利用光介导的基质软化在空间和时间上精确控制类器官的隐窝形成，实现与体内组织匹配的可预测形态。\",\n    \"flaw\": \"该方法目前仅适用于肠道类器官，对其他器官类器官的适用性尚未验证，且光剂量控制可能受组织深度影响。\"\n}"
+  },
+  {
+    "id": "10.1002/jbm.b.70130",
+    "title": "Polypyrrole Incorporation Modulates the Structural, Electrochemical, and Biological Performance of Oxidized Hyaluronic Acid Hydrogels.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Chen, Chang, Su",
+    "abstract": "Skin wound repair involves coordinated cellular activities regulated by both biochemical and bioelectrical cues. In this study, an electroactive hydrogel system based on oxidized hyaluronic acid (oxi-HA) crosslinked with adipic dihydrazide (ADH) and incorporated with polypyrrole (PPy) was developed and systematically evaluated. The effects of PPy incorporation on hydrogel structure, physicochemical properties, electrochemical behavior, and cellular responses were investigated. FTIR and SEM analyses confirmed successful PPy incorporation within the oxi-HA network, while preserving an interconnected porous structure at low PPy content. Increasing PPy concentration reduced swelling capacity and altered degradation behavior, indicating a transition toward a denser network. Electrochemical measurements demonstrated a PPy-dependent increase in conductivity and electrochemical behavior, accompanied by increased peak-to-peak separation (ΔE<sub>p</sub>) at higher PPy content, indicating changes in electrochemical behavior that warrant further investigation. In vitro studies showed that hydrogels with moderate PPy incorporation (PPy-4) maintained high cytocompatibility (> 95%) and supported fibroblast proliferation, whereas excessive PPy content was associated with reduced cell viability. Under daily low-intensity electrical stimulation (20 μA, 5 min/day), PPy-4 hydrogels further enhanced fibroblast proliferation, migration, and upregulated wound-healing-related gene expression (PDGF-A, FGF-2, and TGF-β1). These results indicate that the incorporation of in situ polymerized PPy modulates the structural and electrochemical properties of oxi-HA hydrogels and is associated with composition-dependent differences in cellular responses under electrical stimulation. This study provides an in vitro proof-of-concept for the development of oxi-HA/PPy/ADH hydrogel systems with composition-dependent electroactive properties.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42443129/",
+    "date": "2026-07-15",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于氧化透明质酸、己二酸二酰肼和聚吡咯的电活性水凝胶系统，用于皮肤伤口修复。聚吡咯的加入调节了水凝胶的结构和电化学性质，中等含量的聚吡咯（PPy-4）在低强度电刺激下能促进成纤维细胞增殖、迁移和伤口愈合相关基因表达。\",\n    \"innovation\": \"首次将原位聚合的聚吡咯引入氧化透明质酸水凝胶中，构建了组成依赖的电活性水凝胶系统，并验证了其在电刺激下促进伤口愈合的潜力。\",\n    \"flaw\": \"研究仅限于体外实验，缺乏体内动物模型验证，且高含量聚吡咯的细胞毒性机制未深入探讨。\"\n}"
+  },
+  {
     "id": "10.1111/1750-3841.71254",
     "title": "Rechargeable N-Halamine Hydrogel Paint Coating Based on Upcycled Sesame Meal Protein for Preventing Cross-Contamination on Food-Contact Surfaces.",
     "journal": "Journal of food science",

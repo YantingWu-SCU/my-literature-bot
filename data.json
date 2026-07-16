@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1126/sciadv.aee5890",
+    "title": "Ultrasoft, adhesive, pH-tunable hydrogel based on in situ functionalized laser-induced graphene for through-hair concurrent biosensing.",
+    "journal": "Science advances",
+    "authors": "Zohra, Abdullah, Yuan",
+    "abstract": "This work reports a printable, ultrasoft, highly stretchable, adhesive, breathable hydrogel engineered that is radically tuned by controlling the precursor pH level for simultaneous biosignal monitoring. The hydrogel based on porous laser-induced graphene composites synthesized using in situ laser reduction with polydopamine and tannic acid exhibits ultrasmall Young's modulus of 1.08 kilopascal, super high stretchability of ~8000%, and desirable conductivity and adhesive strength for through-hair signal monitoring even in the presence of sweat. The excellent skin conformability of the hydrogel provides the resulting electrodes with low skin contact impedance at both wet and dry conditions, a high signal-to-noise ratio, and motion artifact-free monitoring of electrophysiological signals. Combined with electrodermal activity and strain sensing from the facile patterning/printing of the reusable and storable gel, the proof-of-concept demonstration of the device platform is showcased for anxiety monitoring and nerve rehabilitation studies.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455886/",
+    "date": "2026-07-16",
+    "analysis": "{\n    \"chinese_summary\": \"本文报道了一种可打印、超柔软、高拉伸、粘附、透气的 hydrogel，通过控制前体 pH 值进行调控，用于同步生物信号监测。该 hydrogel 基于多孔激光诱导石墨烯复合材料，具有 1.08 kPa 的超低杨氏模量、约 8000% 的超高拉伸性、良好的导电性和粘附性，可在出汗情况下进行穿发信号监测。其优异的皮肤贴合性提供了低皮肤接触阻抗、高信噪比和无运动伪影的电生理信号监测。结合电皮肤活动和应变传感，该设备平台在焦虑监测和神经康复研究中得到概念验证。\",\n    \"innovation\": \"通过前体 pH 值调控实现 hydrogel 的极端柔软性（1.08 kPa）和超高拉伸性（8000%），并集成激光还原石墨烯与多巴胺、单宁酸，实现可打印、可重复使用的多功能生物信号监测平台。\",\n    \"flaw\": \"该 hydrogel 的长期稳定性和生物相容性尚未在体内实验中验证，且制备工艺的规模化生产可行性有待进一步研究。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70221",
+    "title": "Enhancing the Antimicrobial Potency of Self-Assembling Antibiotics by Co-Assembly-Based Aggregation Modulation.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Gupta, Kuiri, Vijayakanth",
+    "abstract": "The activity of many antimicrobial peptides (AMPs), a promising alternative to classical antibiotics, depends strongly on their aggregation-propensity and weak peptide association favor antimicrobial function, whereas stable assembly can reduce activity. Thus, modulation of intermolecular interactions offers a feasible way to enhance the potency of existing AMPs. However, a general strategy to achieve this objective has not been established. Here, we demonstrate that the spectrum of activity of Gram-positive-specific self-assembling AMP Fmoc-phenylalanine can be broadened by co-assembly with non-antibiotic Fmoc-glutamic acid. Biophysical assays confirmed that the co-assembled system disrupted bacterial membrane integrity, leading to cell death. The enhanced potency correlated with the reduced mechanical rigidity of the co-assembled hydrogel, as determined by rheological measurements, and molecular dynamics simulations further revealed that heterogeneous non-covalent interactions were detrimental to the fibril stability. These findings suggest that rationally designed co-assembling partners that weaken stabilizing non-covalent interactions can serve as a common strategy to enhance the antibacterial efficacy of existing AMPs.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42454439/",
+    "date": "2026-07-16",
+    "analysis": "{\n    \"chinese_summary\": \"研究发现，通过共组装非抗生素的Fmoc-谷氨酸与自组装抗菌肽Fmoc-苯丙氨酸，可以削弱纤维稳定性，降低水凝胶机械刚性，从而增强抗菌活性并扩大抗菌谱。\",\n    \"innovation\": \"提出了一种通过共组装弱化非共价相互作用的通用策略来增强现有抗菌肽的效力。\",\n    \"flaw\": \"该策略仅在特定肽组合中验证，其普适性和体内效果尚需进一步研究。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27135792",
+    "title": "Multifunctional PVP/PEG Hydrogel Coatings Functionalized with Taxifolin for Surface Modification of Titanium-Based Substrates.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Młyniec, Szymańska, Sadlik",
+    "abstract": "Surface functionalization of metallic implants is widely explored to enhance their performance and functionality. In this study, multifunctional hydrogel coatings based on poly(vinylpyrrolidone) and polyethylene glycol were developed and functionalized with a taxifolin (TAX) inclusion complex and collagen to introduce bioactive features. TAX, a naturally occurring flavonoid with antioxidant and anti-inflammatory properties, was incorporated using β-cyclodextrin to improve its stability and enable controlled release. The coatings were applied to titanium-hydroxyapatite composites and titanium sheet substrates to evaluate their applicability across surfaces with varying morphologies, ranging from porous to relatively smooth. The ceramic phase was modified with magnesium ions to enhance its bioactivity and better mimic the composition of natural bone tissue. FTIR and SEM analyses confirmed hydrogel formation and effective surface coverage. Degradation and incubation studies in simulated physiological environments demonstrated the material's stability, while UV-Vis analysis indicated TAX release, highlighting the system's potential as a carrier for flavonoid-based compounds. Indirect cytotoxicity studies using MC3T3-E1 preosteoblasts indicated low cytotoxicity and a favorable biological response of collagen- and taxifolin-modified systems. The developed coatings represent a versatile platform for surface modification of titanium-based biomaterials and demonstrate potential for application across substrates with diverse surface characteristics. Further studies are required to assess their biological potential.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450076/",
+    "date": "2026-07-16",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了基于聚乙烯吡咯烷酮和聚乙二醇的多功能水凝胶涂层，并功能化引入紫杉叶素（TAX）包合物和胶原蛋白，以增强钛基植入物的生物活性。涂层成功应用于钛-羟基磷灰石复合材料和钛片基底，表现出良好的稳定性、可控释放和低细胞毒性。\",\n  \"innovation\": \"首次将紫杉叶素包合物与胶原蛋白结合到水凝胶涂层中，实现抗氧化、抗炎和生物活性协同功能。\",\n  \"flaw\": \"仅进行了体外细胞毒性研究，缺乏体内实验验证其长期生物相容性和治疗效果。\"\n}"
+  },
+  {
     "id": "10.1073/pnas.2533029123",
     "title": "Spatiotemporally controlled matrix softening facilitates deterministic crypt formation in human intestinal organoids.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.70223",
+    "title": "In Vivo Evaluation of Conductive Biopolymer-Based 3D Bioprinted Nerve Conduit in Sciatic Nerve Injury Repair.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Rizwana, H S, Raundal",
+    "abstract": "Peripheral nerve injury (PNI) is one of the most common conditions that occurs due to trauma and accidents. A successful peripheral nerve regeneration can potentially benefit from the use of conduits with adequate physical, mechanical, and biochemical cues to recapitulate the native neural microenvironment. We report an electroconductive 3D bioprinted nerve conduit fabricated using alginate/methylcellulose/reduced graphene oxide (Alg/MC/rGO) hydrogel. The incorporation of rGO rendered the hydrogel with improved electrical conductivity while maintaining good printability and shape fidelity through dual crosslinking using calcium chloride. rGO was characterized thoroughly to confirm its physicochemical characteristics. The optimized Alg/MC/rGO hydrogel showed shear-thinning behaviour required for extrusion bioprinting and 3D structures (grid and nerve conduit) were successfully printed. Physicochemical analysis of Alg/MC/rGO scaffolds confirmed the presence of rGO within the scaffolds. On analysing conductivity properties, it was observed that Alg/MC/rGO scaffolds showed conductivity values (∼7.5 × 10<sup>-2</sup> S/m) within the physiological range of the peripheral nerve. In vitro assays such as MTT and Live/dead assay confirmed that the scaffolds showed cytocompatibility above the threshold as mentioned in ISO standards. In vivo evaluation using sciatic nerve transection (5 mm) model in Sprague Dawley rats showed that Alg/MC/rGO nerve conduits significantly enhanced sciatic functional index values at 21-day post-implantation. Histological analyses further confirmed good nerve fiber alignment, remyelination and reduced collagen percentage in the regenerated nerve. Overall, these findings establish that incorporation of rGO within Alg/MC hydrogel along with a dual crosslinking strategy provided structural and conductive cues to the nerve conduit that accelerated nerve repair thereby providing a promising platform for next-generation nerve guide conduit (NGC).",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42471480/",
+    "date": "2026-07-20",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于海藻酸盐/甲基纤维素/还原氧化石墨烯（Alg/MC/rGO）的导电3D生物打印神经导管，通过双交联策略实现良好打印性和导电性，在坐骨神经损伤大鼠模型中显著促进神经再生。\",\n    \"innovation\": \"将还原氧化石墨烯引入海藻酸盐/甲基纤维素水凝胶，通过双交联实现导电性与结构稳定性的结合，制备出导电率接近生理范围的3D打印神经导管。\",\n    \"flaw\": \"研究未评估导管的长期降解行为及体内长期安全性，且仅使用5mm缺损模型，对更大缺损的修复效果未知。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aee5890",
     "title": "Ultrasoft, adhesive, pH-tunable hydrogel based on in situ functionalized laser-induced graphene for through-hair concurrent biosensing.",
     "journal": "Science advances",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/mabi.70226",
+    "title": "A Thermosensitive Hydroxybutyl Chitosan/Microalgae Hydrogel With Antibacterial and Antioxidant Activities for Accelerating Burn Wound Healing.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Feng, Lin, Li",
+    "abstract": "Capitalizing on microalgae extract (MAE) to scavenge reactive oxygen species, repair cell damage, and modulate macrophage related inflammatory responses, an injectable thermosensitive responsive hydrogel (HBC-MAE) was developed to promote burn wound healing in this study. Comprising MAE and hydroxybutyl chitosan (HBC), the resulting HBC-MAE hydrogel showed favorable thermosensitivity; both its sol-gel transition temperature and gelation time were tunable by adjusting the HBC/MAE ratio. Meanwhile, the hydrogels also possessed significant antioxidant and antibacterial activity, enabling them to effectively resist nonspecific protein adsorption and bacterial adhesion. In a burn wound model, the thermosensitive formulation ensured complete wound coverage. By mimicking the extracellular-matrix, it provides both structural support and a biochemical niche for tissue repair. Furthermore, it suppressed local inflammation and redirected macrophage polarization from the pro-inflammatory M1 toward the anti-inflammatory M2 phenotype, thereby establishing an immune-favorable microenvironment that enhanced the healing rate. Consequently, this multifunctional hydrogel offers a promising and convenient strategy for advanced burn wound care.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479788/",
+    "date": "2026-07-22",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于微藻提取物和羟丁基壳聚糖的可注射温敏水凝胶，用于促进烧伤创面愈合。该水凝胶具有抗氧化、抗菌活性，能调节巨噬细胞极化，抑制炎症，加速愈合。\",\n    \"innovation\": \"首次将微藻提取物与温敏水凝胶结合，通过调节巨噬细胞M1/M2极化实现免疫微环境调控，促进烧伤创面高效愈合。\",\n    \"flaw\": \"未评估长期生物安全性及体内降解行为，且缺乏与现有临床敷料的直接疗效对比。\"\n}"
+  },
+  {
+    "id": "10.1007/s10561-026-10243-1",
+    "title": "Smart and stimuli-responsive hydrogels for controlled exosome delivery in bone tissue engineering: from passive carriers to intelligent therapeutic platforms.",
+    "journal": "Cell and tissue banking",
+    "authors": "Emami, Oskouie",
+    "abstract": "Bone regeneration follows a tightly coordinated biological sequence in which inflammatory resolution, vascular formation, and matrix mineralization occur within distinct temporal windows. However, most current exosome delivery strategies primarily extend retention rather than synchronize therapeutic signaling with these dynamic healing stages. This mismatch between release kinetics and biological demand may limit the regenerative potential of extracellular vesicle therapies. This review proposes a biology-driven framework that reinterprets stimuli-responsive hydrogel systems according to their capacity to coordinate stage-specific exosome delivery throughout bone healing. Recent literature on hydrogel-based exosome delivery systems was critically analyzed and interpreted according to their ability to regulate therapeutic timing rather than stimulus type, encompassing endogenous-responsive, externally triggered, and hybrid platforms. Particular emphasis was placed on release kinetics, osteoimmunomodulation, angiogenic coupling, translational feasibility, and emerging adaptive delivery concepts. Current preclinical evidence suggests that stimuli-responsive hydrogels capable of synchronizing exosome release with successive stages of bone healing may improve inflammatory regulation, vascularization, and osteogenesis compared with passive delivery systems. However, these biological effects remain dependent on hydrogel formulation, exosome source, and experimental model. Multi-responsive and adaptive platforms appear particularly promising for achieving sequential therapeutic signaling, although most remain at the proof-of-concept or preclinical stage. Rather than functioning solely as sustained-release carriers, future exosome delivery systems are likely to evolve toward adaptive therapeutic platforms capable of integrating microenvironment sensing with programmable release behavior. The biology-driven framework proposed in this review provides a complementary perspective for the rational design of next-generation regenerative biomaterials while highlighting the key experimental and translational challenges that must be addressed before clinical implementation.",
+    "score": 40,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479219/",
+    "date": "2026-07-22",
+    "analysis": "{\n    \"chinese_summary\": \"本文提出一种基于生物学驱动的框架，重新解读刺激响应性水凝胶系统在骨愈合过程中协调阶段特异性外泌体递送的能力，强调释放动力学与愈合阶段同步的重要性。\",\n    \"innovation\": \"创新点在于提出外泌体递送系统应从单纯延长滞留转向与骨愈合动态阶段同步的适应性治疗平台。\",\n    \"flaw\": \"不足在于大多数多响应和自适应平台仍处于概念验证或临床前阶段，且生物学效果依赖于水凝胶配方、外泌体来源和实验模型。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70223",
     "title": "In Vivo Evaluation of Conductive Biopolymer-Based 3D Bioprinted Nerve Conduit in Sciatic Nerve Injury Repair.",
     "journal": "Macromolecular bioscience",

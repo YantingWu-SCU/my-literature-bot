@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/mabi.70230",
+    "title": "Alginate and Chitosan-Based Hydrogels: Effects on the Stability of Encapsulated Quercetin Under Multiple Stress Conditions.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Tsirigotis-Maniecka, Zoumpanioti, Pawlaczyk-Graja",
+    "abstract": "In this study, hydrogel systems were investigated as protective carriers for quercetin (Que), a sensitive phytopharmaceutical. Matrix-type calcium alginate microparticles and capsule-type calcium alginate-chitosan microparticles were subjected to processing relevant stresses, including storage at -20°C to 25°C for up to 30 days, repeated freeze-thaw cycling, thermal treatment up to 100°C, ultrasonic irradiation (40-200 W), microwave exposure (50-300 W), and UV irradiation (254 and 365 nm) for up to 60 min. The antioxidant activity of encapsulated Que was quantified using EPR spectroscopy based on DPPH radical-scavenging activity. The results demonstrate that polysaccharide-based carrier design plays key roles in determining payload functional stability under stress. Higher alginate concentrations significantly improved Que protection during frozen storage and high-intensity ultrasonic treatment, while chitosan coating provided additional interfacial shield. The alginate-chitosan system showed markedly enhanced resistance to thermal treatment, repeated freeze-thaw cycles, and microwave irradiation. Under moderate storage conditions (4°C and 25°C) and UV exposure, both alginate matrices and alginate-chitosan capsules exhibited comparable stabilization performance. Overall, this study provides quantitative structure-function insights into the stress-dependent protective behavior of polysaccharides and highlights the potential of polysaccharide-based hydrogels for improving the stability of antioxidant compounds during processing and storage in the food and pharmaceutical industry.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42490055/",
+    "date": "2026-07-24",
+    "analysis": "{\n    \"chinese_summary\": \"本研究探讨了海藻酸钙微颗粒和海藻酸钙-壳聚糖微胶囊作为槲皮素保护载体的效果，发现多糖载体设计对功能稳定性至关重要，高浓度海藻酸和壳聚糖涂层分别提升了冷冻、超声及热、冻融、微波条件下的保护性能。\",\n    \"innovation\": \"首次系统揭示了多糖基水凝胶载体设计（基质型与胶囊型）在不同加工应力下对槲皮素抗氧化活性的定量结构-功能关系。\",\n    \"flaw\": \"研究未评估载体在真实食品或药物体系中的长期稳定性及体内释放行为。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70227",
+    "title": "Impact of a Reinforced Graphene Oxide and Alginate Hydrogel with an Oxygen Releasing System on the Biocompatibility of Pancreatic β-Cells for Diabetes Therapy.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Cuartas-Gómez, Vargas-Ceballos, Moreno-Castellanos",
+    "abstract": "Type 1 diabetes is characterized by autoimmune destruction of pancreatic β-cells, resulting in insulin deficiency and impaired blood glucose regulation. Cell encapsulation using alginate-based hydrogels offers immunoprotection but faces challenges due to low oxygen solubility, compromising cell survival to restore vascularization after implantation. To address this, we developed an alginate hydrogel reinforced with graphene oxide (ALGO) and integrated calcium peroxide (CPO) as an oxygen-releasing system, stabilized with poly-L-lysine (PLL). Physicochemical and mechanical characterization confirmed incorporation of all components and improved elasticity with increasing CPO concentration. Hydrogels maintained structural stability for eight days and released oxygen throughout this period. Biocompatibility assays revealed that ALGO containing 0.25% CPO (0.25CPO) preserved cell viability and proliferation for 96 h, while 1% CPO negatively affected survival. Oxygen consumption analysis showed that 0.25CPO sustained mitochondrial respiration and enhanced maximal respiratory capacity. Glucose-stimulated insulin secretion demonstrated that 0.25CPO maintained functional responsiveness under low and high glucose conditions. These findings indicate that 0.25CPO hydrogels provide controlled oxygen delivery, mechanical stability, and improved biocompatibility, making them a promising platform for pancreatic β-cell encapsulation and future preclinical applications in type 1 diabetes therapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42490035/",
+    "date": "2026-07-24",
+    "analysis": "{\n    \"chinese_summary\": \"针对1型糖尿病胰岛β细胞封装中氧气供应不足的问题，开发了氧化石墨烯增强的海藻酸盐水凝胶，并整合过氧化钙作为释氧系统，其中0.25% CPO浓度在保持细胞活性和功能方面表现最佳。\",\n    \"innovation\": \"首次将氧化石墨烯增强海藻酸盐水凝胶与过氧化钙释氧系统结合，实现了可控氧气释放和机械稳定性，显著提高了β细胞的存活和功能。\",\n    \"flaw\": \"研究仅进行了体外实验，缺乏体内验证，且高浓度CPO（1%）对细胞有毒性，需进一步优化释氧动力学。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70226",
     "title": "A Thermosensitive Hydroxybutyl Chitosan/Microalgae Hydrogel With Antibacterial and Antioxidant Activities for Accelerating Burn Wound Healing.",
     "journal": "Macromolecular bioscience",

@@ -1,5 +1,93 @@
 [
   {
+    "id": "10.1007/s11427-025-3178-1",
+    "title": "Click-crosslinked nano-hydrogel enables metabolic immune reprogramming for diabetic foot ulcers.",
+    "journal": "Science China. Life sciences",
+    "authors": "Gong, Gan, Ma",
+    "abstract": "Diabetic foot ulcers (DFUs) pose significant therapeutic challenges owing to their intricate microenvironment. Conventional biomaterials often target only a single pathological factor, rendering them inadequate for halting the progressive deterioration of DFUs. To address this limitation, we developed a multifunctional drug delivery platform based on amine-yne click chemistry. The system was constructed using quaternized chitosan (QCS) and tetra-arm polyethylene glycol propiolate (4A-PEG-PA), incorporating metal-polyphenol nanoparticles (MPNs) formed by epigallocatechin gallate (EGCG) and magnesium ions (Mg<sup>2+</sup>) as the drug-loading component. This platform not only fills ulcer cavities to eliminate dead space but also adheres firmly to irregular wound surfaces, minimizing physical disruption. Additionally, the drug delivery system exhibits pH-responsive behavior, along with potent antioxidant and hypoglycemic effects, effectively lowering reactive oxygen species (ROS) and glucose levels in the wound microenvironment by modulating pH, thereby promoting healing. In vitro studies revealed that the material safeguards mitochondrial function and integrity by counteracting oxidative stress. In vivo evaluations further demonstrated its antimicrobial, anti-inflammatory, pro-angiogenic, and re-epithelialization properties. Collectively, this hydrogel-based platform integrates multiple bioactive functions, presenting a promising strategy for the clinical management of DFUs.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42496851/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125589",
+    "title": "Helical-cavity-preserving starch engineering enables root-inspired multilevel wet bioadhesion for corneal repair.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Huang, Song, Liu",
+    "abstract": "Polysaccharide-based adhesives hold promise for wet tissue repair, yet their application is often limited by weak interfacial bonding and insufficient cohesive strength in hydrated environments. Here, we report a root-inspired multilevel wet bioadhesive enabled by helical-cavity-preserving starch engineering for corneal repair. Potato starch was sequentially succinylated and methacrylated under aqueous conditions to obtain methacrylate succinate diesterified starch (StaCMA), which retained the ability to form helical-cavity structures while introducing photocrosslinkable groups. When integrated with methacrylated gelatin, StaCMA formed a transparent hydrogel network that mimicked root-like anchoring through tissue-interpenetrating covalent fixation, branched-chain stress dissipation and helical-cavity-mediated polymer confinement. The optimized adhesive exhibited strong wet adhesion on human cornea, achieving a shear adhesion strength of 166 kPa and a burst pressure of 1286 mmHg, while maintaining visible-light transmittance above 90%. Iodine displacement, FTIR, NOESY, helix-denaturation controls and molecular dynamics simulations supported that starch helical cavities confined GelMA segments and promoted molecular association, thereby reinforcing both adhesion and cohesion. In ex vivo and rabbit corneal injury models, the adhesive enabled sutureless sealing of linear and irregular penetrating wounds and supported organized corneal regeneration with reduced fibrotic remodeling. This study establishes helical-cavity-preserving starch as an active carbohydrate-polymer motif for root-inspired wet bioadhesive design.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493152/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125588",
+    "title": "Dual cross-linked cellulose-based hydrogel enables antibacterial-antioxidant synergy for diabetic wound healing.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Tao, Yang, Wang",
+    "abstract": "Diabetic wounds struggle to self-heal due to excessive accumulation of reactive oxygen species (ROS), persistent microbial infection, and ineffective exudate management. Current wound dressings remain inadequate for effectively modulating this complex pathophysiological microenvironment. Herein, using cotton-derived cellulose and hyaluronic acid as raw materials, we developed a dual-crosslinked hydrogel through a facile and rapid photo-crosslinking process (<10 s), allowing it to be molded into any desired shape to fit irregular wounds. Benefiting from a dynamic and robust dual-crosslinked network, the resulting hydrogel exhibits autonomous self-healing capability, and strong tissue adhesion, making it adaptable to complex wound environments. Notably, owing to the incorporation of quaternized and dopamine groups, it demonstrates a 99% antibacterial rate in vitro and achieves 90% clearance efficiency of ROS in vivo. Furthermore, this design confers the hydrogel with efficient coagulation-promoting and hemostatic capabilities. In type II diabetic wounds, the hydrogel can achieve 100% closure by day 14, and the histological staining revealed enhanced tissue regeneration and orderly collagen deposition. This work presents a promising polysaccharide-based hydrogel with synergistic multifunctionality serving as a versatile therapeutic candidate for the effective management and healing of diabetic wounds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493151/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125573",
+    "title": "Gum arabic modulates mechanical properties and microstructural transition in whey protein isolate hydrogels.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Buckser, Floreani",
+    "abstract": "This study systematically investigated how whey protein isolate (WPI) to gum arabic (GA) mass ratios govern the structural transition from fine-stranded to particulate hydrogel networks and analyzed the resulting chemical, viscoelastic, and mechanical properties. WPI slab hydrogels with protein concentrations of 10-20% (w/v), and various WPI:GA mass ratios (20:1 to 2.5:1), were characterized via electron microscopy, Fourier-transform infrared spectroscopy, oscillatory rheology, and mechanical testing, including: frequency and strain sweeps, uniaxial compression, creep recovery, stress relaxation, and Burgers viscoelastic modeling. The WPI:GA mass ratio was found to alter the hydrogels' microstructures and scale mechanical properties over multiple orders of magnitude, enabling production of biomaterial-based gels with widely varied characteristics for engineering applications. The addition of GA to WPI gels up to an approximate 5:1 WPI:GA mass ratio yielded enhanced Young's elastic modulus (E) and dynamic moduli (G', G\") while developing the gels' permanent crosslink network as quantified by relaxation modulus G(t), frequency dependence, and creep recovery behavior. The 5:1 WPI:GA ratio also represented an approximate phase transition point with gels above this ratio adopting fine-stranded microstructures and gels below adopting particulate microstructures. The fundamental structure-property relationships established here provide a foundation for development of WPI:GA hydrogels as a tunable platform.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493138/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125565",
+    "title": "An injectable thiolated alginate/oxidized dextran hydrogel with curcumin-copper nanoparticles for corneal neovascularization after alkali burn.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Bei, Ye, Liang",
+    "abstract": "Corneal neovascularization (CoNV) is a major cause of visual impairment and presents significant challenges in corneal transplantation. Current treatments are limited by side effects, poor bioavailability, and the need for frequent administration. Curcumin, a natural polyphenol with potent anti-inflammatory, antioxidant, and anti-angiogenic properties, shows promise for CoNV therapy but suffers from low water solubility and rapid clearance. To address these limitations, we developed an injectable self-healing hydrogel incorporating curcumin-copper nanoparticles (CurNPs) within a thiolated alginate (SH-Alg) and oxidized dextran (ODex) matrix. This hydrogel provides localized and sustained drug release, enhancing curcumin bioavailability while minimizing systemic exposure. Its self-healing property ensures mechanical stability and consistent therapeutic delivery. In an alkali burn-induced rat model of CoNV, the OS/CurNPs (ODex/SH-Alg/CurNPs) hydrogel significantly reduced oxidative stress and inhibited corneal neovascularization, demonstrating superior antioxidant and anti-angiogenic efficacy. These results highlight the potential of this hydrogel system as a minimally invasive strategy for treating CoNV and other oxidative stress-related corneal disorders.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493130/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125563",
+    "title": "Multi-modular responsive hydroxypropyl chitosan-based hydrogel microspheres for stage-specific therapy in infected wounds.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Liu, Li, Pang",
+    "abstract": "Dysregulation between bacterial clearance and inflammation regulation leads to delayed healing of infected wounds. Conventional dressings lack the dynamic regulatory capacity and microscale shape adaptability to address this issue. Here, we developed core-shell hydrogel microspheres (HEA@AgM) based on hydroxypropyl chitosan via droplet microfluidics and electrostatic self-assembly. The system achieves stage-specific therapy by integrating a glutathione-responsive antibacterial shell and a ROS-responsive epigallocatechin gallate (EGCG)-loaded core. HEA@AgM precisely conforms to the shape of the wound and degrades in situ in response to ROS, reducing traumatic dressing removal. Microscale spatial compartmentalization enables the accurate release of therapeutic agents in response to different biochemical signals, accomplishing a dual-functional synergy of rapid infection control and sustained immunomodulation. It achieved rapid antibacterial activity (99.6% and 99.8% killing against Staphylococcus aureus (S. aureus) and Escherichia coli (E. coli) and 94.1% biofilm clearance against S. aureus) and sustained antioxidant regulation (DPPH scavenging efficiency of 87.9%), translating into anti-inflammatory efficacy. Hence, it efficiently reduced bacterial burden, suppressed inflammation, promoted tissue repair, and enhanced healing quality in a full-thickness methicillin-resistant S. aureus-infected wound model (70.9% residual area by Day 7). This multifunctional, environment-adaptive system provides guidance and support for developing adaptive wound healing and in situ biodegradable dressings.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493128/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125545",
+    "title": "Additive manufacturing of chitosan and its derivatives: Advancing safe and sustainable by design (SSbD) materials.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Puppi, Braccini, Battisti",
+    "abstract": "Chitosan is one of the most versatile bio-based polymers explored for additive manufacturing (AM) due to its biocompatibility, tunable chemistry, and ability to form hydrogels with controlled architecture. Over the past two decades, a rapidly expanding body of literature has investigated AM routes to process chitosan-based formulations into three-dimensional constructs with predefined shape and porosity, primarily for biomedical applications. This review provides a critical and up-to-date overview of recent advances in the AM of chitosan and its derivatives, emphasizing structure-process-property relationships linking chitosan chemistry, processing routes, and the performance of 3D-printed hydrogels. After outlining industrial production routes and market-related aspects, key scientific and technological challenges for chitosan AM are discussed through the lens of the Safe and Sustainable by Design (SSbD) framework, as a representative approach to circular economy-driven materials innovation. The review systematically analyzes AM strategies based on chitosan deprotonation/desolvation, ionotropic gelation, polyelectrolyte complexation, and covalent stabilization. Emerging formulations based on chemically modified derivatives (e.g., carboxymethyl chitosan or chitosan methacryloyl) and their stabilization in aqueous media via ionic interactions or photoreactions are also examined. Finally, current limitations and future perspectives are highlighted, focusing on reproducibility, safety, sustainability, and translational pathways for advanced biomedical applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493110/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125544",
+    "title": "Thermoresponsive therapeutic alginate hydrogel with bilirubin-loaded polydopamine nanoparticles for enhanced diabetic wound healing.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Lee, Jeong, Nam",
+    "abstract": "Diabetic wounds, a common and serious complication of diabetes, are characterized by delayed healing, primarily due to excessive accumulation of reactive oxygen species (ROS) and heightened vulnerability to bacterial infection. Herein, to address the urgent need for effective wound healing materials, we developed a thermoresponsive therapeutic hydrogel composite comprising bilirubin-loaded mesoporous polydopamine nanoparticles (BR@mPDA NPs) incorporated into an alginate/Pluronic F127 (A/F) hydrogel matrix. Upon near-infrared (NIR) laser irradiation, mPDA NPs generated a photothermal effect that eradicated more than 90% of bacteria and triggered the controlled release of BR. Furthermore, the A/F hydrogel demonstrated superior biocompatibility by maintaining cell viability above 85% and exhibited favorable hemocompatibility due to the presence of alginate. The incorporation of BR facilitated the polarization of pro-inflammatory M1 macrophages toward the anti-inflammatory M2 phenotype, thereby accelerating wound healing. In vitro experiments demonstrated that the BR@mPDA-A/F hydrogel reduced intracellular ROS levels by approximately 40%, indicating effective ROS scavenging activity. In vivo evaluation also represented significantly accelerated diabetic wound healing, achieving 90.2% wound closure by day 7 compared with 66.4% in the control group, accompanied by enhanced tissue regeneration and no detectable toxicity. Collectively, these findings highlight the BR@mPDA-A/F hydrogel as a promising therapeutic platform for diabetic wound management.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493109/",
+    "date": "2026-07-25",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: Error code: 400 - {'...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
     "id": "10.1002/mabi.70230",
     "title": "Alginate and Chitosan-Based Hydrogels: Effects on the Stability of Encapsulated Quercetin Under Multiple Stress Conditions.",
     "journal": "Macromolecular bioscience",

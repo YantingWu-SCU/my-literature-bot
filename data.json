@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1111/1541-4337.70570",
+    "title": "Research Progress in the Antibacterial and Antioxidant Effects of Chitosan-Based Hydrogels on Chilled Meat Preservation and Their Mechanisms.",
+    "journal": "Comprehensive reviews in food science and food safety",
+    "authors": "Zhou, Wang, Lei",
+    "abstract": "Chilled meat possesses a tender texture, desirable flavor, and enhanced safety. However, prolonging the shelf life of chilled meat is a significant challenge under conventional packaging methods. Chitosan-based hydrogels present a viable solution to this issue due to their ease of preparation and possession of antibacterial and antioxidant properties. This paper reviews the preparation of chitosan-based hydrogels from two aspects: methods (solution casting, self-assembly, freeze-thaw cycles, radiation, electrospinning, and three-dimensional printing) and influencing factors (pH, temperature, enzymes, ions, radiation conditions, and cross-linking agents). Second, the applications of chitosan-based hydrogels in chilled meat preservation are summarized and classified (antibacterial applications, antioxidant applications, freshness indicators, and barrier applications). Third, we elucidate the antibacterial (disrupting cellular structure, chelating intracellular components, and inhibiting genetic processes) and antioxidant (inhibiting chain oxidation, stabilizing structure, and maintaining function) mechanisms of chitosan-based hydrogels through multiple pathways and provide strategies to enhance preservation performance. We conclude that the composition (chitosan properties and functional components) and structure (microstructure and cross-linking degree) of chitosan-based hydrogels exert impacts on preservation performance. To better promote the industrial application of chitosan-based hydrogels, it is essential to optimize economic costs, establish standardized regulations, accommodate real-world environments, and integrate advanced technologies. This study offers novel guidance and future perspectives for advancing chitosan-based hydrogels in sustainable food preservation.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504000/",
+    "date": "2026-07-28",
+    "analysis": "{\n    \"chinese_summary\": \"本文综述了壳聚糖基水凝胶的制备方法（溶液浇铸、自组装、冻融循环、辐射、静电纺丝和3D打印）及影响因素（pH、温度、酶、离子、辐射条件和交联剂），总结了其在冷鲜肉保鲜中的应用（抗菌、抗氧化、新鲜度指示和阻隔），阐明了其抗菌和抗氧化机制，并指出组成和结构对保鲜性能的影响，提出了优化成本、建立标准、适应环境和集成技术等工业化建议。\",\n    \"innovation\": \"系统总结了壳聚糖基水凝胶的多种制备方法及其在冷鲜肉保鲜中的多重应用和机制，并提出了工业化推广的策略。\",\n    \"flaw\": \"缺乏对实际应用中的经济成本和规模化生产可行性的详细分析，且未涉及与其他保鲜技术的比较研究。\"\n}"
+  },
+  {
     "id": "10.1007/s11427-025-3178-1",
     "title": "Click-crosslinked nano-hydrogel enables metabolic immune reprogramming for diabetic foot ulcers.",
     "journal": "Science China. Life sciences",

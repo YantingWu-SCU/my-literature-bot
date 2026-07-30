@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1007/s00418-026-02519-0",
+    "title": "Bioactive adipose-derived ECM hydrogel loaded with cytokine-releasing microspheres promotes spinal cord repair by suppressing inflammation, apoptosis, oxidative stress, and ferroptosis.",
+    "journal": "Histochemistry and cell biology",
+    "authors": "Alghamdi, Alghamdi, Albati",
+    "abstract": "Spinal cord injury (SCI) is a devastating neurological condition characterized by severe neuronal loss, inflammation, oxidative stress, and various forms of regulated cell death that collectively impair functional recovery. The present study aimed to develop a bioactive therapeutic platform based on an adipose-derived extracellular matrix (ECM) hydrogel incorporating cytokine-releasing PLGA microspheres to promote spinal cord repair. The hydrogel was fabricated from decellularized adipose tissue and combined with microspheres encapsulating interleukin-10 (IL-10), vascular endothelial growth factor (VEGF), and glial cell line-derived neurotrophic factor (GDNF) to achieve sustained cytokine delivery. Seventy-five male Sprague-Dawley rats were randomly allocated into five experimental groups, including control, SCI, hydrogel, microsphere, and Hydrogel + Mic groups. Tissue specimens were subsequently harvested from the lesion site for further analyses. In a rat model of SCI, treatment with the cytokine-releasing microsphere-loaded hydrogel significantly improved electrophysiological conduction and locomotor recovery compared with untreated SCI animals and groups receiving individual treatments. Molecular analyses demonstrated that the combined treatment markedly suppressed the expression of pro-inflammatory cytokines TNF-α and IL-1β. Additionally, apoptosis-related markers showed substantial modulation, characterized by decreased Caspase-3 and Bax expression and increased Bcl-2 levels. The therapy also improved the oxidative balance by increasing antioxidant markers including GSH, SOD, and CAT while reducing the lipid peroxidation marker MDA. Furthermore, ferroptosis-associated biomarkers were significantly regulated, with elevated levels of GSH, GPX4, and SLC7A11 and reduced ACSL4 expression. Histological analyses revealed significant preservation of spinal cord architecture, reduced cavity formation, enhanced neuronal survival, and decreased glial activation in animals treated with the composite hydrogel system. Collectively, these findings demonstrate that adipose-derived ECM hydrogel loaded with cytokine-releasing microspheres provides a multifunctional therapeutic strategy that attenuates inflammation, apoptosis, oxidative stress, and ferroptosis, ultimately promoting structural and functional recovery following spinal cord injury.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517904/",
+    "date": "2026-07-30",
+    "analysis": "{\n    \"chinese_summary\": \"本研究开发了一种基于脂肪来源的细胞外基质水凝胶，结合释放IL-10、VEGF和GDNF的PLGA微球，用于脊髓损伤修复。在大鼠模型中，该联合治疗显著改善了电生理传导和运动恢复，抑制了炎症、凋亡和氧化应激，并调节了铁死亡相关标志物，保护了脊髓结构。\",\n    \"innovation\": \"首次将脂肪来源的ECM水凝胶与多种细胞因子缓释微球结合，实现多靶点协同治疗脊髓损伤。\",\n    \"flaw\": \"仅在大鼠模型中验证，缺乏大型动物及临床试验数据，且未探讨长期安全性和免疫原性。\"\n}"
+  },
+  {
+    "id": "10.3390/ijms27146464",
+    "title": "The Application of Injectable Hydrogels in Myocardial Infarction Repair: Material Design, Biological Functions and Clinical Translation.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Zhang, Lang, Zhang",
+    "abstract": "Myocardial infarction remains a major clinical challenge because ischemic injury triggers inflammation, oxidative stress, cardiomyocyte loss, impaired vascularization, and adverse ventricular remodeling. Injectable hydrogels offer a minimally invasive and versatile strategy for post-infarction cardiac repair by providing structural support, localized bioactive delivery, and dynamic modulation of the injured myocardial microenvironment. This review highlights pathology-informed design principles for injectable hydrogels, including shear-thinning injectability, in situ gelation, tissue adhesion, modulus matching, fatigue resistance, biodegradability, and controlled bioactivity. We further discuss hydrogel-based strategies for immunomodulation, angiogenesis, fibrosis attenuation, extracellular matrix remodeling, and myocardial regeneration. Finally, translational progress and key challenges involving biosafety, scalable manufacturing, standardization and long-term efficacy are examined. This review provides a concise framework for developing next-generation injectable hydrogels for myocardial infarction repair and clinical translation.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42511807/",
+    "date": "2026-07-30",
+    "analysis": "{\n  \"chinese_summary\": \"本文综述了基于病理学设计的可注射水凝胶在心肌梗死后修复中的应用，包括其注射性、凝胶化、粘附性、模量匹配、抗疲劳性、生物降解性和可控生物活性等特性，并讨论了免疫调节、血管生成、纤维化减轻、细胞外基质重塑和心肌再生等策略，最后分析了转化进展和关键挑战。\",\n  \"innovation\": \"提出了病理学指导的可注射水凝胶设计原则，系统整合了多种功能特性以动态调控损伤心肌微环境。\",\n  \"flaw\": \"缺乏大规模临床前和临床数据支持，长期疗效和安全性仍需进一步验证。\"\n}"
+  },
+  {
     "id": "10.1111/1541-4337.70570",
     "title": "Research Progress in the Antibacterial and Antioxidant Effects of Chitosan-Based Hydrogels on Chilled Meat Preservation and Their Mechanisms.",
     "journal": "Comprehensive reviews in food science and food safety",

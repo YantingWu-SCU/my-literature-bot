@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1007/s00418-026-02515-4",
+    "title": "Development of a 3D collagen type I hydrogel scaffold for modeling hyperglycemia-induced spinal neuronal damage and therapeutic evaluation.",
+    "journal": "Histochemistry and cell biology",
+    "authors": "Ranjbar, Ghiasvand, Rastegari",
+    "abstract": "This study aimed to develop a three-dimensional (3D) collagen type I hydrogel scaffold for modeling spinal neuron culture under high-glucose conditions, thereby simulating environments such as diabetic neuropathy and maternal diabetes. Hydrogels were fabricated using rat tail collagen type I. Porosity was assessed via scanning electron microscopy (SEM), and viscoelastic properties were evaluated using amplitude sweep testing with a rheometer. Rat embryonic spinal neurons were cultured in 2D and 3D hydrogel models. Neuronal morphology was assessed using Sholl analysis. Cell viability and cytotoxicity under glucose stress were evaluated using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay and live/dead imaging. Curcumin was delivered via β-cyclodextrin metal-organic frameworks (β-CD-MOFs). Phosphatase and Tensin Homolog (PTEN) gene expression was analyzed by real-time polymerase chain reaction (PCR). Scanning electron microscopy (SEM) analysis revealed an average pore size of 57.96 μm. The hydrogel's elastic modulus ranged from 138.56 to 178.25 Pa, with tan δ values between 0.124 and 0.180, indicating a predominantly elastic nature. Viability assays confirmed hydrogel biocompatibility. Neurons cultured in 3D exhibited significantly greater neurite outgrowth and branching complexity. High-glucose exposure caused dose-dependent reductions in cell viability. Treatment with 6.8 μM curcumin via β-CD-MOFs improved viability in both 2D and 3D models. Glucose exposure significantly upregulated PTEN expression, which was attenuated by curcumin treatment. The developed collagen type I hydrogel scaffold provides suitable porosity, mechanical compliance, and biocompatibility for 3D spinal neuron culture. It serves as a robust platform for investigating neuronal responses to hyperglycemia and potential therapeutic agents such as curcumin.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530656/",
+    "date": "2026-07-31",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种三维I型胶原水凝胶支架，用于在高糖条件下培养脊髓神经元，模拟糖尿病神经病变等环境。水凝胶具有适当的孔隙率（平均57.96 μm）、弹性模量（138.56-178.25 Pa）和弹性特性。3D培养促进神经元突起生长和分支复杂性。高糖暴露降低细胞活力，而通过β-环糊精金属有机框架递送的姜黄素（6.8 μM）改善活力，并下调高糖诱导的PTEN表达。该支架为研究神经元对高血糖的反应及潜在治疗药物提供了平台。\",\n  \"innovation\": \"首次利用I型胶原水凝胶三维培养脊髓神经元模拟高糖环境，并结合β-环糊精金属有机框架递送姜黄素，为糖尿病神经病变研究提供新模型。\",\n  \"flaw\": \"研究仅评估了短期高糖暴露和姜黄素处理，未涉及长期效应及体内验证，且未探讨PTEN下游信号通路的具体机制。\"\n}"
+  },
+  {
+    "id": "10.1038/s41467-026-76146-7",
+    "title": "Resolving endogenous protein organization in cells with nanometer resolution.",
+    "journal": "Nature communications",
+    "authors": "Eilts, Jungblut, Helmerich",
+    "abstract": "Latest refinements in super-resolution microscopy achieved spatial resolutions in the one nanometer range. However, improvement of localization precision advanced faster than labeling methods impeding the translation of such high resolutions to cells. Hence, imaging of the nano-architecture of endogenous multiprotein complexes remains challenging. Here we introduce an expansion microscopy (ExM) method using double-homogenized hydrogels that enables direct stochastic optical reconstruction microscopy (dSTORM) of 7-8-fold expanded immunolabeled samples. The ~4-fold increase in labeling density resolves the 8 nm spacing between neighboring α-tubulin molecules in microtubules, the polyhedral lattice of clathrin-coated pits, and provides evidence for the 8 nm periodicity of α/β-tubulin heterodimers. Two-color Ex-dSTORM further reveals the molecular organization of RIM and the synaptic vesicle priming protein Munc13-1 in 44-48 nm ring-like presynaptic structures in neurons. Ex-dSTORM thus enables nanometer-resolution imaging of endogenous multiprotein complexes in genetically unmodified cells, providing a versatile tool for studying molecular organization in physiological contexts.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527404/",
+    "date": "2026-07-31",
+    "analysis": "{\n  \"chinese_summary\": \"本文介绍了一种使用双均质化水凝胶的扩展显微镜（ExM）方法，结合直接随机光学重建显微镜（dSTORM），实现了对免疫标记样品7-8倍的物理扩展。该方法将标记密度提高约4倍，能够解析微管中相邻α-微管蛋白分子间8纳米的间距、网格蛋白包被小窝的多面体晶格，并提供了α/β-微管蛋白异二聚体8纳米周期性的证据。双色Ex-dSTORM进一步揭示了神经元中RIM和突触囊泡启动蛋白Munc13-1在44-48纳米环状突触前结构中的分子组织。Ex-dSTORM能够在未遗传修饰的细胞中对内源性多蛋白复合物进行纳米级分辨率成像，为研究生理环境中的分子组织提供了多功能工具。\",\n  \"innovation\": \"通过双均质化水凝胶实现7-8倍膨胀，结合dSTORM，将标记密度提高约4倍，从而在未遗传修饰的细胞中解析内源性多蛋白复合物的纳米级结构。\",\n  \"flaw\": \"该方法可能受限于水凝胶膨胀的均匀性和标记抗体的尺寸，且对样品制备要求较高，可能不适用于所有细胞类型或蛋白质复合物。\"\n}"
+  },
+  {
     "id": "10.1007/s00418-026-02519-0",
     "title": "Bioactive adipose-derived ECM hydrogel loaded with cytokine-releasing microspheres promotes spinal cord repair by suppressing inflammation, apoptosis, oxidative stress, and ferroptosis.",
     "journal": "Histochemistry and cell biology",

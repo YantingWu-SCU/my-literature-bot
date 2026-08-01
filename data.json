@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aef5064",
+    "title": "Programming angiogenesis with tunable assemblies of multifunctional peptides.",
+    "journal": "Science advances",
+    "authors": "Dodd-O, Shadpoor, Roy",
+    "abstract": "Therapeutic angiogenesis is constrained by the inability to localize, sustain, and finely tune vascular signaling. Here, we detail a supramolecular peptide system that enables angiogenic programming by decoupling mechanical integrity from receptor-level bioactivity. We integrate a vascular endothelial growth factor (VEGF)-mimetic amphiphile (SLan) with a mechanically robust β sheet peptide (K1) to yield injectable nanofiber hydrogels with tunable stiffness (100 to 1000 pascals) and preserved vascular endothelial growth factor receptor 2 (VEGFR2) affinity. Molecular dynamics simulations and solid-state nuclear magnetic resonance revealed that the coassembly mitigates steric interference between domains, enabling dense supramolecular packing while maintaining optimal receptor accessibility. The resulting SLan-K1 formulation preserves the secondary structure, activating canonical VEGFR2-MEK (mitogen-activated protein kinase kinase)-ERK (extracellular signal-regulated kinase). In vitro, these hydrogels induce endothelial proliferation; in vivo, they drive rapid neovascular infiltration and stable vascular integration in murine and rodent implants. This design unites peptide self-assembly, receptor binding kinetics, and immunophenotypic outcomes in defining a molecular framework for tunable angiogenic materials. This strategy establishes a modular platform for engineering instructive microenvironments that bridge molecular design and tissue-scale functionality.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42536725/",
+    "date": "2026-08-01",
+    "analysis": "{\n  \"chinese_summary\": \"治疗性血管生成受限于无法定位、持续和精细调控血管信号。本文介绍了一种超分子肽系统，通过将机械完整性与受体水平生物活性解耦，实现血管生成编程。该系统将VEGF模拟两亲分子（SLan）与机械稳健的β折叠肽（K1）整合，形成可注射的纳米纤维水凝胶，其刚度可调（100-1000 Pa），并保持VEGFR2亲和力。分子动力学模拟和固态核磁共振表明，共组装减轻了结构域间的空间干扰，实现密集超分子堆积同时保持最佳受体可及性。SLan-K1配方保留二级结构，激活经典VEGFR2-MEK-ERK通路。体外诱导内皮增殖，体内驱动小鼠和啮齿动物植入物中快速新生血管浸润和稳定血管整合。该设计将肽自组装、受体结合动力学和免疫表型结果相结合，为可调血管生成材料提供了分子框架，建立了模块化平台，用于工程化指导性微环境，桥接分子设计与组织尺度功能。\",\n  \"innovation\": \"通过将VEGF模拟肽与机械增强肽共组装，实现了机械刚度与生物活性的解耦，从而在保持受体亲和力的同时可独立调节材料刚度，为血管生成材料提供了模块化设计平台。\",\n  \"flaw\": \"该研究主要在小鼠和啮齿动物模型中验证，缺乏大型动物及人体临床数据，且长期稳定性和免疫原性未充分评估。\"\n}"
+  },
+  {
     "id": "10.1007/s00418-026-02515-4",
     "title": "Development of a 3D collagen type I hydrogel scaffold for modeling hyperglycemia-induced spinal neuronal damage and therapeutic evaluation.",
     "journal": "Histochemistry and cell biology",

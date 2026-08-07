@@ -1,5 +1,60 @@
 [
   {
+    "id": "10.1590/1678-7765-2026-0308",
+    "title": "Curcumin-loaded chitosan thermosensitive hydrogel with sustained release for periodontal applications: an in vitro evaluation.",
+    "journal": "Journal of applied oral science : revista FOB",
+    "authors": "Rao, Nikalje, Kumari",
+    "abstract": "Thermosensitive hydrogels have emerged as promising localized drug delivery systems for periodontal therapy. Curcumin possesses anti-inflammatory and antimicrobial properties but is limited by its poor solubility and bioavailability. This study aimed to develop and evaluate a curcumin-loaded chitosan thermosensitive hydrogel for periodontal application.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42561214/",
+    "date": "2026-08-07",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种负载姜黄素的壳聚糖温敏水凝胶，用于牙周局部给药，以克服姜黄素溶解性和生物利用度差的缺点，并利用其抗炎和抗菌特性。\",\n  \"innovation\": \"将姜黄素负载于壳聚糖温敏水凝胶中，实现牙周局部缓释给药，兼具温敏凝胶的注射性和姜黄素的生物活性。\",\n  \"flaw\": \"摘要未提供体内实验数据，缺乏对水凝胶降解性、药物释放动力学及长期疗效的评估。\"\n}"
+  },
+  {
+    "id": "10.1021/acsami.6c11606",
+    "title": "Model-Assisted Prioritization of Gelatin Methacryloyl (GelMA) Hydrogel Formulations for Three-Dimensional Cell Culture.",
+    "journal": "ACS applied materials & interfaces",
+    "authors": "Yin, Wang, Liu",
+    "abstract": "Owing to highly tunable mechanics, gelatin methacryloyl (GelMA) hydrogels are widely exploited for three-dimensional (3D) cell culture, whereas limited experimental sampling restricts efficient formulation screening. In this work, we developed a BNN-based modeling pipeline to map GelMA hydrogels with various cross-linking parameters toward linear viscoelastic moduli and nonlinear critical stress, thereby categorizing all tested formulations into low/intermediate/high stable mechanical windows. Calibration on C2C12 myoblast morphologies confirmed that nonlinear critical stress complements linear rheological parameters to refine the screening priority of cell-compatible hydrogel recipes. Subsequent validation with primary cardiomyocytes demonstrated consistent morphological trends matching the predefined mechanical windows, alongside ambiguous boundary formulations. Our findings construct a bounded prioritization strategy to rapidly select GelMA compositions under sparse experimental conditions, with further prospective validations demanded before generalized predictive use for diverse tissue engineering scenarios.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560781/",
+    "date": "2026-08-07",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种基于贝叶斯神经网络（BNN）的建模流程，用于将不同交联参数的明胶甲基丙烯酰（GelMA）水凝胶映射到线性粘弹性模量和非线性临界应力，从而将测试配方分为低/中/高稳定力学窗口。通过C2C12成肌细胞形态校准，发现非线性临界应力补充了线性流变参数，优化了细胞相容性水凝胶配方的筛选优先级。原代心肌细胞验证显示形态趋势与预设力学窗口一致，但边界配方存在模糊性。该研究构建了一种在稀疏实验条件下快速选择GelMA配方的有界优先策略，但在推广到多种组织工程场景前需进一步前瞻性验证。\",\n  \"innovation\": \"首次将贝叶斯神经网络与非线性临界应力结合，用于稀疏实验条件下GelMA水凝胶配方的快速筛选和力学窗口分类。\",\n  \"flaw\": \"边界配方存在模糊性，且需更多前瞻性验证才能推广到多样化的组织工程应用。\"\n}"
+  },
+  {
+    "id": "10.7150/thno.137729",
+    "title": "A mechanobiology-driven cell-derived ECM bioink for engineering 3D glioblastoma tumor microenvironment models.",
+    "journal": "Theranostics",
+    "authors": "An, Jo, Kim",
+    "abstract": "Glioblastoma (GBM) is highly aggressive and difficult to treat, partly due to the lack of <i>in vitro</i> models that faithfully recapitulate its biochemical and mechanobiological microenvironment. Synthetic hydrogels lack tumor-specific cues, while animal-derived dECM suffers from batch variability, limiting standardization.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559402/",
+    "date": "2026-08-07",
+    "analysis": "{\n  \"chinese_summary\": \"胶质母细胞瘤（GBM）高度侵袭且难以治疗，部分原因是缺乏能忠实再现其生化和力学生物学微环境的体外模型。合成水凝胶缺乏肿瘤特异性线索，而动物来源的脱细胞基质（dECM）存在批次变异性，限制了标准化。\",\n  \"innovation\": \"指出当前GBM体外模型的不足，强调需要开发能模拟肿瘤微环境的标准化模型。\",\n  \"flaw\": \"未提出具体解决方案或新模型，仅指出问题。\"\n}"
+  },
+  {
+    "id": "10.7150/thno.131276",
+    "title": "The role of an ultrasound-responsive injectable piezoelectric hydrogel in promoting nerve regeneration and alleviating neuropathic pain.",
+    "journal": "Theranostics",
+    "authors": "Guo, Jiang, Zhang",
+    "abstract": "Neuropathic pain (NP) resulting from peripheral nerve injury (PNI) represents a major clinical challenge. Although electrical stimulation (ES) has demonstrated therapeutic benefits, its clinical translation is limited by the invasiveness of electrode implantation, which often requires large surgical incisions and percutaneous wiring, increasing tissue damage and infection risk.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559235/",
+    "date": "2026-08-07",
+    "analysis": "{\n  \"chinese_summary\": \"神经病理性疼痛由周围神经损伤引起，是临床重大挑战。电刺激虽有疗效，但电极植入的侵入性限制了其临床应用，常需大切口和经皮导线，增加组织损伤和感染风险。\",\n  \"innovation\": \"指出电刺激治疗神经病理性疼痛的临床转化受限于电极植入的侵入性，强调需开发非侵入性替代方案。\",\n  \"flaw\": \"未提供具体的非侵入性电刺激方法或实验验证，仅指出问题。\"\n}"
+  },
+  {
+    "id": "10.1002/mabi.70239",
+    "title": "Photocrosslinked Natural Polysaccharide Hydrogels for Regenerative Medicine: Progress and Applications.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Wang, Hao, Tao",
+    "abstract": "Regenerative medicine, an emerging multidisciplinary field, aims to repair or replace damaged or dysfunctional tissues and organs. Natural polysaccharide hydrogels, characterized by a three-dimensional porous structure analogous to human tissues, have been extensively utilized in biomedical applications. Hydrogels fabricated from natural polysaccharides via photopolymerization enable the formation of scaffolds with precise three-dimensional architectures. Exhibiting excellent biocompatibility, controlled degradability, and tunable mechanical and physicochemical properties, these photopolymerized polysaccharide hydrogels can construct tissue-adaptable microenvironments matching the physiological requirements of specific tissues to support cellular activities and tissue regeneration. Consequently, their applications in tissue engineering and controlled drug release have garnered significant attention, demonstrating considerable potential across various contexts. This review, based on an analysis of domestic and international literature, summarizes the latest research progress on natural polysaccharide-based photocrosslinked hydrogels in regenerative medicine. Emphasis is placed on the specific properties of these hydrogels and their emerging therapeutic applications in tissue regeneration, including skin, bone, and nerve repair.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42557680/",
+    "date": "2026-08-07",
+    "analysis": "{\n  \"chinese_summary\": \"再生医学旨在修复或替换受损组织器官，天然多糖水凝胶因其三维多孔结构类似人体组织而被广泛用于生物医学。通过光聚合制备的天然多糖水凝胶具有精确的三维结构、良好的生物相容性、可控降解性和可调机械性能，能构建适合特定组织的微环境，支持细胞活动和组织再生，在组织工程和药物控释中显示出巨大潜力。本文综述了天然多糖基光交联水凝胶在再生医学中的最新进展，重点介绍其在皮肤、骨和神经修复中的应用。\",\n  \"innovation\": \"系统总结了天然多糖基光交联水凝胶在再生医学中的最新研究进展，并强调了其在皮肤、骨和神经修复中的新兴治疗应用。\",\n  \"flaw\": \"未提及这些水凝胶在临床转化中的挑战，如长期安全性、免疫原性及规模化生产等问题。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aef5064",
     "title": "Programming angiogenesis with tunable assemblies of multifunctional peptides.",
     "journal": "Science advances",

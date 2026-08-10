@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.70238",
+    "title": "Gas-Shearing Microfluidic Fabrication of Alginate/Chitosan Hydrogel Microreactors for Genipin-Mediated Dual-Mode Lipase Immobilization.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Wang, Jia, Zhang",
+    "abstract": "Enzyme immobilization is an effective strategy to improve catalyst recovery and operational stability, but conventional approaches are often limited by diffusion resistance, steric hindrance, and insufficient control over the enzyme microenvironment. Hydrogel-based materials are attractive supports because their hydrated, tunable, and porous networks help preserve enzyme conformation while improving substrate diffusion and mass transfer. Here, a gas-shearing microfluidic strategy was developed to fabricate alginate/chitosan hydrogel microreactors for dual-mode lipase immobilization through entrapment and genipin-mediated covalent binding. By tuning gas-liquid shear, microspheres with controllable and narrow size distribution were generated without surfactants or UV-initiated polymerization. Importantly, genipin was introduced as a mild and biocompatible cross-linker to reinforce the alginate/chitosan network and create a stable interfacial microenvironment for enzyme immobilization. Compared with conventional cross-linkers, the milder and more controllable reactivity of genipin is advantageous in preserving enzyme conformation and catalytic performance. The resulting microreactors exhibited enhanced catalytic activity, improved storage stability, and good reusability. After five consecutive cycles, the entrapped and covalently immobilized systems retained 70% and 81% of their initial activity, respectively. These results demonstrate that gas-shearing microfluidics combined with genipin-mediated network reinforcement provides a robust and biocompatible platform for constructing hydrogel-based enzymatic microreactors with improved catalytic performance and operational durability.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571606/",
+    "date": "2026-08-10",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种基于气体剪切微流控的策略，制备海藻酸盐/壳聚糖水凝胶微反应器，通过包埋和京尼平介导的共价结合实现脂肪酶的双模式固定化。京尼平作为温和的生物相容性交联剂，增强了网络结构并稳定了酶微环境，所得微反应器表现出增强的催化活性、改善的储存稳定性和良好的重复使用性。\",\n  \"innovation\": \"创新性地将气体剪切微流控与京尼平介导的网络增强相结合，实现了无表面活性剂、无紫外引发的水凝胶微球制备，并温和固定化酶，提高了催化性能和操作稳定性。\",\n  \"flaw\": \"研究未详细探讨微反应器在复杂工业条件（如极端pH、高温、有机溶剂）下的长期稳定性，且未与现有商业固定化酶进行成本效益比较。\"\n}"
+  },
+  {
     "id": "10.1590/1678-7765-2026-0308",
     "title": "Curcumin-loaded chitosan thermosensitive hydrogel with sustained release for periodontal applications: an in vitro evaluation.",
     "journal": "Journal of applied oral science : revista FOB",

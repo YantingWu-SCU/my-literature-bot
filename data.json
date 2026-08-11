@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1021/acsbiomaterials.6c00444",
+    "title": "Human Cell-Derived Extracellular Matrix Modulates Endothelial Cell Morphology and Metabolism in Response to Fluid Shear Stress.",
+    "journal": "ACS biomaterials science & engineering",
+    "authors": "Kubik, Doherty, Polacheck",
+    "abstract": "Endothelial cells integrate biochemical cues from the extracellular matrix (ECM) with mechanical cues from blood flow to regulate vascular function, yet the combined influence of native human ECM complexity and physiologic fluid shear stress remains poorly understood. Here, we developed a custom 3D-printed cone-and-plate rheometer compatible with compliant, heterogeneous, and cell-derived substrates, enabling the application of controlled laminar shear stress to the human cell-derived matrix (hCDM) and hydrogels without structural disruption. Using this platform, we investigated endothelial cell responses to variations in ECM composition and fibrillar microstructure under controlled laminar shear stress. As a demonstration of this platform, we show that hCDM, which contains some proteins found in the intimal basement membrane, pre-aligns endothelial cells and constrains their morphological response to shear stress, in contrast to the robust flow-induced alignment observed on fibronectin. Transcriptomic profiling revealed substrate-dependent differences in mechanotransduction signaling under flow, including differential regulation of integrin expression and significant upregulation of genes in the SREBP-associated cholesterol metabolism pathway. Consistent with these transcriptional trends, endothelial cells cultured on hCDM exhibited increased lipid droplet accumulation under flow. Pre-alignment of hCDM fibrils further decoupled matrix orientation from the flow direction, demonstrating that engineered control of fibrillar architecture can modulate alignment, junctional organization, and metabolic response. Together, these findings establish hCDM as a biologically rich and mechanobiologically active substrate for vascular studies and introduce a versatile rheometer platform that expands experimental access to physiologic shear environments on compliant, ECM-derived materials.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573492/",
+    "date": "2026-08-11",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种与3D打印锥板流变仪兼容的平台，可对细胞来源的基质施加可控层流剪切力，发现人细胞来源基质（hCDM）能预排列内皮细胞并限制其对剪切力的形态响应，同时上调SREBP相关胆固醇代谢通路，增加脂滴积累，表明hCDM是富含生物和机械活性的血管研究底物。\",\n  \"innovation\": \"首次将3D打印锥板流变仪与细胞来源的复杂ECM结合，实现了在生理剪切力下研究ECM组成和纤维结构对内皮细胞机械转导的影响。\",\n  \"flaw\": \"研究主要基于体外细胞培养，缺乏体内验证，且hCDM的复杂性可能掩盖特定ECM成分的单独作用。\"\n}"
+  },
+  {
+    "id": "10.1021/acsbiomaterials.6c00221",
+    "title": "Valorization of Silkworm Cocoons into Sustainable Nanomaterials: Applications and Challenges.",
+    "journal": "ACS biomaterials science & engineering",
+    "authors": "Santos, Santos, Tiwari",
+    "abstract": "Silk fibroin (SFb) derived from silkworm cocoons (Bombyx mori) is increasingly recognized as an innovative biodegradable protein for sustainable applications. We discuss its wide biomedical and industrial applications based on the review of 1791 articles from 2001 to 2025 (Scopus). There has been a large increase in research, with 66.44% of publications and 74.84% of citations during 2019-2025. SFb-based nanomaterials have excellent performance in tissue engineering (18.53%), drug delivery (60.59%), and in novel areas, including flexible electronics and sustainable construction, owing to their high strength, controllable structure, and optical transparency. Crucially, exploiting ∼50,000 tonnes of annual silk industry cocoon valorization for aerogels, hydrogels, and NPs promotes the circular economy and minimizes environmental impact using green technologies (lower kg CO2/kg fibroin). These developments make a direct, but by no means exclusive, contribution to the UN Sustainable Development Goals, in particular health (SDG 3), innovation (SDG 9), sustainable production (SDG 12), and climate action (SDG 13). Still, scaling, costs, and the long-term environmental consequences are hurdles. However, such concerns will need to be addressed through sustainable biomanufacturing and life-cycle assessments if SFb can be used to its full potential for a greener future.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42573402/",
+    "date": "2026-08-11",
+    "analysis": "{\n  \"chinese_summary\": \"丝素蛋白（SFb）源自蚕茧，是一种可生物降解的蛋白质，在生物医学和工业领域应用广泛。基于2001至2025年间1791篇文献的综述，研究发现该领域研究快速增长，尤其在2019-2025年间。SFb纳米材料在组织工程、药物递送以及柔性电子和可持续建筑等新兴领域表现出色。利用每年约5万吨蚕茧开发气凝胶、水凝胶和纳米颗粒，促进了循环经济并减少了环境影响，有助于实现多项联合国可持续发展目标。然而，规模化、成本和长期环境影响仍是挑战。\",\n  \"innovation\": \"系统综述了丝素蛋白在传统生物医学和新兴工业领域的广泛应用，并强调了其通过绿色技术促进循环经济和可持续发展目标的潜力。\",\n  \"flaw\": \"研究指出规模化生产、成本控制以及长期环境后果仍需通过可持续生物制造和生命周期评估来解决。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70238",
     "title": "Gas-Shearing Microfluidic Fabrication of Alginate/Chitosan Hydrogel Microreactors for Genipin-Mediated Dual-Mode Lipase Immobilization.",
     "journal": "Macromolecular bioscience",

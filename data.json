@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1021/acsnano.6c05950",
+    "title": "An Innovative Sprayable Mg-MOF Hydrogel Enhances Healing of Chronic Wounds with Multifaceted Pathologies in a Porcine Model.",
+    "journal": "ACS nano",
+    "authors": "Xu, Zhang, Shao",
+    "abstract": "Chronic wounds are characterized by unsatisfactory clinical outcomes due to persistent inflammation, excessive oxidative stress, and impaired neurovascular function, which conventional dressings cannot adequately address. This study presents a promising strategy for sequentially reversing these multifactorial wound conditions. We engineered a sprayable Mg-ZIF-8@TP@Alg hydrogel by integrating a Mg-Zn bimetallic metal-organic framework (Mg-ZIF-8) with tea polyphenol (TP), achieving differential release and pH-responsive therapeutic kinetics. In vitro assays demonstrated that Mg-ZIF-8@TP exerted synergistic ROS-scavenging activity, promoted M2 macrophage polarization, and enhanced angiogenic and neurogenic outcomes. These effects are attributed to TP-mediated attenuation of oxidative stress, together with activation of Mg2+/Zn2+-driven cellular behaviors. In a clinically relevant porcine model, the Mg-ZIF-8@TP@Alg hydrogel significantly accelerated wound healing. It sequentially remodelled the immune microenvironment by decreasing pro-inflammatory iNOS+ cells and increasing reparative CD163+ macrophages. Moreover, it enhanced CD31+ vascular neogenesis and β3-tubulin+ peripheral nerve regeneration. Transcriptomic analysis revealed that the hydrogel orchestrated chronic wound repair by modulating key pathways associated with ion transport, immune response suppression, and skin development. Overall, this work presents an innovative sprayable Mg-MOF hydrogel with synergistic, stage-specific therapeutic functionality, offering a potential strategy for chronic wound management.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42579421/",
+    "date": "2026-08-12",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种可喷涂的Mg-ZIF-8@TP@Alg水凝胶，通过整合双金属MOF和茶多酚，实现pH响应性释放，协同清除ROS、促进M2巨噬细胞极化、增强血管和神经再生，在猪慢性伤口模型中显著加速愈合，并通过转录组分析揭示其调节离子转运、免疫抑制和皮肤发育等关键通路。\",\n  \"innovation\": \"创新性地将Mg-Zn双金属MOF与茶多酚结合，构建可喷涂水凝胶，实现按需释放和阶段特异性治疗，同时调控免疫微环境、血管新生和神经再生。\",\n  \"flaw\": \"研究未评估该水凝胶的长期生物安全性、降解产物毒性及临床转化可行性，且猪模型与人体慢性伤口环境存在差异。\"\n}"
+  },
+  {
+    "id": "10.1021/acsnano.5c19139",
+    "title": "Functionalizing Hydrogel Nanovials with Vesicles Mimicking Antigen-Presenting Vesicles and Cancer Exosomes Improves T Cell Capture and Activation.",
+    "journal": "ACS nano",
+    "authors": "Olson, Mellody, Soemardy",
+    "abstract": "Recent advances have demonstrated the application of microcavity-containing hydrogel microparticles, known as nanovials, for massively parallel and high-throughput screening of therapeutic T cell populations for adoptive cell therapies. Nanovial cavities coated with peptide-MHC (pMHC) or antigen tetramers selectively bind to their cognate T cell receptor (TCR) or chimeric antigen receptor (CAR) to activate T cells and capture secreted cytokines. However, binding of tetramers or recombinantly expressed antigen by T cells may not reflect physiological T cell activation or cytotoxicity, as the binding interface is not fully representative of the natural immunological synapse formed between T cells and professional antigen-presenting cells (APCs). Here, we leverage the recent discovery of an ESCRT- and ALIX-binding region (EABR) sequence to generate antigen-presenting vesicles and cancer-mimicking exosomes from standard HEK293T and Expi293F cell cultures. EABR-mediated vesicles present natural, full-length oncologically relevant membrane proteins embedded in lipid bilayers to functionalize the nanovial cavity with cell-like membranes. Hydrogel nanovials functionalized with the EABR-mediated vesicles show improved T cell capture of 1G4 T cells and enhanced induction of secretion in HER2 CAR-T cells compared to hydrogel surfaces functionalized with recombinantly expressed soluble proteins.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42579418/",
+    "date": "2026-08-12",
+    "analysis": "{\n  \"chinese_summary\": \"本研究利用ESCRT-和ALIX结合区（EABR）序列，从HEK293T和Expi293F细胞培养中生成抗原呈递囊泡和模拟癌症的外泌体，这些囊泡携带天然全长膜蛋白，用于功能化水凝胶纳米小室。与重组可溶性蛋白功能化的水凝胶表面相比，EABR介导的囊泡功能化纳米小室在T细胞捕获和CAR-T细胞分泌诱导方面表现更优。\",\n  \"innovation\": \"利用EABR序列生成携带天然全长膜蛋白的囊泡，模拟生理性免疫突触，用于纳米小室功能化，提高T细胞筛选效率。\",\n  \"flaw\": \"研究可能未充分评估囊泡功能化纳米小室在体内或复杂环境中的稳定性和长期效果，且未与真实APC进行比较。\"\n}"
+  },
+  {
     "id": "10.1021/acsbiomaterials.6c00444",
     "title": "Human Cell-Derived Extracellular Matrix Modulates Endothelial Cell Morphology and Metabolism in Response to Fluid Shear Stress.",
     "journal": "ACS biomaterials science & engineering",

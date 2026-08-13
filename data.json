@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1126/sciadv.aef5617",
+    "title": "A thiol-rich immunomodulatory injectable hydrogel suppresses endometrial fibrosis to restore fertilization.",
+    "journal": "Science advances",
+    "authors": "Li, Zhu, Tian",
+    "abstract": "Endometrial fibrosis disrupts the uterine microenvironment and is a major cause of intrauterine adhesion (IUA) and infertility. Postoperative barriers are commonly used after adhesiolysis, but most act as passive spacers and do not actively remodel the fibrotic inflammatory niche. Here, we report a thiol-rich immunomodulatory injectable hydrogel (TR-gel) that forms in situ through Michael addition between acrylated hyaluronic acid and thiolated hyaluronic acid. The hydrogel conformally adheres to injured endometrium, provides tissue-matched mechanics and controlled biodegradation, and retains abundant thiol groups that create a reductive microenvironment. TR-gel scavenged reactive oxygen species, suppressed nuclear factor κB activation, promoted macrophage polarization toward a proregenerative M2 phenotype, and reduced inflammatory and fibrotic signaling. In a rat IUA model, TR-gel decreased collagen deposition, promoted angiogenesis, restored glandular architecture and embryo receptivity, and improved the fertility rate from 25.0 to 62.5%. These findings provide preclinical evidence that a thiol-rich immunomodulatory hydrogel can combine physical barrier function with microenvironmental regulation to support endometrial regeneration.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42585342/",
+    "date": "2026-08-13",
+    "analysis": "{\n  \"chinese_summary\": \"子宫内膜纤维化破坏子宫微环境，是宫腔粘连和不孕的主要原因。本研究报道了一种富含巯基的免疫调节水凝胶（TR-gel），通过丙烯酰化透明质酸和巯基化透明质酸的迈克尔加成反应原位形成。该水凝胶能粘附于受损子宫内膜，提供组织匹配的力学性能和可控降解，并保留大量巯基以创造还原性微环境。TR-gel清除活性氧，抑制NF-κB激活，促进巨噬细胞向M2表型极化，减少炎症和纤维化信号。在大鼠IUA模型中，TR-gel减少胶原沉积，促进血管生成，恢复腺体结构和胚胎接受性，将生育率从25.0%提高到62.5%。这些发现为富含巯基的免疫调节水凝胶结合物理屏障功能和微环境调节以支持子宫内膜再生提供了临床前证据。\",\n  \"innovation\": \"创新点在于将物理屏障功能与免疫微环境调节相结合，通过巯基介导的还原性微环境实现抗炎、抗纤维化和促再生效果。\",\n  \"flaw\": \"不足在于研究仅在大鼠模型中进行，缺乏大型动物和临床试验验证，且长期安全性和降解产物的影响未充分评估。\"\n}"
+  },
+  {
+    "id": "10.1021/acs.nanolett.6c02340",
+    "title": "Zr-MOF Cascade Nanoreactor Accelerates Chronic Diabetic Wound Healing via Angiogenesis and Microenvironment Remodeling.",
+    "journal": "Nano letters",
+    "authors": "Wang, Chao, Gu",
+    "abstract": "Persistent hyperglycemia and alkaline microenvironments in chronic diabetic wounds promote bacterial resistance, continuous inflammation, and delayed wound repair. Herein, a thermosensitive hydrogel, integrating zirconium-based metal-organic framework (Zr-MOF)-loaded glucose oxidase (GOx) nanozyme and l-arginine (l-Arg), is developed for diabetic wound microenvironment remodeling and moist healing. Upon encountering glucose, GOx neutralizes hyperglycemia, producing gluconic acid to lower the wound pH and generating hydrogen peroxide (H2O2). The resulting acidic wound environment activates the peroxidase (POD)-like activity of Zr-MOFs, generating highly toxic hydroxyl radicals that eliminate bacterial biofilms. The excess H2O2 drives the conversion of l-Arg into nitric oxide, preventing excessive reactive oxygen species accumulation and promoting angiogenesis, epithelialization, and collagen deposition. Experiments demonstrate that the prepared hydrogel effectively reverses both the alkaline pH and hyperglycemia conditions characteristic of diabetic wounds, significantly accelerating the healing of bacteria-infected chronic diabetic wounds and providing an approach for chronic wound management.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42584271/",
+    "date": "2026-08-13",
+    "analysis": "{\n  \"chinese_summary\": \"该研究开发了一种热敏水凝胶，整合了负载葡萄糖氧化酶的Zr-MOF纳米酶和L-精氨酸，用于重塑糖尿病创面微环境。葡萄糖氧化酶消耗葡萄糖产生葡萄糖酸和过氧化氢，降低pH并激活Zr-MOF的过氧化物酶样活性，生成羟基自由基清除细菌生物膜；过量的过氧化氢驱动L-精氨酸转化为一氧化氮，促进血管生成、上皮化和胶原沉积，从而加速细菌感染的慢性糖尿病创面愈合。\",\n  \"innovation\": \"创新性地将葡萄糖氧化酶、Zr-MOF纳米酶和L-精氨酸整合于热敏水凝胶中，通过级联反应同时纠正高血糖和碱性微环境，实现抗菌、抗炎和促愈合的多重协同作用。\",\n  \"flaw\": \"该研究主要基于动物实验，缺乏人体临床试验验证，且水凝胶的长期生物相容性和降解行为需进一步评估。\"\n}"
+  },
+  {
     "id": "10.1021/acsnano.6c05950",
     "title": "An Innovative Sprayable Mg-MOF Hydrogel Enhances Healing of Chronic Wounds with Multifaceted Pathologies in a Porcine Model.",
     "journal": "ACS nano",

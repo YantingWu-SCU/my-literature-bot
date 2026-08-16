@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70141",
+    "title": "Osteogenic GelMA/Calcium Oligophosphate Composite Hydrogel for Bone Regeneration.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Shu, Zhang, Li",
+    "abstract": "Critical-sized bone defects (CSDs) represent a major clinical challenge due to their limited self-healing capacity. Conventional hydrogels incorporating crystalline hydroxyapatite (HA) often fail to recapitulate the hierarchical nanostructure of native bone, leading to suboptimal regeneration outcomes. To overcome this, we developed a biomimetic hydrogel by molecularly integrating amorphous calcium phosphate oligomers (CPO) into gelatin methacryloyl (GelMA), enabling a bone-like organic-inorganic hybrid network. This composite exhibits outstanding performance: an ultimate strength of 192 kPa at 18 wt% CPO confirms robust mechanical reinforcement, while 54% mass retention after 56 days underscores exceptional degradation resistance and dose-dependent bioactivity, evidenced by a two-fold upregulation of alkaline phosphatase (ALP) activity. The amorphous CPO facilitates biomimetic HA nucleation within the GelMA matrix, mimicking the natural mineralization process. In a rat calvarial CSD model, the hydrogel promoted 60% bone volume regeneration within 12 weeks, significantly outperforming conventional composites, through seamless host integration, vascularized trabecular bone formation, and a collagen-mineral hierarchy resembling native osteogenesis. This study establishes CPO as a transformative component that converts passive scaffolds into bioactive osteogenic microenvironments, offering a clinically viable strategy for complex bone regeneration.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601333/",
+    "date": "2026-08-16",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种将无定形磷酸钙低聚物（CPO）分子整合到明胶甲基丙烯酰（GelMA）中的仿生水凝胶，模拟天然骨的有机-无机杂化网络。该复合材料具有优异的力学性能（18 wt% CPO时极限强度达192 kPa）和抗降解能力（56天后质量保留54%），并表现出剂量依赖的生物活性，碱性磷酸酶活性上调两倍。在大鼠颅骨临界尺寸缺损模型中，该水凝胶在12周内促进60%的骨体积再生，优于传统复合材料，通过无缝宿主整合、血管化骨小梁形成和胶原-矿物层级结构实现骨再生。\",\n  \"innovation\": \"将无定形磷酸钙低聚物（CPO）分子整合到GelMA中，形成仿生有机-无机杂化网络，模拟天然骨矿化过程，将被动支架转化为活性成骨微环境。\",\n  \"flaw\": \"研究仅在大鼠颅骨模型中验证，未在更大动物或人体中测试，且未评估长期降解和免疫反应。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aef4627",
     "title": "Starch granules are instructive scaffolds for synergistic reinforcement and dissipation in hydrogel composites.",
     "journal": "Science advances",

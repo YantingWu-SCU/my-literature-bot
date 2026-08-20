@@ -1,5 +1,49 @@
 [
   {
+    "id": "10.1021/acsami.6c10702",
+    "title": "Mo2Ti2C3/CeO2/Neurotrophin-3 MXene Hydrogel Combined with Electrical Stimulation Promotes Functional Recovery by Activating the Biogenesis and Fusion of Mitochondria in Spinal Cord Injury.",
+    "journal": "ACS applied materials & interfaces",
+    "authors": "Lun, Zhao, Li",
+    "abstract": "Traumatic spinal cord injury (SCI) initiates a pathological cascade dominated by mitochondrial dysfunction and unregulated oxidative stress, collectively generating an inhibitory lesion microenvironment that abrogates endogenous neural regenerative capacity. Herein, we fabricate a multifunctional conductive hydrogel scaffold by incorporating Mo2Ti2C3 MXene nanosheets, hollow CeO2 nanoparticles, and neurotrophin-3 (NT-3) within a crosslinkable matrix. When paired with exogenous electrical stimulation (ES), this combinatorial therapeutic platform synergistically activates two core mitochondrial regulatory cascades in injured neurons: the PGC-1α/NRF1/TFAM axis governing mitochondrial biogenesis, and Mfn2/OPA1 signaling mediating mitochondrial fusion. Comprehensive in vitro characterizations validate the hydrogel's favorable long-term cytocompatibility, robust reactive oxygen species (ROS) scavenging activity, tunable biodegradation kinetics, and sustained NT-3 delivery; together, these properties effectively restrain intracellular ROS overproduction and stabilize mitochondrial structural and metabolic homeostasis. In a mouse contusion SCI model, local implantation of the Mo2Ti2C3/CeO2/NT-3 hydrogel combined with intermittent electrical stimulation substantially alleviates secondary tissue damage by shrinking lesion cyst volume and attenuating glial scarring, which in turn promotes pronounced axonal sprouting and restores hindlimb locomotor function. By merging conductive biomaterial bridging with targeted mitochondrial homeostatic modulation, this work establishes a dual-modal therapeutic strategy with great translational potential for neural tissue engineering and post-SCI regenerative repair.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616520/",
+    "date": "2026-08-20",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种多功能导电水凝胶支架，整合Mo2Ti2C3 MXene纳米片、中空CeO2纳米颗粒和神经营养因子-3，结合外源电刺激，通过激活PGC-1α/NRF1/TFAM和Mfn2/OPA1信号通路，调节线粒体生物发生和融合，清除活性氧，稳定线粒体稳态，从而减轻脊髓损伤后的继发性损伤，促进轴突再生和功能恢复。\",\n  \"innovation\": \"首次将MXene、CeO2和NT-3整合于导电水凝胶中，结合电刺激，通过双通路协同调节线粒体稳态，实现神经再生。\",\n  \"flaw\": \"研究主要基于小鼠模型，缺乏大型动物及临床验证，且长期安全性和免疫原性未充分评估。\"\n}"
+  },
+  {
+    "id": "10.1021/acs.nanolett.6c02554",
+    "title": "An Injectable Hydrogel Foam Enables Mechanical Resilience and Zero-Order Release of Growth Factors for Intervertebral Disc Repair.",
+    "journal": "Nano letters",
+    "authors": "Han, Li, Dou",
+    "abstract": "Intervertebral disc degeneration (IVDD) is a global challenge to cure effectively. Although current hydrogel-based therapies are promising, they often have difficulty of completely reversing IVDD progression. Herein, we report an injectable and growth factor-laden hydrogel foam (IHFs@GFs) for the treatment of IVDD. IHF is prepared from methylphenyltetrazine-modified hyaluronic acid (HA-MTZ), norbornene-modified gelatin (Gelatin-NB), and norbornene-modified cellulose nanofibers (CNF-NB). MTZ reacts with NB to release N2, spontaneously generating numerous closed and spherical N2 bubbles in hydrogels. These N2 bubbles endow IHF with good mechanical resilience and pressure buffering. Moreover, IHF shows zero-order release of transforming growth factor-β3 and insulin-like growth factor-1. Notably, after 8 weeks of treatment with IHFs@GFs, the disc height and hydration in degenerated IVD are significantly restored to over 90%, thereby enabling effective treatment of IVDD. The IHF integrates biomechanics and zero-order release of biologics within a single system, offering a promising platform for IVDD treatment.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616390/",
+    "date": "2026-08-20",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种可注射的生长因子负载水凝胶泡沫（IHFs@GFs），用于治疗椎间盘退变（IVDD）。该泡沫由甲基苯基四嗪修饰的透明质酸、降冰片烯修饰的明胶和纤维素纳米纤维制备，通过MTZ与NB反应释放氮气，形成闭合气泡，赋予材料良好的机械弹性和压力缓冲能力。IHF能零级释放转化生长因子-β3和胰岛素样生长因子-1，治疗8周后，退变椎间盘的高度和含水量恢复至90%以上，有效治疗IVDD。\",\n  \"innovation\": \"将生物力学性能与生物活性因子的零级释放整合于单一可注射水凝胶泡沫系统中，通过自发产生氮气气泡实现机械弹性和压力缓冲，同时实现生长因子的持续稳定释放。\",\n  \"flaw\": \"研究仅观察了8周的治疗效果，缺乏长期疗效和安全性评估，且未深入探讨材料降解和生物相容性等临床转化关键问题。\"\n}"
+  },
+  {
+    "id": "10.1021/acsami.6c04050",
+    "title": "Polysaccharide Nanocomposite Hydrogel Prevents the Polarity Reversal of β-Glucan-Activated Macrophages by Lactate Oxidase-Based Lactate Depletion for Enhanced Immunotherapy.",
+    "journal": "ACS applied materials & interfaces",
+    "authors": "Li, Liao, Feng",
+    "abstract": "Modulating the immunosuppressive tumor microenvironment (TME) represents a promising strategy for improving cancer immunotherapy. A key approach involves reprogramming tumor-associated macrophages (TAMs) from a protumorigenic M2 phenotype to an antitumorigenic M1 state. However, elevated lactate concentration in the TME not only sustains the M2 phenotype but also impairs therapeutic efficacy. To address this challenge, we developed an in situ injectable carboxymethyl chitosan/oxidized sodium alginate (CMCS/OSA) hydrogel with pH-responsive release properties, coloaded with another nanosized active polysaccharide β-glucan and a lactate-depleting agent lactate oxidase (LOX). Under the acidic conditions of the TME, Schiff base bonds within the hydrogel matrix dissociate, triggering the controlled release of β-glucan nanoparticles and LOX. The β-glucan nanoparticles specifically target TAMs via the dendritic cell-associated C-type lectin 1 (Dectin 1) receptor, facilitating their phenotypic conversion from M2 to M1. Simultaneously, the released LOX continuously degrades lactate, preventing the reversion of TAMs back to the M2 phenotype. Collectively, our results demonstrated that this nanocomposite polysaccharide hydrogel system effectively promoted and maintained TAM polarization toward the M1 phenotype through the synergistic effects of immune modulation and metabolic regulation, ultimately enhancing the efficacy of tumor immunotherapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42615169/",
+    "date": "2026-08-20",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种可注射的羧甲基壳聚糖/氧化海藻酸钠水凝胶，共载β-葡聚糖纳米粒和乳酸氧化酶，通过pH响应释放，在肿瘤微环境中将肿瘤相关巨噬细胞从M2型重编程为M1型，同时降解乳酸，增强免疫治疗效果。\",\n  \"innovation\": \"创新性地将免疫调节（β-葡聚糖靶向Dectin-1）与代谢调节（乳酸氧化酶降解乳酸）协同整合于pH响应水凝胶中，实现TAMs持续极化。\",\n  \"flaw\": \"研究可能缺乏体内长期安全性评估及对正常组织的影响，且未探讨该水凝胶在复杂体内环境中的降解与释放动力学。\"\n}"
+  },
+  {
+    "id": "10.1021/acsami.6c08302",
+    "title": "Amyloid-Reinforced Hyaluronic Acid Composite Hydrogel Enabling Controlled Curcumin Delivery, Antibiofilm Photothermal Therapy, and Accelerated Diabetic Wound Healing.",
+    "journal": "ACS applied materials & interfaces",
+    "authors": "Srivastava, Singh, Tripathi",
+    "abstract": "Chronic diabetic wounds are characterized by persistent oxidative stress, impaired angiogenesis, and biofilm-associated infections, necessitating multifunctional biomaterials capable of modulating the wound microenvironment. Herein, we report an amyloid-reinforced hyaluronic acid (HA) composite hydrogel that integrates mechanical robustness, controlled drug delivery, and bioactive functionality within a single platform. The hydrogel is constructed through interpenetrating protein-polysaccharide networks, where thermally induced bovine serum albumin amyloid fibrils act as reinforcing scaffolds within the HA matrix via hydrogen bonding and chain entanglement. This architecture enhances viscoelastic properties, swelling behavior, and structural stability compared to nonreinforced systems. Curcumin is incorporated as a multifunctional therapeutic agent, exhibiting sustained and pH-responsive release governed by hydrophobic and π-π interactions within the composite network. The hydrogel demonstrates pronounced antibacterial and antibiofilm activity against both Gram-positive and Gram-negative bacteria, which is further amplified under near-infrared (NIR) irradiation via photothermal effects. In vitro studies confirm excellent cytocompatibility, hemocompatibility, and enhanced fibroblast migration, indicating favorable cellular interactions. Importantly, in a streptozotocin-induced diabetic wound model, the composite hydrogel significantly accelerates wound closure, promotes collagen deposition and neovascularization, and restores oxidative stress biomarkers toward physiological levels. Mechanistically, the combined integration of amyloid-mediated mechanical reinforcement, HA-driven bioactivity, and curcumin-enabled therapeutic functionality enables the simultaneous regulation of infection, inflammation, and tissue regeneration. This study establishes a protein-polysaccharide hybrid hydrogel platform that couples structural reinforcement with stimuli-responsive therapeutic delivery, offering a promising strategy for advanced diabetic wound management and translational biomaterial design.",
+    "score": 20,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42615159/",
+    "date": "2026-08-20",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种淀粉样蛋白增强的透明质酸复合水凝胶，通过蛋白质-多糖互穿网络结合热诱导牛血清白蛋白淀粉样纤维，增强了机械性能、溶胀性和稳定性。水凝胶负载姜黄素，实现pH响应释放，并具有抗菌、抗生物膜及光热增强效果。在糖尿病伤口模型中，该水凝胶加速伤口愈合，促进胶原沉积和血管新生，恢复氧化应激标志物，同时调节感染、炎症和组织再生。\",\n  \"innovation\": \"创新性地将淀粉样蛋白纤维作为机械增强支架整合到透明质酸水凝胶中，结合姜黄素的pH响应释放和光热抗菌功能，实现多功能协同治疗慢性糖尿病伤口。\",\n  \"flaw\": \"研究未评估水凝胶在长期体内的降解行为及潜在毒性，且未与现有商业敷料进行直接比较，临床转化可行性需进一步验证。\"\n}"
+  },
+  {
     "id": "10.1021/acsnano.6c11341",
     "title": "Engineered Nanozyme-Hydrogel Spray with Microwave-Fueled Self-Amplifying Catalysis for Precise Methicillin-Resistant Staphylococcus aureus-Infected Diabetic Wound Therapy.",
     "journal": "ACS nano",

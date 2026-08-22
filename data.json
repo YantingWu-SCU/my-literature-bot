@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aef7087",
+    "title": "Matrix stress relaxation drives glioblastoma cell response in viscoelastic biomaterials.",
+    "journal": "Science advances",
+    "authors": "Ghorbani, Huang, Zhang",
+    "abstract": "The extracellular matrix (ECM) of glioblastoma (GBM) is known to modulate cell behavior, yet the specific contributions of matrix biochemical and biomechanical signaling remain poorly understood. To address this, we engineer a tunable hyaluronan-elastin-like protein (HELP) hydrogel to independently control ligand presentation and matrix viscoelasticity. Two peptides mimicking fibronectin (FBN) and tenascin-C (TNC) are incorporated into HELP along with hyaluronan, all of which are highly up-regulated in GBM. Using dynamic covalent chemistry, we develop hydrogels with matched stiffness but distinct stress relaxation profiles. Slow stress-relaxing matrices promote cell clustering and elevated expression of P-selectin, a GBM invasion marker. These matrices also result in increased nascent ECM production, increased lipid droplet storage, and altered cytokine secretion. Our results highlight the benefit of protein-engineered, viscoelastic biomaterials for modeling the tumor microenvironment and reveal matrix viscoelasticity as a critical regulator of GBM cell state, offering a tool for identifying previously unrecognized therapeutic targets.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627894/",
+    "date": "2026-08-22",
+    "analysis": "{\n  \"chinese_summary\": \"本研究通过工程化可调的透明质酸-弹性蛋白样蛋白（HELP）水凝胶，独立控制配体展示和基质粘弹性，模拟胶质母细胞瘤（GBM）微环境。研究发现，慢应力松弛基质促进细胞聚集、P-选择素表达升高、新生ECM产生增加、脂滴储存增多及细胞因子分泌改变，表明基质粘弹性是GBM细胞状态的关键调节因子。\",\n  \"innovation\": \"利用蛋白质工程化的粘弹性生物材料，首次揭示基质粘弹性独立于配体信号调控GBM细胞状态，为识别新治疗靶点提供工具。\",\n  \"flaw\": \"研究主要基于体外水凝胶模型，可能无法完全复现体内GBM微环境的复杂性和动态变化。\"\n}"
+  },
+  {
     "id": "10.1007/s10561-026-10226-2",
     "title": "The evaluation of biological effects of artesunate on ovarian cancer using three-dimensional cell culture methods.",
     "journal": "Cell and tissue banking",

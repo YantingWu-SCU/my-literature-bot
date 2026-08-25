@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.70247",
+    "title": "A 25-Year Review of the Use of Silanized Hydroxypropylmethylcellulose Hydrogels in Tissue Engineering and Regenerative Medicine.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Hachimi Alaoui, Weiss, Rethore",
+    "abstract": "Designed for tissue engineering and regenerative medicine, silanized polysaccharide-based hydrogels provide stable and biocompatible 3D scaffolds, enabling sol-gel polymerization without the need for toxic chemical reagents. Silanized cellulose derivatives represent a rapidly advancing class of biomaterials that combine the biocompatibility and sustainability of cellulose with the versatile reactivity of organosilanes to create high-performance hydrogels. First developed in 2000 for bone and dental surgery, Si-HPMC is recognized as a self-hardening hydrogel, exhibiting a viscous liquid state at basic pH and a viscoelastic solid state at physiological pH. Since then, numerous studies have investigated Si-HPMC hydrogels, consistently demonstrating their high biocompatibility, strong support for cell viability and proliferation, and functional barrier properties. These features make Si-HPMC a versatile candidate for applications in tissue engineering and regenerative medicine. Furthermore, Si-HPMC-based biocomposites reinforced with nanoparticles, nanofibers, nanotubes, or ceramic particles have emerged as promising matrix hydrogels, combining enhanced mechanical resilience with improved bioactivity, particularly in cartilage, bone, and periodontal tissue engineering. This review highlights the pivotal role of Si-HPMC hydrogels in advancing regenerative medicine, emphasizing their tunable mechanical and biological properties. As next-generation biomaterials, they hold strong potential for applications in dentistry, bone and cartilage repair, intervertebral disc regeneration, and 3D bioprinting.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634607/",
+    "date": "2026-08-25",
+    "analysis": "{\n  \"chinese_summary\": \"本文综述了硅烷化多糖基水凝胶（特别是Si-HPMC）在组织工程和再生医学中的应用，强调其生物相容性、可调机械性能及在骨、软骨、椎间盘修复和3D生物打印中的潜力。\",\n  \"innovation\": \"Si-HPMC水凝胶通过溶胶-凝胶聚合实现自硬化，无需有毒化学试剂，并可通过纳米材料增强其机械性能和生物活性。\",\n  \"flaw\": \"文献未提及Si-HPMC水凝胶在长期体内稳定性、降解速率控制及临床转化方面的潜在局限性。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aef7087",
     "title": "Matrix stress relaxation drives glioblastoma cell response in viscoelastic biomaterials.",
     "journal": "Science advances",

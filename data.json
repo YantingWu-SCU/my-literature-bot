@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/mabi.70244",
+    "title": "Serum-Integrated Dopamine-Hyaluronic Acid Hydrogels for Injectable Soft-Tissue Microenvironment Modulation.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Quan, Nguyen Thi, Le",
+    "abstract": "Hyaluronic acid (HA) hydrogels are widely used as injectable fillers for soft-tissue augmentation; however, most currently available formulations primarily provide structural support with limited biological activity. This work establishes design principles for integrating autologous biological components into catechol-based HA (DaHA) hydrogels and underscores the potential of DaHA-serum systems as bioactive injectable platforms. In this study, human whole serum was incorporated into DaHA hydrogels bsy replacing the aqueous phase during hydrogel preparation (0%-10% v/v). Serum incorporation accelerated gelation and altered the viscoelastic behavior of the resulting hydrogels while maintaining injectability through small-gauge needles. Rheological characterization demonstrated stable gel formation, shear recovery, and favorable mechanical properties, whereas moderate serum incorporation (under 10% v/v) preserved swelling behavior and structural stability. Sustained release of serum-derived proteins was observed for at least 8 days, indicating prolonged biochemical availability within the hydrogel matrix. In vitro studies using L929 fibroblasts demonstrated suitable cytocompatibility and enhanced cell survival under serum-free culture conditions. Subcutaneous implantation further confirmed good in vivo tolerance, minimal inflammatory response, and gradual tissue integration. These findings demonstrate that controlled incorporation of human serum provides a practical strategy for engineering bioactive catechol-based hydrogels while preserving the physicochemical properties required for injectable soft-tissue filler applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642874/",
+    "date": "2026-08-27",
+    "analysis": "{\n  \"chinese_summary\": \"本研究将人全血清掺入儿茶酚基透明质酸（DaHA）水凝胶中，替代水相制备复合水凝胶。血清掺入加速凝胶化并改变粘弹性，同时保持可注射性。流变学显示凝胶稳定、剪切恢复和良好力学性能，中等血清掺入（<10%）保持溶胀和结构稳定。血清蛋白持续释放至少8天。体外实验显示良好的细胞相容性并增强无血清条件下的细胞存活。皮下植入证实良好的体内耐受性、轻微炎症和逐渐组织整合。该策略为构建生物活性可注射水凝胶提供实用方法。\",\n  \"innovation\": \"通过将人全血清整合到儿茶酚基透明质酸水凝胶中，赋予其生物活性，同时保持可注射性和力学性能，实现持续释放血清蛋白。\",\n  \"flaw\": \"研究未评估长期体内降解和生物活性蛋白的稳定性，且未进行动物模型的功能性修复实验。\"\n}"
+  },
+  {
+    "id": "10.1038/s41467-026-75849-1",
+    "title": "A natural solution from caterpillar cuticles for flexible impact-resistant materials.",
+    "journal": "Nature communications",
+    "authors": "Yuan, Hu, Pang",
+    "abstract": "Flexible impact-resistant materials are essential for defense, transportation, and biomedical engineering due to their ability to combine strength, energy dissipation, and compliance. While nature offers robust solutions like beetle elytra or mantis shrimp hammers, designing materials that achieve these properties simultaneously remains a significant challenge. Here, we explore the cuticle of Ostrinia furnacalis (Asian corn borer) as a natural model. We identify two key structural proteins, FCSP-1 and FCSP-2, that form a β-sheet-rich matrix via liquid-liquid phase separation, adhering to chitin scaffolds. This matrix promotes lamellar structures that enhance energy dissipation through hydrogen bond disruption and secondary structure transformation under stress. NMR and molecular dynamics simulations further confirm that matrix formation relies on fine-tuned hydrogen bonding, electrostatic interactions, and π-π/cation-π interactions. Inspired by this mechanism, we developed a chitin-protein composite hydrogel with an energy dissipation capability of 8 MJ/m<sup>3</sup>, and its mechanical properties can be precisely tuned via in-vitro phosphorylation. This hydrogel demonstrates exceptional potential for protecting fragile objects.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642384/",
+    "date": "2026-08-27",
+    "analysis": "{\n  \"chinese_summary\": \"本研究以亚洲玉米螟角质层为模型，发现两种结构蛋白FCSP-1和FCSP-2通过液-液相分离形成富含β-折叠的基质，粘附于几丁质支架上，促进层状结构，通过氢键断裂和二级结构转变增强能量耗散。受此启发，开发了具有8 MJ/m³能量耗散能力的几丁质-蛋白复合水凝胶，其力学性能可通过体外磷酸化精确调控，在保护脆弱物体方面具有巨大潜力。\",\n  \"innovation\": \"首次揭示昆虫角质层中结构蛋白通过液-液相分离形成β-折叠基质并增强能量耗散的机制，并据此开发出可调控的仿生水凝胶。\",\n  \"flaw\": \"该水凝胶的长期稳定性和生物相容性尚未评估，且其实际应用中的耐久性和可扩展性有待进一步验证。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70247",
     "title": "A 25-Year Review of the Use of Silanized Hydroxypropylmethylcellulose Hydrogels in Tissue Engineering and Regenerative Medicine.",
     "journal": "Macromolecular bioscience",

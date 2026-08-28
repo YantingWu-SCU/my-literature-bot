@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.3390/ijms27167200",
+    "title": "Mitochondrial Homeostasis Mediates the Sustained Neuroprotection of CNTF-Chitosan Hydrogel Against NMDA-Induced Retinal Ganglion Cell Excitotoxicity.",
+    "journal": "International journal of molecular sciences",
+    "authors": "Jiang, Guo, Bai",
+    "abstract": "N-methyl-D-aspartate (NMDA) excitotoxicity drives mitochondrial dysfunction and retinal ganglion cell (RGC) loss in blinding retinal disorders. Ciliary neurotrophic factor (CNTF) is neuroprotective, but its short half-life limits long-term therapy. Here, we investigated whether mitochondrial homeostasis mediates the sustained protection of a CNTF-loaded chitosan hydrogel. In vitro, free CNTF and the hydrogel equally protected RGCs against NMDA, effects completely abolished by the mitochondrial uncoupler carbonyl cyanide m-chlorophenyl hydrazone (CCCP). In vivo, free CNTF provided only transient rescue, whereas the hydrogel sustained RGC survival, mitochondrial integrity, and visual function for 28 days, with persistent upregulation of mitochondrial biogenesis genes. Adeno-associated virus-mediated DRP1 overexpression-induced mitochondrial fission fully reversed the hydrogel's benefits, mirroring CCCP inhibition. Collectively, intact mitochondrial homeostasis is essential for the long-term neuroprotection of the CNTF-chitosan hydrogel, which extends CNTF retention without altering its mitochondrial-dependent mechanism. This hydrogel represents a promising long-acting treatment for retinal excitotoxicity.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42653205/",
+    "date": "2026-08-28",
+    "analysis": "{\n  \"chinese_summary\": \"本研究探讨了负载睫状神经营养因子（CNTF）的壳聚糖水凝胶在NMDA诱导的视网膜兴奋性毒性中的长期神经保护作用及其机制。结果显示，该水凝胶通过维持线粒体稳态，持续保护视网膜神经节细胞（RGC）存活、线粒体完整性和视觉功能长达28天，而游离CNTF仅提供短暂保护。机制上，水凝胶的保护作用依赖于完整的线粒体功能，DRP1过表达或线粒体解偶联剂可完全逆转其效果。该水凝胶有望成为治疗视网膜兴奋性毒性的长效药物。\",\n  \"innovation\": \"首次证明CNTF-壳聚糖水凝胶通过维持线粒体稳态实现长期神经保护，且不改变CNTF的线粒体依赖性机制。\",\n  \"flaw\": \"研究未评估水凝胶在慢性或更严重视网膜疾病模型中的长期安全性和有效性，且未探讨其临床转化的可行性。\"\n}"
+  },
+  {
+    "id": "10.1038/s41467-026-76070-w",
+    "title": "An agent-guided peptide hydrogel bio-stabilizer clamps pericellular viscoelastic drift.",
+    "journal": "Nature communications",
+    "authors": "Wei, Zhang, Chang",
+    "abstract": "Living tissues continually remodel the extracellular matrix, causing pericellular mechanics to drift over time. Chronic glycation amplifies this drift, destabilizing mechanoregulatory cues and compromising regenerative outcomes. Here we introduce Micro-Mechanical Homeostasis Reset, a material-based strategy that targets cell-to-pericellular viscoelastic homeostasis rather than static bulk stiffness. Using an agent-guided, rule-based enumeration-and-scoring workflow, we design ViscoClamp, an extracellular matrix-interpenetrating peptide hydrogel with affinity for calcium ions and advanced glycation end products. We show that ViscoClamp buffers chronic glycation loading and constrains glycation-driven viscoelastic drift, while remaining permissive to mesenchymal stem cell-mediated matrix remodeling and mineralization. We quantify stabilization using a dispersion-transfer ratio that measures how variable glycation inputs are compressed into stable micromechanical outputs. We demonstrate that in glycation-rich hyperglycemic craniofacial defects, ViscoClamp stabilizes cell-scale micromechanics, restores osteogenic activation, and improves bone repair and mineralization in rats, rabbits, beagle dogs, and rhesus macaques.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42649183/",
+    "date": "2026-08-28",
+    "analysis": "{\n  \"chinese_summary\": \"本研究提出一种基于材料的策略——微机械稳态重置，通过设计一种名为ViscoClamp的细胞外基质互穿肽水凝胶，靶向细胞与周围基质的粘弹性稳态，而非静态刚度。ViscoClamp能缓冲慢性糖化负荷，抑制糖化驱动的粘弹性漂移，同时允许间充质干细胞介导的基质重塑和矿化。在糖化丰富的糖尿病颅面缺损模型中，ViscoClamp稳定细胞尺度微机械，恢复成骨激活，并在大鼠、兔、比格犬和恒河猴中改善骨修复和矿化。\",\n  \"innovation\": \"首次提出并实现通过材料设计靶向细胞-周围基质粘弹性稳态，而非传统静态刚度，以对抗慢性糖化引起的机械稳态漂移。\",\n  \"flaw\": \"研究未明确ViscoClamp在人体中的长期安全性和免疫原性，且其临床转化仍需进一步验证。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70244",
     "title": "Serum-Integrated Dopamine-Hyaluronic Acid Hydrogels for Injectable Soft-Tissue Microenvironment Modulation.",
     "journal": "Macromolecular bioscience",

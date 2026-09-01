@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1021/acsnano.6c03424",
+    "title": "Spatially Precise Neuron Formation via Hydrogel-Mediated Modulation of the Host Astrocyte Response.",
+    "journal": "ACS nano",
+    "authors": "Mahmoudi, Harvey, Moriarty",
+    "abstract": "The central nervous system exhibits limited capacity for regeneration following injury or disease. Although genetic and epigenetic reprogramming of non-neuronal cells into induced neurons offers a promising route for neuronal replacement and circuit reconstruction, its therapeutic potential remains constrained by low reprogramming efficiency and inadequate control over factor delivery. Here, we report a high-efficiency astrocyte-to-neuron reprogramming strategy enabled by ectopic expression of the transcription factor SOX2 delivered via adeno-associated viral vectors. We further engineered an implantable hybrid composite biomaterial that functions as a localized \"reprogramming workshop\", performing sequential operations within the lesion microenvironment. Upon injection, the material forms a tissue-mimetic hydrogel that recruits endogenous astrocytes, concentrates reprogramming cues, and spatially confines their presentation. This system effectively entrapped astrocytes, guided their transition through a neuroblast-like intermediate state, and yielded robust populations of mature neurons. Incorporation of sustained valproic acid release further enhanced neuronal maturation. Together, these results present a design-led strategy for minimally invasive, tissue-optimized delivery of reprogramming factors and demonstrate a multifunctional biomaterial platform that significantly enhances neural repair potential.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42674445/",
+    "date": "2026-09-01",
+    "analysis": "{\n  \"chinese_summary\": \"中枢神经系统损伤后再生能力有限。本研究通过腺相关病毒递送转录因子SOX2，结合可注射的混合复合材料水凝胶，在损伤微环境中形成“重编程工作坊”，招募并捕获内源性星形胶质细胞，引导其经神经母细胞样中间状态转分化为成熟神经元，同时缓释丙戊酸促进神经元成熟，显著提高重编程效率和神经修复潜力。\",\n  \"innovation\": \"设计了一种可注射的混合生物材料平台，能在损伤部位局部富集并递送重编程因子，实现高效星形胶质细胞向神经元转化。\",\n  \"flaw\": \"研究主要基于动物模型，尚需验证其在人体中的安全性和有效性，且长期稳定性和整合功能未充分评估。\"\n}"
+  },
+  {
+    "id": "10.1111/1750-3841.71369",
+    "title": "Tannic Acid-Based Multilayers Anchoring Anthocyanin-Loaded Mesoporous Silica Microcapsules: A Synergistic Hydrogel System for Ameliorating DSS-Induced Colitis.",
+    "journal": "Journal of food science",
+    "authors": "Hu, Li, He",
+    "abstract": "Anthocyanins (ACNs) are natural bioactive compounds with promising anti-colitis potential; however, their poor stability in the gastrointestinal tract limits effective colonic delivery. To address this challenge, this study developed a tannic acid (TA)-based multilayer hydrogel delivery system incorporating ACN-loaded microcapsules. In this system, TA participates in the formation of a mesoporous silica nanoparticles (MSN)-associated TA-Fe<sup>3</sup> <sup>+</sup> coordination network, which is subsequently embedded within a sodium alginate (SA)/Ca<sup>2</sup> <sup>+</sup> hydrogel matrix. ACNs were first loaded into MSN, followed by the deposition of a TA-Fe<sup>3</sup> <sup>+</sup> coating to form microcapsules with an encapsulation efficiency of 87.20%. These microcapsules were subsequently embedded in an SA hydrogel to obtain the final formulation, designated AMTS (ACNs@MSN@TA-Fe<sup>3</sup> <sup>+</sup>@SA). In vitro simulated digestion showed that AMTS reduced the premature loss of ACNs during gastrointestinal transit and maintained a relatively stable detectable ACN fraction in the digestion medium, supporting the protective role of the carrier and its potential for subsequent delivery to the simulated colonic enzymatic phase.  In vivo results showed that AMTS alleviated DSS-induced colonic injury, reduced inflammatory responses, and enhanced intestinal barrier integrity. Compared with free ACNs, AMTS produced more pronounced improvements across several evaluated indices. Collectively, these findings indicate that AMTS represents a promising oral delivery platform to support the potential colonic delivery of ACNs and enhance their protective efficacy in the DSS-induced colitis model, and may offer a practical strategy for the oral delivery of structurally labile natural bioactive compounds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669838/",
+    "date": "2026-09-01",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种基于单宁酸的多层水凝胶递送系统（AMTS），将花青素负载于介孔二氧化硅纳米颗粒中，并包覆TA-Fe³⁺配位网络，再嵌入海藻酸钠/钙水凝胶基质。该系统在体外模拟消化中减少了花青素的过早损失，在体内DSS诱导结肠炎模型中减轻了结肠损伤、炎症反应并增强了肠道屏障完整性，效果优于游离花青素，为结构不稳定的天然活性化合物的口服递送提供了有前景的策略。\",\n  \"innovation\": \"创新性地构建了TA-Fe³⁺配位网络与海藻酸钠水凝胶结合的多层递送系统，实现了花青素在胃肠道中的保护及结肠靶向递送。\",\n  \"flaw\": \"研究未评估该系统在人体中的安全性和长期毒性，且缺乏对结肠部位释放机制的深入定量分析。\"\n}"
+  },
+  {
+    "id": "10.1038/s41467-026-75884-y",
+    "title": "All-small-molecule Hydrogels for Safe and Efficient Photoprotection.",
+    "journal": "Nature communications",
+    "authors": "Li, Zhang, Zhang",
+    "abstract": "Long-term exposure to ultraviolet (UV) radiation can cause sunburn, skin aging, and skin cancers. Conventional sunscreens typically combine organic UV filters and inorganic particles for photoprotection, yet concerns remain regarding skin penetration, systemic effects, and reactive oxygen species generation. Inspired by natural photoprotective mechanisms in plants, we develop a series of all-small-molecule sunscreen hydrogels based on natural polyphenols through a facile one-pot assembly process. The resulting hydrogels exhibit efficient UV shielding with high sun protection factors, strong bioadhesion, antioxidant and antibacterial activities, high visible-light transmittance, and low skin penetration tendency. The hydrogels also demonstrate good environmental stability and effective photoprotection in both mice and Bama miniature pigs. This work highlights the potential of bioinspired all-small-molecule assemblies for efficient and safe photoprotection.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669701/",
+    "date": "2026-09-01",
+    "analysis": "{\n  \"chinese_summary\": \"受植物天然光保护机制启发，开发了一系列基于天然多酚的全小分子防晒水凝胶，通过一锅组装制备，具有高效紫外线屏蔽、高SPF值、强生物粘附、抗氧化和抗菌活性、高可见光透过率及低皮肤渗透性，并在小鼠和巴马小型猪中表现出良好的环境稳定性和有效光保护。\",\n  \"innovation\": \"首次利用天然多酚全小分子组装构建防晒水凝胶，兼具高效光防护与多重生物活性，且避免了传统防晒剂的皮肤渗透和活性氧产生问题。\",\n  \"flaw\": \"研究未评估该水凝胶在人体中的长期使用安全性及对皮肤屏障功能的影响，且其实际应用中的稳定性和成本效益有待进一步验证。\"\n}"
+  },
+  {
     "id": "10.3390/ijms27167200",
     "title": "Mitochondrial Homeostasis Mediates the Sustained Neuroprotection of CNTF-Chitosan Hydrogel Against NMDA-Induced Retinal Ganglion Cell Excitotoxicity.",
     "journal": "International journal of molecular sciences",

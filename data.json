@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1021/acsami.6c06015",
+    "title": "Reciprocal Coupling among Extracellular Matrix Mechanics, Mechanosensitive Ion Channels, and Cell Remodeling Behaviors.",
+    "journal": "ACS applied materials & interfaces",
+    "authors": "Cao, Li, Qiu",
+    "abstract": "Cells actively remodel the extracellular matrix (ECM) through a repertoire of mechanically driven behaviors, including traction force generation, migration, proteolysis, and long-term deposition. While these processes are often discussed separately, emerging evidence suggests that they are coordinated through shared mechanochemical signaling modules. In parallel, advances in hydrogel-based biomaterials have revealed that ECM mechanics, including stiffness, viscoelastic dissipation, degradability, and temporal dynamics, can systematically program cellular remodeling behaviors. In this review, we discuss the close interplay among ECM mechanics, mechanosensitive ion channels, and cell remodeling behaviors, with particular emphasis on ion channels as mechanochemical control nodes that connect material-defined mechanical cues to cytoskeletal tension, adhesion dynamics, and transcriptional reprogramming. Focusing on Piezo1, TRPV4, TRPM7, and TRPC6, we discuss how localized Ca2+ entry events decode extracellular mechanics into behavior-specific outputs across distinct remodeling modalities. We further discuss how engineered hydrogels define the mechanical environment that shapes channel-mediated signaling, thereby shaping when, where, and how ECM remodeling occurs. Together, this perspective positions mechanosensitive ion channels as a mechanochemical control layer that links dynamic material environments to coordinated cellular behaviors, highlighting their relevance to the design of biomaterials that actively direct tissue remodeling.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42675897/",
+    "date": "2026-09-02",
+    "analysis": "{\n  \"chinese_summary\": \"本文综述了细胞通过机械力驱动行为重塑细胞外基质（ECM）的过程，强调ECM力学特性（如刚度、粘弹性、可降解性和时间动态）与机械敏感离子通道（如Piezo1、TRPV4、TRPM7和TRPC6）之间的相互作用。离子通道作为机械化学控制节点，将材料力学信号转化为细胞骨架张力、粘附动力学和转录重编程，从而协调不同的重塑行为。工程水凝胶通过定义力学环境来调节通道介导的信号，进而控制ECM重塑的时空方式，为设计主动引导组织重塑的生物材料提供了新视角。\",\n  \"innovation\": \"将机械敏感离子通道定位为连接动态材料环境与细胞重塑行为的机械化学控制层，为生物材料设计提供了新思路。\",\n  \"flaw\": \"主要基于现有文献的综述，缺乏实验验证，且对离子通道在不同重塑模式中的具体机制阐述可能不够深入。\"\n}"
+  },
+  {
+    "id": "10.1021/acsami.6c09000",
+    "title": "Highly Mechanically Robust Human-Derived Hydrogels for Tissue Engineering Applications.",
+    "journal": "ACS applied materials & interfaces",
+    "authors": "Pereira, Rodrigues, Mendes",
+    "abstract": "Hydrogels are widely used in tissue engineering (TE) for their ability to replicate the extracellular matrix, providing a supportive environment for cell proliferation and tissue regeneration. However, their inherently low mechanical strength often restricts their use in load-bearing biomedical applications. To address these limitations, this study aimed to develop the first human-derived double-network (DN) hydrogel by combining human methacryloyl platelet lysates (hPLMA) and the natural polysaccharide chitosan (CHT) through sequential covalent and ionic crosslinking. The resulting DN hydrogel was mechanically and biologically characterized to evaluate its suitability for TE applications. Remarkably, the hPLMA/CHT DN hydrogels exhibit outstanding compressive strength of 1.3 ± 0.13 MPa and 86% hysteresis recovery after 10 loading cycles at 70% strain, underscoring their mechanical resilience. Moreover, the DN hydrogels were able to maintain enhanced cell viability, adhesion, and proliferation following the three-dimensional encapsulation of human adipose-derived stem cells. This unique formulation achieves an excellent balance between mechanical robustness and biocompatibility. By integrating mechanical resilience with human-derived bioactivity, hPLMA-based DN hydrogels offer a superior alternative to synthetic systems for cartilage or musculoskeletal regeneration. Overall, the combination of high mechanical strength, fatigue resistance, and cytocompatibility highlights the potential of hPLMA/CHT DN hydrogels as a promising platform for load-bearing and mechanically demanding TE applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42675886/",
+    "date": "2026-09-02",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了首个由人血小板裂解物甲基丙烯酰化（hPLMA）和壳聚糖（CHT）组成的双网络水凝胶，通过顺序共价和离子交联制备。该水凝胶具有优异的压缩强度（1.3±0.13 MPa）和疲劳恢复能力（70%应变下10次循环后恢复86%），并支持人脂肪干细胞的三维封装、存活、粘附和增殖，在机械性能和生物相容性之间取得了良好平衡，适用于承重组织工程如软骨和肌肉骨骼再生。\",\n  \"innovation\": \"首次将人源hPLMA与天然多糖CHT结合，通过双重交联构建兼具高机械强度和生物活性的双网络水凝胶。\",\n  \"flaw\": \"研究未评估水凝胶在体内的降解行为、长期生物相容性及动物模型中的再生效果，且机械性能测试仅限于压缩模式，缺乏拉伸和剪切性能数据。\"\n}"
+  },
+  {
     "id": "10.1021/acsnano.6c03424",
     "title": "Spatially Precise Neuron Formation via Hydrogel-Mediated Modulation of the Host Astrocyte Response.",
     "journal": "ACS nano",

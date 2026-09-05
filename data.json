@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aee2120",
+    "title": "Supramolecular immunomodulatory hydrogelator potentiates CAR-T therapy with long-lasting endogenous immunity toward solid tumor eradication.",
+    "journal": "Science advances",
+    "authors": "Jiang, Tang, Guo",
+    "abstract": "The success of chimeric antigen receptor (CAR)-T cell therapy in hematologic malignancies has not been translated to solid tumors, primarily due to inadequate T cell infiltration and an immunosuppressive tumor microenvironment that drives T cell exhaustion. To address these challenges, we developed a tailored immunomodulatory drug-drug conjugate-based hydrogelator for the localized delivery of CAR-T cells targeting solid tumors. This hydrogel forms an in situ scaffold that serves as a sustained-release reservoir, enabling continuous co-delivery of CAR-T cells along with immunomodulatory agents-NLG919 (an IDO-1 inhibitor) and <sup>D</sup>PPA-1 (a PD-L1 antagonistic peptide)-to synergistically remodel the immunosuppressive tumor microenvironment and promote robust tumor recognition and elimination. Notably, this approach significantly enhances CAR-T cell infiltration and persistence, stimulates a potent endogenous tumor-specific immune response, while also establishing long-lasting immunological memory. In murine models of aggressive melanoma, metastatic breast cancer, and postoperative glioma, a single local administration of the hydrogel resulted in significant suppression of tumor growth, rechallenge, metastasis and recurrence. By integrating localized CAR-T cell delivery with in situ immune reprogramming, this system represents a versatile and clinically translatable platform that substantially improves the efficacy of CAR-T cell therapy against solid tumors.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42696583/",
+    "date": "2026-09-05",
+    "analysis": "{\n  \"chinese_summary\": \"针对CAR-T细胞疗法在实体瘤中疗效不佳的问题，本研究开发了一种基于水凝胶的免疫调节药物偶联递送系统，可局部共递送CAR-T细胞、IDO-1抑制剂NLG919和PD-L1拮抗肽DPPA-1，重塑免疫抑制微环境，增强T细胞浸润和持久性，并诱导长期免疫记忆。在黑色素瘤、转移性乳腺癌和术后胶质瘤小鼠模型中，单次局部给药显著抑制肿瘤生长、复发和转移。\",\n  \"innovation\": \"将CAR-T细胞局部递送与原位免疫重编程相结合，通过水凝胶实现多种免疫调节剂的持续共释放，协同增强抗肿瘤免疫应答。\",\n  \"flaw\": \"该研究主要基于小鼠模型，其临床转化可行性及安全性仍需进一步验证。\"\n}"
+  },
+  {
     "id": "10.1016/j.carbpol.2026.125777",
     "title": "An alginate-based biomimetic nanozyme metabolic immunomodulator for sensitizing photothermal-immunotherapy in postoperative breast cancer.",
     "journal": "Carbohydrate polymers",

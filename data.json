@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1007/s10561-026-10246-y",
+    "title": "Electroconductive and biodegradable scaffold based on alginate/polyaniline hydrogel loaded with green synthesized magnesium oxide nanoparticles for bone regeneration.",
+    "journal": "Cell and tissue banking",
+    "authors": "Lei, Zhang",
+    "abstract": "Bone fractures are increasing globally, and the limitations of traditional grafts have encouraged the development of advanced biomaterial-based strategies for bone repair. In this study, we developed an injectable alginate/polyaniline (Alg/PANI) hydrogel containing green-synthesized magnesium oxide nanoparticles (MgONPs). The Alg/PANI/NPs scaffold exhibited favorable cytocompatibility and bioactivity, enhancing osteoblast-like cell viability/proliferation to 115.7% by day 3 and reducing hemolysis to 4.67%, indicating improved hemocompatibility. In addition, the scaffold was associated with macrophage polarization toward the pro-healing M2 phenotype, supported by morphological changes and increased TGF-β1 expression. It also established a regenerative microenvironment associated with enhanced antioxidant status, including a 2.5-fold increase in superoxide dismutase (SOD) activity, a 65% reduction in malondialdehyde (MDA), and a 2.1-fold increase in nitric oxide (NO) levels. Overall, these findings indicate that the Alg/PANI/NPs hydrogel is a promising multifunctional biomaterial that supports regenerative responses through immunomodulatory, antioxidative, and cytocompatible effects.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42702663/",
+    "date": "2026-09-08",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种可注射的海藻酸盐/聚苯胺水凝胶，其中含有绿色合成的氧化镁纳米颗粒。该支架具有良好的细胞相容性和生物活性，能促进成骨细胞增殖，降低溶血率，诱导巨噬细胞向M2表型极化，并增强抗氧化状态，有望用于骨修复。\",\n  \"innovation\": \"创新性地将导电聚合物与绿色合成MgO纳米颗粒结合，赋予水凝胶免疫调节和抗氧化功能，促进骨再生。\",\n  \"flaw\": \"研究仅停留在体外细胞实验，缺乏体内动物模型验证其长期安全性和有效性。\"\n}"
+  },
+  {
     "id": "10.1126/sciadv.aee2120",
     "title": "Supramolecular immunomodulatory hydrogelator potentiates CAR-T therapy with long-lasting endogenous immunity toward solid tumor eradication.",
     "journal": "Science advances",

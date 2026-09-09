@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.7150/thno.134232",
+    "title": "Feedback-regulated 3D-printed hydrogel micropatch for integrated therapy of fungal keratitis.",
+    "journal": "Theranostics",
+    "authors": "Liu, Ma, Fang",
+    "abstract": "Fungal keratitis remains clinically challenging due to limited drug bioavailability, frequent dosing, reactive oxygen species (ROS)-mediated stromal damage, perforation risk, and bacterial coinfection. In the study, we developed a feedback-regulated multifunctional corneal micropatch (MFCP) via 3D printing for the treatment of fungal keratitis.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708085/",
+    "date": "2026-09-09",
+    "analysis": "{\n  \"chinese_summary\": \"真菌性角膜炎因药物生物利用度低、给药频繁、活性氧介导的基质损伤、穿孔风险及细菌混合感染而治疗困难。本研究通过3D打印开发了一种反馈调节的多功能角膜微贴片（MFCP）用于治疗真菌性角膜炎。\",\n  \"innovation\": \"利用3D打印技术开发出具有反馈调节功能的多功能角膜微贴片，可同时应对药物递送、ROS清除和抗感染等挑战。\",\n  \"flaw\": \"摘要未提供体内实验数据或临床前验证，其实际疗效和安全性有待进一步评估。\"\n}"
+  },
+  {
     "id": "10.1007/s10561-026-10246-y",
     "title": "Electroconductive and biodegradable scaffold based on alginate/polyaniline hydrogel loaded with green synthesized magnesium oxide nanoparticles for bone regeneration.",
     "journal": "Cell and tissue banking",

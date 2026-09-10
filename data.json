@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1002/mabi.70253",
+    "title": "3D Bioprinted Alginate-Gelatin-Collagen Based Hydrogels Laden With Fibroblast and Keratinocyte Cells Show Potential for Regeneration of Injured Skin.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Boateng, Hafezi, Shorter",
+    "abstract": "Bioactive scaffolds that mimic the skin's extracellular matrix are of current scientific interest. This study developed composite biopolymer-based bioprinted scaffolds laden with human dermal fibroblasts (HDFs) and primary epidermal keratinocytes (KCs) to generate constructs that can take active part in skin regeneration. Sodium alginate (ALG) was partially crosslinked with CaCl<sub>2</sub> and combined with gelatin (GEL) and collagen (COL) to obtain composite bioinks for easy extrusion. CaCl<sub>2</sub> concentration (0.2-4.5% w/v) and bioink physico-chemical properties were optimized using rheometry and scaffolds' stability was optimized through degradation studies. Cell viability within the printed scaffolds were evaluated (7 days) using MTT and live-dead assays, while the stratified layers of HDFs/KCs within the scaffolds were confirmed through immunofluorescence imaging. Bioinks partially crosslinked with 0.5% w/v CaCl<sub>2</sub> allowed optimal extrusion during bioprinting, while scaffolds fully crosslinked with 1.5% w/v CaCl<sub>2</sub> produced scaffolds that maintained their structural integrity and cell viability with appropriate proliferation and migration over the 7 days. This is the first study comprising ALG-GEL-COL, laden with HDFs and KCs and bioprinted for potential skin regeneration applications following injury. The generated bioprinted scaffolds will help advance the field of tissue regeneration, including potential to use as therapeutic drug delivery platform in future studies.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714050/",
+    "date": "2026-09-10",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了负载人真皮成纤维细胞和原代表皮角质形成细胞的复合生物聚合物生物打印支架，用于皮肤再生。通过优化海藻酸钠、明胶和胶原蛋白组成的生物墨水，发现0.5% w/v CaCl2部分交联利于挤出打印，1.5% w/v CaCl2完全交联的支架能维持结构完整性和细胞活性，并促进细胞增殖和迁移。这是首个将ALG-GEL-COL与HDFs/KCs结合用于生物打印皮肤再生的研究。\",\n  \"innovation\": \"首次将海藻酸钠-明胶-胶原蛋白复合生物墨水与两种皮肤细胞共打印，构建用于皮肤再生的生物打印支架。\",\n  \"flaw\": \"研究仅进行了7天的体外细胞评价，缺乏体内动物实验验证其皮肤再生效果和长期安全性。\"\n}"
+  },
+  {
+    "id": "10.1002/jbm.b.70155",
+    "title": "Synthesis and Biological Evaluation of Cell Affinitive Oligo(poly(ethylene glycol) fumarate)-Gelatin Methacrylate (OPF-GELMA) Interpenetrating Network Hydrogels.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Zhu, Liu, Gasvoda",
+    "abstract": "Hybrid hydrogels that integrate mechanical tunability with biological activity are critical for regenerative medicine. Oligo(poly(ethylene glycol) fumarate) (OPF) offers controllable network formation but lacks intrinsic cell affinity. Here, we incorporated gelatin methacrylate (GelMA) into OPF networks to develop an interpenetrating network (IPN) hybrid OPF-GELMA hydrogel that combines the mechanical versatility of OPF with the bioactivity of GelMA. The crosslinked hydrogels with varying GelMA content exhibited GelMA-dependent modulation of swelling, gel fraction, compressive stiffness, and microstructure. Increasing GelMA concentration reduced water uptake while significantly enhancing mechanical strength and proliferation of rat bone marrow-derived mesenchymal stem cells (rBMSCs). Moreover, GelMA incorporation markedly enhanced rBMSC osteogenic differentiation, as demonstrated by elevated alkaline phosphatase activity and increased Runx2 expression. These results demonstrate that OPF-GELMA hydrogels enable synergistic regulation of biochemical and mechanical cues, providing a versatile scaffold platform for bone tissue engineering and regenerative medicine applications.",
+    "score": 40,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711901/",
+    "date": "2026-09-10",
+    "analysis": "{\n  \"chinese_summary\": \"本研究将甲基丙烯酰化明胶（GelMA）引入寡聚（聚乙二醇）富马酸酯（OPF）网络，构建了互穿网络（IPN）杂化水凝胶。随着GelMA含量增加，水凝胶的溶胀率降低，凝胶分数、压缩刚度及微观结构发生GelMA依赖性变化，同时显著增强大鼠骨髓间充质干细胞的增殖与成骨分化（碱性磷酸酶活性升高、Runx2表达增加）。该OPF-GELMA水凝胶可协同调控生化与力学信号，为骨组织工程提供通用支架平台。\",\n  \"innovation\": \"通过互穿网络结构将OPF的力学可调性与GelMA的生物活性结合，实现生化与力学信号的协同调控。\",\n  \"flaw\": \"研究仅局限于体外细胞实验，缺乏体内动物模型验证其骨再生效果及长期生物相容性。\"\n}"
+  },
+  {
     "id": "10.7150/thno.134232",
     "title": "Feedback-regulated 3D-printed hydrogel micropatch for integrated therapy of fungal keratitis.",
     "journal": "Theranostics",

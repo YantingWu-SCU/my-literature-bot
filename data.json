@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.70233",
+    "title": "Living Biohybrid Hydrogels for Co-Delivery of Oxygen, Anti-Cancer Drugs, and Probiotics: Effects on Cancer and Healthy Cell Viability.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Süleymanzade, Şahin, Demir",
+    "abstract": "In recent studies, oxygen (O<sub>2</sub>) delivery biomaterials have been developed to reduce hypoxia-induced problems in, e.g., tumor tissues. However, none of these studies have used inhibitory effects of probiotics in combination therapies with O<sub>2</sub> and anticancer drugs for advanced cancer treatment applications. In this study, we report a new probiotic-enriched 3D-printed biomaterial (3D-BioHybrid-DOX/SPEP) that is capable of O<sub>2</sub>, probiotic, and acidic pH (pH 6.0) sensitive anticancer drug (Doxorubicin = DOX) co-release. 3D-BioHybrid-DOX/SPEP shows sustained O<sub>2</sub> and pH-responsive anticancer drug release over 14 days. The release of short-chain fatty acids, including butyric acid, was detected on days 1 and 7 of incubation, indicating that the O<sub>2</sub> delivery component of the system supports probiotic viability while mitigating the toxic effects of DOX. The CFU results show that the 3D-BioHybrid-DOX/SPEP supports probiotic viability at 1 and 7 days of incubation. In vitro cell experiments indicate that the healthy cell viability is ca. 2 times higher than cancer cells after 1 and 7 days of incubation at hypoxia conditions in 3D-BioHybrid-DOX/SPEP due to the co-administration of O<sub>2</sub>, DOX, and probiotics.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42721362/",
+    "date": "2026-09-11",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种富含益生菌的3D打印生物材料（3D-BioHybrid-DOX/SPEP），能够持续释放氧气、益生菌和pH敏感的抗癌药物阿霉素（DOX）长达14天。该材料在缺氧条件下支持益生菌存活并减轻DOX毒性，体外实验显示健康细胞存活率约为癌细胞的2倍。\",\n  \"innovation\": \"首次将氧气递送、益生菌与pH敏感抗癌药物整合于3D打印生物材料中，实现协同治疗并减轻缺氧相关问题。\",\n  \"flaw\": \"研究仅进行了体外细胞实验，缺乏体内动物模型验证，且未评估长期生物安全性和益生菌定植效果。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70253",
     "title": "3D Bioprinted Alginate-Gelatin-Collagen Based Hydrogels Laden With Fibroblast and Keratinocyte Cells Show Potential for Regeneration of Injured Skin.",
     "journal": "Macromolecular bioscience",

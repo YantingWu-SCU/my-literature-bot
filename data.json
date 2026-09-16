@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.70258",
+    "title": "Enzyme-Responsive Composite Hydrogel Coating Containing Nano-HA/Nano-ZnO with Pro-Osteogenic and Anti-Osteoclastic Properties.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Yu, Liu, Li",
+    "abstract": "The treatment of osteoporotic bone defects remains challenging due to the pathological microenvironment with impaired regenerative capacity and imbalanced bone formation and resorption. In this study, a methacrylated gelatin (GelMA) and methacrylated chitosan (CSMA) composite hydrogel coating is developed on poly(phthalazinone ether nitrile ketone) (PPENK), showing pro-osteogenic and anti-osteoclastic effects in vitro. Nano-zinc oxide (nano-ZnO), nano-hydroxyapatite (nano-HA), and phosphate-ester-functionalized alendronate (ALNP) are incorporated to confer antibacterial activity, promote osteogenesis, and enable enzyme-responsive release of anti-osteoporosis alendronate (ALN). SEM/EDS results confirm the homogeneous dispersion of the nanoparticles within the porous hydrogel. The stability of the hydrogel coating is verified by smooth scratch edges and no visible detachment in the cross-hatch test. ALN release experiments confirm that the release amount of ALN is positively correlated with alkaline phosphatase (ALP) concentration, indicating significant enzyme-responsive characteristics. In vitro studies show that the hydrogel coating on PPENK exhibits antibacterial activity. Nano-HA and nano-ZnO enhance the expression of osteogenic-related genes and proteins in MC3T3-E1 pre-osteoblasts. The released ALN inhibits the receptor activator of nuclear factor-κB ligand (RANKL)-induced differentiation of RAW264.7 macrophages into osteoclasts. Overall, this surface modification strategy integrates enzyme-responsive ALN release with composite hydrogel coating on PPENK, realizing antibacterial, osteogenic, and anti-osteoclastic effects in vitro.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42743416/",
+    "date": "2026-09-16",
+    "analysis": "{\"chinese_summary\": \"本研究在聚邻苯二甲腈醚酮酮（PPENK）表面构建了甲基丙烯酰化明胶（GelMA）与甲基丙烯酰化壳聚糖（CSMA）复合水凝胶涂层，并掺入纳米氧化锌、纳米羟基磷灰石和磷酸酯功能化阿仑膦酸钠（ALNP）。该涂层具有抗菌活性，能促进MC3T3-E1前成骨细胞成骨相关基因和蛋白表达，且释放的阿仑膦酸可抑制RANKL诱导的RAW264.7巨噬细胞向破骨细胞分化。ALN释放量与碱性磷酸酶浓度正相关，显示酶响应特性。该表面改性策略在体外实现了抗菌、成骨和抗破骨的多重效果。\", \"innovation\": \"首次将酶响应性阿仑膦酸释放与GelMA/CSMA复合水凝胶涂层结合于PPENK表面，实现抗菌、成骨和抗破骨的多功能协同。\", \"flaw\": \"研究仅局限于体外实验，缺乏体内动物模型验证其治疗骨质疏松性骨缺损的实际效果和长期生物安全性。\"}"
+  },
+  {
     "id": "10.1021/acsbiomaterials.6c00617",
     "title": "Integrated Microneedle Patches Combining PROTAC-Derived Phytochemicals, Ceria Nanozymes, and Puerarin Hydrogels for Targeted Treatment of Acetaminophen-Induced Acute Liver Injury.",
     "journal": "ACS biomaterials science & engineering",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1038/s41467-026-76759-y",
+    "title": "Intracellular artificial DNA receptor-loaded gelated cells for aflatoxin theranostics.",
+    "journal": "Nature communications",
+    "authors": "Zhen, Meng, Wen",
+    "abstract": "Aflatoxin B1 (AFB1) is one of the most common mycotoxins, which causes severe hepatic damage and even liver cancer. However, the development of specific tools for AFB1 diagnosis and detoxification remains elusive. Herein, we develop a DNA receptor-loaded gelated cell (DR-GC)-based adsorbent for specifically capturing and detecting AFB1, both in vitro and in vivo. In this system, fragile living cells are transformed into robust GCs using an intracellular hydrogel technique, and then loaded with aptamer-based artificial DNA receptors inside cells via a polymer-assisted strategy. These intracellular DNA receptors are excluded from a hostile environment, which exhibits high stability and retains their functionality even in complex biological media. Consequently, DR-GCs can be used to sensitively detect AFB1 and efficiently eliminate AFB1, both in vitro and in vivo. We also demonstrate the excellent therapeutic efficacy of DR-GCs using AFB1-treated male mouse models. Overall, this study is anticipated to offer useful solutions to the development of safe and effective tools for the diagnosis, elimination and treatment of mycotoxins.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744831/",
+    "date": "2026-09-17",
+    "analysis": "{\"chinese_summary\": \"黄曲霉毒素B1（AFB1）可导致严重肝损伤甚至肝癌，但缺乏特异性诊断和解毒工具。本研究开发了一种基于DNA受体负载凝胶化细胞（DR-GC）的吸附剂，通过细胞内水凝胶技术将脆弱活细胞转化为稳健的凝胶化细胞，并利用聚合物辅助策略在细胞内负载基于适配体的人工DNA受体。这些细胞内DNA受体能避开恶劣环境，在复杂生物介质中保持高稳定性和功能，从而在体外和体内灵敏检测并高效清除AFB1。在AFB1处理的雄性小鼠模型中，DR-GC展现出优异的治疗效果。该研究为霉菌毒素的诊断、消除和治疗提供了安全有效的工具。\", \"innovation\": \"首次将细胞内水凝胶化的活细胞与聚合物辅助的适配体DNA受体结合，构建出能在复杂生物环境中稳定检测和清除AFB1的DR-GC吸附剂。\", \"flaw\": \"研究仅使用雄性小鼠模型，未评估雌性及长期生物安全性，且DR-GC的规模化制备和临床转化可行性尚不明确。\"}"
+  },
+  {
+    "id": "10.1038/s41467-026-76553-w",
+    "title": "Thermal-feedback modality switchable hydrogel with thermoelectric self-modulation for stage-adaptive repair of infected diabetic wound.",
+    "journal": "Nature communications",
+    "authors": "Yang, Fang, Shu",
+    "abstract": "Hyperthermia is a promising strategy for chronic wound management, with efficacy critically dependent on precise temperature control. Current strategies largely rely on two discrete modes: high-temperature bactericidal ablation or mild hyperthermia to promote tissue regeneration. Enabling hyperthermia to autonomously match the thermal requirements of each wound-healing stage remains challenging. Herein, we developed a biomimetic thermal-feedback modality switchable (TFMS) hydrogel, obtained by copolymerizing N-isopropylacrylamide with sulfobetaine vinylimidazolium (SBVI) and loading glucose oxidase (GOx) together with EGCG-Fe<sup>3+</sup>-modified Bi<sub>2</sub>Te<sub>3</sub>. Tuning SBVI content precisely programs the volume phase transition temperature of hydrogel, enabling thermostatic photothermal antibacterial activity within a biologically safe window. GOx mediates the dissociation of the metal-polyphenol network during wound repair, thereby flexibly self-limiting the photothermal temperature and activating a thermoelectric effect at mild temperature to compensate for loss of intrinsic electric field in diabetic wounds. TFMS hydrogel enables stage-adaptive repair regulation of infected diabetic wounds through progressive regulation. Compared with commercial bioactive Flamigel, it significantly accelerates wound closure and improves wound repair quality in diabetic mice. The TFMS hydrogel expands the design of dynamic thermostatic hyperthermia in self-adaptive wound dressings, which can promote adaptability and user-friendly wound care, and has great application potential in chronic wound care.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744768/",
+    "date": "2026-09-17",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种仿生热反馈模式可切换（TFMS）水凝胶，通过共聚N-异丙基丙烯酰胺与磺基甜菜碱乙烯基咪唑（SBVI），并负载葡萄糖氧化酶（GOx）和EGCG-Fe³⁺修饰的Bi₂Te₃。调节SBVI含量可精确编程水凝胶的体积相变温度，在生物安全窗口内实现恒温光热抗菌活性。GOx在伤口修复过程中介导金属-多酚网络解离，从而灵活自限光热温度，并在温和温度下激活热电效应，补偿糖尿病伤口内源性电场损失。TFMS水凝胶通过渐进调节实现对感染性糖尿病伤口的阶段适应性修复调控。与商业生物活性Flamigel相比，它显著加速糖尿病小鼠伤口闭合并提高修复质量。该水凝胶拓展了自适应伤口敷料中动态恒温超热的设计，具有促进适应性和用户友好伤口护理的潜力，在慢性伤口护理中应用前景广阔。\",\n  \"innovation\": \"开发了热反馈模式可切换水凝胶，通过编程体积相变温度实现恒温光热抗菌与温和热电效应的自主切换，以阶段自适应方式修复糖尿病伤口。\",\n  \"flaw\": \"该研究仅在糖尿病小鼠模型中验证，缺乏大型动物或临床数据，且水凝胶的长期生物安全性、降解行为及规模化生产可行性尚未评估。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70258",
     "title": "Enzyme-Responsive Composite Hydrogel Coating Containing Nano-HA/Nano-ZnO with Pro-Osteogenic and Anti-Osteoclastic Properties.",
     "journal": "Macromolecular bioscience",

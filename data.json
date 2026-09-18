@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/mabi.70260",
+    "title": "Fabrication and Application of Injectable Bpei/Graphene Oxide/Silver Nanoparticle Hydrogel for Wound Healing.",
+    "journal": "Macromolecular bioscience",
+    "authors": "Bas, Karakurt",
+    "abstract": "Acute full‑thickness skin wounds represent a significant clinical challenge due to tissue loss, risk of bacterial contamination, and the need for rapid and effective regeneration. Injectable thermosensitive hydrogels incorporating antibacterial nanomaterials represent a promising strategy for advanced wound care. In this study, a multifunctional hydrogel composed of Graphene oxide (GO), branched polyethyleneimine (BPEI), and silver nanoparticles (AgNPs) dispersed in Pluronic F127 was developed and evaluated for wound healing applications. The GO-BPEI-AgNP nanocomposite was synthesized via amidation and microwave-assisted methods and characterized using DLS, UV-vis, FTIR, XRD, and SEM-EDX analyses. Biocompatibility was assessed in HaCaT keratinocytes using the Alamar Blue assay, while scratch assays and antibacterial activity against. In vivo wound healing efficacy and histopathological changes were evaluated in a rat full-thickness skin wound model, together with qRT-PCR analysis of wound-healing-related genes. The hydrogel exhibited favorable injectability, nanoscale morphology, and high biocompatibility (IC<sub>50</sub>: 246.7 µg/mL). It significantly enhanced keratinocyte migration and demonstrated antibacterial activity. In vivo findings revealed accelerated wound closure, enhanced epidermal regeneration, and modulation of PDGFA, VEGFC, COL1A1, TIMP1, and MMP9 expression. Collectively, the GO‑BPEI‑AgNP hydrogel shows strong potential as an injectable antibacterial biomaterial for acute full‑thickness wound repair, with potential relevance to infection‑associated wound environments.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753184/",
+    "date": "2026-09-18",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种由氧化石墨烯、支化聚乙烯亚胺和银纳米颗粒分散在Pluronic F127中的可注射热敏水凝胶，用于急性全层皮肤伤口修复。该水凝胶具有良好可注射性、纳米级形貌和高生物相容性（IC50: 246.7 µg/mL），能显著促进角质形成细胞迁移并具有抗菌活性。在大鼠全层皮肤伤口模型中，水凝胶加速伤口闭合、增强表皮再生，并调节PDGFA、VEGFC、COL1A1、TIMP1和MMP9基因表达。\",\n  \"innovation\": \"将氧化石墨烯-支化聚乙烯亚胺-银纳米颗粒复合物与Pluronic F127结合，构建兼具抗菌和促愈合功能的可注射热敏水凝胶。\",\n  \"flaw\": \"缺乏对水凝胶在感染伤口模型中的直接抗菌和愈合效果验证，且长期生物安全性未评估。\"\n}"
+  },
+  {
     "id": "10.1038/s41467-026-76759-y",
     "title": "Intracellular artificial DNA receptor-loaded gelated cells for aflatoxin theranostics.",
     "journal": "Nature communications",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/cbin.70208",
+    "title": "Hydrogel-Based Mechano-Immunomodulation in Bone Fracture Healing: Mechanical Regulation of Macrophage Phenotypes, Osteoimmune Interactions, and Regeneration.",
+    "journal": "Cell biology international",
+    "authors": "Ramakrishnan, Thajuddin, Mohamed",
+    "abstract": "Bone fracture healing is a meticulously regulated process encompassing the inflammatory, reparative, and remodelling phases. Macrophages serve as pivotal coordinators within this cascade, with their polarisation from pro-inflammatory M1 to proregenerative M2 phenotypes, which play a crucial role in determining the repair outcome. Emerging evidence underscores the significant influence of mechanical cues such as strain, stiffness, vibration, and scaffold topography on macrophage behaviour, thereby linking mechanobiology with immunology. This review summarises the current knowledge on mechano-immunomodulation in fracture repair, emphasising how mechanotransduction pathways, including Piezo1, YAP/TAZ, and PI3K/AKT, affect macrophage polarisation and their interactions with mesenchymal stem cells, osteoblasts, and endothelial cells. This review examined biomaterial strategies that leverage mechanical properties ranging from ceramic scaffolds and calcium phosphate coatings to hydrogels and advanced magnetic/electrical interfaces to shape the osteoimmune niche. Translational perspectives highlight mechanobiologics, immunometabolic reprogramming, and personalised loading regimens as next-generation approaches for fracture care. The remaining challenges include context-dependent macrophage responses, limited bone-specific mechanosensing data, and the need for standardised models and regulatory-compliant biomaterials. Collectively, these insights establish mechano-immunomodulation as a promising paradigm for enhancing bone regeneration and addressing the limitations of the current fixation-centric therapies.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765521/",
+    "date": "2026-09-22",
+    "analysis": "{\n  \"chinese_summary\": \"骨折愈合受炎症、修复和重塑阶段精密调控，巨噬细胞从促炎M1向促再生M2极化对修复结果至关重要。力学线索（应变、刚度、振动、支架形貌）通过Piezo1、YAP/TAZ、PI3K/AKT等通路影响巨噬细胞极化及其与间充质干细胞、成骨细胞和内皮细胞的相互作用。综述总结了利用陶瓷支架、磷酸钙涂层、水凝胶及磁/电界面等生物材料调控骨免疫微环境的策略，并展望了力学生物制剂、免疫代谢重编程和个性化加载方案等转化方向。\",\n  \"innovation\": \"系统整合力学信号与免疫调节，提出“力-免疫调节”新范式，并归纳了基于材料力学特性的骨免疫微环境调控策略。\",\n  \"flaw\": \"巨噬细胞反应依赖具体情境、骨特异性力学感知数据有限，且缺乏标准化模型和符合法规的生物材料。\"\n}"
+  },
+  {
     "id": "10.1002/mabi.70260",
     "title": "Fabrication and Application of Injectable Bpei/Graphene Oxide/Silver Nanoparticle Hydrogel for Wound Healing.",
     "journal": "Macromolecular bioscience",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70160",
+    "title": "Antimicrobial and Anti-Inflammatory Co-Loaded Chitosan/Polyvinyl Alcohol Hydrogel for Synergistic Treatment of Diabetic Wounds.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Wang, Xiong, Hu",
+    "abstract": "To develop a chitosan/polyvinyl alcohol (CS/PVA) hydrogel co-loaded with polyhexamethylene biguanide (PHMB) and celecoxib (CEL) for synergistic treatment of diabetic foot ulcers (DFUs). Blank CS/PVA, CEL/CS/PVA, PHMB/CS/PVA, and CEL/PHMB/CS/PVA hydrogels were prepared by freeze-thaw cycles. Their microstructure, swelling, degradation, antibacterial activity, hemocompatibility, and fibroblast migration were evaluated in vitro. A full-thickness wound model in streptozotocin-induced type 1 diabetic mice was used to assess wound healing, inflammation, angiogenesis, macrophage polarization, and biosafety. All hydrogels showed comparable swelling. On Day 7, the degradation rates were 71.04%, 55.80%, 47.49%, and 25.42%, respectively, with CEL/PHMB/CS/PVA showing the lowest degradation rate. PHMB-containing hydrogels inhibited E. coli and S. aureus. All materials had hemolysis rates < 5%, and the composite group showed 1.74%. The 24 h migration rates were 30%, 37%, 48%, and 67%, with the composite group being highest (p < 0.001). In diabetic mice, the composite group achieved 68.89% wound healing on Day 7 and 94.44% on Day 14, versus 69.59% on Day 14 in the untreated diabetic group (p < 0.001). It also increased collagen deposition, reduced IL-1β and IL-6, and promoted CD31<sup>+</sup> angiogenesis, α-SMA<sup>+</sup> vascular maturation, and CD206<sup>+</sup> M2 macrophage polarization, with no obvious systemic toxicity. The CEL/PHMB/CS/PVA composite hydrogel promotes the healing of diabetic wounds through the synergistic effects of PHMB's antibacterial action and CEL's anti-inflammatory action. The hydrogel demonstrates good biosafety and potential for clinical translation.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42768765/",
+    "date": "2026-09-23",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了共载聚六亚甲基双胍（PHMB）和塞来昔布（CEL）的壳聚糖/聚乙烯醇（CS/PVA）水凝胶，用于协同治疗糖尿病足溃疡。通过冻融循环制备了空白、单药及双药水凝胶，体外评估了微观结构、溶胀、降解、抗菌、血液相容性和成纤维细胞迁移，并在链脲佐菌素诱导的1型糖尿病小鼠全层皮肤缺损模型中评估了伤口愈合、炎症、血管生成、巨噬细胞极化和生物安全性。结果显示，复合水凝胶降解最慢，抗菌有效，溶血率低，促进成纤维细胞迁移，在糖尿病小鼠中加速伤口愈合，增加胶原沉积，减少IL-1β和IL-6，促进CD31+血管生成、α-SMA+血管成熟和CD206+ M2巨噬细胞极化，且无明显全身毒性。\",\n  \"innovation\": \"首次将PHMB和CEL共载于CS/PVA水凝胶中，通过抗菌与抗炎协同作用促进糖尿病伤口愈合。\",\n  \"flaw\": \"研究仅采用链脲佐菌素诱导的1型糖尿病小鼠模型，未能完全模拟临床2型糖尿病足溃疡的复杂病理环境，且缺乏长期生物安全性评估。\"\n}"
+  },
+  {
     "id": "10.1002/cbin.70208",
     "title": "Hydrogel-Based Mechano-Immunomodulation in Bone Fracture Healing: Mechanical Regulation of Macrophage Phenotypes, Osteoimmune Interactions, and Regeneration.",
     "journal": "Cell biology international",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aei6340",
+    "title": "Photoinitiator-free gelatin hydrogel microneedles for acute gouty arthritis treatment.",
+    "journal": "Science advances",
+    "authors": "Zhang, Zhang, Wang",
+    "abstract": "Photo-crosslinked microneedles (MNs) are widely used in biomedical applications, but their dependence on exogenous photoinitiators continues to pose a fundamental challenge to their further advancement. Herein, we have developed a hydrogel MN system loaded with self-assembled nanoparticles (NPs). The NPs are composed of natural polyphenols and indomethacin. The MN system is rapidly dissolving and is fabricated through an initiator-free photo-crosslinking process. Systematic investigation of the gel composition, swelling behavior, and mechanical properties of lipoic acid-modified gelatin (GelLA)-based MNs demonstrated both swelling and mechanical strength could be readily tuned. Notably, the tunable mechanical feature of GelLA enabled effective penetration of the stratum corneum, facilitating efficient transdermal drug delivery. Compared with gelatin methacryloyl, GelLA-based hydrogel MNs prepared at the same concentration exhibited superior biocompatibility, while eliminating the potential cytotoxicity associated with exogenous photoinitiators. Further in vivo evaluation in an acute gouty arthritis model demonstrated that the MN system could significantly alleviate joint inflammation through rapid drug release, highlighting its potent anti-inflammatory efficacy. Overall, this initiator-free, photo-crosslinkable GelLA-based MNs system offered a safe, efficient, and user-friendly strategy for local drug delivery in the management of acute gouty arthritis.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777044/",
+    "date": "2026-09-24",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种负载自组装纳米颗粒（由天然多酚和吲哚美辛组成）的快速溶解水凝胶微针系统，该系统基于硫辛酸修饰明胶（GelLA）并通过无引发剂光交联工艺制备。系统研究了GelLA微针的凝胶组成、溶胀行为和机械性能，表明溶胀性和机械强度可调。可调的机械性能使微针有效穿透角质层，促进透皮给药。与甲基丙烯酰化明胶相比，同浓度GelLA微针具有更优的生物相容性，且避免了外源性光引发剂的潜在细胞毒性。在急性痛风性关节炎模型中，该微针系统通过快速释放药物显著减轻关节炎症，展现出强效抗炎作用。总体而言，该无引发剂光交联GelLA微针系统为急性痛风性关节炎的局部给药提供了一种安全、高效且用户友好的策略。\",\n  \"innovation\": \"开发了无需外源性光引发剂、基于硫辛酸修饰明胶的可光交联微针系统，兼具可调机械性能、优异生物相容性和快速透皮释药能力。\",\n  \"flaw\": \"研究仅基于急性痛风性关节炎动物模型，缺乏长期安全性、大规模临床验证及对其他关节炎类型的适用性评估。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70160",
     "title": "Antimicrobial and Anti-Inflammatory Co-Loaded Chitosan/Polyvinyl Alcohol Hydrogel for Synergistic Treatment of Diabetic Wounds.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

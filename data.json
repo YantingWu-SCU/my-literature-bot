@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1038/s41467-026-77268-8",
+    "title": "Lipid network crosslinked hydrogels control material dynamics across multiple length scales through lipid movement.",
+    "journal": "Nature communications",
+    "authors": "Baugh, Huang, de Paiva Narciso",
+    "abstract": "Control over network dynamics across length scales is a feature of natural materials challenging to replicate in synthetic hydrogels. Taking inspiration from biological materials that feature lipids as structural elements, we introduce Lipid Network Crosslinked (LINC) hydrogels that exploit the mobility of individual lipids within self-assembled liposomes as covalent, network-crosslinking points. These mobile, covalent crosslinks increase hydrogel stress relaxation rates over 20-fold compared to polymer-only hydrogels with equivalent stiffness. Liposome design parameters, including degree of surface functionalization and tail saturation, provide a means to independently control the macroscale storage moduli and stress relaxation behavior. Finally, we place cell-adhesive ligands onto more mobile or less mobile network elements. Human neural progenitor cells within LINC hydrogels significantly alter their phenotype in response to nanoscale ligand dynamics. These results establish LINC hydrogels as biomimetic materials that leverage nanoscale lipid mobility within a macroscale polymeric network to control dynamics at multiple length scales.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42802230/",
+    "date": "2026-09-29",
+    "analysis": "{\n  \"chinese_summary\": \"本研究受生物材料中脂质结构元素的启发，开发了脂质网络交联（LINC）水凝胶，利用自组装脂质体中单个脂质的移动性作为共价网络交联点。这些可移动的共价交联使水凝胶的应力松弛速率比同等刚度的纯聚合物水凝胶提高20倍以上。通过调节脂质体设计参数（如表面功能化程度和尾部饱和度），可独立控制宏观储能模量和应力松弛行为。将细胞粘附配体置于更易移动或不易移动的网络元件上，发现人神经祖细胞在LINC水凝胶中会因纳米级配体动态而显著改变表型。该结果确立了LINC水凝胶作为一种仿生材料，利用宏观聚合物网络中的纳米级脂质移动性来控制多尺度动力学。\",\n  \"innovation\": \"首次利用脂质体作为可移动共价交联点，实现水凝胶应力松弛速率的显著提升，并独立调控刚度与动力学。\",\n  \"flaw\": \"未系统评估长期稳定性、体内降解及免疫反应，且脂质体交联的合成复杂性和可扩展性可能限制实际应用。\"\n}"
+  },
+  {
+    "id": "10.1111/jcmm.71347",
+    "title": "Injectable Hydrogel Loaded With Umbilical Cord Blood-Derived Exosomes Promotes Periodontal Bone Regeneration via the TLR4/NF-κB Signalling Pathway.",
+    "journal": "Journal of cellular and molecular medicine",
+    "authors": "Zhu, Liu, Fan",
+    "abstract": "Periodontitis is an immune-mediated inflammatory disease characterised by progressive alveolar bone loss, which can lead to tooth loss in severe cases. Existing therapeutic agents have limited efficacy in reversing the associated inflammatory bone defects. Exosomes (Exos), enriched with bioactive molecules, exhibit significant potential in anti-inflammation and osteogenic regeneration. In this study, an injectable and photocurable composite hydrogel sustained-release system (GA-Exos) loaded with human umbilical cord blood-derived exosomes (UCB-Exos) was constructed. In vitro and in vivo experiments demonstrated that GA-Exos possesses excellent performance, enabling sustained release of exosomes for approximately 21 days. It significantly promotes the proliferation and differentiation of osteoblasts, upregulates the expression of osteogenic markers (e.g., RUNX2, ALP, and OPN), reduces the levels of pro-inflammatory cytokines (e.g., TNF-α and IL-1β), and inhibits inflammatory cell infiltration and osteoclast differentiation. mRNA sequencing and validation experiments confirmed that UCB-Exos inhibits the activation of the TLR4/NF-κB pathway by downregulating the expression of TLR4, LBP, and CD14, as well as the phosphorylation of P65. In conclusion, GA-Exos enhances periodontal bone regeneration through the regulation of the TLR4/NF-κB pathway, providing a novel and effective strategy for periodontitis treatment. This system is expected to break through the limitations of existing therapies and bring new insights for clinical applications.",
+    "score": 30,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42802149/",
+    "date": "2026-09-29",
+    "analysis": "{\n  \"chinese_summary\": \"本研究构建了一种可注射光固化复合水凝胶缓释系统（GA-Exos），负载人脐带血来源外泌体（UCB-Exos），可缓释外泌体约21天。体内外实验表明，GA-Exos能促进成骨细胞增殖分化、上调成骨标志物（RUNX2、ALP、OPN）、降低促炎因子（TNF-α、IL-1β）、抑制炎症细胞浸润和破骨细胞分化。机制上，UCB-Exos通过下调TLR4、LBP、CD14及P65磷酸化，抑制TLR4/NF-κB通路激活，从而增强牙周骨再生，为牙周炎治疗提供新策略。\",\n  \"innovation\": \"首次将人脐带血外泌体负载于可注射光固化复合水凝胶中，实现约21天缓释，并通过抑制TLR4/NF-κB通路同时抗炎和促牙周骨再生。\",\n  \"flaw\": \"研究仅基于体外和动物模型，尚未进行临床验证，且外泌体大规模制备、标准化及长期安全性仍需进一步评估。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70159",
     "title": "Biomaterials Combined With Physical Modulation Strategies for Spinal Cord Injury Repair: Material Design, Mechanism, and Challenges.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

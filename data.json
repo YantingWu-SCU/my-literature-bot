@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1038/s41467-026-77702-x",
+    "title": "Cell-derived lactate triggers local hydrogelation and phenotype remodelling.",
+    "journal": "Nature communications",
+    "authors": "Braun, Schneider, Koynov",
+    "abstract": "Many tumours release lactate as a major metabolic product and signalling molecule. Here we use lactate flux as an endogenous trigger for covalent hydrogel formation. Phenol-functionalised alginate remains soluble until cell-derived lactate is oxidised by lactate oxidase; the generated hydrogen peroxide is used by horseradish peroxidase to crosslink phenols and form a matrix at metabolically active sites. Hydrogels form within minutes and reach storage moduli from approximately 10 Pa to 5 kPa. In tumour-spheroid models, including a patient-derived glioblastoma spheroid model, local lactate production generates spatially confined gelation that extended up to around 1 mm from the spheroid surface. Nanoindentation and fluorescence correlation spectroscopy reveal radial stiffness and polymer-density gradients, while proteome profiling and imaging indicate reduced proliferative signalling and increased markers associated with migration and matrix remodelling. These findings establish metabolite-gated hydrogelation as a strategy to couple cellular metabolism to covalent matrix assembly, mechanics and transport, providing a bio-synthetic platform for modelling cell-matrix reciprocity and tumour confinement.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805993/",
+    "date": "2026-09-30",
+    "analysis": "{\n  \"chinese_summary\": \"许多肿瘤将乳酸作为主要代谢产物和信号分子释放。本研究利用乳酸通量作为内源性触发剂，实现共价水凝胶形成。酚功能化藻酸盐保持可溶，直至细胞来源的乳酸被乳酸氧化酶氧化；生成的过氧化氢被辣根过氧化物酶用于交联酚基，在代谢活跃位点形成基质。水凝胶在数分钟内形成，储能模量约10 Pa至5 kPa。在肿瘤球模型（包括患者来源的胶质母细胞瘤球模型）中，局部乳酸产生导致空间受限的凝胶化，从球表面延伸至约1毫米。纳米压痕和荧光相关光谱揭示了径向刚度和聚合物密度梯度，而蛋白质组分析和成像显示增殖信号减少，迁移和基质重塑相关标志物增加。这些发现确立了代谢物门控水凝胶化作为一种策略，将细胞代谢与共价基质组装、力学和运输耦合，为模拟细胞-基质相互作用和肿瘤限制提供了生物合成平台。\",\n  \"innovation\": \"首次利用肿瘤细胞分泌的乳酸作为内源性触发剂，通过酶级联反应在代谢活跃位点原位形成共价水凝胶，实现代谢物门控的基质组装。\",\n  \"flaw\": \"该平台依赖外源添加的乳酸氧化酶和辣根过氧化物酶，且凝胶化范围有限（约1毫米），可能无法完全模拟体内复杂肿瘤微环境。\"\n}"
+  },
+  {
     "id": "10.1038/s41467-026-77268-8",
     "title": "Lipid network crosslinked hydrogels control material dynamics across multiple length scales through lipid movement.",
     "journal": "Nature communications",

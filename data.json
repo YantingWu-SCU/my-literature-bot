@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70158",
+    "title": "Therapeutic Potential of Ultrasound-Controlled BMP-2 Release From Thermoresponsive Hydrogels in a Rat Knee Osteoarthritis Model.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Kung, Chien, Chang",
+    "abstract": "This study aimed to develop and validate an injectable thermosensitive hydrogel as an ultrasound-responsive depot for transiently enhanced BMP-2 release to promote functional and structural recovery in a rat model of osteoarthritis. A BMP-2-loaded mPEG-PLGA-BOX thermosensitive hydrogel was developed and characterized in vitro for its rheological properties, degradation behavior, and drug-release kinetics. The feasibility of ultrasound-triggered release was assessed using various duty cycles. Subsequently, therapeutic efficacy was evaluated in a monoiodoacetate-induced rat model of osteoarthritis. Treatment groups included untreated control (MIA), free BMP-2 (MB), passive BMP-2-hydrogel (MHB), and BMP-2-loaded hydrogel with ultrasound stimulation (MHBU). Outcomes were assessed up to day 49 using functional gait analysis (CatWalk), histopathology (H&E, Toluidine Blue), and immunohistochemistry for Collagen II, Collagen X, and Sox 9. The in vitro analysis supported the selection of a non-thermal 5% ultrasound duty cycle, which produced an approximately 550-fold ultrasound-enhanced release ratio without a detectable temperature increase while limiting residual-volume loss relative to the higher-duty-cycle conditions. In vivo, the MHBU therapy was uniquely effective. It was the only intervention to significantly restore articular cartilage thickness (212.8 ± 42.0 μm vs. 124.3 ± 12.7 μm, p < 0.01), achieving a level statistically indistinguishable from healthy controls. This structural repair was directly correlated with normalized dynamic gait parameters (print area, stance) and a restored tissue-level profile, characterized by enhanced Collagen II matrix, suppressed pathological Collagen X expression, and recovered chondrogenic Sox 9 expression. This study demonstrates that an ultrasound-responsive hydrogel platform successfully overcomes the limitations of both conventional growth factor delivery (rapid clearance) and passive hydrogel encapsulation (slow release). This synergistic, ultrasound-triggered system promotes significant functional and structural cartilage restoration, representing a promising translatable strategy for osteoarthritis therapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811430/",
+    "date": "2026-10-01",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种负载BMP-2的mPEG-PLGA-BOX热敏水凝胶，作为超声响应性储库，用于瞬时增强BMP-2释放，以促进大鼠骨关节炎模型的功能和结构恢复。体外实验确定5%非热超声占空比可实现约550倍释放增强且无温度升高。体内实验中，超声刺激的BMP-2水凝胶（MHBU）是唯一能显著恢复关节软骨厚度（212.8±42.0 μm vs. 124.3±12.7 μm，p<0.01）并达到健康对照水平的干预，且与步态参数正常化和组织学改善（胶原II增加、胶原X抑制、Sox9恢复）相关。该平台克服了传统生长因子快速清除和被动水凝胶缓释的局限。\",\n  \"innovation\": \"首次将超声响应性热敏水凝胶作为BMP-2的按需释放储库，通过非热超声实现瞬时高倍释放，从而有效促进骨关节炎软骨修复。\",\n  \"flaw\": \"研究仅在大鼠模型中验证，样本量有限，且未评估长期安全性、超声参数的临床转化可行性及与其他疗法的比较。\"\n}"
+  },
+  {
     "id": "10.1038/s41467-026-77702-x",
     "title": "Cell-derived lactate triggers local hydrogelation and phenotype remodelling.",
     "journal": "Nature communications",

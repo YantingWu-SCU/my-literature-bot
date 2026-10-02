@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70161",
+    "title": "Effect of Storage Conditions on Rheological Properties of Decellularized Extracellular Matrix-Based Injectable Hydrogels.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Agarwal, Owens, Ahmed",
+    "abstract": "Decellularized extracellular matrix-based scaffolds have gained significant attention for tissue regeneration applications. However, there is a limited understanding of how storage conditions influence the rheological and biological properties of decellularized matrix-based injectable formulations. This study investigates the effects of different storage conditions (4°C, -80°C, and freeze-dried) on the rheological properties of a decellularized porcine peripheral nerve-derived extracellular matrix hydrogel. Our results demonstrated that, compared to storage at 4°C, formulations stored at -80°C and freeze-dried maintained comparable gelation kinetics (complete gelation within 11 min), mechanical properties (storage modulus around 300-350 Pa), and shear-thinning behavior across multiple time-points (Days 0, 3, 7, and 14 for -80°C), similar to freshly prepared formulations at Day 0. Solution stored at 4°C demonstrated a decrease in mechanical stiffness of hydrogel with time, however their gelation kinetics remained similar to Day 0. The solutions stored at -80°C and resuspended freeze-dried solutions maintained their complex viscosity, while 4°C stored solutions had relatively low complex viscosity as compared to freshly digested solutions. Overall, our findings suggest that -80°C storage and freeze-drying are suitable approaches for preserving decellularized porcine peripheral nerve-derived extracellular matrix formulations. Given the translational potential of these injectable biomaterials, understanding the influence of storage conditions on rheological performance is critical for developing appropriate storage and shipping strategies.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42823384/",
+    "date": "2026-10-02",
+    "analysis": "{\"chinese_summary\": \"本研究探究了不同储存条件（4°C、-80°C和冻干）对脱细胞猪外周神经来源细胞外基质水凝胶流变学性质的影响。结果表明，-80°C储存和冻干制剂在凝胶动力学、力学性能和剪切稀化行为上与新鲜制备的制剂相当，而4°C储存则导致水凝胶力学刚度随时间下降。因此，-80°C储存和冻干是保存该类脱细胞基质制剂的合适方法。\", \"innovation\": \"首次系统比较了不同储存条件对脱细胞猪外周神经来源细胞外基质可注射水凝胶流变学性能的影响，为储存和运输策略提供了依据。\", \"flaw\": \"研究仅关注流变学性质，未评估储存条件对生物学功能（如细胞相容性、促神经再生能力）的影响，且仅使用一种组织来源的基质，结论普适性有限。\"}"
+  },
+  {
     "id": "10.1002/jbm.b.70158",
     "title": "Therapeutic Potential of Ultrasound-Controlled BMP-2 Release From Thermoresponsive Hydrogels in a Rat Knee Osteoarthritis Model.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1126/sciadv.aee1540",
+    "title": "Highly stretchable, hair-compatible multichannel neural interface with time-stable hydrogel for high-fidelity long-term EEG sensing.",
+    "journal": "Science advances",
+    "authors": "Hsieh, Yao, Alawieh",
+    "abstract": "Reliable brain-computer interfaces (BCIs) require electroencephalography (EEG) sensors that maintain conformal, low-impedance contact through hair, motion, and repeated use. Here, we present MindStretcH, a stretchable and hair-compatible EEG platform integrating a kirigami-patterned elastomeric mesh, deformable eutectic gallium-indium (EGaIn) interconnects, and detachable hydrogel-based conical electrodes. The system adapts to variations in head geometry, preserves electrical performance under substantial mechanical deformation, and maintains stable electrode-scalp contact over prolonged use. Longitudinal motor-imagery recordings and repeated online BCI experiments showed consistent task-related EEG activity without measurable deterioration in recording quality. These results establish MindStretcH as a reusable platform for long-term EEG monitoring and BCI applications in laboratory, clinical, and home settings.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826206/",
+    "date": "2026-10-03",
+    "analysis": "{\n  \"chinese_summary\": \"本文提出MindStretcH，一种可拉伸且兼容头发的脑电图平台，集成了剪纸图案弹性网格、可变形共晶镓铟互连和可拆卸水凝胶锥形电极。该系统能适应头部几何变化，在机械变形下保持电性能，并长期稳定接触头皮。纵向运动想象记录和重复在线脑机接口实验显示任务相关脑电活动一致，记录质量无下降，可作为实验室、临床和家庭环境中长期脑电监测和脑机接口应用的可重复使用平台。\",\n  \"innovation\": \"通过剪纸弹性网格、EGaIn互连和水凝胶锥形电极的集成，实现了可拉伸、兼容头发且可重复使用的长期稳定脑电记录平台。\",\n  \"flaw\": \"摘要未提供定量性能指标（如阻抗值、信噪比）和与其他电极的对比，且未评估长期使用中水凝胶脱水或材料疲劳等潜在问题。\"\n}"
+  },
+  {
     "id": "10.1002/jbm.b.70161",
     "title": "Effect of Storage Conditions on Rheological Properties of Decellularized Extracellular Matrix-Based Injectable Hydrogels.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

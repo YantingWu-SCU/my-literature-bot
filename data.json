@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jbm.b.70163",
+    "title": "Lengthening Bowel Endoscopically: Hydrogel-Enabled Endoscopic Spring-Mediated Distraction Enterogenesis.",
+    "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",
+    "authors": "Gonzalez, de Paiva Narciso, Emengo",
+    "abstract": "We evaluated the feasibility to lengthen small bowel endoscopically utilizing a spring device constrained by an engineered, slow biodegrading, hyaluronan and elastin-like protein (HELP) hydrogel as a potential treatment for short bowel syndrome. While we previously demonstrated that the HELP hydrogel could provide device confinement and enable non-invasive device removal, here we demonstrate that the HELP hydrogel can also be designed to be catheter-injectable while still being stiff enough to achieve device confinement. Six pigs underwent endoscopic spring-mediated distraction enterogenesis (ESMDE), the lengthening of existing intestine using axial mechanical force. A compressed spring that was encapsulated in gelatin was placed into pig jejunum via enterotomy. The spring was confined on each end by endoscopic catheter-injection of HELP gel into the intestinal submucosa to cause transient luminal narrowing. The gelatin capsule rapidly biodegrades to deploy the spring, while the HELP gel slowly biodegrades to transiently constrain the device, applying tension to the bowel segment. On postoperative day 7, of the six pigs that underwent ESMDE, four had successful bowel lengthening, up to 172% of the initial length. None of the animals experienced any complications such as obstruction or perforation, and there were no mortalities. In this proof-of-concept study, we demonstrate that a hydrogel can be designed with the appropriate catheter-injection properties, stiffness, and biodegradation rate to achieve hydrogel-enabled, endoscopic spring-mediated distraction enterogenesis, making it a possible future treatment for short bowel syndrome.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844654/",
+    "date": "2026-10-09",
+    "analysis": "{\"chinese_summary\": \"本研究评估了利用弹簧装置结合可缓慢生物降解的透明质酸与类弹性蛋白（HELP）水凝胶，通过内镜延长小肠以治疗短肠综合征的可行性。在六头猪中，将压缩弹簧封装于明胶后置入空肠，并通过内镜导管注射HELP凝胶至黏膜下层以暂时缩窄肠腔，实现装置约束。明胶迅速降解使弹簧展开，HELP凝胶缓慢降解维持张力。术后第7天，四头猪成功延长肠管，最长达到初始长度的172%，无并发症或死亡。\", \"innovation\": \"首次证明可导管注射的HELP水凝胶能同时满足刚度与降解速率要求，实现内镜下弹簧介导的肠管牵张延长。\", \"flaw\": \"样本量小（仅6头猪）且为短期观察，长期疗效、安全性及人体适用性尚不明确。\"}"
+  },
+  {
     "id": "10.1126/sciadv.aee1540",
     "title": "Highly stretchable, hair-compatible multichannel neural interface with time-stable hydrogel for high-fidelity long-term EEG sensing.",
     "journal": "Science advances",

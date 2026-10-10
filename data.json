@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1038/s41467-026-77551-8",
+    "title": "Single cell multi-omics guided hydrogel enables closed-loop therapy for renal osteodystrophy.",
+    "journal": "Nature communications",
+    "authors": "Fan, Sun, Xia",
+    "abstract": "Fracture repair in renal osteodystrophy remains challenging because impaired bone quality compromises fixation stability, while current systemic therapies regulating bone metabolism do not sufficiently address the disease-specific mechanisms underlying defective repair. An integrated strategy combining early fracture stabilization with mechanism-guided local treatment is therefore needed. Here, integrated single-cell RNA sequencing and multi-omics analyses identify inflammatory macrophages as a key pathogenic population, characterized by glycolytic reprogramming driven by hypoxia-inducible factor 1 alpha and phosphofructokinase-2/fructose-2,6-bisphosphatase 3, together with acidic metabolite accumulation. We show that this inflammatory acidic niche suppresses bone formation, enhances bone resorption and impairs regeneration. Guided by this mechanism, we develop a microenvironment-responsive adhesive hydrogel formed from a gelatin-boronic acid conjugate and sodium alginate and loaded with Epimedium-derived extracellular vesicle-like nanoparticles. We demonstrate that the hydrogel provides early local stabilization, enables microenvironment-responsive nanoparticle release and regulates the pathological niche. In vitro and in vivo, we find that the system suppresses inflammatory macrophage activation, promotes osteogenesis, inhibits osteoclastogenesis and accelerates fracture healing in a renal osteodystrophy model. These findings reveal a disease-specific mechanism of defective bone repair and provide a closed-loop therapeutic strategy that integrates local stabilization with microenvironment-directed treatment for fractures associated with renal osteodystrophy.",
+    "score": 25,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42850279/",
+    "date": "2026-10-10",
+    "analysis": "{\"chinese_summary\": \"肾性骨营养不良骨折修复困难，因骨质量受损影响固定稳定性，且现有系统疗法未针对疾病特异性机制。本研究通过单细胞RNA测序和多组学分析，发现炎症巨噬细胞是关键致病群体，其糖酵解重编程由HIF-1α和PFKFB3驱动，并伴有酸性代谢物积累，形成抑制骨形成、增强骨吸收的炎症酸性微环境。据此开发了由明胶-硼酸偶联物和海藻酸钠组成、负载淫羊藿来源细胞外囊泡样纳米颗粒的微环境响应性粘附水凝胶，可早期局部稳定、响应性释放纳米颗粒并调控病理微环境。体内外实验表明，该系统抑制炎症巨噬细胞活化、促进成骨、抑制破骨并加速肾性骨营养不良模型骨折愈合。\", \"innovation\": \"首次揭示肾性骨营养不良中炎症巨噬细胞糖酵解重编程及酸性微环境驱动骨修复缺陷的机制，并开发了集局部稳定与微环境调控于一体的闭环治疗水凝胶系统。\", \"flaw\": \"研究主要基于动物模型和体外实验，尚未进行临床验证，且水凝胶的长期生物安全性、降解产物影响及在人体复杂病理环境中的有效性仍需进一步评估。\"}"
+  },
+  {
     "id": "10.1002/jbm.b.70163",
     "title": "Lengthening Bowel Endoscopically: Hydrogel-Enabled Endoscopic Spring-Mediated Distraction Enterogenesis.",
     "journal": "Journal of biomedical materials research. Part B, Applied biomaterials",

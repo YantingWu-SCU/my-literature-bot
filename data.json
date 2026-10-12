@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1002/jev2.70386",
+    "title": "M2 Macrophage-Derived Small Extracellular Vesicle miR-106a-Loaded QCG Hydrogel Targets the RNF128-LXR Pathway to Reprogram Chondrocyte Cholesterol Metabolism for Osteoarthritis Therapy.",
+    "journal": "Journal of extracellular vesicles",
+    "authors": "Liu, Wang, Zhang",
+    "abstract": "This study addresses osteoarthritis (OA), in which dysregulated chondrocyte cholesterol homeostasis and cellular senescence contribute to cartilage degeneration, by developing an inflammation-responsive injectable QCG hydrogel for local delivery of miR-106a-enriched M2 macrophage-derived small extracellular vesicles (sEVs). The QCG hydrogel was constructed from quaternized chitosan (QCS) and 4-carboxyphenylboronic acid-gelatin (CPBA-gelatin) and loaded with miR-106a-enriched M2-sEVs (QCG@sEV-miR-106a). M2-sEVs were isolated by differential ultracentrifugation and characterized by transmission electron microscopy, nanoparticle tracking analysis, and vesicle-associated protein markers. High-throughput miRNA profiling and chondrocyte RNA sequencing identified miR-106a as a candidate regulatory molecule, and RNF128 was confirmed as a direct target by dual-luciferase reporter assay. Functional experiments showed that miR-106a suppresses RNF128, thereby promoting chondrocyte proliferation and extracellular matrix synthesis while attenuating senescence. Exploratory proteomic screening suggested RNF128-associated changes in cholesterol- and lysosome-related processes, whereas independent molecular and functional assays demonstrated that RNF128 promotes LXRα ubiquitination and proteasome-dependent degradation, suppresses LXR signaling, and disrupts cholesterol homeostasis. In a destabilization of the medial meniscus (DMM)-induced OA rat model, QCG@sEV-miR-106a showed ROS-responsive release, prolonged intra-articular retention for up to 22 days, reduced cartilage degeneration and matrix loss, improved pain-related behaviors, and favorable short-term biocompatibility. Together, these findings support a local biomaterial delivery strategy in which miR-106a-mediated RNF128 inhibition preserves LXR signaling and cholesterol homeostasis to attenuate OA-associated chondrocyte senescence.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42858303/",
+    "date": "2026-10-12",
+    "analysis": "{\n  \"chinese_summary\": \"本研究开发了一种炎症响应性可注射QCG水凝胶，用于局部递送富含miR-106a的M2巨噬细胞来源小细胞外囊泡（sEVs），以治疗骨关节炎（OA）。QCG水凝胶由季铵化壳聚糖（QCS）和4-羧基苯硼酸-明胶（CPBA-gelatin）构成，负载miR-106a富集的M2-sEVs（QCG@sEV-miR-106a）。miR-106a通过靶向抑制RNF128，促进软骨细胞增殖和细胞外基质合成，并减轻衰老；RNF128则促进LXRα泛素化降解，抑制LXR信号并破坏胆固醇稳态。在DMM诱导的OA大鼠模型中，QCG@sEV-miR-106a表现出ROS响应释放、关节内滞留长达22天、减少软骨退变和基质丢失、改善疼痛行为及良好的短期生物相容性。\",\n  \"innovation\": \"首次构建了炎症响应性可注射QCG水凝胶递送miR-106a富集的M2-sEVs，通过靶向RNF128-LXRα轴同时调控胆固醇稳态和细胞衰老来治疗骨关节炎。\",\n  \"flaw\": \"研究仅进行了短期生物相容性评估，缺乏长期安全性和疗效数据，且未在大型动物模型或临床样本中验证该递送策略的普适性。\"\n}"
+  },
+  {
     "id": "10.1038/s41467-026-77551-8",
     "title": "Single cell multi-omics guided hydrogel enables closed-loop therapy for renal osteodystrophy.",
     "journal": "Nature communications",

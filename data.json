@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1111/1750-3841.71566",
+    "title": "Investigation of the Adhesion Mechanism and Stability Improvement of Plant-Based Connective Tissue Mimics Prepared via Enzymatic Reaction.",
+    "journal": "Journal of food science",
+    "authors": "Yang, Liu, Sun",
+    "abstract": "In this study, a soy protein isolate-polysaccharide hydrogel was employed to simulate connective tissue, and the regulatory mechanism of transglutaminase (TG) addition on its crosslinking structure, micromorphology, and adhesion stability was systematically investigated. The crosslinking degree and fluorescence spectral results demonstrated that TG enhanced intermolecular interactions, including both protein-protein and protein-polysaccharide interactions. However, excessively high enzyme concentrations (SPI:TG ratios of 2:3 or lower) inhibited crosslinking, possibly due to steric hindrance. The crosslinking degree reached a maximum of 21.55% at 0.75% TG, while the mean particle size decreased to a minimum of 50.28 nm at an SPI:TG ratio of 1:1 (1.00% TG), where a compact gel network was formed. Fourier transform infrared spectroscopy confirmed that hydrogen bonds and amide bonds synergistically stabilized the network structure, while scanning electron microscopy revealed a dense and uniform honeycomb-like porous morphology. The 1:1 group exhibited the highest apparent viscosity and the smallest difference in hardness between two compression cycles (2795.0 g-2469 g), demonstrating balanced toughness and adhesion stability. After assembly with textured protein, the 1% TG-crosslinked mimic maintained interfacial bonding after two freeze-thaw cycles and pan-frying, whereas the control without TG fractured at the interface. This study provides a theoretical basis for the construction of the plant-based connective tissue mimic with high stability.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873912/",
+    "date": "2026-10-15",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: 'NoneType' object is...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1126/sciadv.aeh5001",
+    "title": "A \"Progenitor Cell Ark\" hydrogel system for intervertebral disc regeneration via mitochondrial targeting and mitophagy enhancement.",
+    "journal": "Science advances",
+    "authors": "Yang, Huang, Liu",
+    "abstract": "Intervertebral disc degeneration (IVDD), driven by progenitor cell loss and oxidative stress, remains a major clinical challenge with limited effective regenerative therapies. Here, we present a \"Progenitor Cell Ark,\" a triple-layered hydrogel microsphere system designed for synergistic cell delivery and microenvironment remediation. The Ark comprises an outer nucleus pulposus progenitor cell (NPPC) layer for cell replenishment, a middle GelMA/HAMA scaffold for support, and an inner SS31-modified ultrasmall Prussian blue nanozyme (SS31-UPN) layer that specifically targets mitochondria to scavenge ROS and promote mitophagy. In vitro, SS31-UPN effectively protected NPPCs from oxidative damage, restored mitochondrial function, and enhanced mitophagy. Critically, in severe IVDD rat models, the Progenitor Cell Ark significantly improved intervertebral disc structure, promoted neo-tissue formation, and restored biomechanical function, outperforming cell or bioscaffold therapy alone. Mechanistically, we demonstrate that SS31-UPN's mitochondrial targeting enhances mitophagy, drives ECM and energy metabolic remodeling, and preserves NPPC stemness, thereby creating a proregenerative milieu. This integrated \"cell-in-a-box\" strategy offers a robust platform for reversing IVDD and holds notable translational potential for regenerative medicine.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873876/",
+    "date": "2026-10-15",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: 'NoneType' object is...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
+    "id": "10.1038/s41467-026-76797-6",
+    "title": "Metalloimmunological hydrogel-based cancer vaccine potentiates postoperative tumor immunotherapy.",
+    "journal": "Nature communications",
+    "authors": "He, Kou, Sang",
+    "abstract": "Adjuvant immune checkpoint inhibitor (AICI) therapy is limited by inadequate durable immunological memory against tumor recurrence and metastasis. Herein, we present a metalloimmunological hydrogel-based and innate immunity-focused cancer vaccine (IT-Vax) that synergizes innate-adaptive crosstalk to potentiate AICI efficacy. Through systematic screening of 9 polysaccharide hydrogels with dual crosslinking (metal coordination/Schiff base), manganese-incorporated formulations demonstrate superior dendritic cell (DC) activation capacity through orchestrating innate immune pathways. The optimized IT-Vax, incorporating with a ROCK inhibitor and mitoxantrone-treated tumor cells functionally achieves five-pronged DC modulations: enhanced lymphatic migration, antigen presentation, costimulation, and priming of effector and memory T cells. Correspondingly, this multi-faceted activation translates in vivo into a marked accumulation of key DC subsets, including cDC1s and migratory DCs. Consequently, in therapeutic models, IT-Vax culminates in a robust cellular immune response, as attested by a 3.6-fold tumor growth suppression. Notably, in orthotopic breast cancer models, one-dose personalized IT-Vax combined with AICI therapy reduces postoperative metastasis by around 60% and extends median survival from 37 to over 100 days. This study establishes a personalized vaccine platform that mechanistically bridges innate immunostimulation with sustained adaptive memory, providing a strategy with translational potential to overcome the limitations of postoperative immunotherapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42869897/",
+    "date": "2026-10-15",
+    "analysis": "{\"chinese_summary\": \"\\u5206\\u6790\\u51fa\\u9519: 'NoneType' object is...\", \"innovation\": \"API \\u8c03\\u7528\\u5931\\u8d25\", \"flaw\": \"\\u8bf7\\u68c0\\u67e5 GitHub Logs\"}"
+  },
+  {
     "id": "10.1002/jev2.70386",
     "title": "M2 Macrophage-Derived Small Extracellular Vesicle miR-106a-Loaded QCG Hydrogel Targets the RNF128-LXR Pathway to Reprogram Chondrocyte Cholesterol Metabolism for Osteoarthritis Therapy.",
     "journal": "Journal of extracellular vesicles",

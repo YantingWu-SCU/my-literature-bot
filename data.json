@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.1038/s41467-026-77992-1",
+    "title": "Dosing and delivery of bacteriophage therapy in a murine wound infection model.",
+    "journal": "Nature communications",
+    "authors": "Lin, Dharmaraj, Chen",
+    "abstract": "Lytic bacteriophages, viruses that lyse (kill) bacteria, hold great promise for treating infections, including wound infections caused by antimicrobial-resistant Pseudomonas aeruginosa. However, dosing and delivery strategies for phage therapy remain underdeveloped. In a mouse wound infection model specifically designed to evaluate the treatment of established infections-a critical gap in existing preclinical models-we investigated the impact of administration route, dose, and frequency on phage therapy efficacy. In this model, topical, but not systemic, delivery reduced wound bacterial burden. In vitro and in vivo data revealed rapid emergence of phage resistance and suggested potential benefit of using high and repeated doses. Building on these insights, we developed HydroPhage, a phage-containing hyaluronan-based hydrogel formed with dynamic covalent crosslinks that delivers high-titer phages over one week. Here, we show that sustained hydrogel-based delivery is a practical and effective approach for topical phage application.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901960/",
+    "date": "2026-10-22",
+    "analysis": "{\"chinese_summary\": \"该研究利用专门评估已建立感染的小鼠伤口感染模型，发现局部而非全身递送噬菌体可降低伤口细菌负荷，且体外和体内数据揭示噬菌体抗性快速出现，提示高剂量和重复给药可能有益；据此开发了基于透明质酸动态共价交联的水凝胶HydroPhage，可在一周内持续递送高滴度噬菌体，表明持续水凝胶递送是局部噬菌体应用的一种实用有效方法。\", \"innovation\": \"开发了基于透明质酸动态共价交联的HydroPhage水凝胶，实现一周内持续局部递送高滴度噬菌体以治疗已建立的耐药铜绿假单胞菌伤口感染。\", \"flaw\": \"研究仅基于小鼠伤口感染模型，尚未在人体中验证其疗效与安全性，且未充分评估噬菌体抗性对长期治疗效果的影响。\"}"
+  },
+  {
     "id": "10.1111/1750-3841.71566",
     "title": "Investigation of the Adhesion Mechanism and Stability Improvement of Plant-Based Connective Tissue Mimics Prepared via Enzymatic Reaction.",
     "journal": "Journal of food science",

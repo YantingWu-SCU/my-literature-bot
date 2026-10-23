@@ -1,5 +1,115 @@
 [
   {
+    "id": "10.1186/s13287-026-05192-1",
+    "title": "Hydrogels modified with IL4 or SDF1 mimicking peptides serve as a supportive environment for human iPSC-derived myoblasts.",
+    "journal": "Stem cell research & therapy",
+    "authors": "Michalska, Ostaszewska, Dzierżyńska",
+    "abstract": "Skeletal muscles are characterised by substantial regenerative potential, which may be insufficient in case of, e.g., extensive muscle damage, changes accompanying muscle diseases or ageing. For this reason, different ideas are being tested to develop efficient and safe approaches to treat such muscles. Among them, strategies based on biomaterials and stem cells or their derivatives play an important role.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908013/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"骨骼肌具有显著的再生潜力，但在广泛肌肉损伤、肌肉疾病或衰老等情况下可能不足，因此研究者正在探索基于生物材料和干细胞或其衍生物的安全有效治疗策略。\", \"innovation\": \"系统探讨了以生物材料结合干细胞或其衍生物作为骨骼肌再生治疗策略的潜力。\", \"flaw\": \"摘要仅为背景性概述，未提供具体实验数据、疗效证据或对现有策略局限性的深入分析。\"}"
+  },
+  {
+    "id": "10.1038/s41467-026-77607-9",
+    "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design.",
+    "journal": "Nature communications",
+    "authors": "Deng, Wu, Fok",
+    "abstract": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different protein chains are interlaced, represent a powerful strategy to synthesize such hydrogels. However, designing these motifs with tailored properties such as binding energy remains a major challenge due to the difficulty of simultaneously controlling these properties while ensuring entanglement. Here, we introduce TangleDiff, a deep learning framework for the de novo design of homodimeric entangled proteins with programmable features. TangleDiff generates diverse foldable entangled sequences with an in-silico success rate exceeding 70%, markedly outperforming current models (~1%). By conditioning TangleDiff on inter-chain binding energy, we generate novel protein dimers whose binding energies closely match the specified ranges, with approximately 70% of successful designs conforming to expected values. We experimentally validate TangleDiff by designing nine homodimers targeting various binding energies; seven successfully form hydrogels, with stress relaxation dynamics correlated with specified binding energies. This work establishes a general strategy for entangled protein design, opening avenues for entanglement-based biomaterial innovation.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907456/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"蛋白质水凝胶因其良好的应力松弛行为而成为3D干细胞和类器官培养的理想人工细胞外基质。本文提出TangleDiff深度学习框架，用于从头设计具有可编程特性的同源二聚体缠结蛋白，其可折叠缠结序列的计算机模拟成功率超过70%，远超现有模型的约1%。通过以链间结合能为条件，生成的蛋白二聚体结合能与指定范围高度匹配，约70%的成功设计符合预期值。实验验证设计了九个靶向不同结合能的同源二聚体，其中七个成功形成水凝胶，且应力松弛动力学与指定结合能相关。\", \"innovation\": \"首次提出TangleDiff深度学习框架，实现具有可编程链间结合能的同源二聚体缠结蛋白的从头设计，并实验验证其形成水凝胶的能力。\", \"flaw\": \"实验验证规模较小（仅九个设计、七个成胶），且未系统评估所设计水凝胶在长期3D干细胞或类器官培养中的生物功能与稳定性。\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125923",
+    "title": "In situ construction of bacterial cellulose-based hydrogels: Mechanisms, functionalization strategies, and biomedical applications.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Wang, Wang, Dong",
+    "abstract": "The past several decades have witnessed great success in bacterial cellulose (BC) and its hydrogel composites in terms of both broad and in-depth basic research and potential biomedical applications. Inspired by the natural properties of microorganisms, in situ biosynthesis strategies are receiving increasing attention for the structural and functional design of BC-based hydrogels. This review discusses these strategies with emphasis on their fabrication processes and underlying mechanisms. Structure-property relationships governing BC-based hydrogels-molecular structure, nanofibrous architecture, biocompatibility, mechanical performance, and hydration behavior are examined to establish a process-structure-property framework. Biomedical applications including wound healing, drug delivery, osteogenic therapy, bioelectronic sensing, and cardiovascular repair are critically evaluated with quantitative comparison to conventional materials. Finally, challenges and future prospects in standardized characterization, scalable manufacturing, biosafety assessment, and clinical translation are discussed. This review provides a mechanism-oriented guide for developing BC-based hydrogels via in situ strategies for next-generation healthcare applications.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907042/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"本文综述了细菌纤维素（BC）及其水凝胶复合材料在基础研究与生物医学应用中的进展，重点讨论了原位生物合成策略的制备工艺与机制，分析了分子结构、纳米纤维架构、生物相容性、力学性能和水合行为等结构-性能关系，构建了工艺-结构-性能框架，并评估了其在伤口愈合、药物递送、成骨治疗、生物电子传感和心血管修复等领域的应用，最后探讨了标准化表征、规模化制造、生物安全评估和临床转化方面的挑战与前景。\", \"innovation\": \"系统提出以原位生物合成策略为核心的工艺-结构-性能框架，为BC基水凝胶的机制导向设计提供指导。\", \"flaw\": \"作为综述缺乏原始实验数据验证，且对标准化表征、规模化制造和临床转化等关键瓶颈仅作讨论而未给出具体解决方案。\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125863",
+    "title": "Advances in plant polysaccharide-based self-healing hydrogels.",
+    "journal": "Carbohydrate polymers",
+    "authors": "E, Li, Lei",
+    "abstract": "Traditional hydrogels suffer from irreversible structural damage under mechanical stress, which shortens service lifetimes and restricts their practical deployment in dynamic scenarios. Self-healing hydrogels constructed from plant-derived polysaccharides stand out against synthetic polymers and other biopolymers as promising biomaterials, owing to their abundant terrestrial resources, favorable biocompatibility, and inherent biodegradability. This review systematically summarizes recent advances in self-healing hydrogels based on major plant polysaccharides, including cellulose, hemicellulose, starch, galactomannans and their derivatives. The review explores the molecular design principles and intrinsic self-healing mechanisms of these polysaccharide systems, and compares how chemical structures of different plant polysaccharides impact healing efficiency and mechanical properties. The merits and demerits of each polysaccharide type are discussed with respect to solubility, mechanical robustness, gelation characteristics, and long-term stability. Additionally, the review identifies key challenges currently confronting the field, including the intrinsic trade-off between self-healing efficiency and mechanical strength, inadequate long-term stability under complex physiological conditions, cumbersome modification procedures, and limited scalability for large-scale production. Future research endeavors should prioritize the modification of polysaccharide molecular structures, innovative cross-linked network construction, and computational modeling to predict structure-property relationships, thereby facilitating the application of plant polysaccharide in high value-added fields.",
+    "score": 15,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907005/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"传统水凝胶在机械应力下易发生不可逆结构损伤，缩短使用寿命并限制其在动态场景中的应用。本文系统综述了基于纤维素、半纤维素、淀粉、半乳甘露聚糖及其衍生物等主要植物多糖的自修复水凝胶研究进展，探讨了其分子设计原理与内在自修复机制，比较了不同植物多糖化学结构对愈合效率和力学性能的影响，并讨论了各类多糖在溶解性、力学强度、凝胶化特性及长期稳定性方面的优缺点。文章还指出了该领域面临的关键挑战，包括自修复效率与力学强度之间的内在权衡、复杂生理条件下长期稳定性不足、改性过程繁琐以及大规模生产可扩展性有限，并提出未来应优先关注多糖分子结构改性、创新交联网络构建及计算建模预测结构-性能关系。\", \"innovation\": \"系统比较了不同植物多糖化学结构对自修复效率与力学性能的影响，并提出了分子结构改性、创新交联网络与计算建模相结合的未来研究方向。\", \"flaw\": \"作为综述性文章，缺乏对具体实验数据的定量比较与验证，且未充分讨论所提策略在实际生物医学应用中的可行性与转化障碍。\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125878",
+    "title": "Cellulose-based dual-network hydrogels combining reversible Schiff base interactions and photopolymerized covalent networks.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Biliuta, Baron, Bercea",
+    "abstract": "Polysaccharide-based hydrogels have attracted considerable interest for biomedical applications due to their inherent biocompatibility, structural flexibility, and renewable origin. Among them, cellulose and its derivatives represent particularly promising building blocks; however, the limited mechanical stability and rapid degradation of conventional polysaccharide hydrogels under physiological conditions remain major challenges for their practical implementation. In this work, we report the development of cellulose-based dual-network hydrogels combining reversible Schiff base interactions and photopolymerized covalent networks through the rational integration of selectively oxidized and methacrylated cellulose (CoxM) or hydroxypropyl cellulose (HoxM) with methacrylated gelatin (GM). The first network was formed by dynamic Schiff base interactions, while the second, permanent network was formed by riboflavin-mediated UV (365 nm) photopolymerization of methacrylate groups. In addition to its structural contribution, GM acted as a co-initiator by promoting radical generation through its primary amine groups, eliminating the need for conventional cytotoxic photoinitiators. Rheological and mechanical investigations demonstrated that hydrogel properties could be tailored the oxidation chemistry and methacrylation degree of the cellulose derivatives. The resulting dual-network hydrogels exhibited enhanced viscoelasticity and structural integrity, making them promising candidates for tissue engineering, wound healing, and controlled drug delivery, pending further biological validation.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42907004/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"本研究开发了基于纤维素的双网络水凝胶，通过选择性氧化和甲基丙烯酰化纤维素（CoxM）或羟丙基纤维素（HoxM）与甲基丙烯酰化明胶（GM）的合理整合，结合可逆席夫碱相互作用和光聚合共价网络。第一网络由动态席夫碱形成，第二永久网络由核黄素介导的UV（365 nm）光聚合甲基丙烯酸酯基团形成。GM还通过其伯胺基团促进自由基生成作为共引发剂，无需传统细胞毒性光引发剂。流变学和力学研究表明，水凝胶性能可通过纤维素衍生物的氧化化学和甲基丙烯酰化程度进行调控，所得双网络水凝胶具有增强的粘弹性和结构完整性，有望用于组织工程、伤口愈合和控释药物递送，尚待进一步生物学验证。\", \"innovation\": \"利用甲基丙烯酰化明胶的伯胺基团作为共引发剂替代细胞毒性光引发剂，并将动态席夫碱网络与光聚合共价网络结合构建纤维素基双网络水凝胶。\", \"flaw\": \"研究仅进行了流变学和力学表征，缺乏细胞相容性、体内降解及生物学功能的实验验证。\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125855",
+    "title": "Light-responsive liposomes for on-demand degradation of cellulose-based hydrogels.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Gangurde, Cheng, Arola",
+    "abstract": "Nanocellulose hydrogels have limited biodegradability under physiological conditions, restricting applications that require controlled scaffold degradation or removal. Here, we present a light-triggered liposomal hydrogel platform that enables localized, on-demand release of cellulase enzyme to induce controlled degradation of anionic cellulose nanofiber (aCNF) hydrogels and cellulose-polysaccharide interpenetrating polymer network (IPN) hydrogels. Cellulase was encapsulated in reactive oxygen species (ROS)-sensitive stimuli-responsive liposomes containing a photosensitizer and incorporated into a hydrogel matrix, allowing external light illumination to trigger enzyme release. To preserve cellulase activity, we established a liposome preparation workflow by systematically assessing formulation and processing parameters that influence enzyme stability. Following light activation and 24 h of incubation under physiological conditions, reducing-sugar levels reached approximately 34% and 40% of the corresponding positive-control levels for the aCNF and IPN liposomal hydrogel systems, respectively. To understand ROS-induced liposome membrane destabilization, a lipid bilayer exposed to hydrogen peroxide was analyzed using high-speed atomic force microscopy (HS-AFM), revealing time- and concentration-dependent degradation. Overall, the developed platform enables externally triggered cellulase-mediated degradation of hydrogels while protecting the enzyme prior to activation, providing a strategy to overcome the limited physiological degradability of cellulose-based scaffolds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906999/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"该研究开发了一种光触发脂质体水凝胶平台，将纤维素酶包裹于含光敏剂的ROS敏感脂质体中并嵌入水凝胶基质，通过外部光照实现酶的按需局部释放，从而诱导阴离子纤维素纳米纤维水凝胶及纤维素-多糖互穿网络水凝胶的可控降解；研究系统优化了脂质体制备工艺以保持酶活性，光照激活并孵育24小时后还原糖水平分别达到阳性对照的约34%和40%，并用高速原子力显微镜揭示了过氧化氢对脂质双分子层的时间与浓度依赖性降解。\", \"innovation\": \"首次将ROS敏感光触发脂质体包裹纤维素酶嵌入纤维素基水凝胶，实现外部光照按需释放酶以可控降解水凝胶，同时在使用前保护酶活性。\", \"flaw\": \"降解效率仍有限（24小时仅达阳性对照的约34%–40%），且依赖外源光敏剂与光照设备，尚未在体内或复杂生理环境中验证其有效性与安全性。\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125839",
+    "title": "Injectable shape-adaptive cellulose hydrogel with antibacterial activity for diabetic wound therapy.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Zhong, Wang, Li",
+    "abstract": "Diabetic chronic wounds are chronically trapped in persistent bacterial infection and prolonged inflammation, severely hindering tissue regeneration. However, developing hydrogel dressings that can simultaneously provide effective antibacterial function and reliable biosafety remains a significant challenge. Herein, we report a shape-conformable and antibacterial hydrogel dressing constructed through dynamic coordination between endogenous histidine ligand and low-toxicity Ce<sup>3+</sup> for infected diabetic wound repair. Histidine is covalently grafted onto carboxymethyl cellulose to obtain histidine-modified carboxymethyl cellulose, and the hydrogels are rapidly formed by simple mixing with Ce(NO<sub>3</sub>)<sub>3</sub> solution. Reversible coordination between Ce<sup>3+</sup> and carboxyl, hydroxyl, and imidazole groups on cellulose chains endow exceptional injectability, rapid self-healing and shape-conformability, enabling conformal filling of irregular wound cavities. Moreover, the hydrogels exhibit antibacterial activity (exceeding 99.99%) against Escherichia coli (E. coli), Staphylococcus aureus (S. aureus) and methicillin-resistant Staphylococcus aureus (MRSA), primarily by disrupting bacterial membrane integrity. Notably, the hydrogels show favorable cytocompatibility, with no systemic toxicity in major organs. Importantly, the hydrogel can significantly accelerate infected diabetic wound closure by reducing bacterial burden, alleviating inflammation, and promoting tissue remodeling. Overall, this simple and safe strategy provides a promising platform for antibacterial and advanced dressing design for the healing of infected diabetic wounds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906995/",
+    "date": "2026-10-23",
+    "analysis": "{\n  \"chinese_summary\": \"该研究开发了一种基于组氨酸修饰羧甲基纤维素与低毒性Ce3+动态配位形成的形状自适应抗菌水凝胶敷料。该水凝胶具有可注射性、快速自愈合和形状贴合性，能填充不规则伤口；对大肠杆菌、金黄色葡萄球菌和耐甲氧西林金黄色葡萄球菌的抗菌率超过99.99%，主要通过破坏细菌膜完整性实现；同时具有良好的细胞相容性和体内无全身毒性。在感染性糖尿病伤口模型中，该水凝胶能减少细菌负荷、减轻炎症并促进组织重塑，显著加速伤口愈合。\",\n  \"innovation\": \"利用内源性组氨酸配体与低毒性Ce3+的动态配位构建兼具高效抗菌、良好生物安全性和形状自适应性的水凝胶敷料。\",\n  \"flaw\": \"该研究仅通过动物模型验证，缺乏临床数据支持，且长期生物安全性及降解行为尚未充分评估。\"\n}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125928",
+    "title": "Chitosan-based hydrogels for chronic wound healing: From multifunctional modification to microenvironment regulation and clinical translation.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Liu, Zheng, Zhang",
+    "abstract": "The management of chronic wounds remains a critical challenge in biomedical research owing to their complex pathophysiology and unmet clinical needs. As a naturally derived cationic polysaccharide, chitosan exhibits exceptional biocompatibility, biodegradability, antimicrobial efficacy, and tissue-repair capabilities, making it an ideal building block for advanced wound care. When crosslinked into a three-dimensional hydrogel network that retains water effectively and mimics the extracellular matrix, this biomaterial provides an ideal platform for chronic wound management. Consequently, recent research has increasingly focused on functional chitosan-based hydrogel systems, with strategies such as chemical modification and stimuli-responsive design intensively explored to precisely regulate the wound microenvironment and accelerate tissue regeneration. This review is organized around three core objectives: (i) multifunctional modification, (ii) microenvironment regulation, and (iii) clinical translation. It systematically summarizes the pathophysiological characteristics of chronic wounds, outlines methods for preparing chitosan-based hydrogels, and comprehensively discusses their applications in chronic wound repair. Particular emphasis is placed on emerging functionalization strategies, such as incorporating TCM active ingredients, loading nanozymes and single-atom enzymes, and designing multi-stimuli-responsive systems. It provides a critical discussion of clinical translation, highlighting current challenges and realistic future perspectives to guide the rational design and development of high-performance chitosan-based hydrogels for chronic wound therapy.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906992/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"慢性伤口管理因病理复杂且临床需求未满足而仍是生物医学难题。壳聚糖作为天然阳离子多糖，具备生物相容性、可降解性、抗菌性和组织修复能力，交联成三维水凝胶后可保水并模拟细胞外基质，为慢性伤口提供理想平台。本文围绕多功能改性、微环境调控和临床转化三大目标，系统总结慢性伤口病理特征、壳聚糖水凝胶制备方法及其修复应用，重点讨论掺入中药活性成分、负载纳米酶与单原子酶、设计多刺激响应系统等新兴功能化策略，并评述临床转化挑战与前景。\", \"innovation\": \"系统整合中药活性成分、纳米酶/单原子酶负载及多刺激响应设计等新兴功能化策略，以精准调控慢性伤口微环境。\", \"flaw\": \"作为综述缺乏原始实验数据验证，且对临床转化的讨论多为展望性，未充分量化其安全性与规模化制备可行性。\"}"
+  },
+  {
+    "id": "10.1016/j.carbpol.2026.125875",
+    "title": "Chitosan-sodium alginate hydrogels incorporating amino acid-derived ionic liquids as antimicrobial agents.",
+    "journal": "Carbohydrate polymers",
+    "authors": "Zibetti, de Moraes, Spode",
+    "abstract": "Polysaccharide-based hydrogels have been investigated for cutaneous applications owing to their biocompatibility, biodegradability, and ability to provide a favorable environment for wound healing. In this study, chitosan-sodium alginate (CS/Alg) hydrogels incorporating ionic liquids (ILs) derived from the decyl-1-methylimidazolinium cation ([DEC(MIM)]<sup>+</sup>) and the amino acid anions glycine ([GLY]<sup>-</sup>) or lysine ([LYS]<sup>-</sup>) were developed and characterized. The effects of IL on the rheological properties and antimicrobial activity were evaluated. The formulations remained physically stable throughout the storage period while maintaining a skin-compatible pH (4.5). Scanning electron microscopy revealed irregular and porous structures favorable for topical adhesion and bioactive compound loading. Furthermore, IL incorporation increased the viscosity and mechanical strength of the CS/Alg hydrogels. Optimal rheological properties were observed for formulations containing 10% [DEC(MIM)][GLY] and 5% [DEC(MIM)][LYS]. Formulations containing 15% [DEC(MIM)][GLY] and 10-15% [DEC(MIM)][LYS] exhibited pronounced bacteriostatic and bactericidal activities. The Hen's egg chorioallantoic membrane (HET-CAM) assay indicated suitability for superficial topical application. The <sup>1</sup>H NMR chemical shift analysis was consistent with intermolecular interactions between ILs and polymers, which may contribute to hydrogel structuration and mechanical resistance. Overall, IL incorporation significantly influenced the physicochemical and biological properties of CS/Alg hydrogels, highlighting their potential for topical pharmaceutical applications.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906991/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"本研究开发了壳聚糖-海藻酸钠（CS/Alg）水凝胶，并掺入由癸基-1-甲基咪唑鎓阳离子与甘氨酸或赖氨酸阴离子构成的离子液体（ILs），对其流变学性能和抗菌活性进行了评价。结果表明，该水凝胶物理稳定性良好，pH值（4.5）与皮肤相容，具有不规则多孔结构，利于局部黏附和活性成分负载；IL的加入提高了水凝胶的黏度和机械强度，其中含10% [DEC(MIM)][GLY]和5% [DEC(MIM)][LYS]的配方流变学性能最佳，含15% [DEC(MIM)][GLY]及10-15% [DEC(MIM)][LYS]的配方表现出显著的抑菌和杀菌活性；HET-CAM试验显示其适合浅表局部应用，1H NMR化学位移分析提示IL与聚合物之间存在分子间相互作用，可能有助于水凝胶的结构化和机械强度。总体而言，IL的掺入显著影响了CS/Alg水凝胶的理化与生物学性能，显示其在局部药物应用方面的潜力。\", \"innovation\": \"首次将基于癸基-1-甲基咪唑鎓阳离子与甘氨酸或赖氨酸阴离子构成的离子液体引入壳聚糖-海藻酸钠水凝胶体系，并系统阐明其对流变学性能、抗菌活性及分子间相互作用的调控作用。\", \"flaw\": \"研究仅停留在理化表征和体外抗菌评价层面，缺乏体内伤口愈合实验和系统的细胞毒性/生物安全性数据，且未深入探讨离子液体的释放行为与长期稳定性。\"}"
+  },
+  {
+    "id": "10.1126/sciadv.aec7416",
+    "title": "In situ processing of fibrous hydrogels by photochemistry for adaptive cellular microenvironments.",
+    "journal": "Science advances",
+    "authors": "Chen, Gao, Weng",
+    "abstract": "Omnipresent in biology, fibrous networks like collagen possess unique properties: dynamic network via crosslinking and degradation. This intrinsic adaptivity plays a critical role in regulating cell behavior via cell-matrix interactions. Built from biological building blocks, however, these networks are challenging to manipulate or even control. Here, we introduce dynamic network regulation via photochemical control in a synthetic and fibrous highly biomimetic hydrogel. As a proof-of-concept, we demonstrate that the dynamic control over the mechanical properties of this adaptive in vitro model can be used to modulate cell spreading and mechanotransduction in three-dimensional (3D) mesenchymal stromal cell cultures. Our approach not only opens the door to on-demand mechanically adaptive gels with unprecedented control, but simultaneously offers easy processibility and cell extraction of the used synthetic gel.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905813/",
+    "date": "2026-10-23",
+    "analysis": "{\"chinese_summary\": \"本文介绍了一种通过光化学控制实现动态网络调控的合成纤维状高仿生水凝胶。作为概念验证，研究表明该自适应体外模型的机械性能动态控制可用于调节三维间充质基质细胞培养中的细胞铺展和机械转导。该方法不仅为具有前所未有的控制能力的按需机械自适应凝胶开辟了道路，同时提供了所用合成凝胶的易加工性和细胞提取性。\", \"innovation\": \"首次在合成纤维状高仿生水凝胶中通过光化学手段实现动态网络调控，从而按需调节三维细胞培养中的机械性能与细胞行为。\", \"flaw\": \"该研究仅为概念验证，尚未在更复杂的体内环境或多种细胞类型中验证其普适性和长期稳定性。\"}"
+  },
+  {
     "id": "10.1038/s41467-026-77992-1",
     "title": "Dosing and delivery of bacteriophage therapy in a murine wound infection model.",
     "journal": "Nature communications",

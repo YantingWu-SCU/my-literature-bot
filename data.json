@@ -1,5 +1,60 @@
 [
   {
+    "id": "10.1021/acs.nanolett.6c03647",
+    "title": "Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation.",
+    "journal": "Nano letters",
+    "authors": "Yao, Bai, Yang",
+    "abstract": "Hand motor dysfunction involves limited finger flexion and impaired release control, making finger flexion angles and active relaxation ability key metrics for rehabilitation assessment. However, existing flexible electronics quantify deformation amplitude, while deformation rate remains difficult to read out directly. Here, we report a mechanically trained poly(vinyl alcohol)-NaCl hydrogel with the relaxation piezoionic effect for self-powered, self-decoupled monitoring of stress magnitude and acceleration. The hydrogel produces a positive piezoionic voltage above 20 mV during compression and a reverse relaxation piezoionic voltage above 18 mV during unloading. Experiments and multiphysics simulations show that the reverse piezoionic voltage correlates with deformation recovery rate, enabling electrical readout of unloading speed. The hydrogel is further integrated into a multichannel platform for real-time finger rehabilitation visualization. This work provides an autonomous strategy for hand rehabilitation monitoring and a design principle for bioelectronic platforms in motion analysis, human-machine interaction, and personalized healthcare.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42917371/",
+    "date": "2026-10-24",
+    "analysis": "{\"chinese_summary\": \"手部运动功能障碍涉及手指屈曲受限和释放控制受损，因此手指屈曲角度和主动放松能力是康复评估的关键指标。然而，现有柔性电子器件只能量化形变幅度，形变速率难以直接读出。本文报道了一种经机械训练、具有松弛压离子效应的聚乙烯醇-NaCl水凝胶，可实现应力大小与加速度的自供电、自解耦监测。该水凝胶在压缩时产生高于20 mV的正向压离子电压，在卸载时产生高于18 mV的反向松弛压离子电压。实验与多物理场仿真表明，反向压离子电压与形变恢复速率相关，从而可通过电学读出卸载速度。该水凝胶进一步集成到多通道平台中，用于实时手指康复可视化。本工作为手部康复监测提供了一种自主策略，并为运动分析、人机交互和个性化医疗中的生物电子平台提供了设计原理。\", \"innovation\": \"利用松弛压离子效应实现应力幅度与卸载速率的自供电、自解耦电学读出，并用于手指康复实时可视化。\", \"flaw\": \"摘要未提供定量精度、长期稳定性及在真实手部运动中的临床验证数据，且依赖特定机械训练的水凝胶，其普适性和耐久性尚不明确。\"}"
+  },
+  {
+    "id": "10.1021/acsnano.6c10157",
+    "title": "In Situ Photocurable Janus Hydrogels with Magnetically Guided Anisotropic Conductivity for Myocardial Ischemeia-Reperfusion Injury Treatment and Tissue Adhesion Prevention.",
+    "journal": "ACS nano",
+    "authors": "Cao, Chen, Fu",
+    "abstract": "Myocardial ischemia-reperfusion (I/R) injury remains a major clinical challenge associated with reperfusion therapy, often leading to adverse cardiac remodeling and heart failure. Although cardiac patches offered a promising therapeutic strategy, the traditional designs had some limitations, such as invasive implantation, poor electrical integration, and nonspecific tissue adhesion. Here, we introduced an in situ photoinitiated Janus conductive hydrogel patch, namely, HD/G@Fe3O4-A, which integrates minimally invasive delivery, spatiotemporal programmed asymmetric adhesion, and magnetically guided anisotropic conductivity. This shear-thinning hydrogel precursor could be injected through a catheter and uniformly cover the beating heart and then achieve strong myocardial attachment on one side through rapid ultraviolet cross-linking while forming an antiadhesion interface on the other side, resulting in a 60- to 80-fold adhesion contrast. Under magnetic guidance, Fe3O4 microspheres were arranged to form conductive pathways, simulating the anisotropic conductivity of natural myocardial tissue and enhancing signal propagation and synchronous contraction. In vitro experiments showed that HD/G@Fe3O4-A exhibited excellent cell compatibility and antioxidant activity while promoting the functional maturation of neonatal rat cardiomyocytes. In a rat I/R model, the patch significantly improved cardiac function by effectively restoring electrophysiological conduction and alleviating oxidative stress, thereby reducing ventricular dilation and fibrosis. Moreover, it prevented postoperative pleural adhesions by regulating local inflammation. This multifunctional hydrogel platform provided an integrated cardiac repair solution in a minimally invasive manner, combining structural support, electrical integration, and biochemical regulation.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42917215/",
+    "date": "2026-10-24",
+    "analysis": "{\"chinese_summary\": \"心肌缺血再灌注损伤是再灌注治疗的主要临床难题，常导致不良心脏重构和心力衰竭。传统心脏补片存在植入创伤大、电整合差和非特异性组织黏附等局限。本研究提出一种原位光引发Janus导电水凝胶补片HD/G@Fe3O4-A，集微创递送、时空程序化不对称黏附和磁引导各向异性导电于一体：剪切变稀前体可经导管注射并均匀覆盖跳动心脏，一侧经快速紫外交联实现强心肌黏附，另一侧形成抗黏附界面，黏附对比达60-80倍；在磁场引导下Fe3O4微球排列成导电通路，模拟天然心肌各向异性导电并增强信号传导与同步收缩。体外实验显示该补片具有良好细胞相容性和抗氧化活性，并促进新生大鼠心肌细胞功能成熟。在大鼠I/R模型中，补片通过恢复电生理传导、减轻氧化应激显著改善心功能，减少心室扩张和纤维化，并通过调节局部炎症预防术后胸膜粘连。该多功能水凝胶平台以微创方式整合结构支撑、电整合和生化调控，为心脏修复提供一体化解决方案。\", \"innovation\": \"该研究首创可经导管注射的原位光引发Janus导电水凝胶补片，通过时空程序化不对称黏附与磁引导各向异性导电通路，实现微创递送、强心肌黏附与电整合的一体化心脏修复。\", \"flaw\": \"该研究仅在大鼠I/R模型中进行验证，缺乏大型动物和长期随访数据，且紫外光原位交联在人体厚壁心脏中的穿透深度与安全性、以及Fe3O4微球长期滞留的生物安全性仍有待评估。\"}"
+  },
+  {
+    "id": "10.1021/acs.nanolett.6c01993",
+    "title": "Ex Situ Luring Sterilization and Visual Tracking for Wound Healing Acceleration.",
+    "journal": "Nano letters",
+    "authors": "Zhang, Tian, Xu",
+    "abstract": "Conventional sterilization methods, such as advanced oxidation and cationic antimicrobial action, inevitably cause harm to host tissues because of their in situ attack mode. The residual bacterial debris further increases the risk of secondary infection. Additionally, the inability to track the sterilization process in real time hampers precise wound management. Herein, a hydrogel-based platform that performs ex situ luring and elimination of bacteria, integrated with real-time visual tracking of single bacteria, was established. Therein, a bacterial chemoattractant is embedded within a density functional theory optimized hydrogel framework. By employing a hydrogel-microfluidic device, a stable spatial gradient of chemical stimuli was established, enabling the visual monitoring of the 4D chemotactic movement of single bacteria. The results indicated that 56.4% of the bacteria are lured away within 4.5 min. 99.99% of the bacteria are killed, while the positively charged hydrogel removes the residual bacterial debris, minimizing the secondary infection risk and doubling the wound healing rate.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916867/",
+    "date": "2026-10-24",
+    "analysis": "{\"chinese_summary\": \"该研究构建了一种基于水凝胶的平台，通过嵌入细菌趋化剂并在密度泛函理论优化的水凝胶框架中建立稳定的化学刺激空间梯度，结合水凝胶-微流控装置实现对单细菌4D趋化运动的实时可视化监测，从而在体外（ex situ）诱捕并消灭细菌。结果显示4.5分钟内56.4%的细菌被诱离，99.99%的细菌被杀死，带正电的水凝胶可清除残留细菌碎片，降低二次感染风险并使伤口愈合速度翻倍。\", \"innovation\": \"提出一种集“体外诱捕-杀灭”与单细菌4D趋化实时可视化追踪于一体的水凝胶-微流控平台，避免传统原位杀菌对宿主组织的损伤并清除残留碎片。\", \"flaw\": \"该研究主要基于体外模型验证，尚缺乏体内复杂微环境下长期生物安全性、梯度稳定性及临床转化可行性的充分评估。\"}"
+  },
+  {
+    "id": "10.1021/acs.nanolett.6c01736",
+    "title": "An Oral Biomimetic Hydrogel for Colon-Localized and Tumor-Targeted Sonodynamic Therapy of Colorectal Cancer.",
+    "journal": "Nano letters",
+    "authors": "Tian, Yang, Zhu",
+    "abstract": "Oral drug delivery systems show great promise for colorectal cancer (CRC) therapy but are limited by poor gastrointestinal stability, insufficient colon localization, and low tumor targeting. Here, we report an oral biomimetic hydrogel platform, SAM/Au-TiO2@Gel, for colon-localized and tumor-targeted sonodynamic therapy of CRC. Au deposition enhances the sonodynamic reactive oxygen species (ROS) generation capability of TiO2, while Staphylococcus aureus membrane (SAM) coating improves tumor targeting and uptake. Inulin hydrogel enables stable oral delivery and prolonged colonic retention. SAM/Au-TiO2@Gel achieved ∼10-fold higher tumor accumulation after oral administration and superior antitumor efficacy under ultrasound with good biosafety. Moreover, the treatment induced immunogenic cell death, promoted dendritic cell maturation and CD8+ T-cell activation, and was associated with changes in intestinal microbiota composition suggestive of partial restoration. Together, this platform provides a promising noninvasive strategy for overcoming barriers in oral CRC therapy and enabling precise sonodynamic treatment.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916844/",
+    "date": "2026-10-24",
+    "analysis": "{\"chinese_summary\": \"本研究开发了一种口服仿生水凝胶平台SAM/Au-TiO2@Gel，用于结直肠癌的结肠定位与肿瘤靶向声动力治疗。Au沉积增强了TiO2的声动力活性氧生成能力，金黄色葡萄球菌膜（SAM）包覆提高了肿瘤靶向与摄取，菊粉水凝胶实现稳定口服递送和延长结肠滞留。口服后肿瘤蓄积提高约10倍，超声下抗肿瘤效果优异且生物安全性良好；治疗还诱导免疫原性细胞死亡，促进树突状细胞成熟和CD8+ T细胞活化，并伴随肠道菌群组成的部分恢复。\", \"innovation\": \"该平台将Au增强的TiO2声动力治疗、金黄色葡萄球菌膜仿生靶向与菊粉水凝胶结肠滞留递送相结合，实现口服结肠定位的精准声动力治疗并激活抗肿瘤免疫。\", \"flaw\": \"该研究主要基于动物模型，缺乏人体临床数据，且金黄色葡萄球菌膜包覆的长期免疫原性与安全性、肠道菌群变化与疗效的因果关系尚需进一步验证。\"}"
+  },
+  {
+    "id": "10.1021/acsbiomaterials.6c00519",
+    "title": "Supercritical Carbon Dioxide-Peracetic Acid Treatment Inactivates Low-Level Bacterial Inocula in Collagen Analogue-Phosphorylcholine Hydrogels while Preserving Functional Properties.",
+    "journal": "ACS biomaterials science & engineering",
+    "authors": "Goodarzi, Islam, Zamani-Roudbaraki",
+    "abstract": "Terminal sterilization of hydrogels is challenging because their high-water-content, chemical structures, and cell-friendly properties are often altered by conventional sterilization methods. Hydrogel implants comprising collagen-like peptide (CLP), polyethylene glycol (PEG), and poly (2-methacryloyloxyethyl phosphorylcholine) (MPC) showed promise in promoting corneal regeneration in preclinical animal studies. However, before these CLP-PEG-MPC implants can be used clinically, they must be sterilized effectively to ensure patient safety. Here, we evaluated supercritical carbon dioxide (scCO2) with peracetic acid (PAA) as a potential sterilization technique for hydrogels. CLP-PEG-MPC was treated with scCO2 containing PAA and compared against 15 kGy of electron beam irradiation (E-beam) and chloroform (CF) sterilization. Several samples were spiked with 200 colony-forming units (CFU) of either Pseudomonas aeruginosa or Staphylococcus aureus prior to sterilization to compare the bactericidal efficacy of the three sterilization methods. Only scCO2-PAA effectively inactivated all the inoculated bioburden. Non-spiked hydrogels were also sterilized and then compared for complement activation, changes to their physical and mechanical properties, and biocompatibility. Optical clarity was unchanged regardless of sterilization mode. scCO2-PAA did not alter the mechanical properties of the hydrogels but resulted in a modest lowering of corneal epithelial cell proliferation, while E-beamed hydrogels showed reduced mechanical strength. In conclusion, newer scCO2-PAA terminal sterilization preserves the functional properties of soft hydrogels, such as CLP-PEG-MPC, including transparency, which is needed for corneal implants.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916212/",
+    "date": "2026-10-24",
+    "analysis": "{\"chinese_summary\": \"本研究评估了超临界二氧化碳（scCO2）结合过氧乙酸（PAA）作为水凝胶终端灭菌技术的可行性。以CLP-PEG-MPC水凝胶为对象，比较了scCO2-PAA、15 kGy电子束辐照和氯仿灭菌的效果。结果表明，仅scCO2-PAA能有效灭活接种的铜绿假单胞菌和金黄色葡萄球菌；该法不改变水凝胶的光学透明性和力学性能，仅轻微降低角膜上皮细胞增殖，而电子束灭菌会降低力学强度。结论认为scCO2-PAA终端灭菌能保留软水凝胶的功能特性，适用于角膜植入物。\", \"innovation\": \"首次将超临界二氧化碳结合过氧乙酸用于胶原样肽基软水凝胶的终端灭菌，并在有效杀菌的同时保持其透明性和力学性能。\", \"flaw\": \"研究仅采用两种菌株的体外接种实验，缺乏更广谱微生物验证及体内长期安全性评估。\"}"
+  },
+  {
     "id": "10.1186/s13287-026-05192-1",
     "title": "Hydrogels modified with IL4 or SDF1 mimicking peptides serve as a supportive environment for human iPSC-derived myoblasts.",
     "journal": "Stem cell research & therapy",

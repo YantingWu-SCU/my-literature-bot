@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1038/s41467-026-78653-z",
+    "title": "Light-powered photosynthetic living actuator.",
+    "journal": "Nature communications",
+    "authors": "Jiang, Kleiner, Kieffer",
+    "abstract": "Highly compliant deformable soft actuators enable the engineering of adaptive life-like systems. Biohybrid living materials expand possibilities for autonomous, self-powered, environmentally responsive systems with easy biological integration. Here, we present a light-driven living soft actuator that integrates the photosynthetic microalga Chlamydomonas reinhardtii with a pH-responsive poly(3-(acrylamido)phenylboronic acid-acrylamide)/polyacrylamide bilayer hydrogel. When exposed to light, through photosynthesis and N-assimilation, the microalgae locally ionize the polymer network, causing the bilayer actuator to bend. In darkness, through respiration, the microalgae locally release CO<sub>2</sub> that protonates the polymer chains, reversing the deformation. This algae actuator enables finely controlled and reversible motions, with a large bending amplitude achieved within 18 hours and an initial response time of 10-20 s, which is maintained over 10 cycles of continuous operation. We demonstrate light-controlled grippers, highlighting the potential of algae-powered actuation for sustainable and autonomous soft devices.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918786/",
+    "date": "2026-10-25",
+    "analysis": "{\"chinese_summary\": \"本文报道了一种光驱动的活体软驱动器，将光合微藻（莱茵衣藻）与pH响应性双层水凝胶（聚(3-(丙烯酰胺基)苯硼酸-丙烯酰胺)/聚丙烯酰胺）集成。光照下微藻通过光合作用和氮同化局部电离聚合物网络，使双层驱动器弯曲；黑暗中通过呼吸释放CO2质子化聚合物链，逆转形变。该驱动器响应时间10-20秒，18小时内实现大弯曲幅度，可连续运行10个循环，并展示了光控抓手。\", \"innovation\": \"首次将光合微藻的代谢（光合/呼吸）与pH响应双层水凝胶耦合，实现光驱动、可逆且自供能的活体软驱动器。\", \"flaw\": \"响应速度较慢（大弯曲需18小时），且仅验证了10个循环的短期稳定性，长期活性和耐久性尚未评估。\"}"
+  },
+  {
+    "id": "10.1021/acsnano.6c11770",
+    "title": "In Situ-Forming Bioresponsive Liposome-Anchored Hydrogel Restores Redox-Immune Homeostasis in Mucosal Macrophages for Radiation-Induced Rectal Injury Repair.",
+    "journal": "ACS nano",
+    "authors": "Wen, Tao, Fu",
+    "abstract": "Radiation-induced rectal injury (RRI) is a prevalent complication of pelvic radiotherapy that severely affects the life quality of patients, but its effective treatment remains a major challenge in the clinic. Herein, we identify that the redox-immune dyshomeostasis of mucosal macrophages as a major pathological driver of RRI-associated acute inflammation and chronic fibrosis and developed an in situ forming reactive oxygen species (ROS)-responsive liposome-anchored hydrogel (Lip@H151@TK-PF127 Gel) for effective RRI repair. For this purpose, liposomes were further grafted with mannose moieties via thioketal (TK) linkers for loading cGAS-STING inhibitor H151, which were further conjugated onto the TK-PF127 Gel. The Lip@H151@TK-PF127 Gel precursors could be facilely administered to the RRI site via enema and undergo temperature transition to achieve in situ gelation, which would be subsequently activated by local ROS to trigger Lip-TK-Man@H151 release. Lip-TK-Man@H151 could be selectively taken up by inflammatory mucosal macrophage and skew them toward the anti-inflammatory and repair-associated macrophage state through restoring redox-immune homeostasis via cooperative TK-enabled ROS scavenging and cGAS-STING inhibition, hallmarked by upregulated IL-10 expression. Owing to these merits, the Lip@H151@TK-PF127 Gel treatment effectively ameliorated the acute epithelial damage post irradiation while abrogating the risk of intestinal fibrosis in vivo. These findings corroborate Lip@H151@TK-PF127 Gel as a promising strategy for RRI treatment in the clinic.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42917223/",
+    "date": "2026-10-25",
+    "analysis": "{\"chinese_summary\": \"放射性直肠损伤（RRI）是盆腔放疗的常见并发症，严重影响患者生活质量，但临床缺乏有效治疗手段。该研究识别出黏膜巨噬细胞的氧化还原-免疫稳态失衡是RRI相关急性炎症和慢性纤维化的主要病理驱动因素，并开发了一种原位成形的活性氧（ROS）响应型脂质体锚定水凝胶（Lip@H151@TK-PF127 Gel）。该体系通过硫缩酮（TK）连接子将甘露糖修饰的脂质体负载cGAS-STING抑制剂H151并偶联至TK-PF127水凝胶，经灌肠给药后温敏原位凝胶化，局部ROS触发释放Lip-TK-Man@H151，被炎症黏膜巨噬细胞选择性摄取，通过TK介导的ROS清除与cGAS-STING抑制协同恢复氧化还原-免疫稳态，促使巨噬细胞向抗炎修复表型极化（IL-10上调），从而有效改善照射后急性上皮损伤并避免肠道纤维化。\", \"innovation\": \"构建了ROS响应型甘露糖修饰脂质体锚定温敏水凝胶，实现靶向巨噬细胞的ROS清除与cGAS-STING抑制协同调控氧化还原-免疫稳态。\", \"flaw\": \"该研究主要基于动物模型验证，缺乏临床样本数据及长期安全性评估，且水凝胶在人体直肠复杂微环境中的降解与释放行为尚待进一步验证。\"}"
+  },
+  {
     "id": "10.1021/acs.nanolett.6c03647",
     "title": "Relaxation Piezoionic Hydrogel for Self-Powered, Self-Decoupled Monitoring of Finger Rehabilitation.",
     "journal": "Nano letters",

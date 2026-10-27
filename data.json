@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1177/22808000261502102",
+    "title": "Arbutin/kojic acid-loaded MHA hydrogel array patches attenuate UVB-induced epidermal hyperplasia and remodeling-associated responses.",
+    "journal": "Journal of applied biomaterials & functional materials",
+    "authors": "Lee, Cha, Jeon",
+    "abstract": "Acute ultraviolet B (UVB) exposure induces epidermal hyperplasia, pigmentation-related responses, and early extracellular matrix remodeling. Topical tyrosinase inhibitors, including arbutin and kojic acid, can have limited residence on damaged skin. Here, we evaluated a skin-conformal composite patch comprising aligned polyurethane nanofiber membranes integrated with methacrylated hyaluronic acid (MHA) hydrogel arrays loaded with arbutin or kojic acid. Seven-week-old Hairless Mouse, Strain 2 (HRM2) mice were assigned to six groups: control (CTL), UVB only (UV), UVB plus topical arbutin (UVA), UVB plus topical kojic acid (UVK), UVB plus arbutin-loaded MHA patch (UV-A-MHA), and UVB plus kojic acid-loaded MHA patch (UV-K-MHA). Dorsal skin received a single UVB dose (200 mJ/cm<sup>2</sup>), was treated immediately, and was analyzed on Day 4. Drug-loaded MHA patch treatment attenuated UVB-induced epidermal thickening and was associated with qualitative differences in dermal matrix organization, while direct comparisons with the corresponding freely applied formulations varied across endpoints. These histological findings were evaluated using hematoxylin and eosin, Masson's trichrome, Picro-Sirius Red, and Fontana-Masson staining. GFP-loaded MHA hydrogels remained detectable in the epidermis and upper dermis through Day 4, supporting local cargo retention under skin-contact conditions. Preliminary HPLC-UV analysis detected arbutin and kojic acid parent peaks in MHA formulations before and after 60 s of UV exposure. Patch treatment was associated with significant reductions in α-smooth muscle actin and vimentin, whereas effects on SMAD phosphorylation differed between the two drug formulations, without detectable changes in body weight or serum TNF-α and IL-6. Because the main experiment lacked drug-free MHA patch and bandage-only controls, scaffold-, occlusion-, and drug-specific effects could not be fully separated. These findings support aligned nanofiber-supported MHA hydrogel arrays as functional biomaterial patches for localized cutaneous delivery and modulation of acute UVB-induced remodeling-associated responses.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929246/",
+    "date": "2026-10-27",
+    "analysis": "{\"chinese_summary\": \"本研究评估了一种由对齐聚氨酯纳米纤维膜与负载熊果苷或曲酸的甲基丙烯酰化透明质酸（MHA）水凝胶阵列组成的皮肤贴合复合贴片。在HRM2无毛小鼠中，单次UVB照射（200 mJ/cm²）后立即治疗，第4天分析。载药MHA贴片可减轻UVB诱导的表皮增厚，并伴随真皮基质组织学差异，但与游离制剂直接比较的结果因终点而异；GFP负载MHA在表皮和真皮上层可检测至第4天，支持局部滞留；HPLC-UV检测到UV暴露前后母体峰；贴片治疗显著降低α-SMA和波形蛋白，对SMAD磷酸化的影响因药物而异，体重和血清TNF-α、IL-6无变化。由于缺乏无药MHA贴片和仅绷带对照，无法完全区分支架、封闭和药物特异性效应。\", \"innovation\": \"首次将对齐纳米纤维膜与载熊果苷或曲酸的MHA水凝胶阵列复合为皮肤贴合贴片，用于UVB损伤后局部递送并实现滞留。\", \"flaw\": \"主实验缺少无药MHA贴片和仅绷带对照，无法完全区分支架、封闭和药物特异性效应。\"}"
+  },
+  {
+    "id": "10.1038/s41467-026-77833-1",
+    "title": "Multimodal hydrogel modulation of extracellular vesicle cargo to arrest post-traumatic osteoarthritis in murine models.",
+    "journal": "Nature communications",
+    "authors": "Zhang, Zhu, Wang",
+    "abstract": "Effective prophylactic interventions for exercise-induced joint damage and preclinical osteoarthritis remain elusive, as abnormal mechanical loading drives pathology through a dual pyroptotic loop between chondrocytes and macrophages. We present PMUC, a mechano-responsive lubricating hydrogel engineered for graded joint protection and repair. Mimicking native lubrication, intra-articular PMUC forms a persistent hydration layer that dissipates mechanical stress. Under pathological load, stress-induced reactive oxygen species trigger mannose and nanocomplex release. This cascade activates the hexosamine biosynthetic pathway, suppressing Caspase-3/GSDME-mediated chondrocyte pyroptosis while concurrently reprogramming macrophage-derived extracellular vesicles. Enriched with XIAP and OTULIN proteins, these in situ-generated extracellular vesicles act as intercellular messengers that disrupt the inflammatory cycle and facilitate matrix regeneration. In preclinical rat models of high-load exercise and post-traumatic OA, PMUC prevents cartilage erosion and achieves full regeneration with restored locomotion within eight weeks. Here we show that PMUC integrates adaptive lubrication with stress-triggered immune-metabolic modulation, offering a first‑in‑class strategy to protect joints and alleviate early OA.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928352/",
+    "date": "2026-10-27",
+    "analysis": "{\"chinese_summary\": \"本研究开发了一种机械响应型润滑水凝胶PMUC，通过模拟天然润滑形成持久水合层以消散机械应力；在病理负荷下，应力诱导的活性氧触发甘露糖和纳米复合物释放，激活己糖胺生物合成途径，抑制Caspase-3/GSDME介导的软骨细胞焦亡，同时重编程巨噬细胞来源的细胞外囊泡（富集XIAP和OTULIN蛋白），阻断炎症循环并促进基质再生。在大鼠高负荷运动和创伤后骨关节炎模型中，PMUC可预防软骨侵蚀并在八周内实现完全再生和运动功能恢复。\", \"innovation\": \"首次将自适应润滑与应力触发的免疫-代谢调控整合于单一水凝胶系统，通过双焦亡环路干预实现关节保护与早期骨关节炎修复。\", \"flaw\": \"研究仅基于大鼠临床前模型，缺乏人体安全性和长期疗效验证，且水凝胶的降解动力学与重复给药方案尚未充分评估。\"}"
+  },
+  {
     "id": "10.1038/s41467-026-78653-z",
     "title": "Light-powered photosynthetic living actuator.",
     "journal": "Nature communications",

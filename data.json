@@ -1,5 +1,27 @@
 [
   {
+    "id": "10.1021/acs.nanolett.6c03487",
+    "title": "A Thermoelectric Hydrogel-Based Insole with Self-Decoupled Temperature and Pressure Sensing for Diabetic Plantar Monitoring.",
+    "journal": "Nano letters",
+    "authors": "Niu, Wang, Khan",
+    "abstract": "Plantar temperature and pressure reflect the plantar health status of diabetic patients and serve as critical indicators for evaluating disease progression. However, existing plantar monitoring devices are still limited by single-modal signal acquisition, bulky device configurations, and a strong reliance on external power supplies. Herein, we report a thermogalvanic hydrogel-based smart insole integrating self-powered sensing units for self-decoupled plantar monitoring. The insole integrates 16 self-decoupled thermogalvanic hydrogel sensing units, which convert plantar temperature difference and pressure stimuli into decouplable electrical signals via the thermogalvanic effect and the active iontronic piezoresistive effect, respectively. The incorporation of the backend acquisition circuit into the smart monitoring insole enables remote plantar temperature-difference and pressure mapping. Cloud-based machine learning further empowers the insole to assess plantar status in diabetic patients and distinguish disease-associated gait patterns. This work provides a versatile strategy for developing multimodal intelligent wearable platforms for personalized foot health monitoring and disease management.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949384/",
+    "date": "2026-10-29",
+    "analysis": "{\n  \"chinese_summary\": \"该研究报道了一种基于热原电池水凝胶的自供电智能鞋垫，集成了16个自解耦传感单元，可将足底温差和压力刺激分别通过热原电池效应和主动离子电子压阻效应转换为可解耦的电信号。结合后端采集电路实现远程足底温差和压力映射，并通过云端机器学习评估糖尿病患者足底状态和区分疾病相关步态模式。\",\n  \"innovation\": \"首次将热原电池水凝胶与主动离子电子压阻效应集成于自供电智能鞋垫，实现足底温度和压力的自解耦多模态监测。\",\n  \"flaw\": \"摘要未提及该鞋垫在长期佩戴中的稳定性、舒适性以及临床验证的样本量和准确性。\"\n}"
+  },
+  {
+    "id": "10.1021/acs.nanolett.6c03665",
+    "title": "A Skin-like Hydrogel with Multidimensional Fillers for Stable Human-Machine Interaction.",
+    "journal": "Nano letters",
+    "authors": "Xiang, Liu, Wei",
+    "abstract": "The deep integration of human-machine interface (HMI) technology and the Internet of Things (IoT) has imposed stringent new requirements for electronic skin (e-skin) in terms of flexibility, comfort, and high sensitivity. Herein we present a multiconductive network hydrogel e-skin (MCNHE-skin) based on a poly(vinyl alcohol) (PVA)/polyvinylpyrrolidone (PVP) dual-network matrix with polydopamine (PDA), carbon nanotubes (CNTs), and MXene as conductive fillers. The MCNHE-skin exhibits electrical conductivity (<5 kΩ), high stretchability (∼650%), strong self-adhesion (∼19 kPa), and low modulus (∼3.6 kPa). These characteristics enable its successful application in multimodal sensing systems such as strain sensors, pressure sensors, triboelectric nanogenerators (TENGs), and physiological signal monitors. Furthermore, by integration with flexible printed circuit boards (FPCBs), MCNHE-skin is developed into smart wearable systems for noncontact HMI. The 0D/1D/2D synergistic conductive network presented in this hydrogel e-skin yields high-fidelity sensing and noncontact control capabilities, marking a significant step forward in the development of multifunctional wearable electronics.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949374/",
+    "date": "2026-10-29",
+    "analysis": "{\"chinese_summary\": \"该研究开发了一种基于PVA/PVP双网络基质、以聚多巴胺、碳纳米管和MXene为导电填料的多导电网络水凝胶电子皮肤（MCNHE-skin），其电导率低于5 kΩ、拉伸率约650%、自粘附强度约19 kPa、模量约3.6 kPa，可用于应变传感器、压力传感器、摩擦纳米发电机和生理信号监测，并结合柔性印刷电路板构建非接触式人机交互智能可穿戴系统。\", \"innovation\": \"通过0D/1D/2D协同导电网络设计，使水凝胶电子皮肤同时具备高拉伸性、强自粘附、低模量和高保真传感与非接触控制能力。\", \"flaw\": \"摘要未提供长期稳定性、生物相容性、抗脱水性能及实际穿戴环境下的耐久性数据，且非接触传感距离和抗干扰能力尚不明确。\"}"
+  },
+  {
     "id": "10.3390/ijms27209337",
     "title": "Evaluation of Bone Regeneration by Sustained Release of Bone Morphogenetic Protein from Porous Polyetheretherketone.",
     "journal": "International journal of molecular sciences",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "10.3389/fcimb.2026.1975470",
+    "title": "Light-activated viologen-based metal-covalent organic framework sprayable hydrogel for accelerated healing of infected skin wounds.",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "authors": "Feng, Tong, Xie",
+    "abstract": "Bacterial resistance and recurrent infection remain major challenges for infected wound healing. Antibacterial photodynamic therapy (aPDT) features excellent spatiotemporal control and low risk of inducing bacterial resistance, making it a promising antibacterial modality. However, many photosensitizers used in wound therapy are photounstable, bind weakly to bacteria, and generate insufficient reactive oxygen species (ROS). We developed a viologen-functionalized metal-covalent organic framework (Vio-MCOF) by covalently embedding viologen units into the MCOF framework, and integrated this material into a sprayable, ionically crosslinked sodium alginate hydrogel. In this system, viologen units serve as electron mediators and work cooperatively with the copper-cluster active sites to suppress charge recombination and may increase ROS production under simulated solar light. The positive charge of the viologen units promotes electrostatic binding of Vio-MCOF to negatively charged bacterial membranes, improving its photodynamic antibacterial performance. <i>In vitro</i> experiments showed that Vio-MCOF at 200 μg mL<sup>-1</sup> achieved a bactericidal rate of over 99% against <i>S. aureus</i> after 30 min of simulated solar light irradiation. <i>In vivo</i> experiments demonstrated that the Vio-MCOF hydrogel reduced bacterial colonization in infected wounds, suppressed TNF-α and IL-6 expression, alleviated inflammation, and promoted angiogenesis and collagen deposition, leading to accelerated wound healing. Collectively, the sprayable Vio-MCOF hydrogel holds promise as an antibiotic-free dressing for infected skin wounds.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952751/",
+    "date": "2026-10-30",
+    "analysis": "{\"chinese_summary\": \"针对感染伤口愈合中细菌耐药和复发难题，本研究将紫精单元共价嵌入金属共价有机框架（Vio-MCOF），并整合到可喷涂的离子交联海藻酸钠水凝胶中。紫精作为电子介体与铜簇活性位点协同抑制电荷复合，增强模拟太阳光下ROS产生；其正电荷促进与带负电细菌膜的静电结合。体外实验显示200 μg/mL Vio-MCOF光照30分钟对金黄色葡萄球菌杀菌率超99%；体内实验表明该水凝胶可减少伤口细菌定植、抑制TNF-α和IL-6表达、减轻炎症、促进血管生成和胶原沉积，加速伤口愈合，有望成为无抗生素感染伤口敷料。\", \"innovation\": \"将紫精单元共价嵌入金属共价有机框架并与铜簇协同增强光动力ROS产生，同时赋予材料正电性以强化细菌靶向结合，并制成可喷涂水凝胶敷料。\", \"flaw\": \"研究仅针对金黄色葡萄球菌验证，缺乏对多种临床耐药菌株的广谱评价，且未系统评估长期生物安全性及在大型动物模型中的疗效。\"}"
+  },
+  {
     "id": "10.1021/acs.nanolett.6c03487",
     "title": "A Thermoelectric Hydrogel-Based Insole with Self-Decoupled Temperature and Pressure Sensing for Diabetic Plantar Monitoring.",
     "journal": "Nano letters",

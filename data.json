@@ -1,5 +1,38 @@
 [
   {
+    "id": "10.1126/sciadv.aeb1384",
+    "title": "A nematic framework for sprouting angiogenesis.",
+    "journal": "Science advances",
+    "authors": "Barrasa Ramos, Blanch-Mercader, Barakat",
+    "abstract": "Sprouting angiogenesis is critical for embryogenesis, wound healing, and tumor growth. Here, we show that the liquid crystal framework, which has recently been leveraged to study various morphogenetic events, provides unique insight into angiogenic sprouting. In response to vascular endothelial growth factor, a potent proangiogenic factor, endothelial cells cultured on the surfaces of soft collagen hydrogels form elongated cell streams that coexist with more polygonal cell regions. Angiogenic sprouting initiates preferentially at cell stream tips, where nematic order gradients are most pronounced. We demonstrate that cell streams are associated with large traction forces that lead to three-dimensional deformations of the underlying hydrogel and that stream formation results from a delicate balance between microtubule polymerization and actomyosin contractility. Last, we show that active control of nematic order allows modulation of sprout formation, highlighting the key role of endothelial cell orientation gradients in angiogenic sprouting and paving the way for new therapeutic avenues.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962019/",
+    "date": "2026-10-31",
+    "analysis": "{\"chinese_summary\": \"本文利用液晶框架研究血管生成出芽，发现VEGF刺激下内皮细胞在软胶原水凝胶表面形成长条细胞流与多边形细胞区共存，出芽优先发生于向列序梯度最显著的细胞流尖端；细胞流伴随大牵引力导致水凝胶三维变形，其形成依赖微管聚合与肌动球蛋白收缩的精细平衡，主动调控向列序可调节出芽形成，表明内皮细胞取向梯度在血管生成出芽中起关键作用。\", \"innovation\": \"首次将液晶向列序框架引入血管生成出芽研究，揭示内皮细胞取向梯度与细胞流尖端是出芽起始的关键决定因素。\", \"flaw\": \"研究基于二维软胶原水凝胶表面的体外培养体系，缺乏体内复杂微环境的验证，且未明确向列序梯度调控出芽的分子机制。\"}"
+  },
+  {
+    "id": "10.1007/s10856-026-07093-4",
+    "title": "Preparation of TiO<sub>2</sub> nanofillers-loaded Injectable Hydrogel functionalized with ADSCs-exosomes for bone defect repair by triggering the Wnt/β-catenin signaling pathway in vitro.",
+    "journal": "Journal of materials science. Materials in medicine",
+    "authors": "Xu, Zhang, Liu",
+    "abstract": "Bone regeneration and self-repair of bone are highly challenging without surgical interventions. Currently, chitosan-based injectable hydrogels have gotten great attention in bone tissue engineering due to their biodegradability, cytocompatibility, cell adhesion, and proliferation. To improve the strength and mechanical properties of scaffolds, metal oxide nanoparticles were incorporated into a hydrogel matrix to develop a new scaffold for bone regeneration. In this work, TiO₂ nanorods were prepared using the hydrothermal method and then loaded with exosomes, which were then incorporated into chitosan hydrogel. Injectable hydrogel scaffolds were obtained by free radical polymerization of biocompatible monomers such as chitosan, acrylamide, and itaconic acid, and TiO₂ NRs were loaded, which improves the mechanical properties of CS-hydrogel. The thermal stability of nanofiller-loaded hydrogels is improved, and the differences were statistically significant (p < 0.05), confirming thermal resistance. In addition, cell adhesion, proliferation, ALP activity, and the gene expression of osteogenic genes such as OPN, BSP, and OCN and angiogenesis genes, namely VEGF, ANG-1, and CD31, by activating the Wnt/β-catenin signaling pathway in vitro, were performed for the prepared CS-hydrogel@TiO₂NRs-exo hydrogel. Cell adhesion and spreading area were significantly enhanced (p < 0.05), and in vitro studies demonstrated that the incorporation of TiO₂NRs-exo in CS hydrogel enhances the OCN, OPN, VEGF, and ANG gene expressions and promotes new bone formation. Western blotting and RT-PCR results revealed that CS-hydrogel@TiO₂NRs-exo could induce osteogenic differentiation of MC3T3-E1 cells by activating the Wnt/β-catenin pathway, while the inhibitor DKK1 significantly reduced osteogenic differentiation following stimulation with CS-hydrogel@TiO₂NRs-exo. Overall, the studies revealed that the formulated CS-hydrogel@TiO₂NRs-Exo hydrogel has superior properties and can be used as a scaffold for bone regeneration.",
+    "score": 40,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957897/",
+    "date": "2026-10-31",
+    "analysis": "{\"chinese_summary\": \"本研究制备了负载外泌体的TiO₂纳米棒（TiO₂NRs-exo），并将其掺入由壳聚糖、丙烯酰胺和衣康酸通过自由基聚合形成的可注射水凝胶中，构建CS-hydrogel@TiO₂NRs-exo支架。该支架热稳定性显著提高（p<0.05），并显著增强细胞黏附与铺展；体外实验表明其通过激活Wnt/β-catenin信号通路促进MC3T3-E1细胞成骨分化及OPN、BSP、OCN、VEGF、ANG-1、CD31等成骨与血管生成基因表达，而DKK1抑制剂可显著削弱该效应，提示该水凝胶可作为骨再生支架。\", \"innovation\": \"首次将水热法制备的TiO₂纳米棒负载外泌体后掺入壳聚糖基可注射水凝胶，兼顾力学增强与通过Wnt/β-catenin通路促成的成骨-血管生成双重活性。\", \"flaw\": \"研究主要局限于体外细胞实验，缺乏体内动物模型验证其骨缺损修复效果、降解行为与长期生物安全性。\"}"
+  },
+  {
+    "id": "10.1038/s41467-026-77673-z",
+    "title": "Chlorophyll as a sustainable crosslinking strategy for engineering highly compressible hydrogels.",
+    "journal": "Nature communications",
+    "authors": "Xu, Zhao, Liu",
+    "abstract": "Hydrogels are promising candidates for tissue repair. Non-invasive delivery of hydrogel patches involving high strains and deformations requires mechanical robustness and complex material design. Here we show chlorophyll, a sustainable plant-derived small molecule, functions as a universal physical crosslinker to significantly enhance hydrogels' compressibility and resilience. Chlorophylls self-assemble in aqueous pre-polymer solution via hydrophobic interactions, leading to the nano-aggregations, acting as physical crosslinkers and anchoring points within hydrogels' matrix. Additionally, the solvent exchange (SE) process promotes macroporous structure formation for high compressibility and resilience. With chlorophyll, the maximum compressive strains of gelatin methacrylate (GC) hydrogels increased from ~43% to ≥90%, allowing injection under 90.4% deformation while preserving structural integrity. This strategy enabled the fabrication of a single 36-mm diameter injectable conductive polypyrrole-deposited GC (GCP) cardiac patch for myocardial repair in minipigs. Moreover, chlorophyll functions as an intrinsic antioxidant reservoir, and improved ejection fraction (EF) by 11 % in porcine infarcted hearts.",
+    "score": 10,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957697/",
+    "date": "2026-10-31",
+    "analysis": "{\"chinese_summary\": \"该研究利用可持续植物来源的小分子叶绿素作为通用物理交联剂，通过疏水相互作用在水性预聚物溶液中自组装形成纳米聚集体，作为水凝胶基质中的物理交联点和锚定点，并结合溶剂交换过程促进大孔结构形成，显著提高水凝胶的可压缩性和回弹性。含叶绿素的明胶甲基丙烯酸酯（GC）水凝胶最大压缩应变从约43%提升至≥90%，可在90.4%形变下注射并保持结构完整。该策略制备了直径36 mm的可注射导电聚吡咯沉积GC（GCP）心脏补片，用于小型猪心肌修复；叶绿素还作为内在抗氧化储库，使猪梗死心脏的射血分数（EF）提高11%。\", \"innovation\": \"首次发现叶绿素可作为通用物理交联剂，通过自组装纳米聚集体和溶剂交换大孔结构协同赋予水凝胶高压缩性与回弹性，并实现大尺寸可注射导电心脏补片的微创递送。\", \"flaw\": \"研究仅在小型猪模型中进行短期验证，缺乏长期生物安全性、降解行为及大规模临床转化的系统评估。\"}"
+  },
+  {
     "id": "10.3389/fcimb.2026.1975470",
     "title": "Light-activated viologen-based metal-covalent organic framework sprayable hydrogel for accelerated healing of infected skin wounds.",
     "journal": "Frontiers in cellular and infection microbiology",
